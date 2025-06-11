@@ -1,1 +1,14 @@
-include: [".well-known"]
+# Jekyll configuration
+include: 
+  - ".well-known"
+  - "/.well-known"
+  - ".well-known/assetlinks.json"
+
+# Basic site settings
+title: overstory chap1 v1
+baseurl: ""
+url: "https://daskoon.github.io"
+
+# Build settings
+exclude: []
+keep_files: [".git", ".well-known"]
