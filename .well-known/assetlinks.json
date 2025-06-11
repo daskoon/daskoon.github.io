@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.lokyeg",
+      "sha256_cert_fingerprints": ["17:D1:EC:B0:DF:BF:5B:EE:FA:0A:62:74:A2:BC:3B:40:01:84:CC:45:43:82:E1:53:FA:B4:B5:22:2D:5A:7D:94"]
+    }
+  }
+]
