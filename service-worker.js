@@ -1,84 +1,76 @@
-const CACHE_NAME = "overstory-cache-v1";
-const urlsToCache = [
-  "./",
-  "./index.html",
-  "./script.js",
-  "./manifest.json",
-  "./icon.png",
-  // Add all assets from the assets folder
-  // This will be a long list, it's better to fetch them dynamically or list them if known
-  // For now, let's assume the game dynamically loads assets from the ./assets/ directory
-  // and the service worker will intercept these requests.
-  // A more robust approach would be to list all assets here or use a build tool.
+const CACHE_NAME = 'overstory-cache-v1';
+const ASSETS_TO_CACHE = [
+  './',
+  './index.html',
+  './script.js',
+  './icon.png',
+  './manifest.json'
+  // Assets will be dynamically added when they're accessed
 ];
 
-self.addEventListener("install", function(event) {
-  // Perform install steps
+// Install event - cache basic files
+self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME)
-      .then(function(cache) {
-        console.log("Opened cache");
-        // Add core files to cache. Assets will be cached on first fetch.
-        return cache.addAll([
-          "./",
-          "./index.html",
-          "./script.js",
-          "./manifest.json",
-          "./icon.png"
-        ]);
+      .then((cache) => {
+        return cache.addAll(ASSETS_TO_CACHE);
+      })
+      .then(() => {
+        return self.skipWaiting();
       })
   );
 });
 
-self.addEventListener("fetch", function(event) {
-  event.respondWith(
-    caches.match(event.request)
-      .then(function(response) {
-        // Cache hit - return response
-        if (response) {
-          return response;
-        }
-        // Not in cache - fetch and cache
-        return fetch(event.request).then(
-          function(response) {
-            // Check if we received a valid response
-            if(!response || response.status !== 200 || response.type !== "basic" && response.type !== "cors") {
-              return response;
-            }
-
-            // IMPORTANT: Clone the response. A response is a stream
-            // and because we want the browser to consume the response
-            // as well as the cache consuming the response, we need
-            // to clone it so we have two streams.
-            var responseToCache = response.clone();
-
-            caches.open(CACHE_NAME)
-              .then(function(cache) {
-                // Only cache GET requests
-                if (event.request.method === "GET") {
-                    cache.put(event.request, responseToCache);
-                }
-              });
-
-            return response;
-          }
-        );
-      })
-    );
-});
-
-self.addEventListener("activate", function(event) {
-  var cacheWhitelist = [CACHE_NAME];
+// Activate event - clean up old caches
+self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.keys().then(function(cacheNames) {
+    caches.keys().then((cacheNames) => {
       return Promise.all(
-        cacheNames.map(function(cacheName) {
-          if (cacheWhitelist.indexOf(cacheName) === -1) {
+        cacheNames.map((cacheName) => {
+          if (cacheName !== CACHE_NAME) {
             return caches.delete(cacheName);
           }
         })
       );
+    }).then(() => {
+      return self.clients.claim();
     })
   );
 });
 
+// Fetch event - serve from cache, then network with cache update
+self.addEventListener('fetch', (event) => {
+  event.respondWith(
+    caches.match(event.request)
+      .then((response) => {
+        // Return cached response if found
+        if (response) {
+          return response;
+        }
+
+        // Clone the request because it's a one-time use stream
+        const fetchRequest = event.request.clone();
+
+        return fetch(fetchRequest).then((response) => {
+          // Check if valid response
+          if (!response || response.status !== 200 || response.type !== 'basic') {
+            return response;
+          }
+
+          // Clone the response because it's a one-time use stream
+          const responseToCache = response.clone();
+
+          // Add the new response to cache
+          caches.open(CACHE_NAME)
+            .then((cache) => {
+              // Only cache same-origin requests to avoid CORS issues
+              if (event.request.url.startsWith(self.location.origin)) {
+                cache.put(event.request, responseToCache);
+              }
+            });
+
+          return response;
+        });
+      })
+  );
+});
