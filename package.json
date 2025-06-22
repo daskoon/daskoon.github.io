@@ -1,0 +1,5 @@
+{
+    "name": "OverStoryAllChapters",
+    "main": "electron-main.js",
+    "version": "1.5.0"
+}
