@@ -1,6 +1,7 @@
 'use strict';
 const {app, BrowserWindow, Menu, shell, screen, dialog, ipcMain} = require('electron');
 const path = require('path');
+const { isDataURL } = require('./utils.js');
 
 const isWindows = process.platform === 'win32';
 const isMac = process.platform === 'darwin';
@@ -97,16 +98,6 @@ const isSafeOpenExternal = (url) => {
   try {
     const parsedUrl = new URL(url);
     return SAFE_PROTOCOLS.includes(parsedUrl.protocol);
-  } catch (e) {
-    // ignore
-  }
-  return false;
-};
-
-const isDataURL = (url) => {
-  try {
-    const parsedUrl = new URL(url);
-    return parsedUrl.protocol === 'data:';
   } catch (e) {
     // ignore
   }
