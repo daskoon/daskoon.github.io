@@ -2,9 +2,7 @@
 const {app, BrowserWindow, Menu, shell, screen, dialog, ipcMain} = require('electron');
 const path = require('path');
 
-const isWindows = process.platform === 'win32';
 const isMac = process.platform === 'darwin';
-const isLinux = process.platform === 'linux';
 
 if (isMac) {
   Menu.setApplicationMenu(Menu.buildFromTemplate([
