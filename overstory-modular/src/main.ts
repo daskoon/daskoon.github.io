@@ -1,74 +1,96 @@
-import { EventBus } from './events'
-import { GameStore, INITIAL_STATE } from './state'
-import { PlayerController } from './player'
-import { CombatSystem } from './combat'
-import { DialogueManager } from './narrative'
+import './style.css'
+import { GameEngine, type Direction } from './engine'
 
-// INITIALIZE THE MODULAR SYSTEM
-const store = new GameStore(INITIAL_STATE);
-new PlayerController(store);
-const combat = new CombatSystem(store);
-new DialogueManager(store);
+/**
+ * INITIALIZE THE MODULAR ENGINE (THE "BETTER WAY")
+ *
+ * This engine can now be imported into a React Native project by:
+ * import { GameEngine } from './engine'
+ *
+ * All logic is pure TypeScript and decoupled from the DOM.
+ */
 
-// SETUP MAIN GAME HOOKS (THE "BETTER WAY")
-EventBus.on('onBattleStart', (enemy) => {
-  console.log(`[EVENT HOOK] Game entered battle with ${enemy}`);
+const engine = new GameEngine();
+
+// --- SETUP REACT-LIKE UI HOOKS ---
+engine.on('onBattleStart', (enemy) => {
+  console.log(`[UI HOOK] Showing Battle Screen for ${enemy}`);
 });
 
-EventBus.on('onPlayerHit', (damage) => {
-  console.log(`[EVENT HOOK] Player hit for ${damage}. Current HP: ${store.getState().hp}`);
+engine.on('onPlayerHit', (damage) => {
+  console.log(`[UI HOOK] Shake screen! Damage: ${damage}. HP: ${engine.store.getState().hp}`);
 });
 
-EventBus.on('onDialogComplete', () => {
-  console.log(`[EVENT HOOK] Narratve sequence finished.`);
+engine.on('onDialogComplete', () => {
+  console.log(`[UI HOOK] Narrative finished. Unpause game.`);
 });
 
-// SIMULATE GAME FLOW
+// --- SIMULATE GAME FLOW ---
 console.log('--- OverStory Modular Game Engine Start ---');
 
-// 1. Exploration
-EventBus.emit('onPlayerMove', 'Right');
-EventBus.emit('onPlayerMove', 'Up');
-
-// 2. Narrative Trigger
-EventBus.emit('onDialogStart', {
-  id: 'intro',
-  speaker: 'Zork',
-  text: 'Are you sure you want to climb this tower? It\'s filled with horses... and sarcasm.',
-  choices: [
-    { text: 'Yes, absolutely.', nextId: 'climb_1' },
-    { text: 'No, I\'m a coward.', nextId: 'coward_1' }
-  ]
-});
-
-// 3. Combat Trigger
-setTimeout(() => {
-  EventBus.emit('onBattleStart', 'Tower Guardian');
-
-  // Simulate timing bar hit after some delay
-  setTimeout(() => {
-    combat.handleTimingHit(0.95); // Near perfect hit
-  }, 1000);
-
-}, 2000);
-
+// 1. Exploration (Vite/Web UI Layer)
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
-    <h1>OverStory Modular Architecture</h1>
-    <p>Check the console for the "Better Way" to see how modular hooks are firing!</p>
-    <p>Current HP: ${store.getState().hp}</p>
-    <p>In Battle: ${store.getState().isInBattle}</p>
+    <h1>OverStory: Modular Refactor</h1>
+    <p>The "Better Way" to build this game.</p>
     <div class="card">
-      <button id="move-up" type="button">Move Up</button>
-      <button id="attack" type="button">Attack (Timing Hit)</button>
+      <div id="stats">
+        HP: ${engine.store.getState().hp} |
+        In Battle: ${engine.store.getState().isInBattle} |
+        Grilled Cheese: ${engine.store.getState().grilledCheeseCount}
+      </div>
+      <br />
+      <button id="move-up">Move Up</button>
+      <button id="attack">Attack (Timing Bar)</button>
+      <button id="shop">Enter Store</button>
+      <button id="save">Save Game (at Shop)</button>
     </div>
   </div>
 `
 
+// --- UI BUTTON HANDLERS (Simulating Joystick/Touch input) ---
+
 document.querySelector('#move-up')?.addEventListener('click', () => {
-  EventBus.emit('onPlayerMove', 'Up');
+  engine.emit('onPlayerMove', 'Up' as Direction);
 });
 
 document.querySelector('#attack')?.addEventListener('click', () => {
-  combat.handleTimingHit(0.8);
+  engine.combat.handleTimingHit(0.9); // Near-perfect accuracy
+});
+
+document.querySelector('#shop')?.addEventListener('click', () => {
+  engine.emit('onShopEnter');
+  engine.shop.purchaseItem('grilled_cheese');
+});
+
+document.querySelector('#save')?.addEventListener('click', () => {
+  engine.emit('onSave');
+});
+
+// --- GAME LOOP (Simulating a Frame Timer) ---
+let lastTime = performance.now();
+const gameLoop = (time: number) => {
+  const deltaTime = (time - lastTime) / 1000;
+  lastTime = time;
+
+  // Run the core engine update (I-Frames, Patterns, etc.)
+  engine.update(deltaTime);
+
+  // Update Stats in UI
+  const stats = document.querySelector('#stats');
+  if (stats) {
+    const s = engine.store.getState();
+    stats.textContent = `HP: ${s.hp} | In Battle: ${s.isInBattle} | Grilled Cheese: ${s.grilledCheeseCount}`;
+  }
+
+  requestAnimationFrame(gameLoop);
+};
+
+requestAnimationFrame(gameLoop);
+
+// Start a narrative sequence for the intro
+engine.emit('onDialogStart', {
+  id: 'intro',
+  speaker: 'Zork',
+  text: 'I see you found the modular "Hook" system. It\'s much better than Scratch... and less horse-heavy.',
 });
