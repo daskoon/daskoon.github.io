@@ -1,0 +1,2435 @@
+{
+  "sprites": [
+    {
+      "folder": "attackbuttons",
+      "class": "attackbuttons",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "attackslider",
+      "class": "attackslider",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "B4046b0aEe4244ed8c1626776c7c0ca2",
+      "class": "B4046b0aEe4244ed8c1626776c7c0ca2",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "B4046b0aEe4244ed8c1626776c7c0ca3",
+      "class": "B4046b0aEe4244ed8c1626776c7c0ca3",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "B4046b0aEe4244ed8c1626776c7c0ca4",
+      "class": "B4046b0aEe4244ed8c1626776c7c0ca4",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "bigredbutton",
+      "class": "bigredbutton",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "bluebutton",
+      "class": "bluebutton",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet10",
+      "class": "Bullet10",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet2",
+      "class": "Bullet2",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet3",
+      "class": "Bullet3",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet4",
+      "class": "Bullet4",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet5",
+      "class": "Bullet5",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet6",
+      "class": "Bullet6",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet7",
+      "class": "Bullet7",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet8",
+      "class": "Bullet8",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet9",
+      "class": "Bullet9",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "buttonred",
+      "class": "buttonred",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "doorbadguy",
+      "class": "doorbadguy",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "explosion3",
+      "class": "explosion3",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "greenbutton",
+      "class": "greenbutton",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "greenthing",
+      "class": "greenthing",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Img1556",
+      "class": "Img1556",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Img1669",
+      "class": "Img1669",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Joystick",
+      "class": "Joystick",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "miss",
+      "class": "miss",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "money",
+      "class": "money",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "omgredbutton",
+      "class": "omgredbutton",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "pay1000dollars",
+      "class": "pay1000dollars",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Player",
+      "class": "Player",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "proposebutton",
+      "class": "proposebutton",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "purple",
+      "class": "purple",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "redbutton",
+      "class": "redbutton",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "redbutton2",
+      "class": "redbutton2",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "redbutton3",
+      "class": "redbutton3",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sans",
+      "class": "Sans",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "SaveManagerSprite",
+      "class": "SaveManagerSprite",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "ShadowJone",
+      "class": "Sprite162",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "ShadowZork",
+      "class": "ShadowZork",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "slideblock",
+      "class": "slideblock",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "slideblock2",
+      "class": "slideblock2",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "slidepuzzle1",
+      "class": "slidepuzzle1",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "slidepuzzle2",
+      "class": "slidepuzzle2",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite100",
+      "class": "Sprite100",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite101",
+      "class": "Sprite101",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite102",
+      "class": "Sprite102",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite103",
+      "class": "Sprite103",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite104",
+      "class": "Sprite104",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite105",
+      "class": "Sprite105",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite106",
+      "class": "Sprite106",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite107",
+      "class": "Sprite107",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite108",
+      "class": "Sprite108",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite109",
+      "class": "Sprite109",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite110",
+      "class": "Sprite110",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite111",
+      "class": "Sprite111",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite112",
+      "class": "Sprite112",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite113",
+      "class": "Sprite113",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite114",
+      "class": "Sprite114",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite115",
+      "class": "Sprite115",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite116",
+      "class": "Sprite116",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite117",
+      "class": "Sprite117",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite118",
+      "class": "Sprite118",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite119",
+      "class": "Sprite119",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite120",
+      "class": "Sprite120",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite121",
+      "class": "Sprite121",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite122",
+      "class": "Sprite122",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite123",
+      "class": "Sprite123",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite124",
+      "class": "Sprite124",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite125",
+      "class": "Sprite125",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite126",
+      "class": "Sprite126",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite127",
+      "class": "Sprite127",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite128",
+      "class": "Sprite128",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite129",
+      "class": "Sprite129",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite13",
+      "class": "Sprite13",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite130",
+      "class": "Sprite130",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite131",
+      "class": "Sprite131",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite132",
+      "class": "Sprite132",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite133",
+      "class": "Sprite133",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite134",
+      "class": "Sprite134",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite135",
+      "class": "Sprite135",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite136",
+      "class": "Sprite136",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite137",
+      "class": "Sprite137",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite138",
+      "class": "Sprite138",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite139",
+      "class": "Sprite139",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite14",
+      "class": "Sprite14",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite140",
+      "class": "Sprite140",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite141",
+      "class": "Sprite141",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite142",
+      "class": "Sprite142",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite143",
+      "class": "Sprite143",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite144",
+      "class": "Sprite144",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite145",
+      "class": "Sprite145",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite146",
+      "class": "Sprite146",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite147",
+      "class": "Sprite147",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite148",
+      "class": "Sprite148",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite149",
+      "class": "Sprite149",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite150",
+      "class": "Sprite150",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite151",
+      "class": "Sprite151",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite152",
+      "class": "Sprite152",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite153",
+      "class": "Sprite153",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite155",
+      "class": "Sprite155",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite156",
+      "class": "Sprite156",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite157",
+      "class": "Sprite157",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite158",
+      "class": "Sprite158",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite159",
+      "class": "Sprite159",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite16",
+      "class": "Sprite16",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite160",
+      "class": "Sprite160",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite161",
+      "class": "Sprite161",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite163",
+      "class": "Sprite163",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite164",
+      "class": "Sprite164",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite165",
+      "class": "Sprite165",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite166",
+      "class": "Sprite166",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite167",
+      "class": "Sprite167",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite168",
+      "class": "Sprite168",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite169",
+      "class": "Sprite169",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite170",
+      "class": "Sprite170",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite171",
+      "class": "Sprite171",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite172",
+      "class": "Sprite172",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite173",
+      "class": "Sprite173",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite174",
+      "class": "Sprite174",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite175",
+      "class": "Sprite175",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite176",
+      "class": "Sprite176",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite177",
+      "class": "Sprite177",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite178",
+      "class": "Sprite178",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite179",
+      "class": "Sprite179",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite18",
+      "class": "Sprite18",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite180",
+      "class": "Sprite180",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite181",
+      "class": "Sprite181",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite182",
+      "class": "Sprite182",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite183",
+      "class": "Sprite183",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite184",
+      "class": "Sprite184",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite185",
+      "class": "Sprite185",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite186",
+      "class": "Sprite186",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite187",
+      "class": "Sprite187",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite188",
+      "class": "Sprite188",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite189",
+      "class": "Sprite189",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite19",
+      "class": "Sprite19",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite190",
+      "class": "Sprite190",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite191",
+      "class": "Sprite191",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite192",
+      "class": "Sprite192",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite193",
+      "class": "Sprite193",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite194",
+      "class": "Sprite194",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite195",
+      "class": "Sprite195",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite196",
+      "class": "Sprite196",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite197",
+      "class": "Sprite197",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite198",
+      "class": "Sprite198",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite199",
+      "class": "Sprite199",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite2",
+      "class": "sprite2",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite20",
+      "class": "Sprite20",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite200",
+      "class": "Sprite200",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite201",
+      "class": "Sprite201",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite202",
+      "class": "Sprite202",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite203",
+      "class": "Sprite203",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite204",
+      "class": "Sprite204",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite205",
+      "class": "Sprite205",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite206",
+      "class": "Sprite206",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite207",
+      "class": "Sprite207",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite208",
+      "class": "Sprite208",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite209",
+      "class": "Sprite209",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite21",
+      "class": "Sprite21",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite210",
+      "class": "Sprite210",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite211",
+      "class": "Sprite211",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite212",
+      "class": "Sprite212",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite213",
+      "class": "Sprite213",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite214",
+      "class": "Sprite214",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite215",
+      "class": "Sprite215",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite216",
+      "class": "Sprite216",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite217",
+      "class": "Sprite217",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite218",
+      "class": "Sprite218",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite219",
+      "class": "Sprite219",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite22",
+      "class": "Sprite22",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite220",
+      "class": "Sprite220",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite221",
+      "class": "Sprite221",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite222",
+      "class": "Sprite222",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite223",
+      "class": "Sprite223",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite224",
+      "class": "Sprite224",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite225",
+      "class": "Sprite225",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite226",
+      "class": "Sprite226",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite227",
+      "class": "Sprite227",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite228",
+      "class": "Sprite228",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite229",
+      "class": "Sprite229",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite23",
+      "class": "Sprite23",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite230",
+      "class": "Sprite230",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite231",
+      "class": "Sprite231",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite232",
+      "class": "Sprite232",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite233",
+      "class": "Sprite233",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite234",
+      "class": "Sprite234",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite235",
+      "class": "Sprite235",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite236",
+      "class": "Sprite236",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite237",
+      "class": "Sprite237",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite238",
+      "class": "Sprite238",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite239",
+      "class": "Sprite239",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite24",
+      "class": "Sprite24",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite240",
+      "class": "Sprite240",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite241",
+      "class": "Sprite241",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite242",
+      "class": "Sprite242",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite243",
+      "class": "Sprite243",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite244",
+      "class": "Sprite244",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite245",
+      "class": "Sprite245",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite246",
+      "class": "Sprite246",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite247",
+      "class": "Sprite247",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite25",
+      "class": "Sprite25",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite26",
+      "class": "Sprite26",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite28",
+      "class": "Sprite28",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite29",
+      "class": "Sprite29",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite35",
+      "class": "Sprite35",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite40",
+      "class": "Sprite40",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite41",
+      "class": "Sprite41",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite44",
+      "class": "Sprite44",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite47",
+      "class": "Sprite47",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite48",
+      "class": "Sprite48",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite49",
+      "class": "Sprite49",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite5",
+      "class": "Sprite5",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite50",
+      "class": "Sprite50",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite51",
+      "class": "Sprite51",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite52",
+      "class": "Sprite52",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite53",
+      "class": "Sprite53",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite54",
+      "class": "Sprite54",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite55",
+      "class": "Sprite55",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite56",
+      "class": "Sprite56",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite57",
+      "class": "Sprite57",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite58",
+      "class": "Sprite58",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite59",
+      "class": "Sprite59",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite6",
+      "class": "Sprite6",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite60",
+      "class": "Sprite60",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite61",
+      "class": "Sprite61",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite62",
+      "class": "Sprite62",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite63",
+      "class": "Sprite63",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite64",
+      "class": "Sprite64",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite65",
+      "class": "Sprite65",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite66",
+      "class": "Sprite66",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite67",
+      "class": "Sprite67",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite68",
+      "class": "Sprite68",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite69",
+      "class": "Sprite69",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite7",
+      "class": "Sprite7",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite70",
+      "class": "Sprite70",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite71",
+      "class": "Sprite71",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite72",
+      "class": "Sprite72",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite73",
+      "class": "Sprite73",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite74",
+      "class": "Sprite74",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite75",
+      "class": "Sprite75",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite76",
+      "class": "Sprite76",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite77",
+      "class": "Sprite77",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite78",
+      "class": "Sprite78",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite79",
+      "class": "Sprite79",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite80",
+      "class": "Sprite80",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite81",
+      "class": "Sprite81",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite82",
+      "class": "Sprite82",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite83",
+      "class": "Sprite83",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite84",
+      "class": "Sprite84",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite85",
+      "class": "Sprite85",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite86",
+      "class": "Sprite86",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite87",
+      "class": "Sprite87",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite88",
+      "class": "Sprite88",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite89",
+      "class": "Sprite89",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite90",
+      "class": "Sprite90",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite91",
+      "class": "Sprite91",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite92",
+      "class": "Sprite92",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite93",
+      "class": "Sprite93",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite94",
+      "class": "Sprite94",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite95",
+      "class": "Sprite95",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite96",
+      "class": "Sprite96",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite97",
+      "class": "Sprite97",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite98",
+      "class": "Sprite98",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite99",
+      "class": "Sprite99",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Stage",
+      "class": "Unknown",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Text",
+      "class": "Text",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "TextBox",
+      "class": "TextBox",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "textboxinner",
+      "class": "textboxinner",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "yetanotherredbutton",
+      "class": "yetanotherredbutton",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "_666666666666666666666666666666666666666666666666666666666666666666666666",
+      "class": "_666666666666666666666666666666666666666666666666666666666666666666666666",
+      "internal_name": "Unknown"
+    }
+  ],
+  "imports": [
+    {
+      "class": "Stage",
+      "folder": "Stage"
+    },
+    {
+      "class": "Sprite2",
+      "folder": "Sprite2"
+    },
+    {
+      "class": "sprite2",
+      "folder": "sprite2"
+    },
+    {
+      "class": "Player",
+      "folder": "Player"
+    },
+    {
+      "class": "Joystick",
+      "folder": "Joystick"
+    },
+    {
+      "class": "redbutton",
+      "folder": "redbutton"
+    },
+    {
+      "class": "doorbadguy",
+      "folder": "doorbadguy"
+    },
+    {
+      "class": "bluebutton",
+      "folder": "bluebutton"
+    },
+    {
+      "class": "redbutton2",
+      "folder": "redbutton2"
+    },
+    {
+      "class": "pay1000dollars",
+      "folder": "pay1000dollars"
+    },
+    {
+      "class": "Sprite5",
+      "folder": "Sprite5"
+    },
+    {
+      "class": "Sprite6",
+      "folder": "Sprite6"
+    },
+    {
+      "class": "Sprite7",
+      "folder": "Sprite7"
+    },
+    {
+      "class": "greenbutton",
+      "folder": "greenbutton"
+    },
+    {
+      "class": "Sprite13",
+      "folder": "Sprite13"
+    },
+    {
+      "class": "Sprite14",
+      "folder": "Sprite14"
+    },
+    {
+      "class": "redbutton3",
+      "folder": "redbutton3"
+    },
+    {
+      "class": "Sprite16",
+      "folder": "Sprite16"
+    },
+    {
+      "class": "bigredbutton",
+      "folder": "bigredbutton"
+    },
+    {
+      "class": "Sprite18",
+      "folder": "Sprite18"
+    },
+    {
+      "class": "Sprite19",
+      "folder": "Sprite19"
+    },
+    {
+      "class": "Sprite20",
+      "folder": "Sprite20"
+    },
+    {
+      "class": "Sprite22",
+      "folder": "Sprite22"
+    },
+    {
+      "class": "Sprite23",
+      "folder": "Sprite23"
+    },
+    {
+      "class": "Sprite24",
+      "folder": "Sprite24"
+    },
+    {
+      "class": "Sprite25",
+      "folder": "Sprite25"
+    },
+    {
+      "class": "Sprite26",
+      "folder": "Sprite26"
+    },
+    {
+      "class": "Sprite28",
+      "folder": "Sprite28"
+    },
+    {
+      "class": "proposebutton",
+      "folder": "proposebutton"
+    },
+    {
+      "class": "attackbuttons",
+      "folder": "attackbuttons"
+    },
+    {
+      "class": "money",
+      "folder": "money"
+    },
+    {
+      "class": "attackslider",
+      "folder": "attackslider"
+    },
+    {
+      "class": "greenthing",
+      "folder": "greenthing"
+    },
+    {
+      "class": "miss",
+      "folder": "miss"
+    },
+    {
+      "class": "Bullet2",
+      "folder": "Bullet2"
+    },
+    {
+      "class": "Bullet3",
+      "folder": "Bullet3"
+    },
+    {
+      "class": "Bullet4",
+      "folder": "Bullet4"
+    },
+    {
+      "class": "slideblock",
+      "folder": "slideblock"
+    },
+    {
+      "class": "Sprite40",
+      "folder": "Sprite40"
+    },
+    {
+      "class": "yetanotherredbutton",
+      "folder": "yetanotherredbutton"
+    },
+    {
+      "class": "Sprite41",
+      "folder": "Sprite41"
+    },
+    {
+      "class": "omgredbutton",
+      "folder": "omgredbutton"
+    },
+    {
+      "class": "explosion3",
+      "folder": "explosion3"
+    },
+    {
+      "class": "buttonred",
+      "folder": "buttonred"
+    },
+    {
+      "class": "Bullet9",
+      "folder": "Bullet9"
+    },
+    {
+      "class": "Bullet8",
+      "folder": "Bullet8"
+    },
+    {
+      "class": "purple",
+      "folder": "purple"
+    },
+    {
+      "class": "Sprite47",
+      "folder": "Sprite47"
+    },
+    {
+      "class": "Sprite48",
+      "folder": "Sprite48"
+    },
+    {
+      "class": "Sprite49",
+      "folder": "Sprite49"
+    },
+    {
+      "class": "Sprite56",
+      "folder": "Sprite56"
+    },
+    {
+      "class": "Bullet7",
+      "folder": "Bullet7"
+    },
+    {
+      "class": "Sprite53",
+      "folder": "Sprite53"
+    },
+    {
+      "class": "Sprite54",
+      "folder": "Sprite54"
+    },
+    {
+      "class": "Sprite55",
+      "folder": "Sprite55"
+    },
+    {
+      "class": "Bullet6",
+      "folder": "Bullet6"
+    },
+    {
+      "class": "Sprite57",
+      "folder": "Sprite57"
+    },
+    {
+      "class": "Sprite58",
+      "folder": "Sprite58"
+    },
+    {
+      "class": "Sprite59",
+      "folder": "Sprite59"
+    },
+    {
+      "class": "Sprite61",
+      "folder": "Sprite61"
+    },
+    {
+      "class": "Bullet5",
+      "folder": "Bullet5"
+    },
+    {
+      "class": "Sprite29",
+      "folder": "Sprite29"
+    },
+    {
+      "class": "Sprite35",
+      "folder": "Sprite35"
+    },
+    {
+      "class": "slidepuzzle1",
+      "folder": "slidepuzzle1"
+    },
+    {
+      "class": "slidepuzzle2",
+      "folder": "slidepuzzle2"
+    },
+    {
+      "class": "Sprite44",
+      "folder": "Sprite44"
+    },
+    {
+      "class": "B4046b0aEe4244ed8c1626776c7c0ca2",
+      "folder": "B4046b0aEe4244ed8c1626776c7c0ca2"
+    },
+    {
+      "class": "slideblock2",
+      "folder": "slideblock2"
+    },
+    {
+      "class": "Sprite50",
+      "folder": "Sprite50"
+    },
+    {
+      "class": "Sprite51",
+      "folder": "Sprite51"
+    },
+    {
+      "class": "B4046b0aEe4244ed8c1626776c7c0ca3",
+      "folder": "B4046b0aEe4244ed8c1626776c7c0ca3"
+    },
+    {
+      "class": "Sprite52",
+      "folder": "Sprite52"
+    },
+    {
+      "class": "Sprite60",
+      "folder": "Sprite60"
+    },
+    {
+      "class": "Sprite63",
+      "folder": "Sprite63"
+    },
+    {
+      "class": "Sprite64",
+      "folder": "Sprite64"
+    },
+    {
+      "class": "Sprite65",
+      "folder": "Sprite65"
+    },
+    {
+      "class": "Sprite66",
+      "folder": "Sprite66"
+    },
+    {
+      "class": "Sprite62",
+      "folder": "Sprite62"
+    },
+    {
+      "class": "Sprite68",
+      "folder": "Sprite68"
+    },
+    {
+      "class": "Sprite69",
+      "folder": "Sprite69"
+    },
+    {
+      "class": "Sprite70",
+      "folder": "Sprite70"
+    },
+    {
+      "class": "Sprite71",
+      "folder": "Sprite71"
+    },
+    {
+      "class": "Sprite73",
+      "folder": "Sprite73"
+    },
+    {
+      "class": "Sprite72",
+      "folder": "Sprite72"
+    },
+    {
+      "class": "Sprite74",
+      "folder": "Sprite74"
+    },
+    {
+      "class": "Sprite75",
+      "folder": "Sprite75"
+    },
+    {
+      "class": "Sprite76",
+      "folder": "Sprite76"
+    },
+    {
+      "class": "Sprite77",
+      "folder": "Sprite77"
+    },
+    {
+      "class": "Sprite78",
+      "folder": "Sprite78"
+    },
+    {
+      "class": "Sprite79",
+      "folder": "Sprite79"
+    },
+    {
+      "class": "Sprite84",
+      "folder": "Sprite84"
+    },
+    {
+      "class": "Sprite85",
+      "folder": "Sprite85"
+    },
+    {
+      "class": "Sprite86",
+      "folder": "Sprite86"
+    },
+    {
+      "class": "Sprite80",
+      "folder": "Sprite80"
+    },
+    {
+      "class": "Sprite81",
+      "folder": "Sprite81"
+    },
+    {
+      "class": "Sprite82",
+      "folder": "Sprite82"
+    },
+    {
+      "class": "Sprite87",
+      "folder": "Sprite87"
+    },
+    {
+      "class": "Sprite88",
+      "folder": "Sprite88"
+    },
+    {
+      "class": "Sprite89",
+      "folder": "Sprite89"
+    },
+    {
+      "class": "Sprite90",
+      "folder": "Sprite90"
+    },
+    {
+      "class": "Sprite91",
+      "folder": "Sprite91"
+    },
+    {
+      "class": "Sprite92",
+      "folder": "Sprite92"
+    },
+    {
+      "class": "Sprite93",
+      "folder": "Sprite93"
+    },
+    {
+      "class": "Sprite94",
+      "folder": "Sprite94"
+    },
+    {
+      "class": "Sprite95",
+      "folder": "Sprite95"
+    },
+    {
+      "class": "Sprite96",
+      "folder": "Sprite96"
+    },
+    {
+      "class": "Sprite97",
+      "folder": "Sprite97"
+    },
+    {
+      "class": "Bullet10",
+      "folder": "Bullet10"
+    },
+    {
+      "class": "Sprite98",
+      "folder": "Sprite98"
+    },
+    {
+      "class": "Sprite99",
+      "folder": "Sprite99"
+    },
+    {
+      "class": "SaveManagerSprite",
+      "folder": "SaveManagerSprite"
+    },
+    {
+      "class": "Sprite101",
+      "folder": "Sprite101"
+    },
+    {
+      "class": "Sprite102",
+      "folder": "Sprite102"
+    },
+    {
+      "class": "Sprite103",
+      "folder": "Sprite103"
+    },
+    {
+      "class": "Sprite104",
+      "folder": "Sprite104"
+    },
+    {
+      "class": "Sprite105",
+      "folder": "Sprite105"
+    },
+    {
+      "class": "Sprite106",
+      "folder": "Sprite106"
+    },
+    {
+      "class": "Sprite107",
+      "folder": "Sprite107"
+    },
+    {
+      "class": "Sprite108",
+      "folder": "Sprite108"
+    },
+    {
+      "class": "Sprite100",
+      "folder": "Sprite100"
+    },
+    {
+      "class": "Sprite109",
+      "folder": "Sprite109"
+    },
+    {
+      "class": "Sprite110",
+      "folder": "Sprite110"
+    },
+    {
+      "class": "Sprite111",
+      "folder": "Sprite111"
+    },
+    {
+      "class": "Sprite112",
+      "folder": "Sprite112"
+    },
+    {
+      "class": "Sprite113",
+      "folder": "Sprite113"
+    },
+    {
+      "class": "Sprite67",
+      "folder": "Sprite67"
+    },
+    {
+      "class": "Sprite114",
+      "folder": "Sprite114"
+    },
+    {
+      "class": "Sprite115",
+      "folder": "Sprite115"
+    },
+    {
+      "class": "Sprite116",
+      "folder": "Sprite116"
+    },
+    {
+      "class": "Sprite117",
+      "folder": "Sprite117"
+    },
+    {
+      "class": "B4046b0aEe4244ed8c1626776c7c0ca4",
+      "folder": "B4046b0aEe4244ed8c1626776c7c0ca4"
+    },
+    {
+      "class": "Sprite118",
+      "folder": "Sprite118"
+    },
+    {
+      "class": "Sprite119",
+      "folder": "Sprite119"
+    },
+    {
+      "class": "Sprite83",
+      "folder": "Sprite83"
+    },
+    {
+      "class": "Sprite120",
+      "folder": "Sprite120"
+    },
+    {
+      "class": "Sprite121",
+      "folder": "Sprite121"
+    },
+    {
+      "class": "Sprite122",
+      "folder": "Sprite122"
+    },
+    {
+      "class": "Sprite137",
+      "folder": "Sprite137"
+    },
+    {
+      "class": "Sprite123",
+      "folder": "Sprite123"
+    },
+    {
+      "class": "Sprite124",
+      "folder": "Sprite124"
+    },
+    {
+      "class": "Sprite125",
+      "folder": "Sprite125"
+    },
+    {
+      "class": "Sprite126",
+      "folder": "Sprite126"
+    },
+    {
+      "class": "Sprite127",
+      "folder": "Sprite127"
+    },
+    {
+      "class": "Sprite128",
+      "folder": "Sprite128"
+    },
+    {
+      "class": "Sprite129",
+      "folder": "Sprite129"
+    },
+    {
+      "class": "Sprite130",
+      "folder": "Sprite130"
+    },
+    {
+      "class": "Sprite131",
+      "folder": "Sprite131"
+    },
+    {
+      "class": "Sprite132",
+      "folder": "Sprite132"
+    },
+    {
+      "class": "Sprite133",
+      "folder": "Sprite133"
+    },
+    {
+      "class": "Sprite134",
+      "folder": "Sprite134"
+    },
+    {
+      "class": "Sprite135",
+      "folder": "Sprite135"
+    },
+    {
+      "class": "Sprite136",
+      "folder": "Sprite136"
+    },
+    {
+      "class": "Sprite138",
+      "folder": "Sprite138"
+    },
+    {
+      "class": "Sprite139",
+      "folder": "Sprite139"
+    },
+    {
+      "class": "ShadowZork",
+      "folder": "ShadowZork"
+    },
+    {
+      "class": "Sprite140",
+      "folder": "Sprite140"
+    },
+    {
+      "class": "Sprite141",
+      "folder": "Sprite141"
+    },
+    {
+      "class": "Sprite21",
+      "folder": "Sprite21"
+    },
+    {
+      "class": "Sprite142",
+      "folder": "Sprite142"
+    },
+    {
+      "class": "Sprite143",
+      "folder": "Sprite143"
+    },
+    {
+      "class": "Sprite144",
+      "folder": "Sprite144"
+    },
+    {
+      "class": "Sprite145",
+      "folder": "Sprite145"
+    },
+    {
+      "class": "ShadowJone",
+      "folder": "ShadowJone"
+    },
+    {
+      "class": "Sprite146",
+      "folder": "Sprite146"
+    },
+    {
+      "class": "Sprite147",
+      "folder": "Sprite147"
+    },
+    {
+      "class": "Sprite148",
+      "folder": "Sprite148"
+    },
+    {
+      "class": "Sprite149",
+      "folder": "Sprite149"
+    },
+    {
+      "class": "Sprite150",
+      "folder": "Sprite150"
+    },
+    {
+      "class": "Sprite151",
+      "folder": "Sprite151"
+    },
+    {
+      "class": "Sprite152",
+      "folder": "Sprite152"
+    },
+    {
+      "class": "Sprite153",
+      "folder": "Sprite153"
+    },
+    {
+      "class": "Img1556",
+      "folder": "Img1556"
+    },
+    {
+      "class": "Sprite155",
+      "folder": "Sprite155"
+    },
+    {
+      "class": "Sprite156",
+      "folder": "Sprite156"
+    },
+    {
+      "class": "Sprite157",
+      "folder": "Sprite157"
+    },
+    {
+      "class": "Sprite158",
+      "folder": "Sprite158"
+    },
+    {
+      "class": "Sprite159",
+      "folder": "Sprite159"
+    },
+    {
+      "class": "Sprite160",
+      "folder": "Sprite160"
+    },
+    {
+      "class": "Sprite161",
+      "folder": "Sprite161"
+    },
+    {
+      "class": "ShadowJone",
+      "folder": "ShadowJone"
+    },
+    {
+      "class": "Sprite163",
+      "folder": "Sprite163"
+    },
+    {
+      "class": "Sprite164",
+      "folder": "Sprite164"
+    },
+    {
+      "class": "Sprite165",
+      "folder": "Sprite165"
+    },
+    {
+      "class": "Sprite166",
+      "folder": "Sprite166"
+    },
+    {
+      "class": "Sprite167",
+      "folder": "Sprite167"
+    },
+    {
+      "class": "Sprite168",
+      "folder": "Sprite168"
+    },
+    {
+      "class": "Sprite169",
+      "folder": "Sprite169"
+    },
+    {
+      "class": "Sprite170",
+      "folder": "Sprite170"
+    },
+    {
+      "class": "Sprite171",
+      "folder": "Sprite171"
+    },
+    {
+      "class": "Sprite173",
+      "folder": "Sprite173"
+    },
+    {
+      "class": "Sprite174",
+      "folder": "Sprite174"
+    },
+    {
+      "class": "Sprite175",
+      "folder": "Sprite175"
+    },
+    {
+      "class": "Sprite176",
+      "folder": "Sprite176"
+    },
+    {
+      "class": "Sprite177",
+      "folder": "Sprite177"
+    },
+    {
+      "class": "Sprite178",
+      "folder": "Sprite178"
+    },
+    {
+      "class": "Sprite179",
+      "folder": "Sprite179"
+    },
+    {
+      "class": "Sprite180",
+      "folder": "Sprite180"
+    },
+    {
+      "class": "Sprite181",
+      "folder": "Sprite181"
+    },
+    {
+      "class": "Sprite182",
+      "folder": "Sprite182"
+    },
+    {
+      "class": "Sprite183",
+      "folder": "Sprite183"
+    },
+    {
+      "class": "Sprite172",
+      "folder": "Sprite172"
+    },
+    {
+      "class": "Sprite184",
+      "folder": "Sprite184"
+    },
+    {
+      "class": "Sprite185",
+      "folder": "Sprite185"
+    },
+    {
+      "class": "Sprite186",
+      "folder": "Sprite186"
+    },
+    {
+      "class": "Sprite187",
+      "folder": "Sprite187"
+    },
+    {
+      "class": "Sprite188",
+      "folder": "Sprite188"
+    },
+    {
+      "class": "Sprite189",
+      "folder": "Sprite189"
+    },
+    {
+      "class": "Sprite190",
+      "folder": "Sprite190"
+    },
+    {
+      "class": "Sprite191",
+      "folder": "Sprite191"
+    },
+    {
+      "class": "Sprite192",
+      "folder": "Sprite192"
+    },
+    {
+      "class": "Sprite194",
+      "folder": "Sprite194"
+    },
+    {
+      "class": "Sprite195",
+      "folder": "Sprite195"
+    },
+    {
+      "class": "Sprite196",
+      "folder": "Sprite196"
+    },
+    {
+      "class": "Sprite197",
+      "folder": "Sprite197"
+    },
+    {
+      "class": "Img1669",
+      "folder": "Img1669"
+    },
+    {
+      "class": "Sprite198",
+      "folder": "Sprite198"
+    },
+    {
+      "class": "Sprite199",
+      "folder": "Sprite199"
+    },
+    {
+      "class": "Sprite201",
+      "folder": "Sprite201"
+    },
+    {
+      "class": "Sprite202",
+      "folder": "Sprite202"
+    },
+    {
+      "class": "Sprite200",
+      "folder": "Sprite200"
+    },
+    {
+      "class": "Sprite203",
+      "folder": "Sprite203"
+    },
+    {
+      "class": "Sprite204",
+      "folder": "Sprite204"
+    },
+    {
+      "class": "Sprite205",
+      "folder": "Sprite205"
+    },
+    {
+      "class": "Sprite206",
+      "folder": "Sprite206"
+    },
+    {
+      "class": "Sprite207",
+      "folder": "Sprite207"
+    },
+    {
+      "class": "Sprite208",
+      "folder": "Sprite208"
+    },
+    {
+      "class": "Sprite209",
+      "folder": "Sprite209"
+    },
+    {
+      "class": "Sprite210",
+      "folder": "Sprite210"
+    },
+    {
+      "class": "Sprite211",
+      "folder": "Sprite211"
+    },
+    {
+      "class": "Sprite212",
+      "folder": "Sprite212"
+    },
+    {
+      "class": "Sprite213",
+      "folder": "Sprite213"
+    },
+    {
+      "class": "Sprite214",
+      "folder": "Sprite214"
+    },
+    {
+      "class": "Sprite215",
+      "folder": "Sprite215"
+    },
+    {
+      "class": "Sprite216",
+      "folder": "Sprite216"
+    },
+    {
+      "class": "Sprite217",
+      "folder": "Sprite217"
+    },
+    {
+      "class": "Sprite218",
+      "folder": "Sprite218"
+    },
+    {
+      "class": "Sprite219",
+      "folder": "Sprite219"
+    },
+    {
+      "class": "Sprite220",
+      "folder": "Sprite220"
+    },
+    {
+      "class": "Sans",
+      "folder": "Sans"
+    },
+    {
+      "class": "Sprite221",
+      "folder": "Sprite221"
+    },
+    {
+      "class": "Sprite222",
+      "folder": "Sprite222"
+    },
+    {
+      "class": "Sprite223",
+      "folder": "Sprite223"
+    },
+    {
+      "class": "Sprite224",
+      "folder": "Sprite224"
+    },
+    {
+      "class": "Sprite225",
+      "folder": "Sprite225"
+    },
+    {
+      "class": "Sprite226",
+      "folder": "Sprite226"
+    },
+    {
+      "class": "Sprite227",
+      "folder": "Sprite227"
+    },
+    {
+      "class": "Sprite228",
+      "folder": "Sprite228"
+    },
+    {
+      "class": "TextBox",
+      "folder": "TextBox"
+    },
+    {
+      "class": "Text",
+      "folder": "Text"
+    },
+    {
+      "class": "Sprite229",
+      "folder": "Sprite229"
+    },
+    {
+      "class": "Sprite230",
+      "folder": "Sprite230"
+    },
+    {
+      "class": "Sprite231",
+      "folder": "Sprite231"
+    },
+    {
+      "class": "Sprite232",
+      "folder": "Sprite232"
+    },
+    {
+      "class": "Sprite233",
+      "folder": "Sprite233"
+    },
+    {
+      "class": "Sprite234",
+      "folder": "Sprite234"
+    },
+    {
+      "class": "Sprite235",
+      "folder": "Sprite235"
+    },
+    {
+      "class": "Sprite3",
+      "folder": "Sprite3"
+    },
+    {
+      "class": "Sprite236",
+      "folder": "Sprite236"
+    },
+    {
+      "class": "Sprite237",
+      "folder": "Sprite237"
+    },
+    {
+      "class": "Sprite238",
+      "folder": "Sprite238"
+    },
+    {
+      "class": "Sprite239",
+      "folder": "Sprite239"
+    },
+    {
+      "class": "_666666666666666666666666666666666666666666666666666666666666666666666666",
+      "folder": "_666666666666666666666666666666666666666666666666666666666666666666666666"
+    },
+    {
+      "class": "Sprite193",
+      "folder": "Sprite193"
+    },
+    {
+      "class": "Sprite240",
+      "folder": "Sprite240"
+    },
+    {
+      "class": "Sprite241",
+      "folder": "Sprite241"
+    },
+    {
+      "class": "Sprite242",
+      "folder": "Sprite242"
+    },
+    {
+      "class": "Sprite243",
+      "folder": "Sprite243"
+    },
+    {
+      "class": "Sprite244",
+      "folder": "Sprite244"
+    },
+    {
+      "class": "Sprite245",
+      "folder": "Sprite245"
+    },
+    {
+      "class": "Sprite246",
+      "folder": "Sprite246"
+    },
+    {
+      "class": "Sprite247",
+      "folder": "Sprite247"
+    }
+  ]
+}

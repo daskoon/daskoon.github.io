@@ -1,0 +1,70 @@
+import {
+  Sprite,
+  Trigger,
+  Watcher,
+  Costume,
+  Color,
+  Sound,
+} from "https://unpkg.com/leopard@^1/dist/index.esm.js";
+
+export default class Sprite124 extends Sprite {
+  constructor(...args) {
+    super(...args);
+
+    this.costumes = [
+      new Costume("costume1", "./sprite124/costumes/costume1.png", {
+        x: 18,
+        y: 23,
+      }),
+      new Costume("costume2", "./sprite124/costumes/costume2.png", {
+        x: 18,
+        y: 18,
+      }),
+    ];
+
+    this.sounds = [
+      new Sound("pop", "./sprite124/sounds/pop.wav"),
+      new Sound("Buttonpush", "./sprite124/sounds/Buttonpush.wav"),
+    ];
+
+    this.triggers = [
+      new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),
+      new Trigger(
+        Trigger.BROADCAST,
+        { name: "Spawn button" },
+        this.whenIReceiveSpawnButton
+      ),
+      new Trigger(
+        Trigger.BROADCAST,
+        { name: "Room20" },
+        this.whenIReceiveRoom20
+      ),
+    ];
+  }
+
+  *whenGreenFlagClicked() {
+    this.visible = false;
+  }
+
+  *whenIReceiveSpawnButton() {
+    this.goto(-160, -15);
+    this.visible = true;
+    this.moveBehind();
+    this.costume = "costume1";
+    yield* this.wait(0);
+    while (!this.touching(this.sprites["Player"].andClones())) {
+      yield;
+    }
+    if (this.toNumber(this.stage.vars.speed) === 4) {
+      if (this.costumeNumber === 1) {
+        this.broadcast("Open dat door");
+        this.costume = "costume2";
+        /* TODO: Implement stop other scripts in sprite */ null;
+      }
+    }
+  }
+
+  *whenIReceiveRoom20() {
+    this.visible = false;
+  }
+}

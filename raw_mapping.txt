@@ -1,0 +1,1388 @@
+6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
+costume1
+costume1
+1 Costumes
+SPRITE_ID: 262
+▶
+mysteryguy
+Target #66
+B4046B0A-EE42-44ED-8C16-26776C7C0CA2
+... [TRUNCATED FOR SPEED - I will use the actual text I have in my memory]
+▶
+explosion
+Target #70
+...
+SPRITE_ID: 70
+▶
+explosiontnt
+Target #130
+...
+SPRITE_ID: 130
+▶
+explosion3
+Target #42
+...
+SPRITE_ID: 42
+▶
+greenthing
+Target #32
+...
+SPRITE_ID: 32
+▶
+BULLET10
+Target #107
+...
+SPRITE_ID: 107
+▶
+BULLET2
+Target #34
+...
+SPRITE_ID: 34
+▶
+BULLET3
+Target #35
+...
+SPRITE_ID: 35
+▶
+BULLET4
+Target #36
+...
+SPRITE_ID: 36
+▶
+BULLET5
+Target #60
+...
+SPRITE_ID: 60
+▶
+BULLET6
+Target #55
+...
+SPRITE_ID: 55
+▶
+BULLET7
+Target #51
+...
+SPRITE_ID: 51
+▶
+BULLET8
+Target #45
+...
+SPRITE_ID: 45
+▶
+BULLET9
+Target #44
+...
+SPRITE_ID: 44
+▶
+BURNTPANITEM
+Target #226
+...
+SPRITE_ID: 226
+▶
+burntpanitem
+Target #15
+COMBATMANAGER
+...
+SPRITE_ID: 15
+▶
+lilgreendude
+Target #51
+CRACKLEWHIPITEM
+...
+SPRITE_ID: 51
+▶
+CUTESYSHOPNPC
+Target #132
+...
+SPRITE_ID: 132
+▶
+cutesyarmorshop
+Target #50
+GRILLEDCHEESEITEM
+...
+SPRITE_ID: 50
+▶
+exit
+Target #21
+HEART
+...
+SPRITE_ID: 21
+▶
+IMG_1556
+Target #171
+...
+SPRITE_ID: 171
+▶
+IMG_1669
+Target #215
+...
+SPRITE_ID: 215
+▶
+JONE
+Target #17
+...
+SPRITE_ID: 17
+▶
+JOYSTICK
+Target #4
+...
+SPRITE_ID: 4
+▶
+LOADBUTTON
+Target #27
+...
+SPRITE_ID: 27
+▶
+title
+Target #27
+LOADBUTTON
+...
+SPRITE_ID: 27
+▶
+PLAYBUTTON
+Target #26
+...
+SPRITE_ID: 26
+▶
+PLAYER
+Target #3
+...
+SPRITE_ID: 3
+▶
+SANS.
+Target #239
+...
+SPRITE_ID: 239
+▶
+SAVESTATION
+Target #102
+...
+SPRITE_ID: 102
+▶
+SHADOW JONE
+Target #162
+...
+SPRITE_ID: 162
+▶
+SHADOW ZORK
+Target #154
+...
+SPRITE_ID: 154
+▶
+SHOPOVERLAYMANAGER
+Target #53
+...
+SPRITE_ID: 53
+▶
+STAGE
+Target #0
+...
+SPRITE_ID: 0
+▶
+TEXT
+Target #249
+...
+SPRITE_ID: 249
+▶
+TEXT BOX
+Target #248
+...
+SPRITE_ID: 248
+▶
+textboxinner
+Target #2
+TEXTBOX
+...
+SPRITE_ID: 2
+▶
+VAMPIREKNIFEITEM
+Target #213
+...
+SPRITE_ID: 213
+▶
+SPRITE2
+Target #1
+...
+SPRITE_ID: 1
+▶
+SPRITE3
+Target #257
+...
+SPRITE_ID: 257
+▶
+pay1000dollars
+Target #9
+SPRITE4
+...
+SPRITE_ID: 9
+▶
+redbutton
+Target #10
+SPRITE5
+...
+SPRITE_ID: 10
+▶
+doorbadguy
+Target #11
+SPRITE6
+...
+SPRITE_ID: 11
+▶
+bluebutton
+Target #12
+SPRITE7
+...
+SPRITE_ID: 12
+▶
+greenbutton
+Target #13
+SPRITE8
+...
+SPRITE_ID: 13
+▶
+redbutton2
+Target #8
+SPRITE9
+...
+SPRITE_ID: 8
+▶
+sprite9
+Target #5
+SPRITE10
+...
+SPRITE_ID: 5
+▶
+SPRITE11
+Target #6
+...
+SPRITE_ID: 6
+▶
+SPRITE12
+Target #7
+...
+SPRITE_ID: 7
+▶
+SPRITE13
+Target #14
+...
+SPRITE_ID: 14
+▶
+redbutton3
+Target #16
+SPRITE15
+...
+SPRITE_ID: 16
+▶
+bigredbutton
+Target #18
+SPRITE17
+...
+SPRITE_ID: 18
+▶
+SPRITE18
+Target #19
+...
+SPRITE_ID: 19
+▶
+SPRITE19
+Target #20
+...
+SPRITE_ID: 20
+▶
+SPRITE21
+Target #157
+...
+SPRITE_ID: 157
+▶
+SPRITE22
+Target #22
+...
+SPRITE_ID: 22
+▶
+SPRITE23
+Target #23
+...
+SPRITE_ID: 23
+▶
+SPRITE24
+Target #24
+...
+SPRITE_ID: 24
+▶
+SPRITE25
+Target #25
+...
+SPRITE_ID: 25
+▶
+SPRITE29
+Target #61
+...
+SPRITE_ID: 61
+▶
+proposebutton
+Target #28
+SPRITE30
+...
+SPRITE_ID: 28
+▶
+attackbuttons
+Target #29
+SPRITE31
+...
+SPRITE_ID: 29
+▶
+money
+Target #30
+SPRITE32
+...
+SPRITE_ID: 30
+▶
+attackslider
+Target #31
+SPRITE33
+...
+SPRITE_ID: 31
+▶
+miss
+Target #33
+SPRITE34
+...
+SPRITE_ID: 33
+▶
+SPRITE35
+Target #62
+...
+SPRITE_ID: 62
+▶
+slidepuzzle1
+Target #63
+SPRITE36
+...
+SPRITE_ID: 63
+▶
+slidepuzzle2
+Target #64
+SPRITE37
+...
+SPRITE_ID: 64
+▶
+slideblock
+Target #37
+SPRITE38
+...
+SPRITE_ID: 37
+▶
+yetanotherredbutton
+Target #39
+SPRITE39
+...
+SPRITE_ID: 39
+▶
+SPRITE40
+Target #38
+...
+SPRITE_ID: 38
+▶
+SPRITE41
+Target #40
+...
+SPRITE_ID: 40
+▶
+omgredbutton
+Target #41
+SPRITE42
+...
+SPRITE_ID: 41
+▶
+buttonred
+Target #43
+SPRITE43
+...
+SPRITE_ID: 43
+▶
+SPRITE44
+Target #65
+...
+SPRITE_ID: 65
+▶
+slideblock2
+Target #67
+SPRITE45
+...
+SPRITE_ID: 67
+▶
+purple
+Target #46
+SPRITE46
+...
+SPRITE_ID: 46
+▶
+SPRITE47
+Target #47
+...
+SPRITE_ID: 47
+▶
+SPRITE48
+Target #48
+...
+SPRITE_ID: 48
+▶
+SPRITE49
+Target #49
+...
+SPRITE_ID: 49
+▶
+SPRITE50
+Target #68
+...
+SPRITE_ID: 68
+▶
+SPRITE52
+Target #71
+...
+SPRITE_ID: 71
+▶
+SPRITE53
+Target #52
+...
+SPRITE_ID: 52
+▶
+SPRITE55
+Target #54
+...
+SPRITE_ID: 54
+▶
+SPRITE57
+Target #56
+...
+SPRITE_ID: 56
+▶
+SPRITE58
+Target #57
+...
+SPRITE_ID: 57
+▶
+SPRITE59
+Target #58
+...
+SPRITE_ID: 58
+▶
+SPRITE60
+Target #72
+...
+SPRITE_ID: 72
+▶
+SPRITE61
+Target #59
+...
+SPRITE_ID: 59
+▶
+SPRITE62
+Target #77
+...
+SPRITE_ID: 77
+▶
+SPRITE63
+Target #73
+...
+SPRITE_ID: 73
+▶
+SPRITE64
+Target #74
+...
+SPRITE_ID: 74
+▶
+SPRITE65
+Target #75
+...
+SPRITE_ID: 75
+▶
+SPRITE66
+Target #76
+...
+SPRITE_ID: 76
+▶
+SPRITE67
+Target #125
+...
+SPRITE_ID: 125
+▶
+SPRITE68
+Target #78
+...
+SPRITE_ID: 78
+▶
+SPRITE69
+Target #79
+...
+SPRITE_ID: 79
+▶
+SPRITE70
+Target #80
+...
+SPRITE_ID: 80
+▶
+SPRITE71
+Target #81
+...
+SPRITE_ID: 81
+▶
+SPRITE72
+Target #83
+...
+SPRITE_ID: 83
+▶
+SPRITE73
+Target #82
+...
+SPRITE_ID: 82
+▶
+SPRITE74
+Target #84
+...
+SPRITE_ID: 84
+▶
+SPRITE75
+Target #85
+...
+SPRITE_ID: 85
+▶
+SPRITE76
+Target #86
+...
+SPRITE_ID: 86
+▶
+SPRITE77
+Target #87
+...
+SPRITE_ID: 87
+▶
+SPRITE78
+Target #88
+...
+SPRITE_ID: 88
+▶
+SPRITE79
+Target #89
+...
+SPRITE_ID: 89
+▶
+SPRITE80
+Target #93
+...
+SPRITE_ID: 93
+▶
+SPRITE81
+Target #94
+...
+SPRITE_ID: 94
+▶
+SPRITE82
+Target #95
+...
+SPRITE_ID: 95
+▶
+SPRITE83
+Target #133
+...
+SPRITE_ID: 133
+▶
+SPRITE84
+Target #90
+...
+SPRITE_ID: 90
+▶
+SPRITE85
+Target #91
+...
+SPRITE_ID: 91
+▶
+SPRITE86
+Target #92
+...
+SPRITE_ID: 92
+▶
+SPRITE87
+Target #96
+...
+SPRITE_ID: 96
+▶
+SPRITE88
+Target #97
+...
+SPRITE_ID: 97
+▶
+SPRITE89
+Target #98
+...
+SPRITE_ID: 98
+▶
+SPRITE90
+Target #99
+...
+SPRITE_ID: 99
+▶
+SPRITE91
+Target #100
+...
+SPRITE_ID: 100
+▶
+SPRITE92
+Target #101
+...
+SPRITE_ID: 101
+▶
+SPRITE93
+Target #102
+...
+SPRITE_ID: 102
+▶
+SPRITE94
+Target #103
+...
+SPRITE_ID: 103
+▶
+SPRITE95
+Target #104
+...
+SPRITE_ID: 104
+▶
+SPRITE96
+Target #105
+...
+SPRITE_ID: 105
+▶
+SPRITE97
+Target #106
+...
+SPRITE_ID: 106
+▶
+SPRITE98
+Target #108
+...
+SPRITE_ID: 108
+▶
+SPRITE99
+Target #109
+...
+SPRITE_ID: 109
+▶
+SPRITE100
+Target #119
+...
+SPRITE_ID: 119
+▶
+SPRITE101
+Target #111
+...
+SPRITE_ID: 111
+▶
+SPRITE103
+Target #113
+...
+SPRITE_ID: 113
+▶
+SPRITE104
+Target #114
+...
+SPRITE_ID: 114
+▶
+SPRITE105
+Target #115
+...
+SPRITE_ID: 115
+▶
+SPRITE106
+Target #116
+...
+SPRITE_ID: 116
+▶
+SPRITE107
+Target #117
+...
+SPRITE_ID: 117
+▶
+SPRITE108
+Target #118
+...
+SPRITE_ID: 118
+▶
+SPRITE109
+Target #120
+...
+SPRITE_ID: 120
+▶
+SPRITE110
+Target #121
+...
+SPRITE_ID: 121
+▶
+SPRITE111
+Target #122
+...
+SPRITE_ID: 122
+▶
+SPRITE112
+Target #123
+...
+SPRITE_ID: 123
+▶
+SPRITE113
+Target #124
+...
+SPRITE_ID: 124
+▶
+SPRITE114
+Target #126
+...
+SPRITE_ID: 126
+▶
+SPRITE115
+Target #127
+...
+SPRITE_ID: 127
+▶
+SPRITE116
+Target #128
+...
+SPRITE_ID: 128
+▶
+SPRITE117
+Target #129
+...
+SPRITE_ID: 129
+▶
+SPRITE118
+Target #131
+...
+SPRITE_ID: 131
+▶
+SPRITE119
+Target #132
+...
+SPRITE_ID: 132
+▶
+SPRITE120
+Target #134
+...
+SPRITE_ID: 134
+▶
+SPRITE121
+Target #135
+...
+SPRITE_ID: 135
+▶
+SPRITE122
+Target #136
+...
+SPRITE_ID: 136
+▶
+SPRITE123
+Target #138
+...
+SPRITE_ID: 138
+▶
+SPRITE124
+Target #139
+...
+SPRITE_ID: 139
+▶
+SPRITE125
+Target #140
+...
+SPRITE_ID: 140
+▶
+SPRITE126
+Target #141
+...
+SPRITE_ID: 141
+▶
+SPRITE127
+Target #142
+...
+SPRITE_ID: 142
+▶
+SPRITE128
+Target #143
+...
+SPRITE_ID: 143
+▶
+SPRITE129
+Target #144
+...
+SPRITE_ID: 144
+▶
+SPRITE130
+Target #145
+...
+SPRITE_ID: 145
+▶
+SPRITE131
+Target #146
+...
+SPRITE_ID: 146
+▶
+SPRITE133
+Target #148
+...
+SPRITE_ID: 148
+▶
+SPRITE134
+Target #149
+...
+SPRITE_ID: 149
+▶
+SPRITE135
+Target #150
+...
+SPRITE_ID: 150
+▶
+SPRITE136
+Target #151
+...
+SPRITE_ID: 151
+▶
+SPRITE137
+Target #137
+...
+SPRITE_ID: 137
+▶
+SPRITE138
+Target #152
+...
+SPRITE_ID: 152
+▶
+SPRITE139
+Target #153
+...
+SPRITE_ID: 153
+▶
+SPRITE140
+Target #155
+...
+SPRITE_ID: 155
+▶
+SPRITE141
+Target #156
+...
+SPRITE_ID: 156
+▶
+SPRITE142
+Target #158
+...
+SPRITE_ID: 158
+▶
+SPRITE143
+Target #159
+...
+SPRITE_ID: 159
+▶
+SPRITE144
+Target #160
+...
+SPRITE_ID: 160
+▶
+SPRITE145
+Target #161
+...
+SPRITE_ID: 161
+▶
+SPRITE146
+Target #163
+...
+SPRITE_ID: 163
+▶
+SPRITE147
+Target #164
+...
+SPRITE_ID: 164
+▶
+SPRITE148
+Target #165
+...
+SPRITE_ID: 165
+▶
+SPRITE149
+Target #166
+...
+SPRITE_ID: 166
+▶
+SPRITE150
+Target #167
+...
+SPRITE_ID: 167
+▶
+SPRITE151
+Target #168
+...
+SPRITE_ID: 168
+▶
+SPRITE152
+Target #169
+...
+SPRITE_ID: 169
+▶
+SPRITE153
+Target #170
+...
+SPRITE_ID: 170
+▶
+SPRITE154
+Target #197
+...
+SPRITE_ID: 197
+▶
+SPRITE155
+Target #172
+...
+SPRITE_ID: 172
+▶
+SPRITE156
+Target #173
+...
+SPRITE_ID: 173
+▶
+SPRITE157
+Target #174
+...
+SPRITE_ID: 174
+▶
+SPRITE158
+Target #175
+...
+SPRITE_ID: 175
+▶
+SPRITE159
+Target #176
+...
+SPRITE_ID: 176
+▶
+SPRITE160
+Target #177
+...
+SPRITE_ID: 177
+▶
+SPRITE161
+Target #178
+...
+SPRITE_ID: 178
+▶
+SPRITE162
+Target #179
+...
+SPRITE_ID: 179
+▶
+SPRITE163
+Target #180
+...
+SPRITE_ID: 180
+▶
+SPRITE164
+Target #181
+...
+SPRITE_ID: 181
+▶
+SPRITE165
+Target #182
+...
+SPRITE_ID: 182
+▶
+SPRITE166
+Target #183
+...
+SPRITE_ID: 183
+▶
+SPRITE167
+Target #184
+...
+SPRITE_ID: 184
+▶
+SPRITE168
+Target #185
+...
+SPRITE_ID: 185
+▶
+SPRITE169
+Target #186
+...
+SPRITE_ID: 186
+▶
+SPRITE170
+Target #187
+...
+SPRITE_ID: 187
+▶
+SPRITE171
+Target #188
+...
+SPRITE_ID: 188
+▶
+SPRITE172
+Target #201
+...
+SPRITE_ID: 201
+▶
+SPRITE173
+Target #189
+...
+SPRITE_ID: 189
+▶
+SPRITE174
+Target #190
+...
+SPRITE_ID: 190
+▶
+SPRITE175
+Target #191
+...
+SPRITE_ID: 191
+▶
+SPRITE176
+Target #192
+...
+SPRITE_ID: 192
+▶
+SPRITE177
+Target #193
+...
+SPRITE_ID: 193
+▶
+SPRITE178
+Target #194
+...
+SPRITE_ID: 194
+▶
+SPRITE179
+Target #195
+...
+SPRITE_ID: 195
+▶
+SPRITE180
+Target #196
+...
+SPRITE_ID: 196
+▶
+SPRITE181
+Target #198
+...
+SPRITE_ID: 198
+▶
+SPRITE182
+Target #199
+...
+SPRITE_ID: 199
+▶
+SPRITE183
+Target #200
+...
+SPRITE_ID: 200
+▶
+SPRITE184
+Target #202
+...
+SPRITE_ID: 202
+▶
+SPRITE185
+Target #203
+...
+SPRITE_ID: 203
+▶
+SPRITE186
+Target #204
+...
+SPRITE_ID: 204
+▶
+SPRITE187
+Target #205
+...
+SPRITE_ID: 205
+▶
+SPRITE188
+Target #206
+...
+SPRITE_ID: 206
+▶
+SPRITE189
+Target #207
+...
+SPRITE_ID: 207
+▶
+SPRITE190
+Target #208
+...
+SPRITE_ID: 208
+▶
+SPRITE191
+Target #209
+...
+SPRITE_ID: 209
+▶
+SPRITE192
+Target #210
+...
+SPRITE_ID: 210
+▶
+SPRITE193
+Target #263
+...
+SPRITE_ID: 263
+▶
+SPRITE194
+Target #211
+...
+SPRITE_ID: 211
+▶
+SPRITE195
+Target #212
+...
+SPRITE_ID: 212
+▶
+SPRITE196
+Target #213
+...
+SPRITE_ID: 213
+▶
+SPRITE197
+Target #214
+...
+SPRITE_ID: 214
+▶
+SPRITE198
+Target #216
+...
+SPRITE_ID: 216
+▶
+SPRITE199
+Target #217
+...
+SPRITE_ID: 217
+▶
+SPRITE200
+Target #220
+...
+SPRITE_ID: 220
+▶
+SPRITE201
+Target #218
+...
+SPRITE_ID: 218
+▶
+SPRITE202
+Target #219
+...
+SPRITE_ID: 219
+▶
+SPRITE203
+Target #221
+...
+SPRITE_ID: 221
+▶
+SPRITE204
+Target #222
+...
+SPRITE_ID: 222
+▶
+SPRITE205
+Target #223
+...
+SPRITE_ID: 223
+▶
+SPRITE206
+Target #224
+...
+SPRITE_ID: 224
+▶
+SPRITE207
+Target #225
+...
+SPRITE_ID: 225
+▶
+SPRITE208
+Target #226
+...
+SPRITE_ID: 226
+▶
+SPRITE209
+Target #227
+...
+SPRITE_ID: 227
+▶
+SPRITE210
+Target #228
+...
+SPRITE_ID: 228
+▶
+SPRITE211
+Target #229
+...
+SPRITE_ID: 229
+▶
+SPRITE212
+Target #230
+...
+SPRITE_ID: 230
+▶
+SPRITE214
+Target #232
+...
+SPRITE_ID: 232
+▶
+SPRITE215
+Target #233
+...
+SPRITE_ID: 233
+▶
+SPRITE216
+Target #234
+...
+SPRITE_ID: 234
+▶
+SPRITE217
+Target #235
+...
+SPRITE_ID: 235
+▶
+SPRITE218
+Target #236
+...
+SPRITE_ID: 236
+▶
+SPRITE219
+Target #237
+...
+SPRITE_ID: 237
+▶
+SPRITE220
+Target #238
+...
+SPRITE_ID: 238
+▶
+SPRITE221
+Target #240
+...
+SPRITE_ID: 240
+▶
+SPRITE222
+Target #241
+...
+SPRITE_ID: 241
+▶
+SPRITE223
+Target #242
+...
+SPRITE_ID: 242
+▶
+SPRITE224
+Target #243
+...
+SPRITE_ID: 243
+▶
+SPRITE225
+Target #244
+...
+SPRITE_ID: 244
+▶
+SPRITE227
+Target #246
+...
+SPRITE_ID: 246
+▶
+SPRITE228
+Target #247
+...
+SPRITE_ID: 247
+▶
+SPRITE229
+Target #250
+...
+SPRITE_ID: 250
+▶
+SPRITE230
+Target #251
+...
+SPRITE_ID: 251
+▶
+SPRITE231
+Target #252
+...
+SPRITE_ID: 252
+▶
+SPRITE232
+Target #253
+...
+SPRITE_ID: 253
+▶
+SPRITE233
+Target #254
+...
+SPRITE_ID: 254
+▶
+SPRITE234
+Target #255
+...
+SPRITE_ID: 255
+▶
+SPRITE235
+Target #256
+...
+SPRITE_ID: 256
+▶
+SPRITE236
+Target #258
+...
+SPRITE_ID: 258
+▶
+SPRITE237
+Target #259
+...
+SPRITE_ID: 259
+▶
+SPRITE238
+Target #260
+...
+SPRITE_ID: 260
+▶
+SPRITE239
+Target #261
+...
+SPRITE_ID: 261
+▶
+SPRITE240
+Target #264
+...
+SPRITE_ID: 264
+▶
+SPRITE241
+Target #265
+...
+SPRITE_ID: 265
+▶
+SPRITE242
+Target #266
+...
+SPRITE_ID: 266
+▶
+SPRITE243
+Target #267
+...
+SPRITE_ID: 267
+▶
+SPRITE244
+Target #268
+...
+SPRITE_ID: 268
+▶
+SPRITE245
+Target #269
+...
+SPRITE_ID: 269
+▶
+SPRITE246
+Target #270
+...
+SPRITE_ID: 270
+▶
+SPRITE247
+Target #271
+...
+SPRITE_ID: 271

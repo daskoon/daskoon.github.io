@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "2",
+    "oldFolder": "Sprite2",
+    "newName": "textboxinner"
+  },
+  {
+    "id": "1",
+    "oldFolder": "Sprite1",
+    "newName": "sprite2"
+  },
+  {
+    "id": "10",
+    "oldFolder": "Sprite10",
+    "newName": "redbutton"
+  },
+  {
+    "id": "11",
+    "oldFolder": "Sprite11",
+    "newName": "doorbadguy"
+  },
+  {
+    "id": "12",
+    "oldFolder": "Sprite12",
+    "newName": "bluebutton"
+  },
+  {
+    "id": "9",
+    "oldFolder": "Sprite9",
+    "newName": "pay1000dollars"
+  },
+  {
+    "id": "4",
+    "oldFolder": "Sprite4",
+    "newName": "joystick"
+  },
+  {
+    "id": "5",
+    "oldFolder": "Sprite5",
+    "newName": "sprite9"
+  },
+  {
+    "id": "6",
+    "oldFolder": "Sprite6",
+    "newName": "sprite11"
+  },
+  {
+    "id": "7",
+    "oldFolder": "Sprite7",
+    "newName": "sprite12"
+  },
+  {
+    "id": "8",
+    "oldFolder": "Sprite8",
+    "newName": "redbutton2"
+  },
+  {
+    "id": "13",
+    "oldFolder": "Sprite13",
+    "newName": "greenbutton"
+  },
+  {
+    "id": "14",
+    "oldFolder": "Sprite14",
+    "newName": "sprite13"
+  },
+  {
+    "id": "15",
+    "oldFolder": "Sprite15",
+    "newName": "burntpanitem"
+  },
+  {
+    "id": "16",
+    "oldFolder": "Sprite16",
+    "newName": "redbutton3"
+  },
+  {
+    "id": "17",
+    "oldFolder": "Sprite17",
+    "newName": "jone"
+  },
+  {
+    "id": "18",
+    "oldFolder": "Sprite18",
+    "newName": "bigredbutton"
+  },
+  {
+    "id": "19",
+    "oldFolder": "Sprite19",
+    "newName": "sprite18"
+  },
+  {
+    "id": "20",
+    "oldFolder": "Sprite20",
+    "newName": "sprite19"
+  },
+  {
+    "id": "22",
+    "oldFolder": "Sprite22",
+    "newName": "sprite22"
+  },
+  {
+    "id": "23",
+    "oldFolder": "Sprite23",
+    "newName": "sprite23"
+  },
+  {
+    "id": "24",
+    "oldFolder": "Sprite24",
+    "newName": "sprite24"
+  },
+  {
+    "id": "25",
+    "oldFolder": "Sprite25",
+    "newName": "sprite25"
+  },
+  {
+    "id": "26",
+    "oldFolder": "Sprite26",
+    "newName": "playbutton"
+  },
+  {
+    "id": "28",
+    "oldFolder": "Sprite28",
+    "newName": "proposebutton"
+  },
+  {
+    "id": "30",
+    "oldFolder": "Sprite30",
+    "newName": "money"
+  },
+  {
+    "id": "31",
+    "oldFolder": "Sprite31",
+    "newName": "attackslider"
+  },
+  {
+    "id": "32",
+    "oldFolder": "Sprite32",
+    "newName": "greenthing"
+  },
+  {
+    "id": "33",
+    "oldFolder": "Sprite33",
+    "newName": "miss"
+  },
+  {
+    "id": "34",
+    "oldFolder": "Sprite34",
+    "newName": "bullet2"
+  },
+  {
+    "id": "38",
+    "oldFolder": "Sprite38",
+    "newName": "sprite40"
+  },
+  {
+    "id": "40",
+    "oldFolder": "Sprite40",
+    "newName": "sprite41"
+  },
+  {
+    "id": "39",
+    "oldFolder": "Sprite39",
+    "newName": "yetanotherredbutton"
+  },
+  {
+    "id": "41",
+    "oldFolder": "Sprite41",
+    "newName": "omgredbutton"
+  },
+  {
+    "id": "42",
+    "oldFolder": "Sprite42",
+    "newName": "explosion3"
+  },
+  {
+    "id": "43",
+    "oldFolder": "Sprite43",
+    "newName": "buttonred"
+  },
+  {
+    "id": "46",
+    "oldFolder": "Sprite46",
+    "newName": "purple"
+  },
+  {
+    "id": "47",
+    "oldFolder": "Sprite47",
+    "newName": "sprite47"
+  },
+  {
+    "id": "48",
+    "oldFolder": "Sprite48",
+    "newName": "sprite48"
+  },
+  {
+    "id": "49",
+    "oldFolder": "Sprite49",
+    "newName": "sprite49"
+  },
+  {
+    "id": "56",
+    "oldFolder": "Sprite56",
+    "newName": "sprite57"
+  },
+  {
+    "id": "53",
+    "oldFolder": "Sprite53",
+    "newName": "shopoverlaymanager"
+  },
+  {
+    "id": "54",
+    "oldFolder": "Sprite54",
+    "newName": "sprite55"
+  },
+  {
+    "id": "55",
+    "oldFolder": "Sprite55",
+    "newName": "bullet6"
+  },
+  {
+    "id": "57",
+    "oldFolder": "Sprite57",
+    "newName": "sprite58"
+  },
+  {
+    "id": "58",
+    "oldFolder": "Sprite58",
+    "newName": "sprite59"
+  },
+  {
+    "id": "59",
+    "oldFolder": "Sprite59",
+    "newName": "sprite61"
+  },
+  {
+    "id": "61",
+    "oldFolder": "Sprite61",
+    "newName": "sprite29"
+  },
+  {
+    "id": "29",
+    "oldFolder": "Sprite29",
+    "newName": "attackbuttons"
+  },
+  {
+    "id": "35",
+    "oldFolder": "Sprite35",
+    "newName": "bullet3"
+  },
+  {
+    "id": "36",
+    "oldFolder": "Sprite36",
+    "newName": "bullet4"
+  },
+  {
+    "id": "37",
+    "oldFolder": "Sprite37",
+    "newName": "slideblock"
+  },
+  {
+    "id": "44",
+    "oldFolder": "Sprite44",
+    "newName": "bullet9"
+  },
+  {
+    "id": "45",
+    "oldFolder": "Sprite45",
+    "newName": "bullet8"
+  },
+  {
+    "id": "50",
+    "oldFolder": "Sprite50",
+    "newName": "cutesyarmorshop"
+  },
+  {
+    "id": "51",
+    "oldFolder": "Sprite51",
+    "newName": "lilgreendude"
+  },
+  {
+    "id": "52",
+    "oldFolder": "Sprite52",
+    "newName": "sprite53"
+  },
+  {
+    "id": "60",
+    "oldFolder": "Sprite60",
+    "newName": "bullet5"
+  },
+  {
+    "id": "63",
+    "oldFolder": "Sprite63",
+    "newName": "slidepuzzle1"
+  },
+  {
+    "id": "64",
+    "oldFolder": "Sprite64",
+    "newName": "slidepuzzle2"
+  },
+  {
+    "id": "65",
+    "oldFolder": "Sprite65",
+    "newName": "sprite44"
+  },
+  {
+    "id": "66",
+    "oldFolder": "Sprite66",
+    "newName": "mysteryguy"
+  },
+  {
+    "id": "62",
+    "oldFolder": "Sprite62",
+    "newName": "sprite35"
+  },
+  {
+    "id": "68",
+    "oldFolder": "Sprite68",
+    "newName": "sprite50"
+  },
+  {
+    "id": "70",
+    "oldFolder": "Sprite70",
+    "newName": "explosion"
+  },
+  {
+    "id": "71",
+    "oldFolder": "Sprite71",
+    "newName": "sprite52"
+  },
+  {
+    "id": "73",
+    "oldFolder": "Sprite73",
+    "newName": "sprite63"
+  },
+  {
+    "id": "72",
+    "oldFolder": "Sprite72",
+    "newName": "sprite60"
+  },
+  {
+    "id": "74",
+    "oldFolder": "Sprite74",
+    "newName": "sprite64"
+  },
+  {
+    "id": "75",
+    "oldFolder": "Sprite75",
+    "newName": "sprite65"
+  },
+  {
+    "id": "76",
+    "oldFolder": "Sprite76",
+    "newName": "sprite66"
+  },
+  {
+    "id": "77",
+    "oldFolder": "Sprite77",
+    "newName": "sprite62"
+  },
+  {
+    "id": "78",
+    "oldFolder": "Sprite78",
+    "newName": "sprite68"
+  },
+  {
+    "id": "79",
+    "oldFolder": "Sprite79",
+    "newName": "sprite69"
+  },
+  {
+    "id": "84",
+    "oldFolder": "Sprite84",
+    "newName": "sprite74"
+  },
+  {
+    "id": "85",
+    "oldFolder": "Sprite85",
+    "newName": "sprite75"
+  },
+  {
+    "id": "86",
+    "oldFolder": "Sprite86",
+    "newName": "sprite76"
+  },
+  {
+    "id": "80",
+    "oldFolder": "Sprite80",
+    "newName": "sprite70"
+  },
+  {
+    "id": "81",
+    "oldFolder": "Sprite81",
+    "newName": "sprite71"
+  },
+  {
+    "id": "82",
+    "oldFolder": "Sprite82",
+    "newName": "sprite73"
+  },
+  {
+    "id": "87",
+    "oldFolder": "Sprite87",
+    "newName": "sprite77"
+  },
+  {
+    "id": "88",
+    "oldFolder": "Sprite88",
+    "newName": "sprite78"
+  },
+  {
+    "id": "89",
+    "oldFolder": "Sprite89",
+    "newName": "sprite79"
+  },
+  {
+    "id": "90",
+    "oldFolder": "Sprite90",
+    "newName": "sprite84"
+  },
+  {
+    "id": "91",
+    "oldFolder": "Sprite91",
+    "newName": "sprite85"
+  },
+  {
+    "id": "92",
+    "oldFolder": "Sprite92",
+    "newName": "sprite86"
+  },
+  {
+    "id": "93",
+    "oldFolder": "Sprite93",
+    "newName": "sprite80"
+  },
+  {
+    "id": "94",
+    "oldFolder": "Sprite94",
+    "newName": "sprite81"
+  },
+  {
+    "id": "95",
+    "oldFolder": "Sprite95",
+    "newName": "sprite82"
+  },
+  {
+    "id": "96",
+    "oldFolder": "Sprite96",
+    "newName": "sprite87"
+  },
+  {
+    "id": "97",
+    "oldFolder": "Sprite97",
+    "newName": "sprite88"
+  },
+  {
+    "id": "98",
+    "oldFolder": "Sprite98",
+    "newName": "sprite89"
+  },
+  {
+    "id": "99",
+    "oldFolder": "Sprite99",
+    "newName": "sprite90"
+  },
+  {
+    "id": "101",
+    "oldFolder": "Sprite101",
+    "newName": "sprite92"
+  },
+  {
+    "id": "102",
+    "oldFolder": "Sprite102",
+    "newName": "sprite93"
+  },
+  {
+    "id": "103",
+    "oldFolder": "Sprite103",
+    "newName": "sprite94"
+  },
+  {
+    "id": "104",
+    "oldFolder": "Sprite104",
+    "newName": "sprite95"
+  },
+  {
+    "id": "105",
+    "oldFolder": "Sprite105",
+    "newName": "sprite96"
+  },
+  {
+    "id": "106",
+    "oldFolder": "Sprite106",
+    "newName": "sprite97"
+  },
+  {
+    "id": "107",
+    "oldFolder": "Sprite107",
+    "newName": "bullet10"
+  },
+  {
+    "id": "108",
+    "oldFolder": "Sprite108",
+    "newName": "sprite98"
+  },
+  {
+    "id": "100",
+    "oldFolder": "Sprite100",
+    "newName": "sprite91"
+  },
+  {
+    "id": "109",
+    "oldFolder": "Sprite109",
+    "newName": "sprite99"
+  },
+  {
+    "id": "111",
+    "oldFolder": "Sprite111",
+    "newName": "sprite101"
+  },
+  {
+    "id": "113",
+    "oldFolder": "Sprite113",
+    "newName": "sprite103"
+  },
+  {
+    "id": "67",
+    "oldFolder": "Sprite67",
+    "newName": "slideblock2"
+  },
+  {
+    "id": "114",
+    "oldFolder": "Sprite114",
+    "newName": "sprite104"
+  },
+  {
+    "id": "115",
+    "oldFolder": "Sprite115",
+    "newName": "sprite105"
+  },
+  {
+    "id": "116",
+    "oldFolder": "Sprite116",
+    "newName": "sprite106"
+  },
+  {
+    "id": "117",
+    "oldFolder": "Sprite117",
+    "newName": "sprite107"
+  },
+  {
+    "id": "118",
+    "oldFolder": "Sprite118",
+    "newName": "sprite108"
+  },
+  {
+    "id": "119",
+    "oldFolder": "Sprite119",
+    "newName": "sprite100"
+  },
+  {
+    "id": "83",
+    "oldFolder": "Sprite83",
+    "newName": "sprite72"
+  },
+  {
+    "id": "120",
+    "oldFolder": "Sprite120",
+    "newName": "sprite109"
+  },
+  {
+    "id": "121",
+    "oldFolder": "Sprite121",
+    "newName": "sprite110"
+  },
+  {
+    "id": "122",
+    "oldFolder": "Sprite122",
+    "newName": "sprite111"
+  },
+  {
+    "id": "137",
+    "oldFolder": "Sprite137",
+    "newName": "sprite137"
+  },
+  {
+    "id": "123",
+    "oldFolder": "Sprite123",
+    "newName": "sprite112"
+  },
+  {
+    "id": "124",
+    "oldFolder": "Sprite124",
+    "newName": "sprite113"
+  },
+  {
+    "id": "125",
+    "oldFolder": "Sprite125",
+    "newName": "sprite67"
+  },
+  {
+    "id": "126",
+    "oldFolder": "Sprite126",
+    "newName": "sprite114"
+  },
+  {
+    "id": "127",
+    "oldFolder": "Sprite127",
+    "newName": "sprite115"
+  },
+  {
+    "id": "128",
+    "oldFolder": "Sprite128",
+    "newName": "sprite116"
+  },
+  {
+    "id": "129",
+    "oldFolder": "Sprite129",
+    "newName": "sprite117"
+  },
+  {
+    "id": "130",
+    "oldFolder": "Sprite130",
+    "newName": "explosiontnt"
+  },
+  {
+    "id": "131",
+    "oldFolder": "Sprite131",
+    "newName": "sprite118"
+  },
+  {
+    "id": "132",
+    "oldFolder": "Sprite132",
+    "newName": "sprite119"
+  },
+  {
+    "id": "133",
+    "oldFolder": "Sprite133",
+    "newName": "sprite83"
+  },
+  {
+    "id": "134",
+    "oldFolder": "Sprite134",
+    "newName": "sprite120"
+  },
+  {
+    "id": "135",
+    "oldFolder": "Sprite135",
+    "newName": "sprite121"
+  },
+  {
+    "id": "136",
+    "oldFolder": "Sprite136",
+    "newName": "sprite122"
+  },
+  {
+    "id": "138",
+    "oldFolder": "Sprite138",
+    "newName": "sprite123"
+  },
+  {
+    "id": "139",
+    "oldFolder": "Sprite139",
+    "newName": "sprite124"
+  },
+  {
+    "id": "140",
+    "oldFolder": "Sprite140",
+    "newName": "sprite125"
+  },
+  {
+    "id": "141",
+    "oldFolder": "Sprite141",
+    "newName": "sprite126"
+  },
+  {
+    "id": "21",
+    "oldFolder": "Sprite21",
+    "newName": "exit"
+  },
+  {
+    "id": "142",
+    "oldFolder": "Sprite142",
+    "newName": "sprite127"
+  },
+  {
+    "id": "143",
+    "oldFolder": "Sprite143",
+    "newName": "sprite128"
+  },
+  {
+    "id": "144",
+    "oldFolder": "Sprite144",
+    "newName": "sprite129"
+  },
+  {
+    "id": "145",
+    "oldFolder": "Sprite145",
+    "newName": "sprite130"
+  },
+  {
+    "id": "146",
+    "oldFolder": "Sprite146",
+    "newName": "sprite131"
+  },
+  {
+    "id": "148",
+    "oldFolder": "Sprite148",
+    "newName": "sprite133"
+  },
+  {
+    "id": "149",
+    "oldFolder": "Sprite149",
+    "newName": "sprite134"
+  },
+  {
+    "id": "150",
+    "oldFolder": "Sprite150",
+    "newName": "sprite135"
+  },
+  {
+    "id": "151",
+    "oldFolder": "Sprite151",
+    "newName": "sprite136"
+  },
+  {
+    "id": "152",
+    "oldFolder": "Sprite152",
+    "newName": "sprite138"
+  },
+  {
+    "id": "153",
+    "oldFolder": "Sprite153",
+    "newName": "sprite139"
+  },
+  {
+    "id": "155",
+    "oldFolder": "Sprite155",
+    "newName": "sprite140"
+  },
+  {
+    "id": "156",
+    "oldFolder": "Sprite156",
+    "newName": "sprite141"
+  },
+  {
+    "id": "157",
+    "oldFolder": "Sprite157",
+    "newName": "sprite21"
+  },
+  {
+    "id": "158",
+    "oldFolder": "Sprite158",
+    "newName": "sprite142"
+  },
+  {
+    "id": "159",
+    "oldFolder": "Sprite159",
+    "newName": "sprite143"
+  },
+  {
+    "id": "160",
+    "oldFolder": "Sprite160",
+    "newName": "sprite144"
+  },
+  {
+    "id": "161",
+    "oldFolder": "Sprite161",
+    "newName": "sprite145"
+  },
+  {
+    "id": "163",
+    "oldFolder": "Sprite163",
+    "newName": "sprite146"
+  },
+  {
+    "id": "164",
+    "oldFolder": "Sprite164",
+    "newName": "sprite147"
+  },
+  {
+    "id": "165",
+    "oldFolder": "Sprite165",
+    "newName": "sprite148"
+  },
+  {
+    "id": "166",
+    "oldFolder": "Sprite166",
+    "newName": "sprite149"
+  },
+  {
+    "id": "167",
+    "oldFolder": "Sprite167",
+    "newName": "sprite150"
+  },
+  {
+    "id": "168",
+    "oldFolder": "Sprite168",
+    "newName": "sprite151"
+  },
+  {
+    "id": "169",
+    "oldFolder": "Sprite169",
+    "newName": "sprite152"
+  },
+  {
+    "id": "170",
+    "oldFolder": "Sprite170",
+    "newName": "sprite153"
+  },
+  {
+    "id": "171",
+    "oldFolder": "Sprite171",
+    "newName": "img_1556"
+  },
+  {
+    "id": "173",
+    "oldFolder": "Sprite173",
+    "newName": "sprite156"
+  },
+  {
+    "id": "174",
+    "oldFolder": "Sprite174",
+    "newName": "sprite157"
+  },
+  {
+    "id": "175",
+    "oldFolder": "Sprite175",
+    "newName": "sprite158"
+  },
+  {
+    "id": "176",
+    "oldFolder": "Sprite176",
+    "newName": "sprite159"
+  },
+  {
+    "id": "177",
+    "oldFolder": "Sprite177",
+    "newName": "sprite160"
+  },
+  {
+    "id": "178",
+    "oldFolder": "Sprite178",
+    "newName": "sprite161"
+  },
+  {
+    "id": "179",
+    "oldFolder": "Sprite179",
+    "newName": "sprite162"
+  },
+  {
+    "id": "180",
+    "oldFolder": "Sprite180",
+    "newName": "sprite163"
+  },
+  {
+    "id": "181",
+    "oldFolder": "Sprite181",
+    "newName": "sprite164"
+  },
+  {
+    "id": "182",
+    "oldFolder": "Sprite182",
+    "newName": "sprite165"
+  },
+  {
+    "id": "183",
+    "oldFolder": "Sprite183",
+    "newName": "sprite166"
+  },
+  {
+    "id": "172",
+    "oldFolder": "Sprite172",
+    "newName": "sprite155"
+  },
+  {
+    "id": "184",
+    "oldFolder": "Sprite184",
+    "newName": "sprite167"
+  },
+  {
+    "id": "185",
+    "oldFolder": "Sprite185",
+    "newName": "sprite168"
+  },
+  {
+    "id": "186",
+    "oldFolder": "Sprite186",
+    "newName": "sprite169"
+  },
+  {
+    "id": "187",
+    "oldFolder": "Sprite187",
+    "newName": "sprite170"
+  },
+  {
+    "id": "188",
+    "oldFolder": "Sprite188",
+    "newName": "sprite171"
+  },
+  {
+    "id": "189",
+    "oldFolder": "Sprite189",
+    "newName": "sprite173"
+  },
+  {
+    "id": "190",
+    "oldFolder": "Sprite190",
+    "newName": "sprite174"
+  },
+  {
+    "id": "191",
+    "oldFolder": "Sprite191",
+    "newName": "sprite175"
+  },
+  {
+    "id": "192",
+    "oldFolder": "Sprite192",
+    "newName": "sprite176"
+  },
+  {
+    "id": "194",
+    "oldFolder": "Sprite194",
+    "newName": "sprite178"
+  },
+  {
+    "id": "195",
+    "oldFolder": "Sprite195",
+    "newName": "sprite179"
+  },
+  {
+    "id": "196",
+    "oldFolder": "Sprite196",
+    "newName": "sprite180"
+  },
+  {
+    "id": "197",
+    "oldFolder": "Sprite197",
+    "newName": "sprite154"
+  },
+  {
+    "id": "198",
+    "oldFolder": "Sprite198",
+    "newName": "sprite181"
+  },
+  {
+    "id": "199",
+    "oldFolder": "Sprite199",
+    "newName": "sprite182"
+  },
+  {
+    "id": "201",
+    "oldFolder": "Sprite201",
+    "newName": "sprite172"
+  },
+  {
+    "id": "202",
+    "oldFolder": "Sprite202",
+    "newName": "sprite184"
+  },
+  {
+    "id": "200",
+    "oldFolder": "Sprite200",
+    "newName": "sprite183"
+  },
+  {
+    "id": "203",
+    "oldFolder": "Sprite203",
+    "newName": "sprite185"
+  },
+  {
+    "id": "204",
+    "oldFolder": "Sprite204",
+    "newName": "sprite186"
+  },
+  {
+    "id": "205",
+    "oldFolder": "Sprite205",
+    "newName": "sprite187"
+  },
+  {
+    "id": "206",
+    "oldFolder": "Sprite206",
+    "newName": "sprite188"
+  },
+  {
+    "id": "207",
+    "oldFolder": "Sprite207",
+    "newName": "sprite189"
+  },
+  {
+    "id": "208",
+    "oldFolder": "Sprite208",
+    "newName": "sprite190"
+  },
+  {
+    "id": "209",
+    "oldFolder": "Sprite209",
+    "newName": "sprite191"
+  },
+  {
+    "id": "210",
+    "oldFolder": "Sprite210",
+    "newName": "sprite192"
+  },
+  {
+    "id": "211",
+    "oldFolder": "Sprite211",
+    "newName": "sprite194"
+  },
+  {
+    "id": "212",
+    "oldFolder": "Sprite212",
+    "newName": "sprite195"
+  },
+  {
+    "id": "213",
+    "oldFolder": "Sprite213",
+    "newName": "sprite196"
+  },
+  {
+    "id": "214",
+    "oldFolder": "Sprite214",
+    "newName": "sprite197"
+  },
+  {
+    "id": "215",
+    "oldFolder": "Sprite215",
+    "newName": "img_1669"
+  },
+  {
+    "id": "216",
+    "oldFolder": "Sprite216",
+    "newName": "sprite198"
+  },
+  {
+    "id": "217",
+    "oldFolder": "Sprite217",
+    "newName": "sprite199"
+  },
+  {
+    "id": "218",
+    "oldFolder": "Sprite218",
+    "newName": "sprite201"
+  },
+  {
+    "id": "219",
+    "oldFolder": "Sprite219",
+    "newName": "sprite202"
+  },
+  {
+    "id": "220",
+    "oldFolder": "Sprite220",
+    "newName": "sprite200"
+  },
+  {
+    "id": "221",
+    "oldFolder": "Sprite221",
+    "newName": "sprite203"
+  },
+  {
+    "id": "222",
+    "oldFolder": "Sprite222",
+    "newName": "sprite204"
+  },
+  {
+    "id": "223",
+    "oldFolder": "Sprite223",
+    "newName": "sprite205"
+  },
+  {
+    "id": "224",
+    "oldFolder": "Sprite224",
+    "newName": "sprite206"
+  },
+  {
+    "id": "225",
+    "oldFolder": "Sprite225",
+    "newName": "sprite207"
+  },
+  {
+    "id": "226",
+    "oldFolder": "Sprite226",
+    "newName": "sprite208"
+  },
+  {
+    "id": "227",
+    "oldFolder": "Sprite227",
+    "newName": "sprite209"
+  },
+  {
+    "id": "228",
+    "oldFolder": "Sprite228",
+    "newName": "sprite210"
+  },
+  {
+    "id": "229",
+    "oldFolder": "Sprite229",
+    "newName": "sprite211"
+  },
+  {
+    "id": "230",
+    "oldFolder": "Sprite230",
+    "newName": "sprite212"
+  },
+  {
+    "id": "232",
+    "oldFolder": "Sprite232",
+    "newName": "sprite214"
+  },
+  {
+    "id": "233",
+    "oldFolder": "Sprite233",
+    "newName": "sprite215"
+  },
+  {
+    "id": "234",
+    "oldFolder": "Sprite234",
+    "newName": "sprite216"
+  },
+  {
+    "id": "235",
+    "oldFolder": "Sprite235",
+    "newName": "sprite217"
+  },
+  {
+    "id": "3",
+    "oldFolder": "Sprite3",
+    "newName": "player"
+  },
+  {
+    "id": "236",
+    "oldFolder": "Sprite236",
+    "newName": "sprite218"
+  },
+  {
+    "id": "237",
+    "oldFolder": "Sprite237",
+    "newName": "sprite219"
+  },
+  {
+    "id": "238",
+    "oldFolder": "Sprite238",
+    "newName": "sprite220"
+  },
+  {
+    "id": "239",
+    "oldFolder": "Sprite239",
+    "newName": "sans"
+  },
+  {
+    "id": "193",
+    "oldFolder": "Sprite193",
+    "newName": "sprite177"
+  },
+  {
+    "id": "240",
+    "oldFolder": "Sprite240",
+    "newName": "sprite221"
+  },
+  {
+    "id": "241",
+    "oldFolder": "Sprite241",
+    "newName": "sprite222"
+  },
+  {
+    "id": "242",
+    "oldFolder": "Sprite242",
+    "newName": "sprite223"
+  },
+  {
+    "id": "243",
+    "oldFolder": "Sprite243",
+    "newName": "sprite224"
+  },
+  {
+    "id": "244",
+    "oldFolder": "Sprite244",
+    "newName": "sprite225"
+  },
+  {
+    "id": "246",
+    "oldFolder": "Sprite246",
+    "newName": "sprite227"
+  },
+  {
+    "id": "247",
+    "oldFolder": "Sprite247",
+    "newName": "sprite228"
+  }
+]

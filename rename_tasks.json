@@ -1,0 +1,257 @@
+[
+  {
+    "id": "2",
+    "oldFolder": "Sprite2",
+    "newName": "textboxinner"
+  },
+  {
+    "id": "3",
+    "oldFolder": "Sprite3",
+    "newName": "PLAYER"
+  },
+  {
+    "id": "4",
+    "oldFolder": "Sprite4",
+    "newName": "JOYSTICK"
+  },
+  {
+    "id": "5",
+    "oldFolder": "Sprite5",
+    "newName": "sprite9"
+  },
+  {
+    "id": "8",
+    "oldFolder": "Sprite8",
+    "newName": "redbutton2"
+  },
+  {
+    "id": "9",
+    "oldFolder": "Sprite9",
+    "newName": "pay1000dollars"
+  },
+  {
+    "id": "10",
+    "oldFolder": "Sprite10",
+    "newName": "redbutton"
+  },
+  {
+    "id": "11",
+    "oldFolder": "Sprite11",
+    "newName": "doorbadguy"
+  },
+  {
+    "id": "12",
+    "oldFolder": "Sprite12",
+    "newName": "bluebutton"
+  },
+  {
+    "id": "13",
+    "oldFolder": "Sprite13",
+    "newName": "greenbutton"
+  },
+  {
+    "id": "15",
+    "oldFolder": "Sprite15",
+    "newName": "burntpanitem"
+  },
+  {
+    "id": "16",
+    "oldFolder": "Sprite16",
+    "newName": "redbutton3"
+  },
+  {
+    "id": "17",
+    "oldFolder": "Sprite17",
+    "newName": "JONE"
+  },
+  {
+    "id": "18",
+    "oldFolder": "Sprite18",
+    "newName": "bigredbutton"
+  },
+  {
+    "id": "21",
+    "oldFolder": "Sprite21",
+    "newName": "exit"
+  },
+  {
+    "id": "26",
+    "oldFolder": "Sprite26",
+    "newName": "PLAYBUTTON"
+  },
+  {
+    "id": "28",
+    "oldFolder": "Sprite28",
+    "newName": "proposebutton"
+  },
+  {
+    "id": "29",
+    "oldFolder": "Sprite29",
+    "newName": "attackbuttons"
+  },
+  {
+    "id": "30",
+    "oldFolder": "Sprite30",
+    "newName": "money"
+  },
+  {
+    "id": "31",
+    "oldFolder": "Sprite31",
+    "newName": "attackslider"
+  },
+  {
+    "id": "32",
+    "oldFolder": "Sprite32",
+    "newName": "greenthing"
+  },
+  {
+    "id": "33",
+    "oldFolder": "Sprite33",
+    "newName": "miss"
+  },
+  {
+    "id": "34",
+    "oldFolder": "Sprite34",
+    "newName": "BULLET2"
+  },
+  {
+    "id": "35",
+    "oldFolder": "Sprite35",
+    "newName": "BULLET3"
+  },
+  {
+    "id": "36",
+    "oldFolder": "Sprite36",
+    "newName": "BULLET4"
+  },
+  {
+    "id": "37",
+    "oldFolder": "Sprite37",
+    "newName": "slideblock"
+  },
+  {
+    "id": "39",
+    "oldFolder": "Sprite39",
+    "newName": "yetanotherredbutton"
+  },
+  {
+    "id": "41",
+    "oldFolder": "Sprite41",
+    "newName": "omgredbutton"
+  },
+  {
+    "id": "42",
+    "oldFolder": "Sprite42",
+    "newName": "explosion3"
+  },
+  {
+    "id": "43",
+    "oldFolder": "Sprite43",
+    "newName": "buttonred"
+  },
+  {
+    "id": "44",
+    "oldFolder": "Sprite44",
+    "newName": "BULLET9"
+  },
+  {
+    "id": "45",
+    "oldFolder": "Sprite45",
+    "newName": "BULLET8"
+  },
+  {
+    "id": "46",
+    "oldFolder": "Sprite46",
+    "newName": "purple"
+  },
+  {
+    "id": "50",
+    "oldFolder": "Sprite50",
+    "newName": "cutesyarmorshop"
+  },
+  {
+    "id": "51",
+    "oldFolder": "Sprite51",
+    "newName": "lilgreendude"
+  },
+  {
+    "id": "53",
+    "oldFolder": "Sprite53",
+    "newName": "SHOPOVERLAYMANAGER"
+  },
+  {
+    "id": "55",
+    "oldFolder": "Sprite55",
+    "newName": "BULLET6"
+  },
+  {
+    "id": "60",
+    "oldFolder": "Sprite60",
+    "newName": "BULLET5"
+  },
+  {
+    "id": "63",
+    "oldFolder": "Sprite63",
+    "newName": "slidepuzzle1"
+  },
+  {
+    "id": "64",
+    "oldFolder": "Sprite64",
+    "newName": "slidepuzzle2"
+  },
+  {
+    "id": "67",
+    "oldFolder": "Sprite67",
+    "newName": "slideblock2"
+  },
+  {
+    "id": "70",
+    "oldFolder": "Sprite70",
+    "newName": "explosion"
+  },
+  {
+    "id": "102",
+    "oldFolder": "Sprite102",
+    "newName": "SAVESTATION"
+  },
+  {
+    "id": "107",
+    "oldFolder": "Sprite107",
+    "newName": "BULLET10"
+  },
+  {
+    "id": "130",
+    "oldFolder": "Sprite130",
+    "newName": "explosiontnt"
+  },
+  {
+    "id": "132",
+    "oldFolder": "Sprite132",
+    "newName": "CUTESYSHOPNPC"
+  },
+  {
+    "id": "171",
+    "oldFolder": "Sprite171",
+    "newName": "IMG_1556"
+  },
+  {
+    "id": "213",
+    "oldFolder": "Sprite213",
+    "newName": "VAMPIREKNIFEITEM"
+  },
+  {
+    "id": "215",
+    "oldFolder": "Sprite215",
+    "newName": "IMG_1669"
+  },
+  {
+    "id": "226",
+    "oldFolder": "Sprite226",
+    "newName": "BURNTPANITEM"
+  },
+  {
+    "id": "239",
+    "oldFolder": "Sprite239",
+    "newName": "SANS"
+  }
+]

@@ -26,25 +26,23 @@ self.addEventListener('install', event => {
 
 // Fetch event - serve from cache when offline, cache assets on first request
 self.addEventListener('fetch', event => {
+  const url = new URL(event.request.url);
+  
+
   event.respondWith(
     caches.match(event.request)
       .then(response => {
-        // Return cached version if available
         if (response) {
           return response;
         }
         
-        // Fetch from network and cache for future use
         return fetch(event.request).then(response => {
-          // Check if we received a valid response
           if (!response || response.status !== 200 || response.type !== 'basic') {
             return response;
           }
 
-          // Clone the response as it can only be consumed once
           const responseToCache = response.clone();
 
-          // Cache assets (images, audio, etc.)
           if (event.request.url.includes('/assets/') || 
               event.request.url.match(/\.(png|jpg|jpeg|svg|wav|mp3|ogg)$/)) {
             caches.open(CACHE_NAME)
@@ -57,7 +55,6 @@ self.addEventListener('fetch', event => {
         });
       })
       .catch(() => {
-        // Return a fallback for navigation requests when offline
         if (event.request.mode === 'navigate') {
           return caches.match('./index.html');
         }

@@ -1,0 +1,1825 @@
+{
+  "sprites": [
+    {
+      "folder": "attackbuttons",
+      "class": "attackbuttons",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "attackslider",
+      "class": "Attackslider",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "B4046b0aEe4244ed8c1626776c7c0ca2",
+      "class": "B4046b0aEe4244ed8c1626776c7c0ca2",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "B4046b0aEe4244ed8c1626776c7c0ca3",
+      "class": "B4046b0aEe4244ed8c1626776c7c0ca3",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "B4046b0aEe4244ed8c1626776c7c0ca4",
+      "class": "B4046b0aEe4244ed8c1626776c7c0ca4",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "bluebutton",
+      "class": "Bluebutton",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet2",
+      "class": "Bullet2",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet4",
+      "class": "Bullet4",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet6",
+      "class": "Bullet6",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet7",
+      "class": "Bullet7",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Bullet8",
+      "class": "Bullet8",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "buttonred",
+      "class": "Buttonred",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "cutesyarmorshop",
+      "class": "Cutesyarmorshop",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "doorbadguy",
+      "class": "Doorbadguy",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "exit",
+      "class": "Exit",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "explosion",
+      "class": "Explosion",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "explosion3",
+      "class": "Explosion3",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "explosiontnt",
+      "class": "Explosiontnt",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "greenthing",
+      "class": "Greenthing",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Img1556",
+      "class": "Img1556",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Img1669",
+      "class": "Img1669",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "img_1556",
+      "class": "Img_1556",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "img_1669",
+      "class": "Img_1669",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Joystick",
+      "class": "Joystick",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "lilgreendude",
+      "class": "Lilgreendude",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "miss",
+      "class": "Miss",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "money",
+      "class": "Money",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "mysteryguy",
+      "class": "Mysteryguy",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "omgredbutton",
+      "class": "omgredbutton",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "pay1000dollars",
+      "class": "Pay1000dollars",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "playbutton",
+      "class": "Playbutton",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Player",
+      "class": "Player",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "purple",
+      "class": "Purple",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "redbutton",
+      "class": "Redbutton",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "redbutton2",
+      "class": "Redbutton2",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "SaveManagerSprite",
+      "class": "SaveManagerSprite",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "ShadowJone",
+      "class": "Sprite162",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "ShadowZork",
+      "class": "ShadowZork",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "shopoverlaymanager",
+      "class": "Shopoverlaymanager",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "slideblock",
+      "class": "Slideblock",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite101",
+      "class": "Sprite101",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite103",
+      "class": "Sprite103",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite106",
+      "class": "Sprite106",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite11",
+      "class": "Sprite11",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite111",
+      "class": "Sprite111",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite113",
+      "class": "Sprite113",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite116",
+      "class": "Sprite116",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite12",
+      "class": "Sprite12",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite122",
+      "class": "Sprite122",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite124",
+      "class": "Sprite124",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite128",
+      "class": "Sprite128",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite130",
+      "class": "Sprite130",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite132",
+      "class": "Sprite132",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite136",
+      "class": "Sprite136",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite137",
+      "class": "Sprite137",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite139",
+      "class": "Sprite139",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite14",
+      "class": "Sprite14",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite143",
+      "class": "Sprite143",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite145",
+      "class": "Sprite145",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite151",
+      "class": "Sprite151",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite153",
+      "class": "Sprite153",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite154",
+      "class": "Sprite154",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite157",
+      "class": "Sprite157",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite159",
+      "class": "Sprite159",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite16",
+      "class": "Sprite16",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite161",
+      "class": "Sprite161",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite162",
+      "class": "Sprite162",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite168",
+      "class": "Sprite168",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite170",
+      "class": "Sprite170",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite171",
+      "class": "Sprite171",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite174",
+      "class": "Sprite174",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite176",
+      "class": "Sprite176",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite178",
+      "class": "Sprite178",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite179",
+      "class": "Sprite179",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite185",
+      "class": "Sprite185",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite187",
+      "class": "Sprite187",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite188",
+      "class": "Sprite188",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite190",
+      "class": "Sprite190",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite192",
+      "class": "Sprite192",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite193",
+      "class": "Sprite193",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite194",
+      "class": "Sprite194",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite195",
+      "class": "Sprite195",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite197",
+      "class": "Sprite197",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite20",
+      "class": "Sprite20",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite203",
+      "class": "Sprite203",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite205",
+      "class": "Sprite205",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite206",
+      "class": "Sprite206",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite208",
+      "class": "Sprite208",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite21",
+      "class": "Sprite21",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite210",
+      "class": "Sprite210",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite211",
+      "class": "Sprite211",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite212",
+      "class": "Sprite212",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite213",
+      "class": "Sprite213",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite214",
+      "class": "Sprite214",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite215",
+      "class": "Sprite215",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite22",
+      "class": "Sprite22",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite221",
+      "class": "Sprite221",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite223",
+      "class": "Sprite223",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite224",
+      "class": "Sprite224",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite228",
+      "class": "Sprite228",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite23",
+      "class": "Sprite23",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite231",
+      "class": "Sprite231",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite234",
+      "class": "Sprite234",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite235",
+      "class": "Sprite235",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite236",
+      "class": "Sprite236",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite237",
+      "class": "Sprite237",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite238",
+      "class": "Sprite238",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite239",
+      "class": "Sprite239",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite24",
+      "class": "Sprite24",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite241",
+      "class": "Sprite241",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite244",
+      "class": "Sprite244",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite245",
+      "class": "Sprite245",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite246",
+      "class": "Sprite246",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite25",
+      "class": "Sprite25",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite28",
+      "class": "Sprite28",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite40",
+      "class": "Sprite40",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite47",
+      "class": "Sprite47",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite48",
+      "class": "Sprite48",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite49",
+      "class": "Sprite49",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite50",
+      "class": "Sprite50",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite52",
+      "class": "Sprite52",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite53",
+      "class": "Sprite53",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite54",
+      "class": "Sprite54",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite56",
+      "class": "Sprite56",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite58",
+      "class": "Sprite58",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Sprite61",
+      "class": "Sprite61",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite66",
+      "class": "Sprite66",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite68",
+      "class": "Sprite68",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite70",
+      "class": "Sprite70",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite71",
+      "class": "Sprite71",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite76",
+      "class": "Sprite76",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite78",
+      "class": "Sprite78",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite80",
+      "class": "Sprite80",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite81",
+      "class": "Sprite81",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite86",
+      "class": "Sprite86",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite88",
+      "class": "Sprite88",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite9",
+      "class": "Sprite9",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite92",
+      "class": "Sprite92",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite93",
+      "class": "Sprite93",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite94",
+      "class": "Sprite94",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "sprite97",
+      "class": "Sprite97",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Stage",
+      "class": "Unknown",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "Text",
+      "class": "Text",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "TextBox",
+      "class": "TextBox",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "textboxinner",
+      "class": "textboxinner",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "yetanotherredbutton",
+      "class": "Yetanotherredbutton",
+      "internal_name": "Unknown"
+    },
+    {
+      "folder": "_666666666666666666666666666666666666666666666666666666666666666666666666",
+      "class": "_666666666666666666666666666666666666666666666666666666666666666666666666",
+      "internal_name": "Unknown"
+    }
+  ],
+  "imports": [
+    {
+      "class": "Stage",
+      "folder": "Stage"
+    },
+    {
+      "class": "Textboxinner",
+      "folder": "textboxinner"
+    },
+    {
+      "class": "Sprite2",
+      "folder": "sprite2"
+    },
+    {
+      "class": "Player",
+      "folder": "Player"
+    },
+    {
+      "class": "Joystick",
+      "folder": "Joystick"
+    },
+    {
+      "class": "Redbutton",
+      "folder": "redbutton"
+    },
+    {
+      "class": "Doorbadguy",
+      "folder": "doorbadguy"
+    },
+    {
+      "class": "Bluebutton",
+      "folder": "bluebutton"
+    },
+    {
+      "class": "Redbutton2",
+      "folder": "redbutton2"
+    },
+    {
+      "class": "Pay1000dollars",
+      "folder": "pay1000dollars"
+    },
+    {
+      "class": "Sprite9",
+      "folder": "sprite9"
+    },
+    {
+      "class": "Sprite11",
+      "folder": "sprite11"
+    },
+    {
+      "class": "Sprite12",
+      "folder": "sprite12"
+    },
+    {
+      "class": "Greenbutton",
+      "folder": "greenbutton"
+    },
+    {
+      "class": "Greenbutton",
+      "folder": "greenbutton"
+    },
+    {
+      "class": "Sprite13",
+      "folder": "sprite13"
+    },
+    {
+      "class": "Redbutton3",
+      "folder": "redbutton3"
+    },
+    {
+      "class": "Redbutton3",
+      "folder": "redbutton3"
+    },
+    {
+      "class": "Bigredbutton",
+      "folder": "bigredbutton"
+    },
+    {
+      "class": "Bigredbutton",
+      "folder": "bigredbutton"
+    },
+    {
+      "class": "Sprite18",
+      "folder": "sprite18"
+    },
+    {
+      "class": "Sprite19",
+      "folder": "sprite19"
+    },
+    {
+      "class": "Sprite22",
+      "folder": "Sprite22"
+    },
+    {
+      "class": "Sprite23",
+      "folder": "Sprite23"
+    },
+    {
+      "class": "Sprite24",
+      "folder": "Sprite24"
+    },
+    {
+      "class": "Sprite25",
+      "folder": "Sprite25"
+    },
+    {
+      "class": "Playbutton",
+      "folder": "playbutton"
+    },
+    {
+      "class": "Proposebutton",
+      "folder": "proposebutton"
+    },
+    {
+      "class": "Proposebutton",
+      "folder": "proposebutton"
+    },
+    {
+      "class": "Attackbuttons",
+      "folder": "attackbuttons"
+    },
+    {
+      "class": "Money",
+      "folder": "money"
+    },
+    {
+      "class": "Attackslider",
+      "folder": "attackslider"
+    },
+    {
+      "class": "Greenthing",
+      "folder": "greenthing"
+    },
+    {
+      "class": "Miss",
+      "folder": "miss"
+    },
+    {
+      "class": "Bullet2",
+      "folder": "Bullet2"
+    },
+    {
+      "class": "Bullet3",
+      "folder": "Bullet3"
+    },
+    {
+      "class": "Bullet4",
+      "folder": "Bullet4"
+    },
+    {
+      "class": "Slideblock",
+      "folder": "slideblock"
+    },
+    {
+      "class": "Sprite41",
+      "folder": "sprite41"
+    },
+    {
+      "class": "Yetanotherredbutton",
+      "folder": "yetanotherredbutton"
+    },
+    {
+      "class": "Omgredbutton",
+      "folder": "omgredbutton"
+    },
+    {
+      "class": "Omgredbutton",
+      "folder": "omgredbutton"
+    },
+    {
+      "class": "Explosion3",
+      "folder": "explosion3"
+    },
+    {
+      "class": "Buttonred",
+      "folder": "buttonred"
+    },
+    {
+      "class": "Bullet9",
+      "folder": "Bullet9"
+    },
+    {
+      "class": "Bullet8",
+      "folder": "Bullet8"
+    },
+    {
+      "class": "Purple",
+      "folder": "purple"
+    },
+    {
+      "class": "Sprite47",
+      "folder": "Sprite47"
+    },
+    {
+      "class": "Sprite48",
+      "folder": "Sprite48"
+    },
+    {
+      "class": "Sprite49",
+      "folder": "Sprite49"
+    },
+    {
+      "class": "Sprite57",
+      "folder": "sprite57"
+    },
+    {
+      "class": "Bullet7",
+      "folder": "Bullet7"
+    },
+    {
+      "class": "Shopoverlaymanager",
+      "folder": "shopoverlaymanager"
+    },
+    {
+      "class": "Sprite55",
+      "folder": "sprite55"
+    },
+    {
+      "class": "Bullet6",
+      "folder": "bullet6"
+    },
+    {
+      "class": "Bullet6",
+      "folder": "Bullet6"
+    },
+    {
+      "class": "Sprite58",
+      "folder": "sprite58"
+    },
+    {
+      "class": "Sprite59",
+      "folder": "sprite59"
+    },
+    {
+      "class": "Sprite61",
+      "folder": "sprite61"
+    },
+    {
+      "class": "Sprite29",
+      "folder": "sprite29"
+    },
+    {
+      "class": "Bullet5",
+      "folder": "Bullet5"
+    },
+    {
+      "class": "Attackbuttons",
+      "folder": "attackbuttons"
+    },
+    {
+      "class": "Bullet3",
+      "folder": "bullet3"
+    },
+    {
+      "class": "Slidepuzzle1",
+      "folder": "slidepuzzle1"
+    },
+    {
+      "class": "Slidepuzzle2",
+      "folder": "slidepuzzle2"
+    },
+    {
+      "class": "Bullet9",
+      "folder": "bullet9"
+    },
+    {
+      "class": "B4046b0aEe4244ed8c1626776c7c0ca2",
+      "folder": "B4046b0aEe4244ed8c1626776c7c0ca2"
+    },
+    {
+      "class": "Slideblock2",
+      "folder": "slideblock2"
+    },
+    {
+      "class": "Cutesyarmorshop",
+      "folder": "cutesyarmorshop"
+    },
+    {
+      "class": "Lilgreendude",
+      "folder": "lilgreendude"
+    },
+    {
+      "class": "B4046b0aEe4244ed8c1626776c7c0ca3",
+      "folder": "B4046b0aEe4244ed8c1626776c7c0ca3"
+    },
+    {
+      "class": "Sprite53",
+      "folder": "sprite53"
+    },
+    {
+      "class": "Bullet5",
+      "folder": "bullet5"
+    },
+    {
+      "class": "Slidepuzzle1",
+      "folder": "slidepuzzle1"
+    },
+    {
+      "class": "Slidepuzzle2",
+      "folder": "slidepuzzle2"
+    },
+    {
+      "class": "Sprite44",
+      "folder": "sprite44"
+    },
+    {
+      "class": "Mysteryguy",
+      "folder": "mysteryguy"
+    },
+    {
+      "class": "Sprite35",
+      "folder": "sprite35"
+    },
+    {
+      "class": "Sprite50",
+      "folder": "sprite50"
+    },
+    {
+      "class": "Sprite69",
+      "folder": "Sprite69"
+    },
+    {
+      "class": "Explosion",
+      "folder": "explosion"
+    },
+    {
+      "class": "Sprite52",
+      "folder": "sprite52"
+    },
+    {
+      "class": "Sprite63",
+      "folder": "sprite63"
+    },
+    {
+      "class": "Sprite60",
+      "folder": "sprite60"
+    },
+    {
+      "class": "Sprite64",
+      "folder": "sprite64"
+    },
+    {
+      "class": "Sprite65",
+      "folder": "sprite65"
+    },
+    {
+      "class": "Sprite66",
+      "folder": "sprite66"
+    },
+    {
+      "class": "Sprite62",
+      "folder": "sprite62"
+    },
+    {
+      "class": "Sprite68",
+      "folder": "sprite68"
+    },
+    {
+      "class": "Sprite69",
+      "folder": "sprite69"
+    },
+    {
+      "class": "Sprite74",
+      "folder": "sprite74"
+    },
+    {
+      "class": "Sprite75",
+      "folder": "sprite75"
+    },
+    {
+      "class": "Sprite76",
+      "folder": "sprite76"
+    },
+    {
+      "class": "Sprite70",
+      "folder": "sprite70"
+    },
+    {
+      "class": "Sprite71",
+      "folder": "sprite71"
+    },
+    {
+      "class": "Sprite73",
+      "folder": "sprite73"
+    },
+    {
+      "class": "Sprite77",
+      "folder": "sprite77"
+    },
+    {
+      "class": "Sprite78",
+      "folder": "sprite78"
+    },
+    {
+      "class": "Sprite79",
+      "folder": "sprite79"
+    },
+    {
+      "class": "Sprite84",
+      "folder": "sprite84"
+    },
+    {
+      "class": "Sprite85",
+      "folder": "sprite85"
+    },
+    {
+      "class": "Sprite86",
+      "folder": "sprite86"
+    },
+    {
+      "class": "Sprite80",
+      "folder": "sprite80"
+    },
+    {
+      "class": "Sprite81",
+      "folder": "sprite81"
+    },
+    {
+      "class": "Sprite82",
+      "folder": "sprite82"
+    },
+    {
+      "class": "Sprite87",
+      "folder": "sprite87"
+    },
+    {
+      "class": "Sprite88",
+      "folder": "sprite88"
+    },
+    {
+      "class": "Bullet10",
+      "folder": "Bullet10"
+    },
+    {
+      "class": "Sprite89",
+      "folder": "sprite89"
+    },
+    {
+      "class": "Sprite90",
+      "folder": "sprite90"
+    },
+    {
+      "class": "SaveManagerSprite",
+      "folder": "SaveManagerSprite"
+    },
+    {
+      "class": "Sprite92",
+      "folder": "sprite92"
+    },
+    {
+      "class": "Sprite93",
+      "folder": "sprite93"
+    },
+    {
+      "class": "Sprite94",
+      "folder": "sprite94"
+    },
+    {
+      "class": "Sprite95",
+      "folder": "sprite95"
+    },
+    {
+      "class": "Sprite96",
+      "folder": "sprite96"
+    },
+    {
+      "class": "Sprite97",
+      "folder": "sprite97"
+    },
+    {
+      "class": "Bullet10",
+      "folder": "bullet10"
+    },
+    {
+      "class": "Sprite98",
+      "folder": "sprite98"
+    },
+    {
+      "class": "Sprite91",
+      "folder": "sprite91"
+    },
+    {
+      "class": "Sprite99",
+      "folder": "sprite99"
+    },
+    {
+      "class": "Sprite110",
+      "folder": "Sprite110"
+    },
+    {
+      "class": "Sprite101",
+      "folder": "sprite101"
+    },
+    {
+      "class": "Sprite112",
+      "folder": "Sprite112"
+    },
+    {
+      "class": "Sprite103",
+      "folder": "sprite103"
+    },
+    {
+      "class": "Slideblock2",
+      "folder": "slideblock2"
+    },
+    {
+      "class": "Sprite104",
+      "folder": "sprite104"
+    },
+    {
+      "class": "Sprite105",
+      "folder": "sprite105"
+    },
+    {
+      "class": "Sprite106",
+      "folder": "sprite106"
+    },
+    {
+      "class": "Sprite107",
+      "folder": "sprite107"
+    },
+    {
+      "class": "B4046b0aEe4244ed8c1626776c7c0ca4",
+      "folder": "B4046b0aEe4244ed8c1626776c7c0ca4"
+    },
+    {
+      "class": "Sprite108",
+      "folder": "sprite108"
+    },
+    {
+      "class": "Sprite100",
+      "folder": "sprite100"
+    },
+    {
+      "class": "Sprite72",
+      "folder": "sprite72"
+    },
+    {
+      "class": "Sprite109",
+      "folder": "sprite109"
+    },
+    {
+      "class": "Sprite110",
+      "folder": "sprite110"
+    },
+    {
+      "class": "Sprite111",
+      "folder": "sprite111"
+    },
+    {
+      "class": "Sprite137",
+      "folder": "Sprite137"
+    },
+    {
+      "class": "Sprite112",
+      "folder": "sprite112"
+    },
+    {
+      "class": "Sprite113",
+      "folder": "sprite113"
+    },
+    {
+      "class": "Sprite67",
+      "folder": "sprite67"
+    },
+    {
+      "class": "Sprite114",
+      "folder": "sprite114"
+    },
+    {
+      "class": "Sprite115",
+      "folder": "sprite115"
+    },
+    {
+      "class": "Sprite116",
+      "folder": "sprite116"
+    },
+    {
+      "class": "Sprite117",
+      "folder": "sprite117"
+    },
+    {
+      "class": "Explosiontnt",
+      "folder": "explosiontnt"
+    },
+    {
+      "class": "Sprite118",
+      "folder": "sprite118"
+    },
+    {
+      "class": "Sprite119",
+      "folder": "sprite119"
+    },
+    {
+      "class": "Sprite83",
+      "folder": "sprite83"
+    },
+    {
+      "class": "Sprite120",
+      "folder": "sprite120"
+    },
+    {
+      "class": "Sprite121",
+      "folder": "sprite121"
+    },
+    {
+      "class": "Sprite122",
+      "folder": "sprite122"
+    },
+    {
+      "class": "Sprite123",
+      "folder": "sprite123"
+    },
+    {
+      "class": "Sprite124",
+      "folder": "sprite124"
+    },
+    {
+      "class": "ShadowZork",
+      "folder": "ShadowZork"
+    },
+    {
+      "class": "Sprite125",
+      "folder": "sprite125"
+    },
+    {
+      "class": "Sprite126",
+      "folder": "sprite126"
+    },
+    {
+      "class": "Exit",
+      "folder": "exit"
+    },
+    {
+      "class": "Sprite127",
+      "folder": "sprite127"
+    },
+    {
+      "class": "Sprite128",
+      "folder": "sprite128"
+    },
+    {
+      "class": "Sprite129",
+      "folder": "sprite129"
+    },
+    {
+      "class": "Sprite130",
+      "folder": "sprite130"
+    },
+    {
+      "class": "ShadowJone",
+      "folder": "ShadowJone"
+    },
+    {
+      "class": "Sprite131",
+      "folder": "sprite131"
+    },
+    {
+      "class": "Sprite147",
+      "folder": "Sprite147"
+    },
+    {
+      "class": "Sprite133",
+      "folder": "sprite133"
+    },
+    {
+      "class": "Sprite134",
+      "folder": "sprite134"
+    },
+    {
+      "class": "Sprite135",
+      "folder": "sprite135"
+    },
+    {
+      "class": "Sprite136",
+      "folder": "sprite136"
+    },
+    {
+      "class": "Sprite138",
+      "folder": "sprite138"
+    },
+    {
+      "class": "Sprite139",
+      "folder": "sprite139"
+    },
+    {
+      "class": "Img1556",
+      "folder": "Img1556"
+    },
+    {
+      "class": "Sprite140",
+      "folder": "sprite140"
+    },
+    {
+      "class": "Sprite141",
+      "folder": "sprite141"
+    },
+    {
+      "class": "Sprite21",
+      "folder": "sprite21"
+    },
+    {
+      "class": "Sprite142",
+      "folder": "sprite142"
+    },
+    {
+      "class": "Sprite143",
+      "folder": "sprite143"
+    },
+    {
+      "class": "Sprite144",
+      "folder": "sprite144"
+    },
+    {
+      "class": "Sprite145",
+      "folder": "sprite145"
+    },
+    {
+      "class": "ShadowJone",
+      "folder": "ShadowJone"
+    },
+    {
+      "class": "Sprite146",
+      "folder": "sprite146"
+    },
+    {
+      "class": "Sprite147",
+      "folder": "sprite147"
+    },
+    {
+      "class": "Sprite148",
+      "folder": "sprite148"
+    },
+    {
+      "class": "Sprite149",
+      "folder": "sprite149"
+    },
+    {
+      "class": "Sprite150",
+      "folder": "sprite150"
+    },
+    {
+      "class": "Sprite151",
+      "folder": "sprite151"
+    },
+    {
+      "class": "Sprite152",
+      "folder": "sprite152"
+    },
+    {
+      "class": "Sprite153",
+      "folder": "sprite153"
+    },
+    {
+      "class": "Img_1556",
+      "folder": "img_1556"
+    },
+    {
+      "class": "Sprite156",
+      "folder": "sprite156"
+    },
+    {
+      "class": "Sprite157",
+      "folder": "sprite157"
+    },
+    {
+      "class": "Sprite158",
+      "folder": "sprite158"
+    },
+    {
+      "class": "Sprite159",
+      "folder": "sprite159"
+    },
+    {
+      "class": "Sprite160",
+      "folder": "sprite160"
+    },
+    {
+      "class": "Sprite161",
+      "folder": "sprite161"
+    },
+    {
+      "class": "Sprite162",
+      "folder": "sprite162"
+    },
+    {
+      "class": "Sprite163",
+      "folder": "sprite163"
+    },
+    {
+      "class": "Sprite164",
+      "folder": "sprite164"
+    },
+    {
+      "class": "Sprite165",
+      "folder": "sprite165"
+    },
+    {
+      "class": "Sprite166",
+      "folder": "sprite166"
+    },
+    {
+      "class": "Sprite155",
+      "folder": "sprite155"
+    },
+    {
+      "class": "Sprite167",
+      "folder": "sprite167"
+    },
+    {
+      "class": "Sprite168",
+      "folder": "sprite168"
+    },
+    {
+      "class": "Sprite169",
+      "folder": "sprite169"
+    },
+    {
+      "class": "Sprite170",
+      "folder": "sprite170"
+    },
+    {
+      "class": "Sprite171",
+      "folder": "sprite171"
+    },
+    {
+      "class": "Sprite173",
+      "folder": "sprite173"
+    },
+    {
+      "class": "Sprite174",
+      "folder": "sprite174"
+    },
+    {
+      "class": "Sprite175",
+      "folder": "sprite175"
+    },
+    {
+      "class": "Sprite176",
+      "folder": "sprite176"
+    },
+    {
+      "class": "Sprite178",
+      "folder": "sprite178"
+    },
+    {
+      "class": "Sprite179",
+      "folder": "sprite179"
+    },
+    {
+      "class": "Sprite180",
+      "folder": "sprite180"
+    },
+    {
+      "class": "Sprite154",
+      "folder": "sprite154"
+    },
+    {
+      "class": "Img1669",
+      "folder": "Img1669"
+    },
+    {
+      "class": "Sprite181",
+      "folder": "sprite181"
+    },
+    {
+      "class": "Sprite182",
+      "folder": "sprite182"
+    },
+    {
+      "class": "Sprite172",
+      "folder": "sprite172"
+    },
+    {
+      "class": "Sprite184",
+      "folder": "sprite184"
+    },
+    {
+      "class": "Sprite183",
+      "folder": "sprite183"
+    },
+    {
+      "class": "Sprite185",
+      "folder": "sprite185"
+    },
+    {
+      "class": "Sprite186",
+      "folder": "sprite186"
+    },
+    {
+      "class": "Sprite187",
+      "folder": "sprite187"
+    },
+    {
+      "class": "Sprite188",
+      "folder": "sprite188"
+    },
+    {
+      "class": "Sprite189",
+      "folder": "sprite189"
+    },
+    {
+      "class": "Sprite190",
+      "folder": "sprite190"
+    },
+    {
+      "class": "Sprite191",
+      "folder": "sprite191"
+    },
+    {
+      "class": "Sprite192",
+      "folder": "sprite192"
+    },
+    {
+      "class": "Sprite194",
+      "folder": "sprite194"
+    },
+    {
+      "class": "Sprite195",
+      "folder": "sprite195"
+    },
+    {
+      "class": "Sprite196",
+      "folder": "sprite196"
+    },
+    {
+      "class": "Sprite197",
+      "folder": "sprite197"
+    },
+    {
+      "class": "Img_1669",
+      "folder": "img_1669"
+    },
+    {
+      "class": "Sprite198",
+      "folder": "sprite198"
+    },
+    {
+      "class": "Sprite199",
+      "folder": "sprite199"
+    },
+    {
+      "class": "Sprite201",
+      "folder": "sprite201"
+    },
+    {
+      "class": "Sprite202",
+      "folder": "sprite202"
+    },
+    {
+      "class": "Sprite200",
+      "folder": "sprite200"
+    },
+    {
+      "class": "Sans",
+      "folder": "Sans"
+    },
+    {
+      "class": "Sprite203",
+      "folder": "sprite203"
+    },
+    {
+      "class": "Sprite204",
+      "folder": "sprite204"
+    },
+    {
+      "class": "Sprite205",
+      "folder": "sprite205"
+    },
+    {
+      "class": "Sprite206",
+      "folder": "sprite206"
+    },
+    {
+      "class": "Sprite207",
+      "folder": "sprite207"
+    },
+    {
+      "class": "Sprite208",
+      "folder": "sprite208"
+    },
+    {
+      "class": "Sprite209",
+      "folder": "sprite209"
+    },
+    {
+      "class": "Sprite210",
+      "folder": "sprite210"
+    },
+    {
+      "class": "TextBox",
+      "folder": "TextBox"
+    },
+    {
+      "class": "Text",
+      "folder": "Text"
+    },
+    {
+      "class": "Sprite211",
+      "folder": "sprite211"
+    },
+    {
+      "class": "Sprite212",
+      "folder": "sprite212"
+    },
+    {
+      "class": "Sprite231",
+      "folder": "Sprite231"
+    },
+    {
+      "class": "Sprite214",
+      "folder": "sprite214"
+    },
+    {
+      "class": "Sprite215",
+      "folder": "sprite215"
+    },
+    {
+      "class": "Sprite216",
+      "folder": "sprite216"
+    },
+    {
+      "class": "Sprite217",
+      "folder": "sprite217"
+    },
+    {
+      "class": "Player",
+      "folder": "player"
+    },
+    {
+      "class": "Sprite218",
+      "folder": "sprite218"
+    },
+    {
+      "class": "Sprite219",
+      "folder": "sprite219"
+    },
+    {
+      "class": "Sprite220",
+      "folder": "sprite220"
+    },
+    {
+      "class": "Sans",
+      "folder": "sans"
+    },
+    {
+      "class": "_666666666666666666666666666666666666666666666666666666666666666666666666",
+      "folder": "_666666666666666666666666666666666666666666666666666666666666666666666666"
+    },
+    {
+      "class": "Sprite177",
+      "folder": "sprite177"
+    },
+    {
+      "class": "Sprite221",
+      "folder": "sprite221"
+    },
+    {
+      "class": "Sprite222",
+      "folder": "sprite222"
+    },
+    {
+      "class": "Sprite223",
+      "folder": "sprite223"
+    },
+    {
+      "class": "Sprite224",
+      "folder": "sprite224"
+    },
+    {
+      "class": "Sprite225",
+      "folder": "sprite225"
+    },
+    {
+      "class": "Sprite245",
+      "folder": "Sprite245"
+    },
+    {
+      "class": "Sprite227",
+      "folder": "sprite227"
+    },
+    {
+      "class": "Sprite228",
+      "folder": "sprite228"
+    }
+  ]
+}

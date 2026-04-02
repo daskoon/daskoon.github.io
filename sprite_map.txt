@@ -1,0 +1,2549 @@
+# OverStory Sprite Map
+# Extracted from project.json
+# Format: Sprite Name -> Costume Name -> Hash Filename
+
+
+=== Stage (Target #0) ===
+ Costumes (71):
+  1. "backdrop1" -> cda1ceebe94f4c0f180326597ed29013.png
+  2. "backdrop2" -> 6345e975b1fd44a9730419e308633bac.png
+  3. "backdrop3" -> 556ea5733a3234ca9e5345974ef152e4.png
+  4. "backdrop4" -> 8a7fa32a7a4eab9909b920132bda1057.png
+  5. "backdrop5" -> 52ff94c4b3a79238461d1a57b9412b40.png
+  6. "backdrop10" -> e8d25e73bcfcdef4cf7c7a69309b55e3.png
+  7. "backdrop6" -> cd0bd0940386765ba2b9324cf286aaa1.png
+  8. "backdrop7" -> da0ab2ab3007ebb896377397f0243a61.png
+  9. "backdrop8" -> 53eaaa216b648b528e76b447d51163ff.png
+  10. "backdrop9" -> b35396fd34db8d15b16bbaa63f70208e.png
+  11. "backdrop11" -> 5963eaf4a2f2dcfb92135e25c0ef9658.png
+  12. "backdrop12" -> bba9a0405a73a05e3c21eef0d435082f.png
+  13. "backdrop13" -> f072fa16a42b686cc5c1c12a7ff8104e.png
+  14. "backdrop14" -> 84ebe821cbb7cac35202a4b9d5717312.png
+  15. "backdrop15" -> a4cf5754739661541af4938b6c5cd7c6.png
+  16. "backdrop16" -> c2e20bd2be38d13f0a75f736a5b3c776.png
+  17. "backdrop17" -> 5f41713057fb72db4b141b2659f27895.png
+  18. "backdrop18" -> 2068d94d4e7ee92b66adaf4d3484ad27.png
+  19. "backdrop19" -> 93dc650b6950e3d438facd81b3358010.png
+  20. "backdrop20" -> bca327ca253c3eee0427a30840758987.png
+  21. "backdrop21" -> ed2d41d5f22046e624f5d2dc8c0994d8.png
+  22. "backdrop22" -> cb04baecd3c16648e8649c8e17495e4e.png
+  23. "backdrop23" -> 8181a5fe7c9f1180ad670a238ebdd568.png
+  24. "backdrop24" -> afa224ecae757015cf9284edbdf50037.png
+  25. "backdrop25" -> 22d861e691065bc6388069f973707835.png
+  26. "backdrop26" -> a8681e70b496c18cc4cc6dcb61bb2eb1.png
+  27. "backdrop27" -> 7dd3dd23a1f08f614f27256746f047f3.png
+  28. "backdrop28" -> 6df4ad75b90fe5bec305443264119ff5.png
+  29. "backdrop29" -> 42ea46be364b7001ed823004570640d4.png
+  30. "backdrop30" -> 5291c7f9ea0e46c78a5e354c42ad90a2.png
+  31. "backdrop31" -> 6c34ab90cda7248013687a72f7793b7d.png
+  32. "backdrop32" -> dd6fb459b9061e5035f0bcf4624e2aae.png
+  33. "backdrop33" -> b37ecf964ec7b89f079e9bf7decc6025.png
+  34. "backdrop34" -> 97a6a406733a3e929844a4e7f10f38c2.png
+  35. "backdrop35" -> 2ab13ce931714a687d429b292511bb3e.png
+  36. "backdrop36" -> b2021c0d170227067ecd2d31c1dd09f8.png
+  37. "backdrop37" -> 5ac09bdae5eea36ade2a26b0c873f98a.png
+  38. "backdrop38" -> 04428d8e81a887f23b6d5e8837761d7c.png
+  39. "backdrop39" -> 2b99693c74c082c22356ea6cea6e255a.png
+  40. "backdrop40" -> 7ddea474e01a9521f296c390a633f15a.png
+  41. "backdrop41" -> 95d9bb9b46877c12ef8f1f0954564992.png
+  42. "backdrop42" -> 6cf10014def4f8e68a91c731d4ec6a4b.png
+  43. "backdrop43" -> 9e68fa359058f406705df79f0e2c096e.png
+  44. "backdrop44" -> b9e5539bf3426a9b542b20cc98115865.png
+  45. "backdrop45" -> 60f5882513b0063521e5d8a952063a16.png
+  46. "backdrop46" -> 0f30114f28ebe147e799174ae02c87b9.png
+  47. "backdrop47" -> f9b2ffea00237dea37c0c80d3c6fe880.png
+  48. "backdrop48" -> 2bc86822b71ce777580bf91df346c950.png
+  49. "backdrop49" -> bc9269d7efa049c7ea6ac822d20ff4f9.png
+  50. "backdrop50" -> f1bfe58a852f6e3af581ef691a3297ba.png
+  51. "backdrop51" -> ef0cfbebf15699af1ce0e21db9a71675.png
+  52. "backdrop52" -> 56f129a51747d9cc441d24363fa97cba.png
+  53. "backdrop53" -> 71f2e17e7235add76b0932732243fa6e.png
+  54. "backdrop54" -> fc23283be41bd3c336d144575121116c.png
+  55. "backdrop55" -> 4acd6a34c71880000d32fcc90f64ec4d.png
+  56. "backdrop56" -> 6ae7cc60ece18f172e6d1837d63fa590.png
+  57. "backdrop57" -> 881dd6e81db226f099bd1351b9460587.png
+  58. "backdrop58" -> 10f9e749737d6f953c524e9a8294c879.png
+  59. "backdrop59" -> 3aeb899b3a6f5e21d6246fca0f777ea0.png
+  60. "backdrop60" -> 8fe835d8c1f6ea151536cffa8e1d1dbd.png
+  61. "backdrop61" -> ad9ddddd06ac9b1a9a0c22c53311bec2.png
+  62. "backdrop62" -> ee8095e18922428156275625fa3d9f47.png
+  63. "backdrop63" -> 3ff0d458eb5ffb5259f06cb71c30dc29.png
+  64. "backdrop64" -> 10a9f37b538613b26e2cb3da78bc642d.png
+  65. "backdrop65" -> f22ac504c34fe4b3e0fddd71d7197f84.png
+  66. "backdrop66" -> 8d11f7eb1ba57fe909017209fc5c799c.png
+  67. "backdrop67" -> 10f232c072107eb2f9b9371f34ed2929.png
+  68. "backdrop68" -> 75b29d8cbf903b61dbfcce62077a86e1.png
+  69. "backdrop69" -> e3b6230c2a8081281a2c0e26ca12fbeb.png
+  70. "backdrop70" -> dffb7bca117840d4c8923a314d34cbcf.png
+  71. "backdrop71" -> 8016ce914193ba5ceed73ac997ebb297.png
+ Sounds (3):
+  1. "Tower" -> b41a1a5f8a4ca56f9a9930910f93d69d.wav
+  2. "Tower 2" -> 4ec4409cc64cdc37657cffabc354a839.wav
+  3. "Tower 3" -> 10bc5e4d2ac40dc82c57644af7de2070.wav
+
+=== Sprite2 (Target #1) ===
+ Costumes (70):
+  1. "A" -> 71f6b813f4132c1c88cb91396b7aec28.png
+  2. "B" -> 0f0b7a864b9c75a6c60f751af02ecce6.png
+  3. "C" -> 75154aad07632554f8704d158277b77d.png
+  4. "D" -> b399e11923a419658590bbf8b24630bc.png
+  5. "E" -> d34f8ef414e49c73496f7b3c74b84510.png
+  6. "F" -> 1afb4b3189d83a5705e1938ed2aa5841.png
+  7. "G" -> 438580b9c9bf9187c5a2593aa5cf9eaf.png
+  8. "H" -> 6c02f5750fc80be647b0aff7a503bb72.png
+  9. "I" -> 775291c2332f335f4bc280c134549e4a.png
+  10. "J" -> 4bc11b98d07334816e579a2ff279b051.png
+  11. "K" -> b34231512b0839cc1836c32b1fc2cdc9.png
+  12. "L" -> 11cdf449f752f005fe9dc52dc26b53f1.png
+  13. "M" -> bf7b93477c8e843706d0a598077323e5.png
+  14. "N" -> 43219c6c96640e4ab705d79f629b6a17.png
+  15. "O" -> fb6ab124b8a2d50f910e02f16c6fd85a.png
+  16. "P" -> e3de4ed961998ef5d3cd39d12f4548ca.png
+  17. "Q" -> 2137c5c98ff2b426ffba4d0d446d5faf.png
+  18. "R" -> f432bdc51cb1384b96ed190dd5da8704.png
+  19. "S" -> a8b5bce8abd898a7a9306127e730774a.png
+  20. "T" -> 2d71bccc26ad9ba7d222cd55a30ffcb7.png
+  21. "U" -> bcb517d67fcd12f01203c992d6ce6c5b.png
+  22. "V" -> c6cc06e31f9bea440aa9533b4ac77940.png
+  23. "W" -> e833a7411a5c039149c74de1d01454bc.png
+  24. "X" -> 23c431fcfff0f512ef31de1655d86007.png
+  25. "Y" -> 351cc7b63ed9aec2bd33676c037a9cb5.png
+  26. "Z" -> 1e1b8f385d91d97f06be26a848245ea8.png
+  27. "." -> 64cc314373099f0349767acb1f6f796e.png
+  28. "!" -> b17a2ea74bb5468ee185953ab19b9553.png
+  29. "question_mark" -> e5d56cf55fa86585c358a4b6e43762b6.png
+  30. "," -> bfb434097d90a7c3281fae0b6d596c32.png
+  31. "Ã¢â‚¬â„¢" -> e24134c9a03d2a613b96e7f74abfbc9c.png
+  32. "'" -> e24134c9a03d2a613b96e7f74abfbc9c.png
+  33. " " -> b7bd7ea7347b06d753cce0caf6995c72.png
+  34. "a" -> 72d6fb6a8bf4a8d7afe07676f493339a.png
+  35. "b" -> d881125d01e81272f3673937253569bf.png
+  36. "c" -> 51cf43db2215a22ac7b9509cefa76adc.png
+  37. "d" -> 5590e7bad4421c89754fa3cabd077a03.png
+  38. "e" -> 513fb660ba3ec0cc0c5f509af7ad8686.png
+  39. "f" -> 951f197937c641103480c6fd037deecd.png
+  40. "g" -> 511c8e9e0dcc4dcc2a1139a92e1aecb9.png
+  41. "h" -> 5eade1bc48978db817d2d012fc738d49.png
+  42. "i" -> ed0a60048851abd1e0f6ffca56bb9828.png
+  43. "j" -> 6bd652079d19165c132221c1d9762311.png
+  44. "k" -> da0aaf86435715f24709165b9b0fb165.png
+  45. "l" -> 7ab1d73f27a959a8b14d480d0345f426.png
+  46. "m" -> 6696545f9536e9bd38d7b4cf5f452769.png
+  47. "n" -> fab281481ce7f4b2b0bf77d05dda71a1.png
+  48. "o" -> 76890df7207b6dc3c806b0db2852e4af.png
+  49. "p" -> cbefb7eed16a5d6385851a6a0bb50a74.png
+  50. "q" -> 1a36833234558816cdf4c61302718aeb.png
+  51. "r" -> 7e787599f034a76029528ec1ce37bc22.png
+  52. "s" -> 3e259e01cc99908129e0efed80fd7493.png
+  53. "t" -> 53e40c9a22b564fd242ea69fbcfc848b.png
+  54. "u" -> 8a383078cdbb7ea65ff9a9f241febfe4.png
+  55. "v" -> 5066e4ebe4f51b7a1e4eb859a9b9bb44.png
+  56. "w" -> aa1713f341d58f4ed4cd200960be9155.png
+  57. "x" -> 421e08ca3a682f174cadcd219ef202e8.png
+  58. "y" -> e6945c79b58fc3dc82142a39cf3f5a8c.png
+  59. "z" -> 2f8c69128b9bf89775e2dba9f8dde09e.png
+  60. "(" -> a59cd6658df8e6db92ad920381957f8f.png
+  61. ")" -> 44cc4578df4f6b521908eb6cb3020ed9.png
+  62. "*" -> b7bd7ea7347b06d753cce0caf6995c72.png
+  63. "$" -> b7bd7ea7347b06d753cce0caf6995c72.png
+  64. "Ã¢â‚¬Å“" -> fcf939d858143110fb25f3bdc0724719.png
+  65. "Ã¢â‚¬Â" -> fcf939d858143110fb25f3bdc0724719.png
+  66. "-" -> 47012b7c1c0d8ae587fedfa7b98eed43.png
+  67. "ÃƒÂ«" -> 00ff2611dc87392b35b0216ed6f2a7b7.png
+  68. "ÃƒÂ¡" -> 2d4b6d61af43e39eae696d5caca3e308.png
+  69. "_" -> b7bd7ea7347b06d753cce0caf6995c72.png
+  70. ";" -> b7bd7ea7347b06d753cce0caf6995c72.png
+ Sounds (32):
+  1. "You" -> 9637602821515d4df8122e396e9b1c18.wav
+  2. "Zork" -> cdc2d4a1a4efc6e2837d2b5e9cd8e607.wav
+  3. "Jone" -> 5330e4f630e85c542aa9b92b1cf2cea0.wav
+  4. "Interaction" -> 30f7dd2f38b18d246bfe1f7df75755c8.wav
+  5. "Door" -> e5c2aaae0b95b40595b805782b4536f8.wav
+  6. "Door2" -> 2154bd336fa9ab7ff44acbeeb7e708da.wav
+  7. "Shopkeeper" -> 98c8d070916425aeb1e94fbd3db8eff4.wav
+  8. "tuco-get-out" -> cf63e4ec9cac6523a19e8b610532b36b.wav
+  9. "Anenome" -> 6e76745f74a2cbf6b3673ad508e5e05b.wav
+  10. "Jimmy" -> 9c8ccc2ac33e5784589af1ba6fdba9b5.wav
+  11. "Machine" -> 74eea4f6b9107b436e8df63c5c7dfd91.wav
+  12. "Ssss" -> 6fc355c744a26b9ca2f4d8a0b3ee13a1.wav
+  13. "Ssss3" -> 0ce6709106e9849997d86d7c3f1d35a4.wav
+  14. "Ssss2" -> e8c8b62bd2b00a11971c36c41640a1f4.wav
+  15. "Shopkeeper2" -> fe5fdd535900465adbe213ed5f81fa22.wav
+  16. "Zork2" -> 4888fb9717990819b0f7df024c9808bc.wav
+  17. "Jone2" -> 034e13bcd22c1d3ce8ae19d5d36a0d11.wav
+  18. "Goopley" -> 3efd1e6f69df9e001be6dbe63f72be24.wav
+  19. "Goopley2" -> 3efd1e6f69df9e001be6dbe63f72be24.wav
+  20. "You2" -> 969dbf6559f468ecf90b25e971e0868d.wav
+  21. "Door3" -> 79801f06698897e4af4ce2c3aef47ce6.wav
+  22. "You3" -> 978cfb56efb6cc4577ee0641a59213fb.wav
+  23. "Goopley oh wait sorry, Boopley." -> abb978daa3de40644f7ba60a4a96cb92.wav
+  24. "139-item-catch" -> 00eb95dc6bba225bd316f41462b051d7.wav
+  25. "Gary" -> 93fcb5e383c0b69841d911f6a4826d50.wav
+  26. "Hand" -> a8ff0fad8a19df92ab104f9b80b1e934.wav
+  27. "John Pixel" -> 3f63390823da6b0291fd1907dd686988.wav
+  28. "Carpet" -> 311a0ecdf9ca3012c8ae79d24aa31534.wav
+  29. "sans" -> a7f41679784239885c8f77d5a58fe3e7.wav
+  30. "Meow" -> fae6417c9ee13c6666cf81bc97a00a85.wav
+  31. "Meow2" -> 4de6baeb41ef06ce3b02d02d479e27b1.wav
+  32. "666666666666666666666666666666666666666666666666666666" -> 9d5993dd1a839c70da8a5b6e109fa2bb.wav
+
+=== TextBox (Target #2) ===
+ Costumes (32):
+  1. "costume1" -> 4c52a08c308fabd6284db7995768e420.png
+  2. "costume2" -> 930f10f1bfc6d60b3bbcb72a9efdd4b8.png
+  3. "costume3" -> 5a5a52b0a139fb41db53770e77b6542b.png
+  4. "costume4" -> 5a0f8a7f36309fff598350152533a1ee.png
+  5. "costume5" -> 1e89cb76e2638d4d85395ec4c2136faf.png
+  6. "costume7" -> 7ddb666d754b18559154fb9008be484f.png
+  7. "costume6" -> 7b72aee7409e3dd0a4e17dfc1bde312f.png
+  8. "costume8" -> 5a5a52b0a139fb41db53770e77b6542b.png
+  9. "costume9" -> 95dc8b9122c342eb59f966f15256e006.png
+  10. "costume10" -> 5b6b9f7c05e60928bcec7c7e7e8e0772.png
+  11. "costume11" -> d7a66f3d9f6c567af5992863953bc1b2.png
+  12. "costume13" -> 1e89cb76e2638d4d85395ec4c2136faf.png
+  13. "costume12" -> a979a8cdd5cf9f330e8b895e21fd279c.png
+  14. "costume14" -> a979a8cdd5cf9f330e8b895e21fd279c.png
+  15. "costume16" -> 39cecc6947abf1d4ce14a8940f6d0390.png
+  16. "costume15" -> 9a01abe0889f6de21e9939e788a32775.png
+  17. "costume18" -> 90ed753560166f291f0cdc06b3eccc1c.png
+  18. "costume17" -> 1e89cb76e2638d4d85395ec4c2136faf.png
+  19. "costume19" -> b50fcd9c58c200a6ef43ea891a23ad2e.png
+  20. "costume21" -> 7c6d8fd1700afb5e956228b23c5a5675.png
+  21. "costume22" -> 7aa40a40366dbf79f272654e86d4091b.png
+  22. "costume20" -> 90e0b271cb3ef186d9a1d938c7951c0a.png
+  23. "costume24" -> af8fc301dee41e1b88fa852cc087cec0.png
+  24. "costume23" -> 1133d430be3b93cda91a480f41a1c18b.png
+  25. "costume25" -> 2cfbc538b4a5062ff8bf5f29d91ffb31.png
+  26. "costume26" -> c66ec20f7b65041bbefd84e4f1513393.png
+  27. "costume27" -> 73bda280d703b6477c2d4d749094134d.png
+  28. "costume28" -> 033643045b7e25a4872e5882cd63b757.png
+  29. "costume29" -> 55c3aaefcc89749de8dfbd8763ef0d9d.png
+  30. "costume30" -> 457a854db66325589b43d80ec9298de3.png
+  31. "costume31" -> 457a854db66325589b43d80ec9298de3.png
+  32. "costume32" -> 41d162508d4076c392eaf2bf6f0c5d3b.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== player (Target #3) ===
+ Costumes (12):
+  1. "costume1" -> 7a91d15c59dd27735ad4ad8d48b0c84c.png
+  2. "costume2" -> ee5359d4ff199bad0a7451a1bd8183c5.png
+  3. "costume3" -> 12b653d2942da6f03616cc6fe0c7999a.png
+  4. "costume4" -> 2b38a38bfaab75cb5861f3dc46753d6d.png
+  5. "costume5" -> 7013307def4fe42c965c89886f04285d.png
+  6. "costume6" -> a290ac63993431be01f69a5dd2779277.png
+  7. "costume7" -> a1b3ea4a70bb0c6cf50a7b8e8f9c1bd2.png
+  8. "costume8" -> ca09bbe6800d35323312c20a3b6b2ba0.png
+  9. "costume9" -> 6ea408ba1a224cf7cd4649a386c86d51.png
+  10. "costume10" -> 5fb75802bb8f2bfd1d3dc33e919f0a7b.png
+  11. "costume11" -> e35481c4d9d78e2abb040bd664da126b.png
+  12. "costume12" -> e9790b38a9862c996e719e5904466fb6.png
+ Sounds (1):
+  1. "pop" -> e11dc56c98a1f06e0aa13b6bfda6cb71.wav
+
+=== Joystick (Target #4) ===
+ Costumes (3):
+  1. "Joystick" -> 1127ed0bc8d4bc0e899efff1aca259e3.svg
+  2. "Joystick outline" -> 594ae35671a23f4416245d8ae3c7ca7e.svg
+  3. "Joystick move" -> fbc3a0bd5f6caff0227df2d050c27469.svg
+ Sounds (1):
+  1. "Meow" -> 83c36d806dc92327b9e7049a565c6bff.wav
+
+=== Sprite10 (Target #5) ===
+ Costumes (1):
+  1. "costume1" -> fd61440ea6d3eb786a288c3894641f0c.svg
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite11 (Target #6) ===
+ Costumes (1):
+  1. "costume1" -> 9040b0a1aa968fc88574924f40566864.svg
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite12 (Target #7) ===
+ Costumes (1):
+  1. "costume1" -> 1ee55ffa9fa3c3c5c9679a7c7d6ef2f8.svg
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== redbutton2 (Target #8) ===
+ Costumes (1):
+  1. "costume1" -> bcbfc8db781f55239b41d63e7c8c34e6.svg
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== pay1000dollars (Target #9) ===
+ Costumes (2):
+  1. "costume1" -> 31e243394c9cb228f5750d9e5a6c7d7c.png
+  2. "costume2" -> 2f07713c865bb410ca675e1e3893e029.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "Buttonpush" -> 54a606a680915bb3cf91338951c3115e.wav
+
+=== Sprite5 (Target #10) ===
+ Costumes (24):
+  1. "costume1" -> 26043d40863fa13e8210cb0136256ce9.png
+  2. "costume2" -> 511784858372111ea0ae185bb06a0f2b.png
+  3. "costume3" -> b79078ad0e172a64512b7ecdbed45530.png
+  4. "costume4" -> 12b23fccc4100d113cf51629f7e6227d.png
+  5. "costume5" -> 425dc1d0ae84fd4e88f0144facbd4312.png
+  6. "costume6" -> 76d81426c0f7e55ad930f842b121b98d.png
+  7. "costume7" -> 696cc58399a6bfec210f507b7c8ade48.png
+  8. "costume8" -> 76d81426c0f7e55ad930f842b121b98d.png
+  9. "costume9" -> f8820efd2695b1095b807e2f0d20c2e9.png
+  10. "costume10" -> 92a2fa387fe132ced8f491eae065d645.png
+  11. "costume11" -> 92a2fa387fe132ced8f491eae065d645.png
+  12. "costume12" -> 45c243567d2fc46edf279170f133ce77.png
+  13. "costume13" -> 76d81426c0f7e55ad930f842b121b98d.png
+  14. "costume14" -> cafee38ecd6bdfd267167b4689b8f352.png
+  15. "costume15" -> e3a3f8b8f685a5d5500792a6d4c81817.png
+  16. "costume16" -> 2cc4e3f81e70586fd87163db163ffd93.png
+  17. "costume17" -> 79b324c13fd1924e20a2ed2661d9bc9e.png
+  18. "costume18" -> 4ff7eb00b4eab02e091f4e074dc5f4fe.png
+  19. "costume22" -> 683b4fdec7d344b9ae929be9d8d648c8.png
+  20. "costume21" -> 54724fca7ccb888085fd25cc1edb4e0f.png
+  21. "costume20" -> 688cfa026c307d73b8c1539ff9b0d9af.png
+  22. "costume19" -> ee22bccce31fce0631a7ab37209d64d4.png
+  23. "costume23" -> cc8e1374b17f523b35f36cda9b8be3d0.png
+  24. "costume24" -> 0eea8ff76510c257bdd970a2b88e9a91.png
+ Sounds (8):
+  1. "Impact" -> f1ccc9636b40596949f6c2c0a2b45b92.wav
+  2. "THE DOOR" -> 1893200e9809c0318e9a293c7cfa547d.wav
+  3. "Knock" -> 36501c4789840ddb9cbae6a0f9115b2c.wav
+  4. "Change" -> a52631b83937b8f3b25c5915d9354882.wav
+  5. "sans-eye-sounds" -> e2b3d87ddb0e1d3fc62582623e95e718.wav
+  6. "Impact3" -> dfa0dd472c7c2ece5990ce43e50651d8.wav
+  7. "Impact2" -> 7ae263aef9b8d2923b82dfdc755ead12.wav
+  8. "THE DOOR2" -> dc9ee66e30b42b422101357975e71dd5.wav
+
+=== Sprite6 (Target #11) ===
+ Costumes (2):
+  1. "costume1" -> 72a972d1ef88c4585d471b1c37ba6b6d.png
+  2. "costume2" -> 9d1de508b687decce44e05aa8a5ffce6.png
+ Sounds (1):
+  1. "pop" -> 54a606a680915bb3cf91338951c3115e.wav
+
+=== Sprite7 (Target #12) ===
+ Costumes (2):
+  1. "costume1" -> 79478bc61d331ed01a250d7c315adf21.png
+  2. "costume2" -> 2c3adedded4d619b0ff5a9f45576bff7.png
+ Sounds (1):
+  1. "pop" -> 54a606a680915bb3cf91338951c3115e.wav
+
+=== greenbutton (Target #13) ===
+ Costumes (2):
+  1. "costume1" -> c1d1cf33d36ff2fc0e6d665a95757a1b.png
+  2. "costume2" -> 524b40493c20c42c07dfc2042e51992c.png
+ Sounds (1):
+  1. "pop" -> 54a606a680915bb3cf91338951c3115e.wav
+
+=== Sprite13 (Target #14) ===
+ Costumes (2):
+  1. "costume1" -> ae102b2657ee895fac9a98ab6312a844.png
+  2. "costume2" -> f4e0a4ab8c74fb6f7f59a3cf4bd728b8.png
+ Sounds (1):
+  1. "pop" -> 54a606a680915bb3cf91338951c3115e.wav
+
+=== CombatManager (Target #15) ===
+ Costumes (8):
+  1. "costume1" -> 61765c9dab46689ec1d0aecd16704666.png
+  2. "costume4" -> 2a5c202154b8641fd1c9a6a840b3b1d2.png
+  3. "costume2" -> dda60eb9f9a7e6cf5bd32e7538333530.png
+  4. "costume5" -> 7c8b29846ce3e005bb734354fc9415df.png
+  5. "costume3" -> f2eb2a57c7d2e01cb472277646f6fb30.png
+  6. "costume6" -> e3bd8050095024a95290846589e6099d.png
+  7. "costume7" -> 87233ab719a96242f88156b22232c8e0.png
+  8. "costume8" -> e30e0e6eb8c1d474fc43949d5ec43608.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== redbutton3 (Target #16) ===
+ Costumes (4):
+  1. "costume1" -> 0657196925e9255a6491fc1695bd4012.png
+  2. "costume3" -> 68d59bad9a6fca8489ad263526dc7a17.png
+  3. "costume4" -> a8501693a412061a91a5f3da3d52adaa.png
+  4. "costume2" -> 6d467bf010d4480a3f96d540841e0305.png
+ Sounds (2):
+  1. "Impact" -> 9e596e45ca2d8b6fcf622c0cdf95fadc.wav
+  2. "Press" -> 54a606a680915bb3cf91338951c3115e.wav
+
+=== Jone (Target #17) ===
+ Costumes (17):
+  1. "costume1" -> 7379335344cfcc74f8a41f9fe3d81dc0.png
+  2. "costume4" -> c459ef54c3cf2050a64fbb0cb996d84f.png
+  3. "costume3" -> 03049ddc7b4efdb8dd730187527bba2c.png
+  4. "costume2" -> a0be110548db71275e2db05491c6ddc4.png
+  5. "costume5" -> 17fa8863df9017e7f06c12608f200689.png
+  6. "costume6" -> 4ea7c71e058ca906818d88fe181338ee.png
+  7. "costume7" -> c8cc01930d5d18167437949c0cb9415c.png
+  8. "costume8" -> f9706ccba7978c8a764648a3bff662bd.png
+  9. "costume9" -> 79d8d894916ea671d9379e7e9b32082d.png
+  10. "costume10" -> b5e8a858609d7451deab42077cdb320e.png
+  11. "costume11" -> 63c871ce78b12c26ffc1b6f1c1b9cd6b.png
+  12. "costume12" -> 2abf55a06751ac108faabeb595fd2d44.png
+  13. "costume14" -> 287e37baf12eb8dfe3cf067a1085bbdb.png
+  14. "costume13" -> 9fdcc4030a0535f244ecdeb7e1b83e74.png
+  15. "costume15" -> 96c61048cce6aa3ceb6e499dc4b84601.png
+  16. "costume16" -> b140c6c75eb8ce68ee6024f963710924.png
+  17. "costume17" -> 8c3e1bb152d156fab3de707bca608f3c.png
+ Sounds (3):
+  1. "pop" -> c4f5236c93b035233107cfb232979e30.wav
+  2. "Jone" -> 1224de03f6b418ea02590df857aebff8.wav
+  3. "crack_the_whip" -> 1ef14edd4cae7f6137124a71ed51646f.mp3
+
+=== bigredbutton (Target #18) ===
+ Costumes (1):
+  1. "costume1" -> 85873df30679a2e4bf653823bd588644.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite18 (Target #19) ===
+ Costumes (6):
+  1. "costume1" -> d5c4c5442edb56b2a9076b74595a5787.png
+  2. "costume2" -> a7476855e431e121431c90db35d2047d.png
+  3. "costume3" -> 29fe5af81fe1f45fcc1045e2e33f3d7d.png
+  4. "costume4" -> a8aa836dc3fddb6f62e5f847f38df561.png
+  5. "costume5" -> ff97a63f93e8a741cb159872fc3d57b5.png
+  6. "costume6" -> bdf3bf032ee3943e0d2de079b82e7f36.png
+ Sounds (2):
+  1. "pop" -> 058e707ba82fbcae9bb00a7bf6538f72.wav
+  2. "pop2" -> b2607bf0b7107b4771d607f8d18cf425.wav
+
+=== Sprite19 (Target #20) ===
+ Costumes (1):
+  1. "costume1" -> 7a1eb6252664bf2ef6f128bc299995f8.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "Vs Jone" -> eb7f92f38dcabb19c94646c1d31a19c3.wav
+
+=== Heart (Target #21) ===
+ Costumes (4):
+  1. "costume1" -> 700d0a3efef22ce03c61beb4402d43ed.png
+  2. "costume2" -> 6a861b9f0de7c463ea5110412817f42b.png
+  3. "costume3" -> 2ef1b315a228efad3cfc66ba2e2ae442.png
+  4. "costume4" -> a87c49c3d2d734ac862915da238587dc.png
+ Sounds (1):
+  1. "undertale-damage-taken" -> c2c6107f9b1f3efe551ee9219db4b832.mp3
+
+=== Sprite22 (Target #22) ===
+ Costumes (2):
+  1. "costume1" -> 687bd7bf6f044dc067a33aa1ec99e1ea.png
+  2. "costume2" -> d5762b4775a5fecd9fd6a1142c7fc844.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite23 (Target #23) ===
+ Costumes (2):
+  1. "costume1" -> 8f62095762c809abddd5648a3e768a7e.png
+  2. "costume2" -> a9121ca339d3aa00585bada75da7d1ee.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite24 (Target #24) ===
+ Costumes (2):
+  1. "costume1" -> ddd19f9d9cec372c6ed12fe95566d897.png
+  2. "costume2" -> a9121ca339d3aa00585bada75da7d1ee.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "stone-slide-sounds-effects-made-with-Voicemod" -> efe41d7d16c72f729a70e0f27cea739e.mp3
+
+=== Sprite25 (Target #25) ===
+ Costumes (3):
+  1. "costume1" -> 98e974f105c9da0037b2c3c27d6a1186.png
+  2. "costume2" -> 3d858a01815f59e23daae973ab2d5910.png
+  3. "costume3" -> e17a134cac170850b320edb281e42305.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== PlayButton (Target #26) ===
+ Costumes (3):
+  1. "costume1" -> 8766819dcadf8ac8abe296d1c7725596.png
+  2. "costume2" -> 34b0aeb67ecdce818522e39af866ee3c.png
+  3. "costume3" -> 8d12a298981cf10c0cc6a70f09bd8562.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== LoadButton (Target #27) ===
+ Costumes (3):
+  1. "costume1" -> b6d77a80843d19fa038106fd14b6faea.png
+  2. "costume2" -> 858ea0d3310af68214a86c4ea9a39839.png
+  3. "costume3" -> 1a9804a6a900cd9ca3b9d8c52db7666f.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== proposebutton (Target #28) ===
+ Costumes (10):
+  1. "costume1" -> b56a94019cd736c094d5bc5fced9c92f.png
+  2. "costume3" -> 6f3fc402aa8050a70fab3d9b5d644666.png
+  3. "costume2" -> 52fa0528e248f28b8a768a1d56523657.png
+  4. "costume5" -> 88cb82bd433fe63e5c17d7137305bf9b.png
+  5. "costume4" -> 747385d2779e2909d8201df3a38f9c49.png
+  6. "costume7" -> 96d006a08db3c9ab33673ad721c69b7d.png
+  7. "costume6" -> 018d544898053d7de000016018892dbd.png
+  8. "costume8" -> dbb98022454ee425ca69bf86c0e26902.png
+  9. "costume9" -> 087ac9a24b488ae5bc8078784cd7af01.png
+  10. "costume10" -> 4e2f4b80d19bb73034c4378d43a55734.png
+ Sounds (1):
+  1. "pop" -> fa1c02cfa60a1be3b9691f9bf89dd5fc.wav
+
+=== attackbuttons (Target #29) ===
+ Costumes (1):
+  1. "costume1" -> be7352f4b01dd0bd9057a5ae5ab6a69d.png
+ Sounds (3):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "Cant Select" -> 80bad9098daf0c5fd7b2cf1b4b2a189c.wav
+  3. "undertale-heal-made-with-Voicemod" -> 6334548bc48b0dbbc2182e3e3bb701dd.mp3
+
+=== money (Target #30) ===
+ Costumes (3):
+  1. "costume1" -> f33d3f99e70b7d5dc4f03ee668ac582c.png
+  2. "costume2" -> 964138dd964e1c95e7fc04f0660cd502.png
+  3. "costume3" -> 4440f2b4b1805ce374dd3caae99d9200.png
+ Sounds (9):
+  1. "pop" -> 9491e8549216c0c7ba6280c1980abcf9.wav
+  2. "undertale-attack-slash-green-screen" -> 493e0bf183b587c470e97bedab6f5c35.wav
+  3. "Bonk" -> 8288b34d91acbe731dd89a48af84f013.wav
+  4. "Bonk2" -> b80d965ed88a2adc4470c6c356a62b03.wav
+  5. "pop2" -> 9d51aa6e12a93a1e3a239bbbcbdbe980.wav
+  6. "undertale-attack-slash-green-screen2" -> 6ca1bdb5cdfbd6c1d3b69c68f3264936.wav
+  7. "C2 Bass" -> 33966faef833d22056fbdb4a4389bd39.wav
+  8. "undertale-attack-slash-green-screen3" -> 1485ed440044c6d8f7bf276928b5702f.wav
+  9. "pan" -> ddbfc725cfb0698cf7269cafbf393b68.wav
+
+=== attackslider (Target #31) ===
+ Costumes (1):
+  1. "costume1" -> f08f05f95b32caaf4b65bfedbfa3b801.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== greenthing (Target #32) ===
+ Costumes (1):
+  1. "costume1" -> f88c4a69880ed6af5514d9ef52d118fa.png
+ Sounds (2):
+  1. "Cant Select" -> 7ee485312d1965bd8caf6e017e295fb4.wav
+  2. "Ow" -> 1ebe4179a998dc7f289c4b5326823833.wav
+
+=== miss (Target #33) ===
+ Costumes (1):
+  1. "costume1" -> 091f24eaa5d3ed8c5720bbc085655709.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Bullet2 (Target #34) ===
+ Costumes (4):
+  1. "costume1" -> 1b6e3b1917864ca97f56075c92c154c2.png
+  2. "costume2" -> 8e61bffdf2b062803c655bee4e2967bc.png
+  3. "costume3" -> 7ed919102e438b986a4faa48d5b7fff2.png
+  4. "costume4" -> 6933c44c7c8e449f5f61040ce877bd55.png
+ Sounds (1):
+  1. "pop" -> c7c5bdd6d1a719201107868917bacfca.wav
+
+=== Bullet3 (Target #35) ===
+ Costumes (3):
+  1. "costume1" -> 4fb97b79f65a3129ef4fdcc2d5c60721.png
+  2. "costume2" -> 29497fb794dab2d58b969f0f4f9b4390.png
+  3. "costume3" -> 3ad56a7f4d951d70c7a1682b96b7c947.png
+ Sounds (2):
+  1. "pop" -> bc789ac97df2d19cb03b6dbe227a2773.wav
+  2. "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod" -> 6e96816d22dc67ef3fdea42de0e2944d.wav
+
+=== Bullet4 (Target #36) ===
+ Costumes (2):
+  1. "costume2" -> 29497fb794dab2d58b969f0f4f9b4390.png
+  2. "costume3" -> 3ad56a7f4d951d70c7a1682b96b7c947.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== slideblock (Target #37) ===
+ Costumes (2):
+  1. "costume1" -> 31e243394c9cb228f5750d9e5a6c7d7c.png
+  2. "costume2" -> 2f07713c865bb410ca675e1e3893e029.png
+ Sounds (2):
+  1. "pop" -> b4765861e5218b32c90647615b20e5a6.wav
+  2. "Buttonpush" -> c33f65b0f6a19b661aa277170cf73047.wav
+
+=== Sprite40 (Target #38) ===
+ Costumes (4):
+  1. "costume3" -> 52f8b0cd5a7ca9608d9e03840e058d54.png
+  2. "costume2" -> 5815b097afd0ee8a8391ba7d1106c2dc.png
+  3. "costume4" -> bdec5f4e51db7815156cc5fd9a624705.png
+  4. "costume1" -> 473c1b969984faed3ccf695590c65115.png
+ Sounds (1):
+  1. "pop" -> c4f5236c93b035233107cfb232979e30.wav
+
+=== yetanotherredbutton (Target #39) ===
+ Costumes (4):
+  1. "costume3" -> 52f8b0cd5a7ca9608d9e03840e058d54.png
+  2. "costume2" -> 5815b097afd0ee8a8391ba7d1106c2dc.png
+  3. "costume4" -> bdec5f4e51db7815156cc5fd9a624705.png
+  4. "costume1" -> 2f070551a19d1510064073ca04e4ec4a.png
+ Sounds (1):
+  1. "pop" -> c4f5236c93b035233107cfb232979e30.wav
+
+=== Sprite41 (Target #40) ===
+ Costumes (2):
+  1. "costume1" -> 31e243394c9cb228f5750d9e5a6c7d7c.png
+  2. "costume2" -> 2f07713c865bb410ca675e1e3893e029.png
+ Sounds (1):
+  1. "Buttonpush" -> bdbec83e74a4048ed0797d62e46c464b.wav
+
+=== omgredbutton (Target #41) ===
+ Costumes (2):
+  1. "costume1" -> 31e243394c9cb228f5750d9e5a6c7d7c.png
+  2. "costume2" -> 2f07713c865bb410ca675e1e3893e029.png
+ Sounds (1):
+  1. "Buttonpush" -> d3db8281b550e7914469e8e9aab46a43.wav
+
+=== explosion3 (Target #42) ===
+ Costumes (2):
+  1. "costume2" -> c891bad4cb76f81d8e787a3d6317ca83.svg
+  2. "costume1" -> b7bd7ea7347b06d753cce0caf6995c72.png
+
+=== buttonred (Target #43) ===
+ Costumes (1):
+  1. "costume1" -> 776ea530348d0d94191b89459038c4ef.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Bullet9 (Target #44) ===
+ Costumes (3):
+  1. "costume1" -> 92a2fa387fe132ced8f491eae065d645.png
+  2. "costume2" -> 748ee19db2ea70a4dc93e7840aa3abd5.png
+  3. "costume3" -> 63bbe21e0b2896cccaf96cf593994a5c.png
+ Sounds (2):
+  1. "Minecraft - Door (Sound Effect)" -> 5b38bd3e8dce8751ce37b292a1b63756.wav
+  2. "Minecraft - Door (Sound Effect)2" -> 7ca860674cb811dba44ac86413ffad2c.wav
+
+=== Bullet8 (Target #45) ===
+ Costumes (4):
+  1. "costume1" -> 76d81426c0f7e55ad930f842b121b98d.png
+  2. "costume2" -> 554e07f99e8c459b72d08b488f548d1c.png
+  3. "costume3" -> 927b0a3da907e75242676df74b8ce3af.png
+  4. "costume4" -> ecacd35acec809f92d63e60b6dbb0e20.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== purple (Target #46) ===
+ Costumes (2):
+  1. "costume1" -> 92a2fa387fe132ced8f491eae065d645.png
+  2. "costume3" -> 6eb57ec9a6a03668ca156b49ea1a889b.png
+ Sounds (1):
+  1. "pop" -> 365554c6eb5ec697f3b7e11e03c4b4a0.wav
+
+=== Sprite47 (Target #47) ===
+ Costumes (2):
+  1. "costume1" -> 92a2fa387fe132ced8f491eae065d645.png
+  2. "costume2" -> 748ee19db2ea70a4dc93e7840aa3abd5.png
+ Sounds (1):
+  1. "pop" -> a30b11db86bc17ab7bad060421c747a3.wav
+
+=== Sprite48 (Target #48) ===
+ Costumes (2):
+  1. "costume1" -> 92a2fa387fe132ced8f491eae065d645.png
+  2. "costume2" -> 748ee19db2ea70a4dc93e7840aa3abd5.png
+ Sounds (1):
+  1. "pop" -> a30b11db86bc17ab7bad060421c747a3.wav
+
+=== Sprite49 (Target #49) ===
+ Costumes (13):
+  1. "costume1" -> 26043d40863fa13e8210cb0136256ce9.png
+  2. "costume2" -> 511784858372111ea0ae185bb06a0f2b.png
+  3. "costume3" -> b79078ad0e172a64512b7ecdbed45530.png
+  4. "costume4" -> 12b23fccc4100d113cf51629f7e6227d.png
+  5. "costume5" -> 425dc1d0ae84fd4e88f0144facbd4312.png
+  6. "costume6" -> 76d81426c0f7e55ad930f842b121b98d.png
+  7. "costume7" -> 696cc58399a6bfec210f507b7c8ade48.png
+  8. "costume8" -> 76d81426c0f7e55ad930f842b121b98d.png
+  9. "costume9" -> f8820efd2695b1095b807e2f0d20c2e9.png
+  10. "costume10" -> 92a2fa387fe132ced8f491eae065d645.png
+  11. "costume11" -> 92a2fa387fe132ced8f491eae065d645.png
+  12. "costume12" -> 45c243567d2fc46edf279170f133ce77.png
+  13. "costume13" -> 76d81426c0f7e55ad930f842b121b98d.png
+ Sounds (5):
+  1. "Impact" -> f1ccc9636b40596949f6c2c0a2b45b92.wav
+  2. "THE DOOR" -> 494d60ebdd3314f5505a58658b782f92.wav
+  3. "Knock" -> 56abbe86aff716c58c077fe469662c46.wav
+  4. "Change" -> a52631b83937b8f3b25c5915d9354882.wav
+  5. "sans-eye-sounds" -> aa07a246ae03bec713de4f2db5b54c20.wav
+
+=== GrilledCheeseItem (Target #50) ===
+ Costumes (1):
+  1. "costume1" -> 858c862dbfd4cbdd0c6030b30b3efdce.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Bullet7 (Target #51) ===
+ Costumes (2):
+  1. "costume1" -> 2592cb4117cdbaec3615c63d2fc251fe.png
+  2. "costume2" -> f55b55c08e78621e15f22395b78147f7.png
+ Sounds (2):
+  1. "pop" -> 895e6d3861559edf349280bc3a953c85.wav
+  2. "pop2" -> 6a1aec579afd59bccb6761f6c858ebf4.wav
+
+=== Sprite53 (Target #52) ===
+ Costumes (4):
+  1. "costume1" -> b1a1eeb57b4f65e278ff17d0d8309404.png
+  2. "costume2" -> 46dcc9cfbbcf497586ee4de255d63428.png
+  3. "costume3" -> d555c34649a9ffa0d3ab5eacd714a42b.png
+  4. "costume4" -> 4fd8c6cd1449b29fef49419ac41b07ed.png
+ Sounds (3):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "Wagner Bridal Chorus" -> b825b9be2f25cf65e8cf8feda255c9c9.wav
+  3. "record-scratch_1" -> b24b2e02d55142c2a829bca5f9dfbbe7.wav
+
+=== ShopOverlayManager (Target #53) ===
+ Costumes (3):
+  1. "CutesyShop" -> e6740030158ba3744fa62281af4023fe.png
+  2. "CutesyShop2" -> 89ce38059501963f41a9e4ba81819886.png
+  3. "costume1" -> 56e1d492058d1cd4fa1a8e609672b8dd.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite55 (Target #54) ===
+ Costumes (2):
+  1. "costume1" -> 7b0eb99221ce6e057d357f45c09edf7d.png
+  2. "costume2" -> af899c4ce1047f74e722250d514c345a.png
+ Sounds (2):
+  1. "Cant Select" -> 07ee196971466da37070dfb673f1acd8.wav
+  2. "cash-register-purchase-87313" -> a5921898c9b083391e97beca20a099ed.wav
+
+=== Bullet6 (Target #55) ===
+ Costumes (3):
+  1. "costume1" -> db4a4d27e3eedbfbabb2751a5283c9c0.png
+  2. "costume2" -> 3f4116be08398312154714d7bfd58ae7.png
+  3. "costume3" -> d04dd468fc5f0811d805e63901621d84.png
+ Sounds (1):
+  1. "pop" -> bc789ac97df2d19cb03b6dbe227a2773.wav
+
+=== Sprite57 (Target #56) ===
+ Costumes (2):
+  1. "costume1" -> 31e243394c9cb228f5750d9e5a6c7d7c.png
+  2. "costume2" -> 2f07713c865bb410ca675e1e3893e029.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "Buttonpush" -> 135c8f08dca83c25b0f56c110c8d393f.wav
+
+=== Sprite58 (Target #57) ===
+ Costumes (2):
+  1. "costume1" -> 31e243394c9cb228f5750d9e5a6c7d7c.png
+  2. "costume2" -> 2f07713c865bb410ca675e1e3893e029.png
+ Sounds (1):
+  1. "Buttonpush" -> 135c8f08dca83c25b0f56c110c8d393f.wav
+
+=== Sprite59 (Target #58) ===
+ Costumes (1):
+  1. "costume1" -> 54cd348da611698e43e3149d82205988.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite61 (Target #59) ===
+ Costumes (1):
+  1. "costume3" -> 0f517c678c36dd4c333665637dc74fb4.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "stone-slide-sounds-effects-made-with-Voicemod" -> 557c1f8c941773fd1c69c3298ca10aaf.wav
+
+=== Bullet5 (Target #60) ===
+ Costumes (3):
+  1. "costume1" -> 4fb97b79f65a3129ef4fdcc2d5c60721.png
+  2. "costume2" -> 3f4116be08398312154714d7bfd58ae7.png
+  3. "costume3" -> d04dd468fc5f0811d805e63901621d84.png
+ Sounds (2):
+  1. "pop" -> bc789ac97df2d19cb03b6dbe227a2773.wav
+  2. "pop2" -> ff83529b1f25a46c155802395fd08c7f.wav
+
+=== Sprite29 (Target #61) ===
+ Costumes (1):
+  1. "costume1" -> 3b57cb7a628d879717a4ea48ddc75637.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite35 (Target #62) ===
+ Costumes (1):
+  1. "costume1" -> d9c2a344bd6d8e2412e6eb8110a85ee4.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== slidepuzzle1 (Target #63) ===
+ Costumes (1):
+  1. "costume1" -> d9c2a344bd6d8e2412e6eb8110a85ee4.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== slidepuzzle2 (Target #64) ===
+ Costumes (1):
+  1. "costume3" -> 0f517c678c36dd4c333665637dc74fb4.png
+ Sounds (1):
+  1. "stone-slide-sounds-effects-made-with-Voicemod" -> 557c1f8c941773fd1c69c3298ca10aaf.wav
+
+=== Sprite44 (Target #65) ===
+ Costumes (1):
+  1. "costume3" -> 0f517c678c36dd4c333665637dc74fb4.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "stone-slide-sounds-effects-made-with-Voicemod" -> 557c1f8c941773fd1c69c3298ca10aaf.wav
+
+=== B4046B0A-EE42-44ED-8C16-26776C7C0CA2 (Target #66) ===
+ Costumes (17):
+  1. "B4046B0A-EE42-44ED-8C16-26776C7C0CA2" -> 71290c451e79807dbbc8877e27e646f2.png
+  2. "B4046B0A-EE42-44ED-8C16-26776C7C0CA22" -> 641925999985b28112e582d793e4ba7a.png
+  3. "B4046B0A-EE42-44ED-8C16-26776C7C0CA23" -> d50d7038b848d5c9a663fb46ab25d5f5.png
+  4. "B4046B0A-EE42-44ED-8C16-26776C7C0CA24" -> 79bcdb587ef89929634daf490e3c70e1.png
+  5. "B4046B0A-EE42-44ED-8C16-26776C7C0CA25" -> 26d0108e9f3b228fbabe4f1065636890.png
+  6. "B4046B0A-EE42-44ED-8C16-26776C7C0CA26" -> f37b8accfc7cbd83da5e0d003e28ff9f.png
+  7. "B4046B0A-EE42-44ED-8C16-26776C7C0CA27" -> 60eaacdb4db46585bbbc003f07628441.png
+  8. "B4046B0A-EE42-44ED-8C16-26776C7C0CA28" -> 67150bfeedb523d3c06c99e4653da106.png
+  9. "B4046B0A-EE42-44ED-8C16-26776C7C0CA29" -> b97fab07a46ba0cb167a7724b8490fa9.png
+  10. "B4046B0A-EE42-44ED-8C16-26776C7C0CA210" -> 5f24fbabde73a2ac5875288be478832a.png
+  11. "B4046B0A-EE42-44ED-8C16-26776C7C0CA211" -> 77db1e74db7292058911aa7d6a89463f.png
+  12. "B4046B0A-EE42-44ED-8C16-26776C7C0CA212" -> e3221cef661165db8b58dd17429ea4e3.png
+  13. "B4046B0A-EE42-44ED-8C16-26776C7C0CA213" -> 5be1de49826ef08b28ffae7ad955c76d.png
+  14. "B4046B0A-EE42-44ED-8C16-26776C7C0CA214" -> a381f52f38022a847e1ac59e6ceead7e.png
+  15. "B4046B0A-EE42-44ED-8C16-26776C7C0CA215" -> 7215dee1ff6b809ec0f774b2ad38b1f4.png
+  16. "B4046B0A-EE42-44ED-8C16-26776C7C0CA216" -> 7f75e28d8e95cfa614a2f63e80e424b3.png
+  17. "B4046B0A-EE42-44ED-8C16-26776C7C0CA217" -> b1f1db2baf2d5d675c8bde9c80db219e.png
+ Sounds (1):
+  1. "deltarune-explosion 2" -> 64bdaa49a961ce24b03cfd20437dc598.mp3
+
+=== slideblock2 (Target #67) ===
+ Costumes (3):
+  1. "costume1" -> 341a1766f9e6976e2f48fba5913c6ad5.png
+  2. "costume2" -> 7cc089e440496945c72c2b839bc37d3f.png
+  3. "IMG_1436" -> f33188673c5830b1524254251c4cb9dd.png
+ Sounds (2):
+  1. "Vs Amber" -> 499601278b9dc35daac0f5c6c071a83b.wav
+  2. "Amber" -> 787cebe718f26e6ded89feeb82510d85.wav
+
+=== Sprite50 (Target #68) ===
+ Costumes (3):
+  1. "costume1" -> 103e6c0ae1b85d83f17de0186daa56ff.png
+  2. "costume2" -> 8610b2ffd7fa17f4fe2335eed3007358.png
+  3. "costume3" -> 5315aa22a58f534e1b90ab45daf164dc.png
+ Sounds (1):
+  1. "pop" -> ebf9d552402fca9aaf2f7c44746fd744.wav
+
+=== CrackleWhipItem (Target #51) ===
+ Costumes (3):
+  1. "costume1" -> 484bb8faefdff617046e0444c85ff321.png
+  2. "costume3" -> 76f9e7def9534a88791497e008b2732d.png
+  3. "costume2" -> ccc41565489a15ede83ea221dbad8dfc.png
+ Sounds (2):
+  1. "Cant Select" -> 07ee196971466da37070dfb673f1acd8.wav
+  2. "cash-register-purchase-87313" -> a5921898c9b083391e97beca20a099ed.wav
+
+=== B4046B0A-EE42-44ED-8C16-26776C7C0CA3 (Target #70) ===
+ Costumes (18):
+  1. "B4046B0A-EE42-44ED-8C16-26776C7C0CA2" -> 71290c451e79807dbbc8877e27e646f2.png
+  2. "B4046B0A-EE42-44ED-8C16-26776C7C0CA22" -> 641925999985b28112e582d793e4ba7a.png
+  3. "B4046B0A-EE42-44ED-8C16-26776C7C0CA23" -> d50d7038b848d5c9a663fb46ab25d5f5.png
+  4. "B4046B0A-EE42-44ED-8C16-26776C7C0CA24" -> 79bcdb587ef89929634daf490e3c70e1.png
+  5. "B4046B0A-EE42-44ED-8C16-26776C7C0CA25" -> 26d0108e9f3b228fbabe4f1065636890.png
+  6. "B4046B0A-EE42-44ED-8C16-26776C7C0CA26" -> f37b8accfc7cbd83da5e0d003e28ff9f.png
+  7. "B4046B0A-EE42-44ED-8C16-26776C7C0CA27" -> 60eaacdb4db46585bbbc003f07628441.png
+  8. "B4046B0A-EE42-44ED-8C16-26776C7C0CA28" -> 67150bfeedb523d3c06c99e4653da106.png
+  9. "B4046B0A-EE42-44ED-8C16-26776C7C0CA29" -> b97fab07a46ba0cb167a7724b8490fa9.png
+  10. "B4046B0A-EE42-44ED-8C16-26776C7C0CA210" -> 5f24fbabde73a2ac5875288be478832a.png
+  11. "B4046B0A-EE42-44ED-8C16-26776C7C0CA211" -> 77db1e74db7292058911aa7d6a89463f.png
+  12. "B4046B0A-EE42-44ED-8C16-26776C7C0CA212" -> e3221cef661165db8b58dd17429ea4e3.png
+  13. "B4046B0A-EE42-44ED-8C16-26776C7C0CA213" -> 5be1de49826ef08b28ffae7ad955c76d.png
+  14. "B4046B0A-EE42-44ED-8C16-26776C7C0CA214" -> a381f52f38022a847e1ac59e6ceead7e.png
+  15. "B4046B0A-EE42-44ED-8C16-26776C7C0CA215" -> 7215dee1ff6b809ec0f774b2ad38b1f4.png
+  16. "B4046B0A-EE42-44ED-8C16-26776C7C0CA216" -> 7f75e28d8e95cfa614a2f63e80e424b3.png
+  17. "B4046B0A-EE42-44ED-8C16-26776C7C0CA217" -> b1f1db2baf2d5d675c8bde9c80db219e.png
+  18. "costume1" -> e8382b5c78a78d2cc776a4b66133ec1d.png
+ Sounds (2):
+  1. "deltarune-explosion 2" -> 64bdaa49a961ce24b03cfd20437dc598.mp3
+  2. "Vs Amber" -> eb48c865c9c699f41add536d3339a0a2.wav
+
+=== Sprite52 (Target #71) ===
+ Costumes (1):
+  1. "costume1" -> aecd5d2eda7f35eecc7bf04c3ad197e5.png
+ Sounds (1):
+  1. "pop" -> e2cf9b731d1693878a75de1c4a5e0c2f.wav
+
+=== Sprite60 (Target #72) ===
+ Costumes (1):
+  1. "costume1" -> f913573baee2e849ce9a70ab55c73446.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite63 (Target #73) ===
+ Costumes (2):
+  1. "costume1" -> e940a1ab142c5090e5232a11e1cbeb4e.png
+  2. "costume2" -> d93a105d6bd7db06a6b16dc5e98e0a6b.png
+ Sounds (2):
+  1. "pop" -> 68df23cc1bfc1e61c3788471b489e841.wav
+  2. "pop2" -> 03837458cc41a7ba5f81d4df7367715f.wav
+
+=== Sprite64 (Target #74) ===
+ Costumes (2):
+  1. "costume2" -> 1cb546118174942fcc09f55e17350541.png
+  2. "costume1" -> 4336b97bb95b65358e10b3108f484dba.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite65 (Target #75) ===
+ Costumes (4):
+  1. "costume1" -> 71945a89a09ba1027f61d6bd32eeb650.png
+  2. "costume2" -> 7e8c5c19a74c085be81cb5bc49079695.png
+  3. "costume3" -> e66ce71525660246ac0b697685ba5b52.png
+  4. "costume4" -> 24ecb7f2ff7409dc724865a37fbe4f53.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite66 (Target #76) ===
+ Costumes (1):
+  1. "costume1" -> a5f65d82b36e65a0b54daace34ca920e.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite62 (Target #77) ===
+ Costumes (2):
+  1. "costume1" -> e940a1ab142c5090e5232a11e1cbeb4e.png
+  2. "costume2" -> d93a105d6bd7db06a6b16dc5e98e0a6b.png
+ Sounds (2):
+  1. "pop" -> 68df23cc1bfc1e61c3788471b489e841.wav
+  2. "pop2" -> 03837458cc41a7ba5f81d4df7367715f.wav
+
+=== Sprite68 (Target #78) ===
+ Costumes (24):
+  1. "costume1" -> 26f45f41571646555ee25ea143ab184f.png
+  2. "costume2" -> 702300efc5e85d4e8600e7652d3d7f4c.png
+  3. "costume3" -> 41d493d84f189c33fa5409880717410f.png
+  4. "costume4" -> 5c8206ca9b4b16cc486a127208982f31.png
+  5. "costume5" -> a5c8ef444ae5b356eeac59e75f10d2a4.png
+  6. "costume6" -> ec461e998cb6111ffb7fa3836c1b45cf.png
+  7. "costume7" -> b04af5dc48dc57267cb2c345fedfade8.png
+  8. "costume8" -> 0d00b77d2e103ed4db03e5926698a161.png
+  9. "costume12" -> 348cb995b3c41579f1ef8ba380b06f31.png
+  10. "costume11" -> be317063325f2cfd0eb0faec019ea2b7.png
+  11. "costume10" -> c306e5bdc040a2b0aff5bc600a64c5fb.png
+  12. "costume13" -> 39120c750903d61f9fbcf39f0bc72bce.png
+  13. "costume9" -> 2f821453baaf9d77d9b37c94beea5e8a.png
+  14. "costume14" -> 9e0aaeed9b58b7cdc3f976f765b3cac7.png
+  15. "costume15" -> 1f1fc5cf4df19d6e7963f62a331098da.png
+  16. "costume16" -> 63bf6cbb392968010c54582d97c57f4c.png
+  17. "costume17" -> f45073c730495cffc6bdcdd70b832f8a.png
+  18. "costume18" -> a285d9c218c45cba243223d7618ad354.png
+  19. "costume19" -> 7d644ef9af359c9ed36dab1163341298.svg
+  20. "costume20" -> b48672436cf5d60bac404963eaad2731.svg
+  21. "costume21" -> 3dc4833908260539e2eddfb58058d897.svg
+  22. "costume22" -> 2bfa2460ccf34ef664d239a91446f6ec.svg
+  23. "costume23" -> 36d039b18734a0d8944b8ebcff18cb1e.svg
+  24. "costume24" -> 00c3c608ac5ebf25a53e1211a27a89db.svg
+ Sounds (1):
+  1. "pop" -> 06042235c1462d95bd365eb892fca68e.wav
+
+=== Sprite69 (Target #79) ===
+ Costumes (1):
+  1. "costume1" -> 0b6dab98226719f69711e4cbf6b957cd.png
+ Sounds (1):
+  1. "chicken-jockey" -> b2cfa89bb4487cf3b22f6efdd6e1249d.wav
+
+=== Sprite70 (Target #80) ===
+ Costumes (1):
+  1. "costume1" -> 23280900e6439955517750ced79f034e.png
+ Sounds (1):
+  1. "chicken-jockey" -> 7a695e376ff6261bdf042987a630910d.wav
+
+=== Sprite71 (Target #81) ===
+ Costumes (2):
+  1. "costume1" -> 95c2da4c41a0b988814538d0f239ee6c.png
+  2. "costume2" -> 93869f081ff2a081b1096f4cddf7fe6a.png
+ Sounds (1):
+  1. "cheering" -> 0e54d0321df68888f9e1a182324961f6.wav
+
+=== Sprite73 (Target #82) ===
+ Costumes (1):
+  1. "costume1" -> 4803616986b01193c03192774e39e83b.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite72 (Target #83) ===
+ Costumes (1):
+  1. "costume1" -> dbac2d8053abbcd8b3ed6ca6f1122851.png
+ Sounds (3):
+  1. "pop" -> 9ce3a8f726ea8643d3eec4a3cf830a10.wav
+  2. "Thrasher" -> 5fe61cf5181a807fcef86a45122240e4.wav
+  3. "ScreenRecording_04-25-2025 07-52-36_1" -> e1bd4ac7ec4e1caa206ee0288920b53a.wav
+
+=== Sprite74 (Target #84) ===
+ Costumes (4):
+  1. "Fighter" -> e28af6ee7bfe86cde4bdd138d6d8e129.png
+  2. "Box" -> 320f10ca27a5c9c8f364adbeb82388df.png
+  3. "Cactus" -> 50d1735fc2f08bb79ff7c83e5869fe0f.png
+  4. "Cat" -> 7ebf890c8b889ec8195a2c705d22594d.png
+ Sounds (1):
+  1. "pop" -> fbc23d7ed5f0144e548351906b8d6fee.wav
+
+=== Sprite75 (Target #85) ===
+ Costumes (4):
+  1. "Fighter" -> 1ad9efebb3940357451952dd21c52c07.png
+  2. "Box" -> c5370304cbb1e216b7ed44b8c7d8754c.png
+  3. "Cactus" -> 5c4f60e7460821e5e061b11f1c1a7d91.png
+  4. "Cat" -> 6d6e8bd31deddd26924de37e036961ff.png
+ Sounds (1):
+  1. "pop" -> fbc23d7ed5f0144e548351906b8d6fee.wav
+
+=== Sprite76 (Target #86) ===
+ Costumes (4):
+  1. "Fighter" -> 22d47b719424094847caad13663efd1c.png
+  2. "Box" -> 192c5be01adb2626b9fc45170b002975.png
+  3. "Cactus" -> e1934470b82acdefb0c55e2b564e9fa3.png
+  4. "Cat" -> c40a62b0b2cfa5a09de9e95445df21f9.png
+ Sounds (1):
+  1. "pop" -> fbc23d7ed5f0144e548351906b8d6fee.wav
+
+=== Sprite77 (Target #87) ===
+ Costumes (1):
+  1. "costume1" -> df5e0913897511cb46a1b239b14ed68c.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite78 (Target #88) ===
+ Costumes (1):
+  1. "costume1" -> f6a30f4b5edbe5e3c6f5f4b1e9a84e0f.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite79 (Target #89) ===
+ Costumes (1):
+  1. "costume1" -> c188b732f61d878a537513864c3815dd.png
+ Sounds (1):
+  1. "pop" -> fae4b780c8d93f3495964d7f44849396.wav
+
+=== Sprite84 (Target #90) ===
+ Costumes (2):
+  1. "costume1" -> bae1931c248513860c7053d2ee51c741.png
+  2. "costume2" -> b7bd7ea7347b06d753cce0caf6995c72.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "sneaking" -> d5537432a850f0a6977e2a4dbf0de026.mp3
+
+=== Sprite85 (Target #91) ===
+ Costumes (1):
+  1. "costume1" -> 8f75d116e80784120931738b6a1ef410.png
+ Sounds (3):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "recording1" -> 909d6e9f689ec22ba50b0243802a13bf.wav
+  3. "recording2" -> d382bad578dc630f5ab93b488b47c661.wav
+
+=== Sprite86 (Target #92) ===
+ Costumes (2):
+  1. "costume1" -> e0c4f45e767fe289ded217faa600589d.png
+  2. "costume2" -> ad1d522e6fcfc9be1d8594918d19225e.png
+ Sounds (1):
+  1. "pop" -> fae4b780c8d93f3495964d7f44849396.wav
+
+=== Sprite80 (Target #93) ===
+ Costumes (4):
+  1. "Fighter" -> e28af6ee7bfe86cde4bdd138d6d8e129.png
+  2. "Box" -> 320f10ca27a5c9c8f364adbeb82388df.png
+  3. "Cactus" -> 50d1735fc2f08bb79ff7c83e5869fe0f.png
+  4. "Cat" -> 7ebf890c8b889ec8195a2c705d22594d.png
+ Sounds (3):
+  1. "pop" -> af80512510127a22904e913d5e61b027.wav
+  2. "1" -> 65738ca0f6340ffe28ec56be33a85d3b.wav
+  3. "undertale-sound-effect-inflicting-damage-made-with-Voicemod" -> 87b8a8709d27eac067269d87556630a7.wav
+
+=== Sprite81 (Target #94) ===
+ Costumes (4):
+  1. "Fighter" -> 1ad9efebb3940357451952dd21c52c07.png
+  2. "Box" -> c5370304cbb1e216b7ed44b8c7d8754c.png
+  3. "Cactus" -> 5c4f60e7460821e5e061b11f1c1a7d91.png
+  4. "Cat" -> 6d6e8bd31deddd26924de37e036961ff.png
+ Sounds (1):
+  1. "pop" -> fbc23d7ed5f0144e548351906b8d6fee.wav
+
+=== Sprite82 (Target #95) ===
+ Costumes (4):
+  1. "Fighter" -> 22d47b719424094847caad13663efd1c.png
+  2. "Box" -> 192c5be01adb2626b9fc45170b002975.png
+  3. "Cactus" -> e1934470b82acdefb0c55e2b564e9fa3.png
+  4. "Cat" -> c40a62b0b2cfa5a09de9e95445df21f9.png
+ Sounds (1):
+  1. "pop" -> fbc23d7ed5f0144e548351906b8d6fee.wav
+
+=== Sprite87 (Target #96) ===
+ Costumes (1):
+  1. "costume1" -> 266bfb05739bb2ed5486354474daa465.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite88 (Target #97) ===
+ Costumes (1):
+  1. "costume1" -> a44c9da28fa8d7700377df3ba5f7a3b1.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite89 (Target #98) ===
+ Costumes (1):
+  1. "costume1" -> 19e0a015b98173ee4bf8cee247429a60.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite90 (Target #99) ===
+ Costumes (1):
+  1. "costume2" -> ac6b89203b428809024a1ce595e247dc.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite91 (Target #100) ===
+ Costumes (4):
+  1. "costume2" -> 417b60c9bae844459cbc96cb4f88ea08.png
+  2. "costume3" -> c0f74ed772341bebc5c62cf9d1ebeb05.png
+  3. "costume4" -> bfcd752e9fc3647c518497f422bc38a5.png
+  4. "costume5" -> 385a0f61e9d8273cfe25ce19ee0069dd.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite92 (Target #101) ===
+ Costumes (1):
+  1. "costume1" -> a7b92408b98ae57749d44058bce58499.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "tasque-sound-effect-1-deltarune-chapter-2-made-with-Voicemod" -> 5e9bfd256d47b591b359675edf7fe0b1.wav
+
+=== Sprite93 (Target #102) ===
+ Costumes (2):
+  1. "costume1" -> a475203b6d81219dce8548db7710184b.png
+  2. "costume2" -> 2e500b97e9e9969e526026de5425abed.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite94 (Target #103) ===
+ Costumes (1):
+  1. "costume1" -> 994a30716f277313236a0554f570b2f5.png
+ Sounds (1):
+  1. "pop" -> af80512510127a22904e913d5e61b027.wav
+
+=== Sprite95 (Target #104) ===
+ Costumes (2):
+  1. "costume1" -> e940a1ab142c5090e5232a11e1cbeb4e.png
+  2. "costume2" -> 05c5e7529a393b850e78a8eddd592db0.png
+ Sounds (2):
+  1. "pop" -> d7c236f4e0a896eb638d4ce1f755ad86.wav
+  2. "pop2" -> 03837458cc41a7ba5f81d4df7367715f.wav
+
+=== Sprite96 (Target #105) ===
+ Costumes (2):
+  1. "costume1" -> e940a1ab142c5090e5232a11e1cbeb4e.png
+  2. "costume2" -> 52474a5324df012612d62087f138ff4b.png
+ Sounds (3):
+  1. "pop" -> d7c236f4e0a896eb638d4ce1f755ad86.wav
+  2. "pop2" -> 2dfd885abaad658a6e77b0d8b3ac645e.wav
+  3. "pop3" -> 2d1da874a9634fcef9fb08429c7fcd57.wav
+
+=== Sprite97 (Target #106) ===
+ Costumes (2):
+  1. "costume1" -> bd3ecc5e8896e889010765accdec5047.png
+  2. "costume2" -> 8f7a6e452b5e50eb9ca4ce63a2d8d0a4.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Bullet10 (Target #107) ===
+ Costumes (4):
+  1. "costume1" -> 2f1c08db88532a167763c048a35211f3.png
+  2. "costume2" -> 93b8596c82511e54014258ee38a50577.png
+  3. "costume3" -> b361868c61c6de7ea13ff6bec078d9e1.png
+  4. "costume4" -> 7b8e2c8808c83260f56a5ddb2d0aff81.png
+ Sounds (1):
+  1. "pop" -> c7c5bdd6d1a719201107868917bacfca.wav
+
+=== Sprite98 (Target #108) ===
+ Costumes (1):
+  1. "costume1" -> 802b02f1d8f3535a19746069beb991b4.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite99 (Target #109) ===
+ Costumes (1):
+  1. "costume1" -> ce267cd33cc863bb9724b6b17eed9be6.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== LoadButton (Target #27) ===
+ Costumes (1):
+  1. "costume1" -> b20c424e340e843ee2ebd64a5f2fd83f.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite101 (Target #111) ===
+ Costumes (1):
+  1. "costume1" -> dcf7c40a2524eabc924aec38b298a31e.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== SaveStation (Target #102) ===
+ Costumes (4):
+  1. "costume1" -> 690967f0d2ccf9780922e4ea889fa326.png
+  2. "costume3" -> 7eb80c63f0cb948a7236e25c768a97d9.png
+  3. "costume2" -> d013cfeec7bb505d3e074f7ac1975495.png
+  4. "costume4" -> 7eb80c63f0cb948a7236e25c768a97d9.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "savepoint" -> 222e391a817ab6c9f166369e6f87d91e.mp3
+
+=== Sprite103 (Target #113) ===
+ Costumes (1):
+  1. "costume2" -> 1b0f8f08c7aba882b4441b3b70e3a0bb.png
+ Sounds (1):
+  1. "pop" -> 838bc6a6906e0f9a7f046e710c91a191.wav
+
+=== Sprite104 (Target #114) ===
+ Costumes (1):
+  1. "costume1" -> 9a64a345394b024a833d06e9c7a63ba0.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite105 (Target #115) ===
+ Costumes (2):
+  1. "costume1" -> f3cbebbec046680a7346ac56561540d2.png
+  2. "costume2" -> 7b4566dc7a74ec08d609e80f8f01e31f.png
+ Sounds (2):
+  1. "pop" -> d74020adbc1931a9833732ed6ab04aa0.wav
+  2. "pop2" -> d5f65f0e1abb1a55e6060b6cf24c743d.wav
+
+=== Sprite106 (Target #116) ===
+ Costumes (1):
+  1. "costume1" -> de3ccef0507107f369792472ce83ec2b.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite107 (Target #117) ===
+ Costumes (4):
+  1. "costume2" -> ddcc131af50ce44743a72896a47b1bc1.png
+  2. "costume3" -> 1719aaa0b519c159fca8764aaed16706.png
+  3. "costume4" -> 1f7e18d53146c4db87be9fe063b7bc07.svg
+  4. "costume5" -> b7bd7ea7347b06d753cce0caf6995c72.png
+ Sounds (3):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "gaster_blaster_sound_effect_1" -> b7c0cba2733d70179f6066310a727f3b.wav
+  3. "gaster_blaster_sound_effect_2" -> 4aef3dfa9a4553150e659b6dc4874101.wav
+
+=== Sprite108 (Target #118) ===
+ Costumes (6):
+  1. "costume1" -> 85cd163cdfa3b34583b8f24c7b896835.png
+  2. "costume2" -> 98f71563537962006ebcd7f0b94e68ee.png
+  3. "costume3" -> c572cfdccfa37153629c0a73c57ed29a.png
+  4. "costume4" -> f27634c2cb7c3ac5da823a3430889bde.png
+  5. "costume6" -> 678ab598ec42c0eac800a96ce824f04f.png
+  6. "costume5" -> 19081641cc1419777fa4eb824ab7d81e.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite100 (Target #119) ===
+ Costumes (2):
+  1. "costume1" -> f01d00080fc045f63ef4c87fe33243db.png
+  2. "costume2" -> f22f7a752776c28ca2ae845e2cf819ab.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite109 (Target #120) ===
+ Costumes (3):
+  1. "costume1" -> a347c5a6821d4d69cbfa15f3a3e42e18.png
+  2. "costume2" -> 9f53808ab7705bc827d373fd1acd98bc.png
+  3. "costume3" -> f5f25bdfb3ec207211e5aea1fa58db0f.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite110 (Target #121) ===
+ Costumes (3):
+  1. "costume1" -> a0f7bb159d9b6749d67559aebea7f111.png
+  2. "costume2" -> 886df0efea04ff259509f295ad48bd28.png
+  3. "costume3" -> d545630354640cdedeab9c02828bab56.png
+ Sounds (2):
+  1. "pop" -> 9211e932b15305822fbf6e832e1ed36f.wav
+  2. "pop2" -> 4d14a18664719544f906c80ceecb1a60.wav
+
+=== Sprite111 (Target #122) ===
+ Costumes (2):
+  1. "costume1" -> 35a202b6029731d40bc95257a02690a4.png
+  2. "costume2" -> e592672a705871cfca690505116017a6.png
+ Sounds (1):
+  1. "pop" -> 1ebe4179a998dc7f289c4b5326823833.wav
+
+=== Sprite112 (Target #123) ===
+ Costumes (2):
+  1. "costume1" -> 38838163d5754cb7e5ee8c208aac3d97.png
+  2. "costume2" -> fcc593ce3c95310434713316aceddf9c.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite113 (Target #124) ===
+ Costumes (1):
+  1. "costume1" -> ffe86bc69ae929b5022fe3b8c616bc09.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite67 (Target #125) ===
+ Costumes (16):
+  1. "IMG_1435" -> c4048b08ac90aa8f9b3cac81bd41bc82.png
+  2. "jimmy" -> 083c3d209fbfee20e6ac824a1a914ea0.png
+  3. "jimmy2" -> 285000368f3e31732a064832b3dd6dfa.png
+  4. "jimmy3" -> e947105084d45a5694a46f514e33faa5.png
+  5. "jimmy4" -> 88ff34f741845bd744633f0f7b7e8cb3.png
+  6. "costume1" -> 1559369c2401b87863bee8fe71dbf449.png
+  7. "costume2" -> 934606e1788d738d0948f5b61892b1ea.png
+  8. "costume4" -> ccfe44f0ecb9741351e1b2186cd8689a.png
+  9. "costume3" -> 625afbbfdc9d5d17c7f22191ff8d667f.png
+  10. "costume5" -> dc19d1fe69ee5c4d48ecfd979260306d.png
+  11. "costume6" -> 826123ac2012d734a02c578abf19e9ac.png
+  12. "costume7" -> 4706f38ea4d639e69ad8189523c4b553.png
+  13. "costume8" -> 49eefd1671541ee3df5a7effff53988e.png
+  14. "costume9" -> 1027cc9154e40857b0bd370c918e88e0.png
+  15. "costume10" -> 1778b0c33929608bc5f85fcf85581a4a.png
+  16. "costume11" -> c5ed998fe345c0faf290cbcd1f13daa7.png
+ Sounds (5):
+  1. "slide-whistle-up-326154" -> 8165bc0bfc0cf44c02fee34f87499cff.wav
+  2. "slide-whistle-up-2" -> 8550eb06812cde7d7322c2e228e170ac.wav
+  3. "Chaos Jimmy" -> 72adcad0d9dfa232a7be1bd665cf6125.wav
+  4. "slide-whistle-up-3" -> 3cb5e678645b2317d2d06d779fea0aca.wav
+  5. "slide-whistle-up-4" -> c46cdf35fb80c8af9e5d6af4a4d18918.wav
+
+=== Sprite114 (Target #126) ===
+ Costumes (1):
+  1. "costume1" -> a5c4c0529eb18ec94b255c0f6fa848e4.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite115 (Target #127) ===
+ Costumes (1):
+  1. "costume1" -> 9a64a345394b024a833d06e9c7a63ba0.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite116 (Target #128) ===
+ Costumes (1):
+  1. "costume1" -> 9a64a345394b024a833d06e9c7a63ba0.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite117 (Target #129) ===
+ Costumes (2):
+  1. "costume1" -> 8c14397010f485716707a326f95f528e.png
+  2. "costume2" -> ebd5c9d419ace6a2522a3aed67614b40.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== B4046B0A-EE42-44ED-8C16-26776C7C0CA4 (Target #130) ===
+ Costumes (17):
+  1. "B4046B0A-EE42-44ED-8C16-26776C7C0CA2" -> 71290c451e79807dbbc8877e27e646f2.png
+  2. "B4046B0A-EE42-44ED-8C16-26776C7C0CA22" -> 641925999985b28112e582d793e4ba7a.png
+  3. "B4046B0A-EE42-44ED-8C16-26776C7C0CA23" -> d50d7038b848d5c9a663fb46ab25d5f5.png
+  4. "B4046B0A-EE42-44ED-8C16-26776C7C0CA24" -> 79bcdb587ef89929634daf490e3c70e1.png
+  5. "B4046B0A-EE42-44ED-8C16-26776C7C0CA25" -> 26d0108e9f3b228fbabe4f1065636890.png
+  6. "B4046B0A-EE42-44ED-8C16-26776C7C0CA26" -> f37b8accfc7cbd83da5e0d003e28ff9f.png
+  7. "B4046B0A-EE42-44ED-8C16-26776C7C0CA27" -> 60eaacdb4db46585bbbc003f07628441.png
+  8. "B4046B0A-EE42-44ED-8C16-26776C7C0CA28" -> 67150bfeedb523d3c06c99e4653da106.png
+  9. "B4046B0A-EE42-44ED-8C16-26776C7C0CA29" -> b97fab07a46ba0cb167a7724b8490fa9.png
+  10. "B4046B0A-EE42-44ED-8C16-26776C7C0CA210" -> 5f24fbabde73a2ac5875288be478832a.png
+  11. "B4046B0A-EE42-44ED-8C16-26776C7C0CA211" -> 77db1e74db7292058911aa7d6a89463f.png
+  12. "B4046B0A-EE42-44ED-8C16-26776C7C0CA212" -> e3221cef661165db8b58dd17429ea4e3.png
+  13. "B4046B0A-EE42-44ED-8C16-26776C7C0CA213" -> 5be1de49826ef08b28ffae7ad955c76d.png
+  14. "B4046B0A-EE42-44ED-8C16-26776C7C0CA214" -> a381f52f38022a847e1ac59e6ceead7e.png
+  15. "B4046B0A-EE42-44ED-8C16-26776C7C0CA215" -> 7215dee1ff6b809ec0f774b2ad38b1f4.png
+  16. "B4046B0A-EE42-44ED-8C16-26776C7C0CA216" -> 7f75e28d8e95cfa614a2f63e80e424b3.png
+  17. "B4046B0A-EE42-44ED-8C16-26776C7C0CA217" -> b1f1db2baf2d5d675c8bde9c80db219e.png
+ Sounds (1):
+  1. "deltarune-explosion 2" -> 58efb0933627826746265d9889223cf4.wav
+
+=== Sprite118 (Target #131) ===
+ Costumes (1):
+  1. "costume1" -> bc883ee6214ca8832cff3cbbd5d11df0.png
+ Sounds (3):
+  1. "052256_cracking-earthquake-cracking-soil-cracking-stone-86770" -> db4228388f38b4ac6de65bef57ee0d25.wav
+  2. "quake-and-break-99034" -> 2b8fe1823552f6b7e832931bff7ae527.wav
+  3. "quake-and-break-2" -> 74b8cfbcd552d596bff62bc7209e374b.wav
+
+=== Sprite119 (Target #132) ===
+ Costumes (4):
+  1. "costume1" -> 569680bd1452241cd736f7c1ae670c4c.png
+  2. "costume2" -> 8c67944071ad52adcdc9b3f93d51b265.png
+  3. "costume3" -> c2a6a1afc707b9dc37d790d3da6ff476.png
+  4. "costume4" -> 696d0ff90a2ee8f8b7a0e5812db4e24e.png
+ Sounds (4):
+  1. "lock-and-key-37699" -> 201afa8f0b32819be844fda0d24d9d4b.wav
+  2. "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 2" -> 50b25ea9daa1dde657860b737189eee9.wav
+  3. "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 3" -> 217310d29b45a7318a585a5cb380a1db.wav
+  4. "Click" -> e927be7f2c34890729593b75fac71810.wav
+
+=== Sprite83 (Target #133) ===
+ Costumes (6):
+  1. "costume1" -> 6749bcfe9373d635550c1736cf52d164.png
+  2. "costume3" -> e046473cf13f89fd40f1b56b11e95c6a.png
+  3. "costume2" -> 03e6a91d87935859716e719d74a0fd6c.png
+  4. "costume4" -> bfee86ed642ed4a936593a9253e7d3b4.png
+  5. "costume6" -> f1ccdf1f1fda074ac25ca92371ea0b3e.png
+  6. "costume5" -> 66fd5ae9a5b76779feaacf76987cc506.png
+ Sounds (1):
+  1. "GLACEIR" -> e846e0ccda9abcdac128b906d3e22c3a.wav
+
+=== Sprite120 (Target #134) ===
+ Costumes (7):
+  1. "costume1" -> 1d369806469b0b55338712a07c90cf4a.png
+  2. "overStory-5-4-2025" -> e1a58cf52baee7e21c7113c8341dbc87.png
+  3. "costume2" -> da7a40e5a4ad58932cb92186d21f0b15.png
+  4. "costume3" -> 8f75d116e80784120931738b6a1ef410.png
+  5. "costume4" -> a079017313b2194f0747942aebcaeb19.png
+  6. "costume5" -> a2458ddb7595678cdc049f84addd3756.png
+  7. "costume6" -> 1a7e23ff9779b5a41d12507813a9fa1f.png
+ Sounds (3):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "Undertale Fade" -> 0632420f7b5f9126a1031f4198ebe10f.mp3
+  3. "Voicy_Undertale Sound Effect - Intro" -> 660ce1af79694c68301138bf280cc211.wav
+
+=== Sprite121 (Target #135) ===
+ Costumes (1):
+  1. "costume1" -> 0c390621f9a3907b9153ea0164c4dbab.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite122 (Target #136) ===
+ Costumes (1):
+  1. "costume1" -> 6ff53edeb6694c1a91a17fa5dfa53e2c.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite137 (Target #137) ===
+ Costumes (2):
+  1. "costume1" -> 0f771803d0785aa13295e7786f73b1fd.png
+  2. "costume2" -> fcab8a9ac83ebba5c39db80ed3895beb.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite123 (Target #138) ===
+ Costumes (4):
+  1. "costume1" -> b25720619576b36b9d50232a90f47184.png
+  2. "costume2" -> 741ce7700f17fc971ccf32333dd7dc05.png
+  3. "costume3" -> f72ab42b8881a4eb72cfec5fe0ce59eb.png
+  4. "costume4" -> bff0a722c54c8eca4753ef385836107d.png
+ Sounds (1):
+  1. "undertale-ping-made-with-Voicemod" -> 0420921e770260fcd95080493dd84128.wav
+
+=== Sprite124 (Target #139) ===
+ Costumes (2):
+  1. "costume1" -> 570efe74ea731d7a5c526925f6a59edd.svg
+  2. "costume2" -> b9832a238035bfbfcdba2b45bddba001.svg
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite125 (Target #140) ===
+ Costumes (1):
+  1. "costume1" -> e832aa0842a3b353281062bbb88af0fa.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite126 (Target #141) ===
+ Costumes (1):
+  1. "costume1" -> 786f682419810e31e28391eecfa9f715.png
+ Sounds (5):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "Sick Beat" -> 8ce2200451bf64157bf5a015008e3614.wav
+  3. "Sick Beat2" -> d00a166f2971dde0774f5f93f243146b.wav
+  4. "Sick Beat3" -> 2157e7a015b32c323bb31d8ad1d5d9c4.wav
+  5. "Sick Beat4" -> 08b5b63eb2484505b58222f76c87f239.wav
+
+=== Sprite127 (Target #142) ===
+ Costumes (1):
+  1. "costume1" -> a1b5b16f6500053ced0ed2d38d9435d2.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite128 (Target #143) ===
+ Costumes (1):
+  1. "costume1" -> 7c6dc55b8b5cc3ee92fa82ade4f58df8.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite129 (Target #144) ===
+ Costumes (1):
+  1. "costume1" -> 1a592aad733ba4dfde52522728a07851.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite130 (Target #145) ===
+ Costumes (1):
+  1. "costume1" -> 77837757ac8d5ae193b1334f96e66909.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite131 (Target #146) ===
+ Costumes (1):
+  1. "costume1" -> 8f75d116e80784120931738b6a1ef410.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== CutesyShopNPC (Target #132) ===
+ Costumes (1):
+  1. "CutesyShop" -> fc04c2443683c5226aca70f3425f4dc2.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite133 (Target #148) ===
+ Costumes (1):
+  1. "costume1" -> 52c087f5290b49753d92c58ec851210a.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite134 (Target #149) ===
+ Costumes (1):
+  1. "costume1" -> dda623c0a528d42231dfdb838e9a1c50.png
+ Sounds (2):
+  1. "Cant Select" -> 07ee196971466da37070dfb673f1acd8.wav
+  2. "cash-register-purchase-87313" -> a5921898c9b083391e97beca20a099ed.wav
+
+=== Sprite135 (Target #150) ===
+ Costumes (1):
+  1. "costume1" -> 858c862dbfd4cbdd0c6030b30b3efdce.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite136 (Target #151) ===
+ Costumes (1):
+  1. "costume1" -> 530908aef9da3fa5a6ee69b9a31f384a.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite138 (Target #152) ===
+ Costumes (2):
+  1. "costume1" -> 31e243394c9cb228f5750d9e5a6c7d7c.png
+  2. "costume2" -> 2f07713c865bb410ca675e1e3893e029.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "Buttonpush" -> 54a606a680915bb3cf91338951c3115e.wav
+
+=== Sprite139 (Target #153) ===
+ Costumes (2):
+  1. "costume1" -> 31e243394c9cb228f5750d9e5a6c7d7c.png
+  2. "costume2" -> 2f07713c865bb410ca675e1e3893e029.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "Buttonpush" -> 54a606a680915bb3cf91338951c3115e.wav
+
+=== Shadow Zork (Target #154) ===
+ Costumes (2):
+  1. "costume1" -> 18411fe318a545a522d4cda5dc192152.png
+  2. "costume2" -> 9f2b805fc5e85339a27b385725a5e496.png
+ Sounds (2):
+  1. "Shadow Zork" -> efa254b67b98270bee50126b96820f54.wav
+  2. "Shadow Zork2" -> fa1d93726936ca5812a0733c65f925f4.wav
+
+=== Sprite140 (Target #155) ===
+ Costumes (3):
+  1. "costume1" -> 5e7dfa9a2cdc60b9b0923b574dfacb69.png
+  2. "costume2" -> 343bdf67e9cea63221b9ba3af01747fd.png
+  3. "costume3" -> 1d1c393e97e440c86bb36233142c1df3.png
+ Sounds (2):
+  1. "pop" -> db97a8a48ab3cdef5430703ef3b32e27.wav
+  2. "pop2" -> 8add917f0c6b4d261234bce2212e2203.wav
+
+=== Sprite141 (Target #156) ===
+ Costumes (2):
+  1. "costume1" -> 2dab37faef30da288815fee7f712380b.png
+  2. "costume2" -> 2dab37faef30da288815fee7f712380b.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite21 (Target #157) ===
+ Costumes (3):
+  1. "costume1" -> 025d661e7926f6fe8638da11bd7994d5.png
+  2. "costume3" -> f0785bc5d603c6e67891782d289c5aca.png
+  3. "costume2" -> e8c6e3fdc68bac6f0d9122e0453d6fd8.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite142 (Target #158) ===
+ Costumes (1):
+  1. "costume1" -> 700d0a3efef22ce03c61beb4402d43ed.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite143 (Target #159) ===
+ Costumes (1):
+  1. "costume1" -> 84bd42e1cec54fa349bedfea0a12c139.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite144 (Target #160) ===
+ Costumes (9):
+  1. "costume5" -> f4a309c4150a18aabe9a3986e1b1aa89.png
+  2. "costume7" -> 69b63fd97576759db3b1db009edc06cc.png
+  3. "costume2" -> 165366385da3a5c6c46f0ea88f67b6cf.png
+  4. "costume3" -> 9857444f0a7c555288bb8de40c584163.png
+  5. "costume8" -> bfe88194484fd56d8685c54bf383793a.png
+  6. "costume9" -> e8fa2600c251a018bf021a13812225b7.png
+  7. "costume1" -> f134c13821b9abebc123ba29c44df2b5.png
+  8. "costume6" -> f3433323c9752ca37c5f46a77d883e3d.png
+  9. "costume4" -> c05430589d5808dab82254773399e50f.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite145 (Target #161) ===
+ Costumes (1):
+  1. "costume1" -> 23fd2f61d1af6ff4f1364adb7d0970c5.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Shadow Jone (Target #162) ===
+ Costumes (3):
+  1. "costume1" -> 0dac9b54e19f627b2bff414902a8f3c6.png
+  2. "costume2" -> 5ad66099d4127b38532c86d5fdf602cb.png
+  3. "costume3" -> be9b33a018984fbc7373c5aab2650435.png
+ Sounds (1):
+  1. "Jone Vs" -> efc09f4dc100e441b2d7a4d1ce18c267.wav
+
+=== Sprite146 (Target #163) ===
+ Costumes (1):
+  1. "costume1" -> 23fd2f61d1af6ff4f1364adb7d0970c5.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite147 (Target #164) ===
+ Costumes (9):
+  1. "costume5" -> f4a309c4150a18aabe9a3986e1b1aa89.png
+  2. "costume7" -> 69b63fd97576759db3b1db009edc06cc.png
+  3. "costume2" -> 165366385da3a5c6c46f0ea88f67b6cf.png
+  4. "costume3" -> 9857444f0a7c555288bb8de40c584163.png
+  5. "costume8" -> bfe88194484fd56d8685c54bf383793a.png
+  6. "costume9" -> e8fa2600c251a018bf021a13812225b7.png
+  7. "costume1" -> f134c13821b9abebc123ba29c44df2b5.png
+  8. "costume6" -> f3433323c9752ca37c5f46a77d883e3d.png
+  9. "costume4" -> c05430589d5808dab82254773399e50f.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite148 (Target #165) ===
+ Costumes (2):
+  1. "costume1" -> ae102b2657ee895fac9a98ab6312a844.png
+  2. "costume2" -> f4e0a4ab8c74fb6f7f59a3cf4bd728b8.png
+ Sounds (1):
+  1. "pop" -> 54a606a680915bb3cf91338951c3115e.wav
+
+=== Sprite149 (Target #166) ===
+ Costumes (2):
+  1. "costume1" -> 286ee2af2a4970c79eabbdf67727e248.png
+  2. "costume2" -> 08633ea24aadc30420ed8d726e2d998a.png
+ Sounds (2):
+  1. "Various Guys!" -> 7b2175ac4b17f04371b7d608ba8865d8.wav
+  2. "Shadow Fight" -> acf1a9e7f2646a8d7907a591c4a79737.wav
+
+=== Sprite150 (Target #167) ===
+ Costumes (5):
+  1. "costume2" -> dfb2abfb5b6a408cfb9cac6e83122562.png
+  2. "costume3" -> c84fa4d253ff493e34bc15a1a19c773b.png
+  3. "costume4" -> 35cc9ee473f393da8c2bdc9ffa4413e8.png
+  4. "costume5" -> 94f6cc2d47df350f6d734d7230354d73.png
+  5. "costume6" -> 5c3e27a03ef0210329865f10ccadfb66.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite151 (Target #168) ===
+ Costumes (1):
+  1. "costume1" -> cb0ad14af04dd480f93a28d724e45992.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite152 (Target #169) ===
+ Costumes (1):
+  1. "costume1" -> d5f7088d0a04b247ec3c52532680ce64.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite153 (Target #170) ===
+ Costumes (5):
+  1. "costume1" -> 7efe685242f1bf9c65165c6546728bcb.png
+  2. "costume6" -> 407f241a10c3d74eabb1f7bfae1908e5.png
+  3. "costume5" -> e73170c263779d8ef0fe58d405189929.png
+  4. "costume4" -> 9ba7b50251f15967b7b56534fe1e747a.png
+  5. "costume3" -> 4ef932d8ebbe7d33e5fb23acd4422b59.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== IMG_1556 (Target #171) ===
+ Costumes (3):
+  1. "costume1" -> d1a7ee6fa9c77fa55af7219e986d9bb4.png
+  2. "costume2" -> ead11f1d85404115a9bc32a4d7191426.png
+  3. "costume3" -> 6e58590fb826ac1b9722c1952b4070db.png
+ Sounds (2):
+  1. "ScreenRecording_05-15-2025 18-33-02_1" -> eeb8753bb019543e8481366a39bce128.wav
+  2. "ScreenRecording_05-15-2025 18-33-02_2" -> 1dd257d2fc25c466411b70b566299e94.wav
+
+=== Sprite155 (Target #172) ===
+ Costumes (1):
+  1. "costume1" -> cdd8a5c9ddc4902d671e92c7af3b3897.png
+ Sounds (1):
+  1. "000029a8" -> 2741814010f2249c4669d653f657c7bc.wav
+
+=== Sprite156 (Target #173) ===
+ Costumes (1):
+  1. "IMG_1565" -> 5d861a28d460cbaeda51368914b9deee.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite157 (Target #174) ===
+ Costumes (2):
+  1. "costume1" -> 4eb70e72a5dd405e5a635b7da24239d8.png
+  2. "costume2" -> b6a8e36c47f788aa3713b6582750a46b.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "Buttonpush" -> 54a606a680915bb3cf91338951c3115e.wav
+
+=== Sprite158 (Target #175) ===
+ Costumes (2):
+  1. "costume1" -> e9f710be356796ba1b8b246837503ac0.png
+  2. "costume2" -> 09c42925baf0047d1d3a3474c2049672.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "Buttonpush" -> 54a606a680915bb3cf91338951c3115e.wav
+
+=== Sprite159 (Target #176) ===
+ Costumes (2):
+  1. "costume1" -> 31e243394c9cb228f5750d9e5a6c7d7c.png
+  2. "costume2" -> 2f07713c865bb410ca675e1e3893e029.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "Buttonpush" -> 54a606a680915bb3cf91338951c3115e.wav
+
+=== Sprite160 (Target #177) ===
+ Costumes (1):
+  1. "costume1" -> 2fa81d6dc7103956f48715c639951b3c.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite161 (Target #178) ===
+ Costumes (1):
+  1. "costume1" -> 81d7a2225d333457d69e18beaa623538.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite162 (Target #179) ===
+ Costumes (1):
+  1. "costume1" -> 8612ddb8b7a7144be4549dd6332c8630.png
+ Sounds (4):
+  1. "bop-it-twist-it-pull-it-made-with-Voicemod" -> 0bc0a6ffaac5756b9857af09a78a82cf.mp3
+  2. "pullit-101soundboards" -> 254fddfc1c55518350a78841525e0b83.wav
+  3. "bopit-101soundboards" -> d818ddc4046d9ae3f1b556a7da690e05.wav
+  4. "twistit-101soundboards" -> 1db611718ff12fa0c91ed5233d8bde9b.wav
+
+=== Sprite163 (Target #180) ===
+ Costumes (2):
+  1. "costume1" -> a8550bae5d4430c1cb5639b2ec40b03b.png
+  2. "costume2" -> 5591ac7a9428fedb27efdfcf024843b5.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite164 (Target #181) ===
+ Costumes (2):
+  1. "costume1" -> 2023a6cfb3470b9c398d67c578ab35eb.png
+  2. "costume2" -> 5b78bf54efb0d80c603429039e88ec59.svg
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite165 (Target #182) ===
+ Costumes (1):
+  1. "costume1" -> e3e15a8ec7b17ff33e02dc11cc87ff9c.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite166 (Target #183) ===
+ Costumes (1):
+  1. "costume1" -> 785094d5379107d2f0b693672c6179fd.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite167 (Target #184) ===
+ Costumes (2):
+  1. "costume1" -> 65a30892f13f35ac5903e3326e053d1e.png
+  2. "costume2" -> 65a30892f13f35ac5903e3326e053d1e.png
+ Sounds (1):
+  1. "Buttonpush" -> bdbec83e74a4048ed0797d62e46c464b.wav
+
+=== Sprite168 (Target #185) ===
+ Costumes (2):
+  1. "costume1" -> 0b1c67a7b2ec92f4181f192a8c225858.png
+  2. "costume2" -> 1b6d997b26c89c5bd2637ac5c18b9360.png
+ Sounds (1):
+  1. "Buttonpush" -> bdbec83e74a4048ed0797d62e46c464b.wav
+
+=== Sprite169 (Target #186) ===
+ Costumes (2):
+  1. "costume1" -> bd9af31d9275d928ca484ea491d7f87c.png
+  2. "costume2" -> e004c279b22f4d5a1ea2ad62e05f323a.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite170 (Target #187) ===
+ Costumes (1):
+  1. "costume1" -> 0cfc21fc51423ba5b2f68f13888a380c.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite171 (Target #188) ===
+ Costumes (7):
+  1. "costume1" -> b55288ccdb6cb65754a8d2922fe64144.png
+  2. "costume2" -> 73f62b1637fbbad03896e9c23236f80a.png
+  3. "costume3" -> 3013dc794a9b7ab28703d3a91b4ac398.png
+  4. "costume4" -> c4803ed1a07802847477f7c7368ef8a7.png
+  5. "costume5" -> 84ed1a2067ce1bc657435d6822a650bd.png
+  6. "costume6" -> 21ae4cf9ee2253529b1253b95c16ab7b.png
+  7. "costume7" -> bbd333d7d1a558e11549de8d24992e8d.png
+ Sounds (1):
+  1. "pop" -> c4f5236c93b035233107cfb232979e30.wav
+
+=== Sprite173 (Target #189) ===
+ Costumes (2):
+  1. "costume1" -> 01a1426b34019178b5ee2ae3c4de7d25.png
+  2. "costume2" -> ccc41565489a15ede83ea221dbad8dfc.png
+ Sounds (2):
+  1. "Cant Select" -> 07ee196971466da37070dfb673f1acd8.wav
+  2. "cash-register-purchase-87313" -> a5921898c9b083391e97beca20a099ed.wav
+
+=== Sprite174 (Target #190) ===
+ Costumes (1):
+  1. "costume1" -> bb9d4f3688b63eee611023fa35b96b7f.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite175 (Target #191) ===
+ Costumes (5):
+  1. "costume1" -> 7efe685242f1bf9c65165c6546728bcb.png
+  2. "costume6" -> 407f241a10c3d74eabb1f7bfae1908e5.png
+  3. "costume5" -> e73170c263779d8ef0fe58d405189929.png
+  4. "costume4" -> 9ba7b50251f15967b7b56534fe1e747a.png
+  5. "costume3" -> 4ef932d8ebbe7d33e5fb23acd4422b59.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite176 (Target #192) ===
+ Costumes (2):
+  1. "costume1" -> ddd019b37aa5888b65c11afef2050e61.png
+  2. "costume2" -> a066b87a048f7106d76124a6e470cccd.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite177 (Target #193) ===
+ Costumes (1):
+  1. "costume1" -> 06a11e5acc1794e7081f55f1b1b63195.png
+ Sounds (1):
+  1. "pop" -> 9cdc44724eed28539477473a171684e4.wav
+
+=== Sprite178 (Target #194) ===
+ Costumes (2):
+  1. "costume1" -> 76acd5b260db3ca87b31751406b0bff7.png
+  2. "costume2" -> 447d1c710ebdb62e4c1fc5b4213cb5a1.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite179 (Target #195) ===
+ Costumes (1):
+  1. "costume2" -> 57e7ba58245d30dfeb83ca698410ebd8.png
+ Sounds (1):
+  1. "pop" -> 838bc6a6906e0f9a7f046e710c91a191.wav
+
+=== Sprite180 (Target #196) ===
+ Costumes (4):
+  1. "costume1" -> 7941314615e56fbf051c0671c0918c1e.png
+  2. "costume2" -> c0614c8d5a4fc53c73f33b8aa7150354.png
+  3. "costume3" -> 8b1073d1c1e98c01e1b9b7075d6b36e0.png
+  4. "costume4" -> e83c75f9ba148e285a1ebc681ac3637c.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite154 (Target #197) ===
+ Costumes (23):
+  1. "costume1" -> 0ec71510ea46ac2b2c61130cb198e59b.png
+  2. "costume5" -> 3215fe272eaac270c16f9e49274626a5.png
+  3. "costume4" -> 18cd5d5301e50117aa2aeafa44eb89e8.png
+  4. "costume3" -> 68cfa580db0284bd2864f8282d3c3d0c.png
+  5. "costume2" -> a604d0dd87e7be8bb1f45bc6bc481d67.png
+  6. "costume6" -> d7d5bc80852b88bc7646eb9013908d89.png
+  7. "costume7" -> a8510d0a94b0c22b16de4878d268b8e5.png
+  8. "costume8" -> 0179cdfcec38a8e85b6e545b6cd578ce.png
+  9. "costume9" -> ca0d9454961db160e51cfafc008d7f02.png
+  10. "costume10" -> c496b2c7aa7e4bc5a1c95a41a0d513e8.png
+  11. "costume12" -> f5c4b61c73798e9bc6bcf66139f17027.png
+  12. "costume11" -> f88c4a69880ed6af5514d9ef52d118fa.png
+  13. "costume13" -> 0836d4f229e63e563907279ffa9b3b59.png
+  14. "costume14" -> 86fde828e8d36ee3ae56c564eeeeeb84.png
+  15. "costume15" -> c6dbeb56fcd12f6242494708cf45fe72.png
+  16. "costume16" -> fc8273200347b2710e06688f5c8b4d11.png
+  17. "costume17" -> e8c139216f264f9a699c791d1dc6ed72.png
+  18. "costume18" -> c23c2049e6caefd5ba6372f6b4358376.png
+  19. "costume19" -> b53dd97c6bc55e9609bd2fd1c37b1226.png
+  20. "costume20" -> c957683d7321d51f1e6daed4844b7372.png
+  21. "costume21" -> 3bcaab91bdcbe45b8df5fe68f9ab208f.png
+  22. "costume22" -> 440cb3e77279affd4ef131af602131f3.png
+  23. "costume23" -> f3015115a0079292b493ed550edf6674.png
+ Sounds (3):
+  1. "pop" -> 108b00412997567e902258512429a722.wav
+  2. "pop2" -> e113a770cd78ef9fb09bc729c193eb44.wav
+  3. "ItÃ¢â‚¬â„¢s with a B" -> 1bdb08ccb749c85d8cfe77244e8e8732.wav
+
+=== Sprite181 (Target #198) ===
+ Costumes (4):
+  1. "costume1" -> 3580e016a47e9137b69311b72ee01518.png
+  2. "costume2" -> 88c87d4e66591341f88bffce0a385edf.png
+  3. "costume3" -> a156d983e280f64d06dfdd74944f0201.png
+  4. "costume4" -> f831f2f6baaea557cdc47a3d00484f78.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite182 (Target #199) ===
+ Costumes (7):
+  1. "costume1" -> f26be6a4a2d6305a1ddc4a5b184b140d.png
+  2. "costume2" -> 998fbe1394c13d5f2f7ddbd10ed9289c.png
+  3. "costume3" -> e1820f7e24e20baa966730de445449e7.png
+  4. "costume4" -> d89730c4acd572aef16d3d523fb86999.png
+  5. "costume5" -> 6d7c923312275b4b9ad941d56c1616ef.png
+  6. "costume6" -> d872954a96b2a33944c411d4c71dd579.png
+  7. "costume7" -> 5c40c7f79563afeeb795581bbf3c84fb.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite183 (Target #200) ===
+ Costumes (2):
+  1. "costume1" -> 31e243394c9cb228f5750d9e5a6c7d7c.png
+  2. "costume2" -> 2f07713c865bb410ca675e1e3893e029.png
+ Sounds (2):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+  2. "Buttonpush" -> 54a606a680915bb3cf91338951c3115e.wav
+
+=== Sprite172 (Target #201) ===
+ Costumes (5):
+  1. "IMG_1553" -> 814cfa7af01058a16767e3fc0ae0ac25.png
+  2. "costume1" -> 2cb3ef582b9e83a6dbb8951e39ff7310.png
+  3. "costume2" -> 0584e1f904aa05241e7f236dfc5ecdd3.png
+  4. "costume3" -> bf165ab558c9447b9c331e30febeb6a9.png
+  5. "costume4" -> dd37b97f307a773e252e1a56b02b3160.png
+ Sounds (3):
+  1. "pop" -> c4f5236c93b035233107cfb232979e30.wav
+  2. "chiptune-medium-boss-218095" -> dd38a4c42ae190f66cf713e99f278001.wav
+  3. "undertale-sound-effect-inflicting-damage-made-with-Voicemod 2" -> 7cf6d5304981b0f7a392a8a30a80c21d.wav
+
+=== Sprite184 (Target #202) ===
+ Costumes (1):
+  1. "costume1" -> d5f7088d0a04b247ec3c52532680ce64.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite185 (Target #203) ===
+ Costumes (1):
+  1. "costume1" -> 37076125800bbdaaae97bbd8d2276e8b.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite186 (Target #204) ===
+ Costumes (4):
+  1. "costume1" -> ff40a3c2652ac6309c9e1f2e8d9e00a9.png
+  2. "costume2" -> a3d1fafc2c74626ea6f85e0f427a78f6.png
+  3. "costume3" -> c0b72311a27dc8207dbbcf9d03c22a55.png
+  4. "costume4" -> 13d50264b7c44a180510fdf7c48700f8.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite187 (Target #205) ===
+ Costumes (1):
+  1. "costume1" -> a509013cb2c534b6249af94947dad5df.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite188 (Target #206) ===
+ Costumes (1):
+  1. "costume1" -> 596cb4b02ac09470d6366f041429b012.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite189 (Target #207) ===
+ Costumes (1):
+  1. "costume4" -> 4d4bcd8b7d2316baa519bb48f3c59bbd.png
+ Sounds (4):
+  1. "lock-and-key-37699" -> fa73006b4dd260668070b8a7fe9f933d.wav
+  2. "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 2" -> d8ba5292c1e92022a57dbc73f6ebbed9.wav
+  3. "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 3" -> 153d4a165164b7b38b0d5db466ba07e8.wav
+  4. "Click" -> 291803d018b96e9439a64ef75b51dc6c.wav
+
+=== Sprite190 (Target #208) ===
+ Costumes (1):
+  1. "costume1" -> e1543d057efb184b8a6194cae9a4c1ab.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite191 (Target #209) ===
+ Costumes (1):
+  1. "costume1" -> b35c01fad3d25782f0f773c6dcd92b0f.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite192 (Target #210) ===
+ Costumes (1):
+  1. "costume1" -> ee42158de3620ff79a9b48f03069c568.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite194 (Target #211) ===
+ Costumes (3):
+  1. "costume1" -> 549a028abd161582b45f801ee84726fc.png
+  2. "costume2" -> 88d7712ea7685850a33a30656e8b4a5d.png
+  3. "costume3" -> 245399bba4197dc80b3c2eef37827cf3.png
+ Sounds (1):
+  1. "Plantie :3" -> 666efe86cee1bf5c25105000c98a4ba5.wav
+
+=== Sprite195 (Target #212) ===
+ Costumes (1):
+  1. "costume1" -> ac614c2dedd23eb6cf502a1311da39ac.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite196 (Target #213) ===
+ Costumes (1):
+  1. "costume1" -> 446572d7ae051c29634694bda6219adb.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite197 (Target #214) ===
+ Costumes (1):
+  1. "costume1" -> eae17ac3472fb9956521e0a8dba100fd.png
+ Sounds (2):
+  1. "Cant Select" -> 07ee196971466da37070dfb673f1acd8.wav
+  2. "cash-register-purchase-87313" -> a5921898c9b083391e97beca20a099ed.wav
+
+=== IMG_1669 (Target #215) ===
+ Costumes (6):
+  1. "costume3" -> 8ebb2774844373cfdc9d4dc5df2a309b.png
+  2. "costume4" -> eb4fcf34b9fc9986009bf38d6a2323e6.png
+  3. "costume5" -> b15cd500027581a1e8b83a1199d7fa93.png
+  4. "costume6" -> 9018b213f7b394ee6bab6d533570f04d.png
+  5. "costume1" -> 5c8d7d6b695e98f635a3209eb73279ea.png
+  6. "costume2" -> 8e318ec4c0eb5e9c4ba947e26611eb6d.png
+ Sounds (1):
+  1. "what " -> bfa0f72283f38f477b336f87449fbcbc.wav
+
+=== Sprite198 (Target #216) ===
+ Costumes (1):
+  1. "costume1" -> 185342612ab8a55235ebd71ecb79370c.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite199 (Target #217) ===
+ Costumes (2):
+  1. "costume1" -> 2430c0a5507ca8a8bebd87a9d9dbfc02.png
+  2. "costume2" -> 54a75e6a8ae892598052dc81a8f01b37.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite201 (Target #218) ===
+ Costumes (1):
+  1. "costume1" -> 95d76edfd920b8cad5b80d09e1886626.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite202 (Target #219) ===
+ Costumes (2):
+  1. "costume1" -> 1f100af3917352db997160ae625d270f.png
+  2. "costume2" -> a2d3ce20999776f05b56c0d6d4b1f82a.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite200 (Target #220) ===
+ Costumes (1):
+  1. "costume1" -> 4dcfe8418b9eae1ccbfb9753d9fbd369.png
+ Sounds (1):
+  1. "000029a8" -> 9cdc44724eed28539477473a171684e4.wav
+
+=== Sprite203 (Target #221) ===
+ Costumes (1):
+  1. "costume1" -> 0c6a90e8686c91fb6fd1d7ea24d0684a.svg
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite204 (Target #222) ===
+ Costumes (1):
+  1. "costume1" -> 41866578f297e5de765e80286670b8f8.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite205 (Target #223) ===
+ Costumes (1):
+  1. "costume1" -> 07dcd00e8749d7f781d4676911a83a93.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite206 (Target #224) ===
+ Costumes (3):
+  1. "costume1" -> f91fb89ffee5c26572f55351618e80bb.png
+  2. "costume2" -> b7759209c2115688530fd46de0610cb1.png
+  3. "costume3" -> 96d069c3c9d6bc7a0358b9698716ff0c.png
+ Sounds (7):
+  1. "Pixel Man" -> cd35c927edb85d7e92a06401086c0448.wav
+  2. "Augh" -> 822529874523774c2a4b95ecb4e4fdf9.wav
+  3. "Augh2" -> c65bfb6c8ec6d9aeb32c5b54966bb5ae.wav
+  4. "Augh3" -> 5d013dae6f1abaccd0fe32e1209787d6.wav
+  5. "AAAUGHH" -> ad0fce09efe9f2d92adec45d56b2ef17.wav
+  6. "Gunshot pixel" -> 15540a562138569d28c29777af407434.wav
+  7. "AAAAAAAAAA" -> 8c2fdbdd478b6856f95643d426449ff5.wav
+
+=== Sprite207 (Target #225) ===
+ Costumes (2):
+  1. "costume1" -> 76c565624414d95a46d88e3f18cf1420.png
+  2. "costume2" -> 352ecc258d21106dcda44f4998c6c52c.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite208 (Target #226) ===
+ Costumes (2):
+  1. "IMG_1680" -> 2f83984674d9ce206bcc0363d949d44e.png
+  2. "IMG_2" -> 375328f2f710729d6fa5835e68304004.png
+ Sounds (1):
+  1. "Moo" -> 9c4e3b24592875dd5303e69b2d09cdeb.wav
+
+=== Sprite209 (Target #227) ===
+ Costumes (6):
+  1. "costume1" -> 15a2af6f930de3be13085c6731b920a3.png
+  2. "costume2" -> 0d454e1d6e1e714f50045ce6acd2f351.png
+  3. "costume3" -> ececc4d3f340602c63a69adf0f844d2e.png
+  4. "costume4" -> 48bf97b735d7b452d77b6c1f2916353f.png
+  5. "costume5" -> cf28335d7d6d8fe25a07a3f6551f8a9e.png
+  6. "costume6" -> 1dabc2d28bbbd1ec03dd86b291b66c4e.png
+ Sounds (1):
+  1. "Explode" -> 6fd6f18e1c9cee84e9075736c45199aa.wav
+
+=== Sprite210 (Target #228) ===
+ Costumes (1):
+  1. "costume1" -> 56630f6ad31c12a7d0e7e6c04439cbb3.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite211 (Target #229) ===
+ Costumes (2):
+  1. "costume1" -> 31e243394c9cb228f5750d9e5a6c7d7c.png
+  2. "costume2" -> 2f07713c865bb410ca675e1e3893e029.png
+ Sounds (1):
+  1. "Buttonpush" -> fcc706cad5034df193a261e0b453eea2.wav
+
+=== Sprite212 (Target #230) ===
+ Costumes (2):
+  1. "costume1" -> c5d8a521581e1dd788d80de0985934cb.png
+  2. "costume2" -> 4e07196bf0e460fdc8c6b1543c8001c6.png
+ Sounds (1):
+  1. "Buttonpush" -> fcc706cad5034df193a261e0b453eea2.wav
+
+=== VampireKnifeItem (Target #213) ===
+ Costumes (3):
+  1. "costume1" -> 5e8db005ad75a7559b1a46eb32297164.png
+  2. "costume3" -> 8c89b2130541ca5d4f0fa9e42fec248e.png
+  3. "costume2" -> ccc41565489a15ede83ea221dbad8dfc.png
+ Sounds (2):
+  1. "Cant Select" -> 07ee196971466da37070dfb673f1acd8.wav
+  2. "cash-register-purchase-87313" -> a5921898c9b083391e97beca20a099ed.wav
+
+=== Sprite214 (Target #232) ===
+ Costumes (1):
+  1. "costume1" -> 6c243e61eb33fe88c58d7e2a67d1e277.png
+ Sounds (1):
+  1. "pop" -> 755ede5239330265dcb7da92bf058fa1.wav
+
+=== Sprite215 (Target #233) ===
+ Costumes (2):
+  1. "costume1" -> 8c5466e72d56e7b6a012258a7c1e24b6.png
+  2. "costume2" -> 75d13da7235abaa52e36fb4c8d696562.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite216 (Target #234) ===
+ Costumes (3):
+  1. "costume1" -> d74f4ca167f6cffab7fa13a5ccbf1026.png
+  2. "costume3" -> 05eaa0e674feacd853d40a9ff2f55432.png
+  3. "costume2" -> ccc41565489a15ede83ea221dbad8dfc.png
+ Sounds (3):
+  1. "Cant Select" -> 07ee196971466da37070dfb673f1acd8.wav
+  2. "cash-register-purchase-87313" -> a5921898c9b083391e97beca20a099ed.wav
+  3. "Cant Select2" -> ad56a3ce866f533739e45af99e949b27.wav
+
+=== Sprite217 (Target #235) ===
+ Costumes (2):
+  1. "costume1" -> b516f819fabc0dd8cb1427741e057ece.png
+  2. "costume2" -> 911fb8df9818201d3e4c22e7390ec653.png
+ Sounds (2):
+  1. "toby_fox_carpet" -> c546ff53a8108c1f950c2cc00b29726a.wav
+  2. "toby_fox_carpet2" -> d3376f88c82a2d59325049d878f40471.wav
+
+=== Sprite218 (Target #236) ===
+ Costumes (2):
+  1. "costume1" -> cfb68c2986cfb188b50f58f78dd060a3.png
+  2. "costume2" -> b516f819fabc0dd8cb1427741e057ece.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite219 (Target #237) ===
+ Costumes (1):
+  1. "costume1" -> 38e03b9fbcf60d5f6fa327303a1d0314.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite220 (Target #238) ===
+ Costumes (1):
+  1. "costume1" -> b516f819fabc0dd8cb1427741e057ece.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== sans. (Target #239) ===
+ Costumes (7):
+  1. "costume1" -> 9b8817754270c79ebed002453397520d.png
+  2. "costume2" -> a1071a8221ada0ef8d4cf3ab0a391831.png
+  3. "costume3" -> 09849377004683b42b7c5b661ef4130b.png
+  4. "costume5" -> a1071a8221ada0ef8d4cf3ab0a391831.png
+  5. "costume4" -> 54d28fc846284202f8084184aa342ed9.png
+  6. "costume6" -> 381e559ec8a5ce770dcb16605d75248c.png
+  7. "costume7" -> 2efd27409335343055fbb90184eef89c.png
+ Sounds (3):
+  1. "Undertale OST - 015 sans" -> d359c3ec802074b36e65c78222374b40.wav
+  2. "Undertale OST - 072 Song That WILL Play When You Fight Sans" -> 97069d54519552f30d250b8cbe974e64.wav
+  3. "Wowza" -> 27502023d33755fbb6a36b953179560e.wav
+
+=== Sprite221 (Target #240) ===
+ Costumes (1):
+  1. "costume1" -> 66d26401c0e7e663247c6406e1ea7dce.png
+ Sounds (1):
+  1. "pop" -> 7f5f2d0fbc542dc7a04a9bcf6f37c7b5.wav
+
+=== Sprite222 (Target #241) ===
+ Costumes (1):
+  1. "costume1" -> 4773e061919ece10001ba14b9fe30543.png
+ Sounds (1):
+  1. "pop" -> 7f5f2d0fbc542dc7a04a9bcf6f37c7b5.wav
+
+=== Sprite223 (Target #242) ===
+ Costumes (1):
+  1. "costume1" -> fbfe5100c843502520144876cd902b13.png
+ Sounds (1):
+  1. "pop" -> 7f5f2d0fbc542dc7a04a9bcf6f37c7b5.wav
+
+=== Sprite224 (Target #243) ===
+ Costumes (3):
+  1. "costume3" -> 7f8237b2715164ec744f9804b0ae8a97.png
+  2. "costume4" -> 504978fd19c8d2eccd5cdc0295697846.png
+  3. "costume1" -> 69595e9f5c15e22f6e4cb4d3d29a5c5b.png
+ Sounds (3):
+  1. "pop" -> 0259f838ba87c8d034eadb50b996a526.wav
+  2. "gaster_blaster_sound_effect_1" -> 50c6ea4dd77b039a104a606afaec9f44.wav
+  3. "gaster_blaster_sound_effect_2" -> e7a3e19862f824c814fc8a85ebdf8a19.wav
+
+=== Sprite225 (Target #244) ===
+ Costumes (1):
+  1. "costume1" -> 3339a2953a3bf62bb80e54ff575dbced.svg
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== BurntPanItem (Target #226) ===
+ Costumes (2):
+  1. "costume1" -> 1583dd8a960d72aba47e2774e74a811f.png
+  2. "costume2" -> ccc41565489a15ede83ea221dbad8dfc.png
+ Sounds (2):
+  1. "Cant Select" -> 07ee196971466da37070dfb673f1acd8.wav
+  2. "cash-register-purchase-87313" -> a5921898c9b083391e97beca20a099ed.wav
+
+=== Sprite227 (Target #246) ===
+ Costumes (1):
+  1. "costume1" -> 858c862dbfd4cbdd0c6030b30b3efdce.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite228 (Target #247) ===
+ Costumes (4):
+  1. "costume2 3" -> 608e9c745eb06e24af54846d858b7b81.png
+  2. "costume4" -> 1278525145ee3cec088a19a16e42546a.png
+  3. "costume2" -> cb9770294b3d8b0d6761722a26527dc3.png
+  4. "costume1" -> 906521491f89351ece3fbe2a27ddb2ce.png
+ Sounds (3):
+  1. "pop" -> d4526e72db9ec0171eb4146346ac4a37.wav
+  2. "Fobert Battle" -> f75b81e738b8fc71f0b3bb601ed7a444.wav
+  3. "Fobert Battle2" -> c6bb54a0dc7dd3ace31ac7e85dbc1ef4.wav
+
+=== text box (Target #248) ===
+ Costumes (1):
+  1. "costume1" -> 37ea695f2267af6967a97fb8da26da88.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== text (Target #249) ===
+ Costumes (100):
+  1. "a" -> c168218dd7dc198792c93484a3b1627a.png
+  2. "A" -> c168218dd7dc198792c93484a3b1627a.png
+  3. "b" -> d71a72eb35d0f839a47a9d80a1fd4419.png
+  4. "B" -> d71a72eb35d0f839a47a9d80a1fd4419.png
+  5. "c" -> 023ff59d1322b65724c6dad861182ac0.png
+  6. "C" -> 1a25b280463307cf10b0cacc4d3a420a.png
+  7. "d" -> a4aa14c72fd4fe66a633f939fbd5607b.png
+  8. "D" -> a4aa14c72fd4fe66a633f939fbd5607b.png
+  9. "e" -> 977ffcbe75a3c09dbbbd591a7e24fe31.png
+  10. "E" -> 977ffcbe75a3c09dbbbd591a7e24fe31.png
+  11. "f" -> df139d6dc7caff0bce5ea2c8502790bb.png
+  12. "F" -> df139d6dc7caff0bce5ea2c8502790bb.png
+  13. "g" -> 28f692c5f408d602558996cd22036d38.png
+  14. "G" -> 28f692c5f408d602558996cd22036d38.png
+  15. "h" -> cfa7b44c9c4e7d37ae76ef1dc516d358.png
+  16. "H" -> cfa7b44c9c4e7d37ae76ef1dc516d358.png
+  17. "i" -> 8e55a188e238f001334d3f91f380d9c7.png
+  18. "I" -> b87681e071815fc4819b43bb2ea7aab4.png
+  19. "j" -> 13afbebaad393bb7c0b9af4729c59f88.png
+  20. "J" -> 13afbebaad393bb7c0b9af4729c59f88.png
+  21. "k" -> 1260fbc279203bb2cfdbca10795b9bb2.png
+  22. "K" -> 1260fbc279203bb2cfdbca10795b9bb2.png
+  23. "l" -> 2930fa29a41ab5142be48a88ee468c7a.png
+  24. "L" -> 2930fa29a41ab5142be48a88ee468c7a.png
+  25. "m" -> a5688aa1e525fb0358e71efae87304c9.png
+  26. "M" -> a5688aa1e525fb0358e71efae87304c9.png
+  27. "n" -> e3412764da98c6b47420474bb41f9656.png
+  28. "N" -> e3412764da98c6b47420474bb41f9656.png
+  29. "o" -> 5c45f384815d9149a91a891b2907297b.png
+  30. "O" -> 5c45f384815d9149a91a891b2907297b.png
+  31. "p" -> 01088d6296804664bbe020bdda54ffd4.png
+  32. "P" -> 01088d6296804664bbe020bdda54ffd4.png
+  33. "q" -> f6ad028f5853eba42d8d578b54c9fbb3.png
+  34. "Q" -> f6ad028f5853eba42d8d578b54c9fbb3.png
+  35. "r" -> bef2fa1d344f18e55cd637d7c6a435e0.png
+  36. "R" -> bef2fa1d344f18e55cd637d7c6a435e0.png
+  37. "s" -> 2ee4ed52cf0874e9180f4508d9d9edbb.png
+  38. "S" -> 2ee4ed52cf0874e9180f4508d9d9edbb.png
+  39. "t" -> 3d6a18fb72080795fc6f2e22ef86d2bb.png
+  40. "T" -> 3d6a18fb72080795fc6f2e22ef86d2bb.png
+  41. "u" -> dfa12fa761477beb52b26c930eb1d9e8.png
+  42. "U" -> dfa12fa761477beb52b26c930eb1d9e8.png
+  43. "v" -> 208083897ad42a910f19c38eb112aaf2.png
+  44. "V" -> 208083897ad42a910f19c38eb112aaf2.png
+  45. "w" -> f82b9eeaee447f3f9cbcbb2ca3c733d7.png
+  46. "W" -> f82b9eeaee447f3f9cbcbb2ca3c733d7.png
+  47. "x" -> 230db7497e47eadd5c903d14bc13e3ff.png
+  48. "X" -> 230db7497e47eadd5c903d14bc13e3ff.png
+  49. "y" -> dc21185e551d9d463da8740d8e4de195.png
+  50. "Y" -> dc21185e551d9d463da8740d8e4de195.png
+  51. "z" -> 824e0bed75266735e7b20dba14a58f52.png
+  52. "Z" -> 824e0bed75266735e7b20dba14a58f52.png
+  53. "," -> d75b4a8ec8d997b0234d4c7048d4394d.png
+  54. "." -> b9eb014aa495e654404ae9021aca0bad.png
+  55. """ -> f19a1ca2c07eb1c8f06f7d6ffa8222d3.png
+  56. "Ã¢â‚¬Ëœ" -> afcc319dc391bcc87e17c9c19df9bbc8.png
+  57. "Ã¢â‚¬â„¢" -> afcc319dc391bcc87e17c9c19df9bbc8.png
+  58. "'" -> afcc319dc391bcc87e17c9c19df9bbc8.png
+  59. "question_mark" -> 2c3cbe8f5219172ebc55a25e93a9b099.png
+  60. "!" -> 6eed58871014262d9639905d0486ad36.png
+  61. "-" -> c5e276352ecaf8612c4af5606281fb51.png
+  62. "_" -> a2a6557a4047c61dcec07bef1e6a8c5c.png
+  63. " " -> c446646a95cd43c36d25583fdaea3dbc.png
+  64. " 1" -> 3b5d4796167b0ee88c804638babde1af.png
+  65. " 2" -> dafc788f3904b57293a9cccedf568bf1.png
+  66. " 3" -> 0d8bc4c290465c8d521758fd68823d88.png
+  67. " 4" -> b393f18cdb477b91e98c2a30c219e820.png
+  68. " 5" -> ec5e876c469bfb5dffff781d65dc079c.png
+  69. " 6" -> 8fe2ba7f8e9d620411babefb043a88b4.png
+  70. " 7" -> 49237da56837e95774d5e821175ecb71.png
+  71. " 8" -> 21d3389c5c98bc84d35e63ccd3632a51.png
+  72. " 9" -> 747f50061eb78683c9faed6390aae176.png
+  73. " 0" -> 3c1696db45d1670bc3a35223b5d49438.png
+  74. "(" -> 338bcb89ee1a9bd2bb4b86ecae0a395e.png
+  75. ")" -> d817760743bb91f009198872401fa6dc.png
+  76. ">" -> 1e6f1078add9a9b6f2878542df6de1e4.png
+  77. "<" -> 30426ddaee7d22687b72b2b125aa45bf.png
+  78. "Ã¢â‚¬Â¦" -> a31e3d22c49e6a3e4616ed80e6d33226.png
+  79. "&" -> 3e367a7d82fd6218569f3ab5019b6d1d.png
+  80. "Ã‚Â§" -> 21a4d3b36bc3075c54ebf2576a4c4247.png
+  81. "~" -> 21ca3290105f779721fa440e0dfda484.png
+  82. "Ã¢â‚¬â€" -> f8fac9d862e08babbdee9385cc611125.png
+  83. "@" -> 5d0ec4414e5df7ac546edf02bf536292.svg
+  84. "$" -> ac01867b4adeaf4de757575ef8d192ed.png
+  85. "%" -> e47c26be686c1af10175ed3bac6b01fd.svg
+  86. "|" -> e12e54d14f690f1b47a1751d10499ad3.png
+  87. "^" -> 68194ed757ed7c67587ab14f2cbff855.png
+  88. ";" -> b7bd7ea7347b06d753cce0caf6995c72.png
+  89. "=" -> f13b5c25463cf3563113c9237275cf12.png
+  90. "Ã‚Â°" -> 4e63eab4f0c8b4960eb6c03e55774cd0.svg
+  91. "{" -> 3339c9f31a0ebbae5c3cbb04464e7f15.png
+  92. "}" -> aabcc47a00d89534f631f73db7a2b2c4.png
+  93. "Ã„Å¾" -> a371cb8d2a55c87a2b3c748bd630d844.png
+  94. "Ã„â€“" -> 9ba882962217dcff62d27c6a280cb631.png
+  95. "ÃˆÅ¡" -> 48ce698a80c47987c0eaff4ac69a63e4.png
+  96. "Ã…Â" -> e11f61824c0b4eb09a0aff5def577f54.png
+  97. "Ã…Â²" -> 3085b67ce90784fb3eb22c1b3cf1c6ec.png
+  98. "Ã…Â¤" -> 97f1539ba47477c9f18bd1ac601e99f8.png
+  99. "Ã¢â€žÂ¢" -> b5b1932e64736c51b252fc26d0f3eacc.png
+  100. "]" -> cd21514d0531fdffb22204e0ec5ed84a.svg
+ Sounds (2):
+  1. "Boop Bing Bop" -> cc82eccdda2324aaf1fc3eb5260084c0.wav
+  2. "Interaction" -> 30f7dd2f38b18d246bfe1f7df75755c8.wav
+
+=== Sprite229 (Target #250) ===
+ Costumes (1):
+  1. "costume1" -> 698febeef7ca123bd7fe86c7c13b9dc4.svg
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite230 (Target #251) ===
+ Costumes (5):
+  1. "costume1" -> ff66e0c6933bce18789c29abd432f956.png
+  2. "costume2" -> 444501a4bc9c642ce45cb8c7ab77017b.png
+  3. "costume4" -> b5b5b95db1defd657c3b0e5f6fd7a9c6.png
+  4. "costume3" -> 38c0443e7a6b804ae9720cc1d5ff09de.png
+  5. "costume5" -> b7bd7ea7347b06d753cce0caf6995c72.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite231 (Target #252) ===
+ Costumes (1):
+  1. "costume1" -> 6ec5d8f2742d1a87585841435a6a399e.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite232 (Target #253) ===
+ Costumes (2):
+  1. "costume1" -> 52a69c72769ce307fc73765f8ba862f4.png
+  2. "costume2" -> f128b110d28f6d149eee8f711b066932.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite233 (Target #254) ===
+ Costumes (2):
+  1. "costume1" -> 146251addcb2fd53fea379844de2628f.png
+  2. "costume2" -> dc0273fb904b51326b5d76bc1465118f.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite234 (Target #255) ===
+ Costumes (2):
+  1. "costume1" -> 3f3459052be281ca1ca0a11b9e2b5338.png
+  2. "costume2" -> 75dab50da5ce594c4eb8e9860e290442.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite235 (Target #256) ===
+ Costumes (6):
+  1. "costume2" -> 5dadce1b9a620b856e56cda4a87e1910.png
+  2. "costume3" -> e8e337faa364135f419f0f8246cc9af0.png
+  3. "costume4" -> ed645af72c94527136f9fc320d9b150a.png
+  4. "costume1" -> a30748a45fbaed61dc5a9b27fb5be138.png
+  5. "costume5" -> b63f4c118f618acb0edcd7714c0a323f.png
+  6. "costume6" -> 4ead85f7df75afbd718d12b71bf95db8.png
+ Sounds (2):
+  1. "Threatening Look" -> 0489d68f4098a95a53179870b0d8b060.wav
+  2. "Earthbound Like Song" -> c8630128194699268286ec548625ccdd.wav
+
+=== Sprite3 (Target #257) ===
+ Costumes (1):
+  1. "costume1" -> 256a7edda12002b3396fc5934d35b7c2.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite236 (Target #258) ===
+ Costumes (1):
+  1. "costume1" -> 276f8c5324892b71cdbb8c5f848bbac0.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite237 (Target #259) ===
+ Costumes (3):
+  1. "costume1" -> 890eab6e68ba6ded53b24a16de5d9624.png
+  2. "costume2" -> aa4473b3604879594bfee36a6d7513d2.png
+  3. "costume3" -> c2a7937b50a296235b87398e50d8dabf.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite238 (Target #260) ===
+ Costumes (3):
+  1. "costume1" -> 509b2ac881e76517b5f2cc853c90ff3c.png
+  2. "costume3" -> 26bed83ef30ff0d403841a972f3d95d2.png
+  3. "costume2" -> ec3136ec02cd40cccd278aaf9c115fd6.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite239 (Target #261) ===
+ Costumes (1):
+  1. "costume1" -> 3339a2953a3bf62bb80e54ff575dbced.svg
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== 666666666666666666666666666666666666666666666666666666666666666666666666 (Target #262) ===
+ Costumes (1):
+  1. "costume1" -> 18fbc86ca7582f59c167e78b9fdc52f6.png
+ Sounds (2):
+  1. "eerie" -> 08589be53f6a2bec1e8b0931c0c399a7.wav
+  2. "66666666666666666666666666666666666666666666666666666" -> 701aafb22cbd7978e8efdfcf67d47fa7.wav
+
+=== Sprite193 (Target #263) ===
+ Costumes (11):
+  1. "costume1" -> 45f2a906db2305d7632e7fe15b709d12.png
+  2. "costume2" -> 9903cb6eba85e6c33ebc1807eb070efb.png
+  3. "costume6" -> 05211877b9138173e5abd467e277e36b.png
+  4. "costume7" -> 0f23fadcf2a2566e6e2e5e798aa5e298.png
+  5. "costume8" -> ea05030c64f7071c025c427c376171db.png
+  6. "costume9" -> e59aa14c40d720f9e236e546336e367b.png
+  7. "costume10" -> 0316aaaad8f93e1e2b8e592f16d67495.png
+  8. "costume3" -> b178fe824319f0a4822c60ccd9b4cec5.png
+  9. "costume5" -> 255f3ba0e1fa8d94afb4e7f9d2f739d5.png
+  10. "costume4" -> b63d49011ec178d1bcb52b2d2c17fa61.png
+  11. "costume11" -> 0b3a49888d7d1e88aabeb25195b33272.png
+ Sounds (7):
+  1. "Forch UNUSED" -> 4e4a2532f38b9482a2ef3f77ebe4aca7.wav
+  2. "pop2" -> f112192f06e2ad11de8035e5eddb1a06.wav
+  3. "Forch" -> 16e6441a88469267a3633dc437ccad32.wav
+  4. "A WONDERFUL CREATION" -> 3083d0f9ca695cbe5c3fd67d3357a5bb.wav
+  5. "Impact" -> f1ccc9636b40596949f6c2c0a2b45b92.wav
+  6. "WONDERFUL CREATION" -> 163a1ebc27516fd5bafc7c74cc8aeb3f.wav
+  7. "Impact2" -> df44977c67dc2103c1be875540e75d52.wav
+
+=== Sprite240 (Target #264) ===
+ Costumes (3):
+  1. "costume1" -> 54dbf37e252998bab9d28e53a76f8a5e.png
+  2. "costume2" -> de5d7f78b0a138f3d93a8658489e9e23.png
+  3. "costume3" -> 606d9b0bd0ebdc502de6f8cceac646da.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite241 (Target #265) ===
+ Costumes (1):
+  1. "costume4" -> 619aea7233eec12abbe90ec4871f6632.png
+ Sounds (5):
+  1. "lock-and-key-37699" -> fa73006b4dd260668070b8a7fe9f933d.wav
+  2. "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 2" -> d8ba5292c1e92022a57dbc73f6ebbed9.wav
+  3. "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 3" -> 153d4a165164b7b38b0d5db466ba07e8.wav
+  4. "Click" -> 291803d018b96e9439a64ef75b51dc6c.wav
+  5. "rumbl" -> 997de0a9f553b62b002f88529d301afa.wav
+
+=== Sprite242 (Target #266) ===
+ Costumes (1):
+  1. "costume1" -> 607cfab099f67e69e4fb2590b0089be2.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite243 (Target #267) ===
+ Costumes (2):
+  1. "costume1" -> ec802091b0ebeff615b6dece48b15e01.png
+  2. "costume2" -> 8152bb7ad5d5d848c58c314e1f08aec4.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite244 (Target #268) ===
+ Costumes (2):
+  1. "costume1" -> 7db1e37e32e2a0a4b2c2af648aa44a72.svg
+  2. "costume2" -> 6762f0cc41912d79eda3ed9a67c361c8.svg
+ Sounds (1):
+  1. "recording1" -> aa6342ca1679048fbb0d62f75969506e.wav
+
+=== Sprite245 (Target #269) ===
+ Costumes (1):
+  1. "costume1" -> 4bdc28fcf07e7b3b4c8f336dff8da239.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite246 (Target #270) ===
+ Costumes (1):
+  1. "costume1" -> 62031a64d78ea5d307823cfd80d28327.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
+
+=== Sprite247 (Target #271) ===
+ Costumes (2):
+  1. "costume1" -> c2e7aaefee8774f06f858ffd79e76af7.png
+  2. "costume2" -> 421577aec82c7a4130a8f5a6921d0bfd.png
+ Sounds (1):
+  1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
