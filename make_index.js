@@ -33,9 +33,10 @@ const dirs = [
   "sprite86", "sprite88", "sprite9", "sprite92", "sprite93", "sprite94", "sprite97", "textboxinner", "yetanotherredbutton"
 ];
 
-const emptyDirs = new Set([
-  "sprite2", "greenbutton", "Bullet3", "proposebutton", "bigredbutton", "redbutton3", "slideblock2", "slidepuzzle1", "slidepuzzle2", "Bullet5", "Bullet9", "Bullet10"
-]);
+const folders = fs.readdirSync(path.join(__dirname, 'overstory-core'))
+  .filter(f => fs.statSync(path.join(__dirname, 'overstory-core', f)).isDirectory())
+  .filter(f => f !== 'Stage')
+  .filter(f => fs.existsSync(path.join(__dirname, 'overstory-core', f, f + '.js')));
 
 function toVarName(name) {
   if (name.startsWith("_")) return name;
@@ -54,8 +55,7 @@ const imports = [
 
 const spriteEntries = [];
 
-for (const dir of dirs) {
-  if (emptyDirs.has(dir)) continue;
+for (const dir of folders) {
   const varName = toVarName(dir);
   // Special case: we checked file existence manually for some. 
   // For most, we assume filename is dir.js (PascalCase) or same as dir.
@@ -79,6 +79,83 @@ ${spriteEntries.join('\n')}
 const project = new Project(stage, sprites, {
   frameRate: 30, // Set to 60 to make your project run faster
 });
+
+// ------------- DEV & AI TEST HOOKS ------------- //
+window.aiTest = {
+  project,
+  stage,
+  sprites,
+  
+  // Simulate keyboard presses for AI (async)
+  pressKey: (key, durationMs = 150) => {
+    return new Promise(resolve => {
+      let code = key;
+      let keyCode = 0;
+      if (key === "z") { code = "KeyZ"; keyCode = 90; }
+      else if (key === "x") { code = "KeyX"; keyCode = 88; }
+      else if (key === "ArrowRight") { code = "ArrowRight"; keyCode = 39; }
+      else if (key === "ArrowLeft") { code = "ArrowLeft"; keyCode = 37; }
+      else if (key === "ArrowUp") { code = "ArrowUp"; keyCode = 38; }
+      else if (key === "ArrowDown") { code = "ArrowDown"; keyCode = 40; }
+      
+      const eventDown = new KeyboardEvent("keydown", {
+        key: key, code: code, keyCode: keyCode, bubbles: true
+      });
+      document.dispatchEvent(eventDown);
+      
+      setTimeout(() => {
+        const eventUp = new KeyboardEvent("keyup", {
+          key: key, code: code, keyCode: keyCode, bubbles: true
+        });
+        document.dispatchEvent(eventUp);
+        resolve();
+      }, durationMs);
+    });
+  },
+
+  // Simulate mouse clicks on the canvas
+  clickScreen: (x, y, durationMs = 100) => {
+    return new Promise(resolve => {
+      const canvas = document.querySelector('canvas') || document.body;
+      const rect = canvas.getBoundingClientRect ? canvas.getBoundingClientRect() : { left: 0, top: 0, width: 800, height: 600 };
+      
+      const clientX = rect.left + (x !== undefined ? x : rect.width / 2);
+      const clientY = rect.top + (y !== undefined ? y : rect.height / 2);
+
+      const eventDown = new MouseEvent("mousedown", { clientX, clientY, bubbles: true });
+      canvas.dispatchEvent(eventDown);
+
+      setTimeout(() => {
+        const eventUp = new MouseEvent("mouseup", { clientX, clientY, bubbles: true });
+        canvas.dispatchEvent(eventUp);
+        const eventClick = new MouseEvent("click", { clientX, clientY, bubbles: true });
+        canvas.dispatchEvent(eventClick);
+        resolve();
+      }, durationMs);
+    });
+  },
+
+  // Introspection Helper
+  getState: () => {
+    return {
+      chapter: stage.vars.chapter || 0,
+      room: stage.vars.room || 0,
+      hp: stage.vars.hp || 0,
+      gold: stage.vars.gold || 0,
+      inBattle: stage.vars.inBattle || stage.vars.inbattle || 0,
+      talking: stage.vars.talking || 0,
+      playerX: sprites.Player ? sprites.Player.x : null,
+      playerY: sprites.Player ? sprites.Player.y : null
+    };
+  },
+
+  // Chapter Jump Helper
+  jumpTo: (chapter) => {
+    stage.vars.chapter = chapter;
+    stage.broadcast("start");
+  }
+};
+// ----------------------------------------------- //
 
 export default project;
 `;

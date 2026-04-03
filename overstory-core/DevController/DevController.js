@@ -89,25 +89,19 @@ export default class DevController extends Sprite {
 
   *aiLoop() {
     while (true) {
-      if (this.toNumber(this.stage.vars.dev_aiActive) === 1) {
+      if (this.toNumber(this.stage.vars.dev_aiActive) === 1 && window.aiTest) {
         // Dialogue skipping logic
         if (this.toNumber(this.stage.vars.talking) === 1) {
-          // Simulate 'z' key down/up
-          this.runtime.keyPressed.z = true;
-          yield* this.wait(0.05);
-          this.runtime.keyPressed.z = false;
-          yield* this.wait(0.1);
+          // Advance dialogue through the AI test bridge
+          window.aiTest.pressKey("z", 50);
+          yield* this.wait(0.15);
         }
 
         // Basic Goal Seeking (Next Room)
-        // Note: This is a placeholder for custom logic per room
-        // For now, if we aren't talking and aren't in battle, we try to move right or up.
+        // If we aren't talking and aren't in battle, try to move right.
         if (this.toNumber(this.stage.vars.talking) === 0 && this.toNumber(this.stage.vars.inBattle) === 0) {
-            // Find the player and move them
-            // In Leopard, we can try to influence the player's position or keys.
-            this.runtime.keyPressed.ArrowRight = true;
-            yield* this.wait(0.5);
-            this.runtime.keyPressed.ArrowRight = false;
+            window.aiTest.pressKey("ArrowRight", 100);
+            yield* this.wait(0.2);
         }
       }
       yield;
