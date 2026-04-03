@@ -1,2 +1,1 @@
-*.sb3
-temp.zip
+# Removed *.sb3 and temp.zip because they are now tracked via Git LFS

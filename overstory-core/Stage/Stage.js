@@ -319,6 +319,7 @@ export default class Stage extends StageBase {
         this.whenIReceiveDarkRoom
       ),
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked3),
+      new Trigger(Trigger.GREEN_FLAG, this.dev_trainerLoop),
       new Trigger(
         Trigger.BROADCAST,
         { name: "Anemone" },
@@ -678,6 +679,13 @@ export default class Stage extends StageBase {
     this.vars.copyAndPasteYourCode = ["2600010A320"];
     this.vars.passcode = [8, 4, 9, 5, 1, 6, 2, 6];
     this.vars.passcodeOfTheFriggenThingy = [2, 3, 1];
+    
+    // Dev Trainer Variables
+    this.vars.dev_infHP = 0;
+    this.vars.dev_infGold = 0;
+    this.vars.dev_noClip = 0;
+    this.vars.dev_aiActive = 0;
+    this.vars.dev_speedMult = 1;
 
     this.watchers.hp = new Watcher({
       label: "HP",
@@ -785,13 +793,28 @@ export default class Stage extends StageBase {
 
   *whenGreenFlagClicked3() {
     while (true) {
-      if (this.compare(this.vars.hp, 1) < 0) {
-        this.vars.hp = 0;
-        if (this.toNumber(this.vars.battle) === 20) {
-          this.vars.diedToSans++;
+      if (this.toNumber(this.vars.dev_infHP) === 1) {
+        if (this.compare(this.vars.hp, 20) < 0) {
+          this.vars.hp = 20; // Keep HP high
         }
-        this.broadcast("Deeeeeeeaaaad");
-        /* TODO: Implement stop all */ null;
+      } else {
+        if (this.compare(this.vars.hp, 1) < 0) {
+          this.vars.hp = 0;
+          if (this.toNumber(this.vars.battle) === 20) {
+            this.vars.diedToSans++;
+          }
+          this.broadcast("Deeeeeeeaaaad");
+          /* TODO: Implement stop all */ null;
+        }
+      }
+      yield;
+    }
+  }
+
+  *dev_trainerLoop() {
+    while (true) {
+      if (this.toNumber(this.vars.dev_infGold) === 1) {
+        this.vars.yunuchi = 99999; // Keep Gold high
       }
       yield;
     }
