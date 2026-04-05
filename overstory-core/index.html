@@ -10,17 +10,36 @@
     <button id="greenFlag">Green Flag</button>
     <div id="project"></div>
 
+    <script>
+      // Register the asset proxy service worker
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').then(reg => {
+            console.log('[Engine] ServiceWorker registered with scope:', reg.scope);
+            // Reload if this is the first time to ensure interception
+            if (!navigator.serviceWorker.controller) {
+              console.log('[Engine] First registration, reloading for asset proxy...');
+              window.location.reload();
+            }
+          }).catch(err => {
+            console.error('[Engine] ServiceWorker registration failed:', err);
+          });
+        });
+      }
+    </script>
     <script type="module">
-      import project from "./index.js?v=2";
+      import project from "./index.js";
 
-      project.attach("#project");
+      // Re-attach if needed after project init
+      const attachment = project.attach ? project.attach("#project") : null;
+      console.log("[Engine] Project attached:", attachment);
 
       document.querySelector("#greenFlag").addEventListener("click", () => {
         project.greenFlag();
       });
 
       // Autoplay
-      project.greenFlag();
+      if (project.greenFlag) project.greenFlag();
     </script>
   </body>
 </html>

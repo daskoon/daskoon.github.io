@@ -1,0 +1,3360 @@
+{
+  "Stage": {
+    "costumes": {
+      "backdrop1.png": "cda1ceebe94f4c0f180326597ed29013.png",
+      "backdrop2.png": "6345e975b1fd44a9730419e308633bac.png",
+      "backdrop3.png": "556ea5733a3234ca9e5345974ef152e4.png",
+      "backdrop4.png": "8a7fa32a7a4eab9909b920132bda1057.png",
+      "backdrop5.png": "52ff94c4b3a79238461d1a57b9412b40.png",
+      "backdrop10.png": "e8d25e73bcfcdef4cf7c7a69309b55e3.png",
+      "backdrop6.png": "cd0bd0940386765ba2b9324cf286aaa1.png",
+      "backdrop7.png": "da0ab2ab3007ebb896377397f0243a61.png",
+      "backdrop8.png": "53eaaa216b648b528e76b447d51163ff.png",
+      "backdrop9.png": "b35396fd34db8d15b16bbaa63f70208e.png",
+      "backdrop11.png": "5963eaf4a2f2dcfb92135e25c0ef9658.png",
+      "backdrop12.png": "bba9a0405a73a05e3c21eef0d435082f.png",
+      "backdrop13.png": "f072fa16a42b686cc5c1c12a7ff8104e.png",
+      "backdrop14.png": "84ebe821cbb7cac35202a4b9d5717312.png",
+      "backdrop15.png": "a4cf5754739661541af4938b6c5cd7c6.png",
+      "backdrop16.png": "c2e20bd2be38d13f0a75f736a5b3c776.png",
+      "backdrop17.png": "5f41713057fb72db4b141b2659f27895.png",
+      "backdrop18.png": "2068d94d4e7ee92b66adaf4d3484ad27.png",
+      "backdrop19.png": "93dc650b6950e3d438facd81b3358010.png",
+      "backdrop20.png": "bca327ca253c3eee0427a30840758987.png",
+      "backdrop21.png": "ed2d41d5f22046e624f5d2dc8c0994d8.png",
+      "backdrop22.png": "cb04baecd3c16648e8649c8e17495e4e.png",
+      "backdrop23.png": "8181a5fe7c9f1180ad670a238ebdd568.png",
+      "backdrop24.png": "afa224ecae757015cf9284edbdf50037.png",
+      "backdrop25.png": "22d861e691065bc6388069f973707835.png",
+      "backdrop26.png": "a8681e70b496c18cc4cc6dcb61bb2eb1.png",
+      "backdrop27.png": "7dd3dd23a1f08f614f27256746f047f3.png",
+      "backdrop28.png": "6df4ad75b90fe5bec305443264119ff5.png",
+      "backdrop29.png": "42ea46be364b7001ed823004570640d4.png",
+      "backdrop30.png": "5291c7f9ea0e46c78a5e354c42ad90a2.png",
+      "backdrop31.png": "6c34ab90cda7248013687a72f7793b7d.png",
+      "backdrop32.png": "dd6fb459b9061e5035f0bcf4624e2aae.png",
+      "backdrop33.png": "b37ecf964ec7b89f079e9bf7decc6025.png",
+      "backdrop34.png": "97a6a406733a3e929844a4e7f10f38c2.png",
+      "backdrop35.png": "2ab13ce931714a687d429b292511bb3e.png",
+      "backdrop36.png": "b2021c0d170227067ecd2d31c1dd09f8.png",
+      "backdrop37.png": "5ac09bdae5eea36ade2a26b0c873f98a.png",
+      "backdrop38.png": "04428d8e81a887f23b6d5e8837761d7c.png",
+      "backdrop39.png": "2b99693c74c082c22356ea6cea6e255a.png",
+      "backdrop40.png": "7ddea474e01a9521f296c390a633f15a.png",
+      "backdrop41.png": "95d9bb9b46877c12ef8f1f0954564992.png",
+      "backdrop42.png": "6cf10014def4f8e68a91c731d4ec6a4b.png",
+      "backdrop43.png": "9e68fa359058f406705df79f0e2c096e.png",
+      "backdrop44.png": "b9e5539bf3426a9b542b20cc98115865.png",
+      "backdrop45.png": "60f5882513b0063521e5d8a952063a16.png",
+      "backdrop46.png": "0f30114f28ebe147e799174ae02c87b9.png",
+      "backdrop47.png": "f9b2ffea00237dea37c0c80d3c6fe880.png",
+      "backdrop48.png": "2bc86822b71ce777580bf91df346c950.png",
+      "backdrop49.png": "bc9269d7efa049c7ea6ac822d20ff4f9.png",
+      "backdrop50.png": "f1bfe58a852f6e3af581ef691a3297ba.png",
+      "backdrop51.png": "ef0cfbebf15699af1ce0e21db9a71675.png",
+      "backdrop52.png": "56f129a51747d9cc441d24363fa97cba.png",
+      "backdrop53.png": "71f2e17e7235add76b0932732243fa6e.png",
+      "backdrop54.png": "fc23283be41bd3c336d144575121116c.png",
+      "backdrop55.png": "4acd6a34c71880000d32fcc90f64ec4d.png",
+      "backdrop56.png": "6ae7cc60ece18f172e6d1837d63fa590.png",
+      "backdrop57.png": "881dd6e81db226f099bd1351b9460587.png",
+      "backdrop58.png": "10f9e749737d6f953c524e9a8294c879.png",
+      "backdrop59.png": "3aeb899b3a6f5e21d6246fca0f777ea0.png",
+      "backdrop60.png": "8fe835d8c1f6ea151536cffa8e1d1dbd.png",
+      "backdrop61.png": "ad9ddddd06ac9b1a9a0c22c53311bec2.png",
+      "backdrop62.png": "ee8095e18922428156275625fa3d9f47.png",
+      "backdrop63.png": "3ff0d458eb5ffb5259f06cb71c30dc29.png",
+      "backdrop64.png": "10a9f37b538613b26e2cb3da78bc642d.png",
+      "backdrop65.png": "f22ac504c34fe4b3e0fddd71d7197f84.png",
+      "backdrop66.png": "8d11f7eb1ba57fe909017209fc5c799c.png",
+      "backdrop67.png": "10f232c072107eb2f9b9371f34ed2929.png",
+      "backdrop68.png": "75b29d8cbf903b61dbfcce62077a86e1.png",
+      "backdrop69.png": "e3b6230c2a8081281a2c0e26ca12fbeb.png",
+      "backdrop70.png": "dffb7bca117840d4c8923a314d34cbcf.png",
+      "backdrop71.png": "8016ce914193ba5ceed73ac997ebb297.png"
+    },
+    "sounds": {
+      "Tower.wav": "b41a1a5f8a4ca56f9a9930910f93d69d.wav",
+      "Tower 2.wav": "4ec4409cc64cdc37657cffabc354a839.wav",
+      "Tower 3.wav": "10bc5e4d2ac40dc82c57644af7de2070.wav"
+    }
+  },
+  "Sprite2": {
+    "costumes": {
+      "A.png": "71f6b813f4132c1c88cb91396b7aec28.png",
+      "B.png": "0f0b7a864b9c75a6c60f751af02ecce6.png",
+      "C.png": "75154aad07632554f8704d158277b77d.png",
+      "D.png": "b399e11923a419658590bbf8b24630bc.png",
+      "E.png": "d34f8ef414e49c73496f7b3c74b84510.png",
+      "F.png": "1afb4b3189d83a5705e1938ed2aa5841.png",
+      "G.png": "438580b9c9bf9187c5a2593aa5cf9eaf.png",
+      "H.png": "6c02f5750fc80be647b0aff7a503bb72.png",
+      "I.png": "775291c2332f335f4bc280c134549e4a.png",
+      "J.png": "4bc11b98d07334816e579a2ff279b051.png",
+      "K.png": "b34231512b0839cc1836c32b1fc2cdc9.png",
+      "L.png": "11cdf449f752f005fe9dc52dc26b53f1.png",
+      "M.png": "bf7b93477c8e843706d0a598077323e5.png",
+      "N.png": "43219c6c96640e4ab705d79f629b6a17.png",
+      "O.png": "fb6ab124b8a2d50f910e02f16c6fd85a.png",
+      "P.png": "e3de4ed961998ef5d3cd39d12f4548ca.png",
+      "Q.png": "2137c5c98ff2b426ffba4d0d446d5faf.png",
+      "R.png": "f432bdc51cb1384b96ed190dd5da8704.png",
+      "S.png": "a8b5bce8abd898a7a9306127e730774a.png",
+      "T.png": "2d71bccc26ad9ba7d222cd55a30ffcb7.png",
+      "U.png": "bcb517d67fcd12f01203c992d6ce6c5b.png",
+      "V.png": "c6cc06e31f9bea440aa9533b4ac77940.png",
+      "W.png": "e833a7411a5c039149c74de1d01454bc.png",
+      "X.png": "23c431fcfff0f512ef31de1655d86007.png",
+      "Y.png": "351cc7b63ed9aec2bd33676c037a9cb5.png",
+      "Z.png": "1e1b8f385d91d97f06be26a848245ea8.png",
+      "..png": "64cc314373099f0349767acb1f6f796e.png",
+      "!.png": "b17a2ea74bb5468ee185953ab19b9553.png",
+      "?.png": "e5d56cf55fa86585c358a4b6e43762b6.png",
+      ",.png": "bfb434097d90a7c3281fae0b6d596c32.png",
+      "\u2019.png": "e24134c9a03d2a613b96e7f74abfbc9c.png",
+      "'.png": "e24134c9a03d2a613b96e7f74abfbc9c.png",
+      " .png": "b7bd7ea7347b06d753cce0caf6995c72.png",
+      "a.png": "72d6fb6a8bf4a8d7afe07676f493339a.png",
+      "b.png": "d881125d01e81272f3673937253569bf.png",
+      "c.png": "51cf43db2215a22ac7b9509cefa76adc.png",
+      "d.png": "5590e7bad4421c89754fa3cabd077a03.png",
+      "e.png": "513fb660ba3ec0cc0c5f509af7ad8686.png",
+      "f.png": "951f197937c641103480c6fd037deecd.png",
+      "g.png": "511c8e9e0dcc4dcc2a1139a92e1aecb9.png",
+      "h.png": "5eade1bc48978db817d2d012fc738d49.png",
+      "i.png": "ed0a60048851abd1e0f6ffca56bb9828.png",
+      "j.png": "6bd652079d19165c132221c1d9762311.png",
+      "k.png": "da0aaf86435715f24709165b9b0fb165.png",
+      "l.png": "7ab1d73f27a959a8b14d480d0345f426.png",
+      "m.png": "6696545f9536e9bd38d7b4cf5f452769.png",
+      "n.png": "fab281481ce7f4b2b0bf77d05dda71a1.png",
+      "o.png": "76890df7207b6dc3c806b0db2852e4af.png",
+      "p.png": "cbefb7eed16a5d6385851a6a0bb50a74.png",
+      "q.png": "1a36833234558816cdf4c61302718aeb.png",
+      "r.png": "7e787599f034a76029528ec1ce37bc22.png",
+      "s.png": "3e259e01cc99908129e0efed80fd7493.png",
+      "t.png": "53e40c9a22b564fd242ea69fbcfc848b.png",
+      "u.png": "8a383078cdbb7ea65ff9a9f241febfe4.png",
+      "v.png": "5066e4ebe4f51b7a1e4eb859a9b9bb44.png",
+      "w.png": "aa1713f341d58f4ed4cd200960be9155.png",
+      "x.png": "421e08ca3a682f174cadcd219ef202e8.png",
+      "y.png": "e6945c79b58fc3dc82142a39cf3f5a8c.png",
+      "z.png": "2f8c69128b9bf89775e2dba9f8dde09e.png",
+      "(.png": "a59cd6658df8e6db92ad920381957f8f.png",
+      ").png": "44cc4578df4f6b521908eb6cb3020ed9.png",
+      "*.png": "b7bd7ea7347b06d753cce0caf6995c72.png",
+      "$.png": "b7bd7ea7347b06d753cce0caf6995c72.png",
+      "\u201c.png": "fcf939d858143110fb25f3bdc0724719.png",
+      "\u201d.png": "fcf939d858143110fb25f3bdc0724719.png",
+      "-.png": "47012b7c1c0d8ae587fedfa7b98eed43.png",
+      "\u00eb.png": "00ff2611dc87392b35b0216ed6f2a7b7.png",
+      "\u00e1.png": "2d4b6d61af43e39eae696d5caca3e308.png",
+      "_.png": "b7bd7ea7347b06d753cce0caf6995c72.png",
+      ";.png": "b7bd7ea7347b06d753cce0caf6995c72.png"
+    },
+    "sounds": {
+      "You.wav": "9637602821515d4df8122e396e9b1c18.wav",
+      "Zork.wav": "cdc2d4a1a4efc6e2837d2b5e9cd8e607.wav",
+      "Jone.wav": "5330e4f630e85c542aa9b92b1cf2cea0.wav",
+      "Interaction.wav": "30f7dd2f38b18d246bfe1f7df75755c8.wav",
+      "Door.wav": "e5c2aaae0b95b40595b805782b4536f8.wav",
+      "Door2.wav": "2154bd336fa9ab7ff44acbeeb7e708da.wav",
+      "Shopkeeper.wav": "98c8d070916425aeb1e94fbd3db8eff4.wav",
+      "tuco-get-out.wav": "cf63e4ec9cac6523a19e8b610532b36b.wav",
+      "Anenome.wav": "6e76745f74a2cbf6b3673ad508e5e05b.wav",
+      "Jimmy.wav": "9c8ccc2ac33e5784589af1ba6fdba9b5.wav",
+      "Machine.wav": "74eea4f6b9107b436e8df63c5c7dfd91.wav",
+      "Ssss.wav": "6fc355c744a26b9ca2f4d8a0b3ee13a1.wav",
+      "Ssss3.wav": "0ce6709106e9849997d86d7c3f1d35a4.wav",
+      "Ssss2.wav": "e8c8b62bd2b00a11971c36c41640a1f4.wav",
+      "Shopkeeper2.wav": "fe5fdd535900465adbe213ed5f81fa22.wav",
+      "Zork2.wav": "4888fb9717990819b0f7df024c9808bc.wav",
+      "Jone2.wav": "034e13bcd22c1d3ce8ae19d5d36a0d11.wav",
+      "Goopley.wav": "3efd1e6f69df9e001be6dbe63f72be24.wav",
+      "Goopley2.wav": "3efd1e6f69df9e001be6dbe63f72be24.wav",
+      "You2.wav": "969dbf6559f468ecf90b25e971e0868d.wav",
+      "Door3.wav": "79801f06698897e4af4ce2c3aef47ce6.wav",
+      "You3.wav": "978cfb56efb6cc4577ee0641a59213fb.wav",
+      "Goopley oh wait sorry, Boopley..wav": "abb978daa3de40644f7ba60a4a96cb92.wav",
+      "139-item-catch.wav": "00eb95dc6bba225bd316f41462b051d7.wav",
+      "Gary.wav": "93fcb5e383c0b69841d911f6a4826d50.wav",
+      "Hand.wav": "a8ff0fad8a19df92ab104f9b80b1e934.wav",
+      "John Pixel.wav": "3f63390823da6b0291fd1907dd686988.wav",
+      "Carpet.wav": "311a0ecdf9ca3012c8ae79d24aa31534.wav",
+      "sans.wav": "a7f41679784239885c8f77d5a58fe3e7.wav",
+      "Meow.wav": "fae6417c9ee13c6666cf81bc97a00a85.wav",
+      "Meow2.wav": "4de6baeb41ef06ce3b02d02d479e27b1.wav",
+      "666666666666666666666666666666666666666666666666666666.wav": "9d5993dd1a839c70da8a5b6e109fa2bb.wav"
+    }
+  },
+  "Sprite1": {
+    "costumes": {
+      "costume1.png": "4c52a08c308fabd6284db7995768e420.png",
+      "costume2.png": "930f10f1bfc6d60b3bbcb72a9efdd4b8.png",
+      "costume3.png": "5a5a52b0a139fb41db53770e77b6542b.png",
+      "costume4.png": "5a0f8a7f36309fff598350152533a1ee.png",
+      "costume5.png": "1e89cb76e2638d4d85395ec4c2136faf.png",
+      "costume7.png": "7ddb666d754b18559154fb9008be484f.png",
+      "costume6.png": "7b72aee7409e3dd0a4e17dfc1bde312f.png",
+      "costume8.png": "5a5a52b0a139fb41db53770e77b6542b.png",
+      "costume9.png": "95dc8b9122c342eb59f966f15256e006.png",
+      "costume10.png": "5b6b9f7c05e60928bcec7c7e7e8e0772.png",
+      "costume11.png": "d7a66f3d9f6c567af5992863953bc1b2.png",
+      "costume13.png": "1e89cb76e2638d4d85395ec4c2136faf.png",
+      "costume12.png": "a979a8cdd5cf9f330e8b895e21fd279c.png",
+      "costume14.png": "a979a8cdd5cf9f330e8b895e21fd279c.png",
+      "costume16.png": "39cecc6947abf1d4ce14a8940f6d0390.png",
+      "costume15.png": "9a01abe0889f6de21e9939e788a32775.png",
+      "costume18.png": "90ed753560166f291f0cdc06b3eccc1c.png",
+      "costume17.png": "1e89cb76e2638d4d85395ec4c2136faf.png",
+      "costume19.png": "b50fcd9c58c200a6ef43ea891a23ad2e.png",
+      "costume21.png": "7c6d8fd1700afb5e956228b23c5a5675.png",
+      "costume22.png": "7aa40a40366dbf79f272654e86d4091b.png",
+      "costume20.png": "90e0b271cb3ef186d9a1d938c7951c0a.png",
+      "costume24.png": "af8fc301dee41e1b88fa852cc087cec0.png",
+      "costume23.png": "1133d430be3b93cda91a480f41a1c18b.png",
+      "costume25.png": "2cfbc538b4a5062ff8bf5f29d91ffb31.png",
+      "costume26.png": "c66ec20f7b65041bbefd84e4f1513393.png",
+      "costume27.png": "73bda280d703b6477c2d4d749094134d.png",
+      "costume28.png": "033643045b7e25a4872e5882cd63b757.png",
+      "costume29.png": "55c3aaefcc89749de8dfbd8763ef0d9d.png",
+      "costume30.png": "457a854db66325589b43d80ec9298de3.png",
+      "costume31.png": "457a854db66325589b43d80ec9298de3.png",
+      "costume32.png": "41d162508d4076c392eaf2bf6f0c5d3b.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Player": {
+    "costumes": {
+      "costume1.png": "7a91d15c59dd27735ad4ad8d48b0c84c.png",
+      "costume2.png": "ee5359d4ff199bad0a7451a1bd8183c5.png",
+      "costume3.png": "12b653d2942da6f03616cc6fe0c7999a.png",
+      "costume4.png": "2b38a38bfaab75cb5861f3dc46753d6d.png",
+      "costume5.png": "7013307def4fe42c965c89886f04285d.png",
+      "costume6.png": "a290ac63993431be01f69a5dd2779277.png",
+      "costume7.png": "a1b3ea4a70bb0c6cf50a7b8e8f9c1bd2.png",
+      "costume8.png": "ca09bbe6800d35323312c20a3b6b2ba0.png",
+      "costume9.png": "6ea408ba1a224cf7cd4649a386c86d51.png",
+      "costume10.png": "5fb75802bb8f2bfd1d3dc33e919f0a7b.png",
+      "costume11.png": "e35481c4d9d78e2abb040bd664da126b.png",
+      "costume12.png": "e9790b38a9862c996e719e5904466fb6.png"
+    },
+    "sounds": {
+      "pop.wav": "e11dc56c98a1f06e0aa13b6bfda6cb71.wav"
+    }
+  },
+  "player": {
+    "costumes": {
+      "costume1.png": "7a91d15c59dd27735ad4ad8d48b0c84c.png",
+      "costume2.png": "ee5359d4ff199bad0a7451a1bd8183c5.png",
+      "costume3.png": "12b653d2942da6f03616cc6fe0c7999a.png",
+      "costume4.png": "2b38a38bfaab75cb5861f3dc46753d6d.png",
+      "costume5.png": "7013307def4fe42c965c89886f04285d.png",
+      "costume6.png": "a290ac63993431be01f69a5dd2779277.png",
+      "costume7.png": "a1b3ea4a70bb0c6cf50a7b8e8f9c1bd2.png",
+      "costume8.png": "ca09bbe6800d35323312c20a3b6b2ba0.png",
+      "costume9.png": "6ea408ba1a224cf7cd4649a386c86d51.png",
+      "costume10.png": "5fb75802bb8f2bfd1d3dc33e919f0a7b.png",
+      "costume11.png": "e35481c4d9d78e2abb040bd664da126b.png",
+      "costume12.png": "e9790b38a9862c996e719e5904466fb6.png"
+    },
+    "sounds": {
+      "pop.wav": "e11dc56c98a1f06e0aa13b6bfda6cb71.wav"
+    }
+  },
+  "Joystick": {
+    "costumes": {
+      "Joystick.svg": "1127ed0bc8d4bc0e899efff1aca259e3.svg",
+      "Joystick outline.svg": "594ae35671a23f4416245d8ae3c7ca7e.svg",
+      "Joystick move.svg": "fbc3a0bd5f6caff0227df2d050c27469.svg"
+    },
+    "sounds": {
+      "Meow.wav": "83c36d806dc92327b9e7049a565c6bff.wav"
+    }
+  },
+  "Sprite10": {
+    "costumes": {
+      "costume1.svg": "fd61440ea6d3eb786a288c3894641f0c.svg"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite11": {
+    "costumes": {
+      "costume1.svg": "9040b0a1aa968fc88574924f40566864.svg"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite12": {
+    "costumes": {
+      "costume1.svg": "1ee55ffa9fa3c3c5c9679a7c7d6ef2f8.svg"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite9": {
+    "costumes": {
+      "costume1.svg": "bcbfc8db781f55239b41d63e7c8c34e6.svg"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite4": {
+    "costumes": {
+      "costume1.png": "31e243394c9cb228f5750d9e5a6c7d7c.png",
+      "costume2.png": "2f07713c865bb410ca675e1e3893e029.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "Buttonpush.wav": "54a606a680915bb3cf91338951c3115e.wav"
+    }
+  },
+  "Sprite5": {
+    "costumes": {
+      "costume1.png": "26043d40863fa13e8210cb0136256ce9.png",
+      "costume2.png": "511784858372111ea0ae185bb06a0f2b.png",
+      "costume3.png": "b79078ad0e172a64512b7ecdbed45530.png",
+      "costume4.png": "12b23fccc4100d113cf51629f7e6227d.png",
+      "costume5.png": "425dc1d0ae84fd4e88f0144facbd4312.png",
+      "costume6.png": "76d81426c0f7e55ad930f842b121b98d.png",
+      "costume7.png": "696cc58399a6bfec210f507b7c8ade48.png",
+      "costume8.png": "76d81426c0f7e55ad930f842b121b98d.png",
+      "costume9.png": "f8820efd2695b1095b807e2f0d20c2e9.png",
+      "costume10.png": "92a2fa387fe132ced8f491eae065d645.png",
+      "costume11.png": "92a2fa387fe132ced8f491eae065d645.png",
+      "costume12.png": "45c243567d2fc46edf279170f133ce77.png",
+      "costume13.png": "76d81426c0f7e55ad930f842b121b98d.png",
+      "costume14.png": "cafee38ecd6bdfd267167b4689b8f352.png",
+      "costume15.png": "e3a3f8b8f685a5d5500792a6d4c81817.png",
+      "costume16.png": "2cc4e3f81e70586fd87163db163ffd93.png",
+      "costume17.png": "79b324c13fd1924e20a2ed2661d9bc9e.png",
+      "costume18.png": "4ff7eb00b4eab02e091f4e074dc5f4fe.png",
+      "costume22.png": "683b4fdec7d344b9ae929be9d8d648c8.png",
+      "costume21.png": "54724fca7ccb888085fd25cc1edb4e0f.png",
+      "costume20.png": "688cfa026c307d73b8c1539ff9b0d9af.png",
+      "costume19.png": "ee22bccce31fce0631a7ab37209d64d4.png",
+      "costume23.png": "cc8e1374b17f523b35f36cda9b8be3d0.png",
+      "costume24.png": "0eea8ff76510c257bdd970a2b88e9a91.png"
+    },
+    "sounds": {
+      "Impact.wav": "f1ccc9636b40596949f6c2c0a2b45b92.wav",
+      "THE DOOR.wav": "1893200e9809c0318e9a293c7cfa547d.wav",
+      "Knock.wav": "36501c4789840ddb9cbae6a0f9115b2c.wav",
+      "Change.wav": "a52631b83937b8f3b25c5915d9354882.wav",
+      "sans-eye-sounds.wav": "e2b3d87ddb0e1d3fc62582623e95e718.wav",
+      "Impact3.wav": "dfa0dd472c7c2ece5990ce43e50651d8.wav",
+      "Impact2.wav": "7ae263aef9b8d2923b82dfdc755ead12.wav",
+      "THE DOOR2.wav": "dc9ee66e30b42b422101357975e71dd5.wav"
+    }
+  },
+  "Sprite6": {
+    "costumes": {
+      "costume1.png": "72a972d1ef88c4585d471b1c37ba6b6d.png",
+      "costume2.png": "9d1de508b687decce44e05aa8a5ffce6.png"
+    },
+    "sounds": {
+      "pop.wav": "54a606a680915bb3cf91338951c3115e.wav"
+    }
+  },
+  "Sprite7": {
+    "costumes": {
+      "costume1.png": "79478bc61d331ed01a250d7c315adf21.png",
+      "costume2.png": "2c3adedded4d619b0ff5a9f45576bff7.png"
+    },
+    "sounds": {
+      "pop.wav": "54a606a680915bb3cf91338951c3115e.wav"
+    }
+  },
+  "Sprite8": {
+    "costumes": {
+      "costume1.png": "c1d1cf33d36ff2fc0e6d665a95757a1b.png",
+      "costume2.png": "524b40493c20c42c07dfc2042e51992c.png"
+    },
+    "sounds": {
+      "pop.wav": "54a606a680915bb3cf91338951c3115e.wav"
+    }
+  },
+  "Sprite13": {
+    "costumes": {
+      "costume1.png": "ae102b2657ee895fac9a98ab6312a844.png",
+      "costume2.png": "f4e0a4ab8c74fb6f7f59a3cf4bd728b8.png"
+    },
+    "sounds": {
+      "pop.wav": "54a606a680915bb3cf91338951c3115e.wav"
+    }
+  },
+  "Sprite14": {
+    "costumes": {
+      "costume1.png": "61765c9dab46689ec1d0aecd16704666.png",
+      "costume4.png": "2a5c202154b8641fd1c9a6a840b3b1d2.png",
+      "costume2.png": "dda60eb9f9a7e6cf5bd32e7538333530.png",
+      "costume5.png": "7c8b29846ce3e005bb734354fc9415df.png",
+      "costume3.png": "f2eb2a57c7d2e01cb472277646f6fb30.png",
+      "costume6.png": "e3bd8050095024a95290846589e6099d.png",
+      "costume7.png": "87233ab719a96242f88156b22232c8e0.png",
+      "costume8.png": "e30e0e6eb8c1d474fc43949d5ec43608.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite15": {
+    "costumes": {
+      "costume1.png": "0657196925e9255a6491fc1695bd4012.png",
+      "costume3.png": "68d59bad9a6fca8489ad263526dc7a17.png",
+      "costume4.png": "a8501693a412061a91a5f3da3d52adaa.png",
+      "costume2.png": "6d467bf010d4480a3f96d540841e0305.png"
+    },
+    "sounds": {
+      "Impact.wav": "9e596e45ca2d8b6fcf622c0cdf95fadc.wav",
+      "Press.wav": "54a606a680915bb3cf91338951c3115e.wav"
+    }
+  },
+  "Sprite16": {
+    "costumes": {
+      "costume1.png": "7379335344cfcc74f8a41f9fe3d81dc0.png",
+      "costume4.png": "c459ef54c3cf2050a64fbb0cb996d84f.png",
+      "costume3.png": "03049ddc7b4efdb8dd730187527bba2c.png",
+      "costume2.png": "a0be110548db71275e2db05491c6ddc4.png",
+      "costume5.png": "17fa8863df9017e7f06c12608f200689.png",
+      "costume6.png": "4ea7c71e058ca906818d88fe181338ee.png",
+      "costume7.png": "c8cc01930d5d18167437949c0cb9415c.png",
+      "costume8.png": "f9706ccba7978c8a764648a3bff662bd.png",
+      "costume9.png": "79d8d894916ea671d9379e7e9b32082d.png",
+      "costume10.png": "b5e8a858609d7451deab42077cdb320e.png",
+      "costume11.png": "63c871ce78b12c26ffc1b6f1c1b9cd6b.png",
+      "costume12.png": "2abf55a06751ac108faabeb595fd2d44.png",
+      "costume14.png": "287e37baf12eb8dfe3cf067a1085bbdb.png",
+      "costume13.png": "9fdcc4030a0535f244ecdeb7e1b83e74.png",
+      "costume15.png": "96c61048cce6aa3ceb6e499dc4b84601.png",
+      "costume16.png": "b140c6c75eb8ce68ee6024f963710924.png",
+      "costume17.png": "8c3e1bb152d156fab3de707bca608f3c.png"
+    },
+    "sounds": {
+      "pop.wav": "c4f5236c93b035233107cfb232979e30.wav",
+      "Jone.wav": "1224de03f6b418ea02590df857aebff8.wav",
+      "crack_the_whip.mp3": "1ef14edd4cae7f6137124a71ed51646f.mp3"
+    }
+  },
+  "Sprite17": {
+    "costumes": {
+      "costume1.png": "85873df30679a2e4bf653823bd588644.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite18": {
+    "costumes": {
+      "costume1.png": "d5c4c5442edb56b2a9076b74595a5787.png",
+      "costume2.png": "a7476855e431e121431c90db35d2047d.png",
+      "costume3.png": "29fe5af81fe1f45fcc1045e2e33f3d7d.png",
+      "costume4.png": "a8aa836dc3fddb6f62e5f847f38df561.png",
+      "costume5.png": "ff97a63f93e8a741cb159872fc3d57b5.png",
+      "costume6.png": "bdf3bf032ee3943e0d2de079b82e7f36.png"
+    },
+    "sounds": {
+      "pop.wav": "058e707ba82fbcae9bb00a7bf6538f72.wav",
+      "pop2.wav": "b2607bf0b7107b4771d607f8d18cf425.wav"
+    }
+  },
+  "Sprite19": {
+    "costumes": {
+      "costume1.png": "7a1eb6252664bf2ef6f128bc299995f8.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "Vs Jone.wav": "eb7f92f38dcabb19c94646c1d31a19c3.wav"
+    }
+  },
+  "Sprite20": {
+    "costumes": {
+      "costume1.png": "700d0a3efef22ce03c61beb4402d43ed.png",
+      "costume2.png": "6a861b9f0de7c463ea5110412817f42b.png",
+      "costume3.png": "2ef1b315a228efad3cfc66ba2e2ae442.png",
+      "costume4.png": "a87c49c3d2d734ac862915da238587dc.png"
+    },
+    "sounds": {
+      "undertale-damage-taken.mp3": "c2c6107f9b1f3efe551ee9219db4b832.mp3"
+    }
+  },
+  "Sprite22": {
+    "costumes": {
+      "costume1.png": "687bd7bf6f044dc067a33aa1ec99e1ea.png",
+      "costume2.png": "d5762b4775a5fecd9fd6a1142c7fc844.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite23": {
+    "costumes": {
+      "costume1.png": "8f62095762c809abddd5648a3e768a7e.png",
+      "costume2.png": "a9121ca339d3aa00585bada75da7d1ee.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite24": {
+    "costumes": {
+      "costume1.png": "ddd19f9d9cec372c6ed12fe95566d897.png",
+      "costume2.png": "a9121ca339d3aa00585bada75da7d1ee.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "stone-slide-sounds-effects-made-with-Voicemod.mp3": "efe41d7d16c72f729a70e0f27cea739e.mp3"
+    }
+  },
+  "Sprite25": {
+    "costumes": {
+      "costume1.png": "98e974f105c9da0037b2c3c27d6a1186.png",
+      "costume2.png": "3d858a01815f59e23daae973ab2d5910.png",
+      "costume3.png": "e17a134cac170850b320edb281e42305.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite26": {
+    "costumes": {
+      "costume1.png": "8766819dcadf8ac8abe296d1c7725596.png",
+      "costume2.png": "34b0aeb67ecdce818522e39af866ee3c.png",
+      "costume3.png": "8d12a298981cf10c0cc6a70f09bd8562.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite28": {
+    "costumes": {
+      "costume1.png": "b6d77a80843d19fa038106fd14b6faea.png",
+      "costume2.png": "858ea0d3310af68214a86c4ea9a39839.png",
+      "costume3.png": "1a9804a6a900cd9ca3b9d8c52db7666f.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite30": {
+    "costumes": {
+      "costume1.png": "b56a94019cd736c094d5bc5fced9c92f.png",
+      "costume3.png": "6f3fc402aa8050a70fab3d9b5d644666.png",
+      "costume2.png": "52fa0528e248f28b8a768a1d56523657.png",
+      "costume5.png": "88cb82bd433fe63e5c17d7137305bf9b.png",
+      "costume4.png": "747385d2779e2909d8201df3a38f9c49.png",
+      "costume7.png": "96d006a08db3c9ab33673ad721c69b7d.png",
+      "costume6.png": "018d544898053d7de000016018892dbd.png",
+      "costume8.png": "dbb98022454ee425ca69bf86c0e26902.png",
+      "costume9.png": "087ac9a24b488ae5bc8078784cd7af01.png",
+      "costume10.png": "4e2f4b80d19bb73034c4378d43a55734.png"
+    },
+    "sounds": {
+      "pop.wav": "fa1c02cfa60a1be3b9691f9bf89dd5fc.wav"
+    }
+  },
+  "Sprite31": {
+    "costumes": {
+      "costume1.png": "be7352f4b01dd0bd9057a5ae5ab6a69d.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "Cant Select.wav": "80bad9098daf0c5fd7b2cf1b4b2a189c.wav",
+      "undertale-heal-made-with-Voicemod.mp3": "6334548bc48b0dbbc2182e3e3bb701dd.mp3"
+    }
+  },
+  "Sprite32": {
+    "costumes": {
+      "costume1.png": "f33d3f99e70b7d5dc4f03ee668ac582c.png",
+      "costume2.png": "964138dd964e1c95e7fc04f0660cd502.png",
+      "costume3.png": "4440f2b4b1805ce374dd3caae99d9200.png"
+    },
+    "sounds": {
+      "pop.wav": "9491e8549216c0c7ba6280c1980abcf9.wav",
+      "undertale-attack-slash-green-screen.wav": "493e0bf183b587c470e97bedab6f5c35.wav",
+      "Bonk.wav": "8288b34d91acbe731dd89a48af84f013.wav",
+      "Bonk2.wav": "b80d965ed88a2adc4470c6c356a62b03.wav",
+      "pop2.wav": "9d51aa6e12a93a1e3a239bbbcbdbe980.wav",
+      "undertale-attack-slash-green-screen2.wav": "6ca1bdb5cdfbd6c1d3b69c68f3264936.wav",
+      "C2 Bass.wav": "33966faef833d22056fbdb4a4389bd39.wav",
+      "undertale-attack-slash-green-screen3.wav": "1485ed440044c6d8f7bf276928b5702f.wav",
+      "pan.wav": "ddbfc725cfb0698cf7269cafbf393b68.wav"
+    }
+  },
+  "Sprite33": {
+    "costumes": {
+      "costume1.png": "f08f05f95b32caaf4b65bfedbfa3b801.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Bullet": {
+    "costumes": {
+      "costume1.png": "f88c4a69880ed6af5514d9ef52d118fa.png"
+    },
+    "sounds": {
+      "Cant Select.wav": "7ee485312d1965bd8caf6e017e295fb4.wav",
+      "Ow.wav": "1ebe4179a998dc7f289c4b5326823833.wav"
+    }
+  },
+  "Sprite34": {
+    "costumes": {
+      "costume1.png": "091f24eaa5d3ed8c5720bbc085655709.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Bullet2": {
+    "costumes": {
+      "costume1.png": "1b6e3b1917864ca97f56075c92c154c2.png",
+      "costume2.png": "8e61bffdf2b062803c655bee4e2967bc.png",
+      "costume3.png": "7ed919102e438b986a4faa48d5b7fff2.png",
+      "costume4.png": "6933c44c7c8e449f5f61040ce877bd55.png"
+    },
+    "sounds": {
+      "pop.wav": "c7c5bdd6d1a719201107868917bacfca.wav"
+    }
+  },
+  "Bullet3": {
+    "costumes": {
+      "costume1.png": "4fb97b79f65a3129ef4fdcc2d5c60721.png",
+      "costume2.png": "29497fb794dab2d58b969f0f4f9b4390.png",
+      "costume3.png": "3ad56a7f4d951d70c7a1682b96b7c947.png"
+    },
+    "sounds": {
+      "pop.wav": "bc789ac97df2d19cb03b6dbe227a2773.wav",
+      "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod.wav": "6e96816d22dc67ef3fdea42de0e2944d.wav"
+    }
+  },
+  "Bullet4": {
+    "costumes": {
+      "costume2.png": "29497fb794dab2d58b969f0f4f9b4390.png",
+      "costume3.png": "3ad56a7f4d951d70c7a1682b96b7c947.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite38": {
+    "costumes": {
+      "costume1.png": "31e243394c9cb228f5750d9e5a6c7d7c.png",
+      "costume2.png": "2f07713c865bb410ca675e1e3893e029.png"
+    },
+    "sounds": {
+      "pop.wav": "b4765861e5218b32c90647615b20e5a6.wav",
+      "Buttonpush.wav": "c33f65b0f6a19b661aa277170cf73047.wav"
+    }
+  },
+  "Sprite40": {
+    "costumes": {
+      "costume3.png": "52f8b0cd5a7ca9608d9e03840e058d54.png",
+      "costume2.png": "5815b097afd0ee8a8391ba7d1106c2dc.png",
+      "costume4.png": "bdec5f4e51db7815156cc5fd9a624705.png",
+      "costume1.png": "473c1b969984faed3ccf695590c65115.png"
+    },
+    "sounds": {
+      "pop.wav": "c4f5236c93b035233107cfb232979e30.wav"
+    }
+  },
+  "Sprite39": {
+    "costumes": {
+      "costume3.png": "52f8b0cd5a7ca9608d9e03840e058d54.png",
+      "costume2.png": "5815b097afd0ee8a8391ba7d1106c2dc.png",
+      "costume4.png": "bdec5f4e51db7815156cc5fd9a624705.png",
+      "costume1.png": "2f070551a19d1510064073ca04e4ec4a.png"
+    },
+    "sounds": {
+      "pop.wav": "c4f5236c93b035233107cfb232979e30.wav"
+    }
+  },
+  "Sprite41": {
+    "costumes": {
+      "costume1.png": "31e243394c9cb228f5750d9e5a6c7d7c.png",
+      "costume2.png": "2f07713c865bb410ca675e1e3893e029.png"
+    },
+    "sounds": {
+      "Buttonpush.wav": "bdbec83e74a4048ed0797d62e46c464b.wav"
+    }
+  },
+  "Sprite42": {
+    "costumes": {
+      "costume1.png": "31e243394c9cb228f5750d9e5a6c7d7c.png",
+      "costume2.png": "2f07713c865bb410ca675e1e3893e029.png"
+    },
+    "sounds": {
+      "Buttonpush.wav": "d3db8281b550e7914469e8e9aab46a43.wav"
+    }
+  },
+  "Background": {
+    "costumes": {
+      "costume2.svg": "c891bad4cb76f81d8e787a3d6317ca83.svg",
+      "costume1.png": "b7bd7ea7347b06d753cce0caf6995c72.png"
+    },
+    "sounds": {}
+  },
+  "Sprite43": {
+    "costumes": {
+      "costume1.png": "776ea530348d0d94191b89459038c4ef.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Bullet9": {
+    "costumes": {
+      "costume1.png": "92a2fa387fe132ced8f491eae065d645.png",
+      "costume2.png": "748ee19db2ea70a4dc93e7840aa3abd5.png",
+      "costume3.png": "63bbe21e0b2896cccaf96cf593994a5c.png"
+    },
+    "sounds": {
+      "Minecraft - Door (Sound Effect).wav": "5b38bd3e8dce8751ce37b292a1b63756.wav",
+      "Minecraft - Door (Sound Effect)2.wav": "7ca860674cb811dba44ac86413ffad2c.wav"
+    }
+  },
+  "Bullet8": {
+    "costumes": {
+      "costume1.png": "76d81426c0f7e55ad930f842b121b98d.png",
+      "costume2.png": "554e07f99e8c459b72d08b488f548d1c.png",
+      "costume3.png": "927b0a3da907e75242676df74b8ce3af.png",
+      "costume4.png": "ecacd35acec809f92d63e60b6dbb0e20.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite46": {
+    "costumes": {
+      "costume1.png": "92a2fa387fe132ced8f491eae065d645.png",
+      "costume3.png": "6eb57ec9a6a03668ca156b49ea1a889b.png"
+    },
+    "sounds": {
+      "pop.wav": "365554c6eb5ec697f3b7e11e03c4b4a0.wav"
+    }
+  },
+  "Sprite47": {
+    "costumes": {
+      "costume1.png": "92a2fa387fe132ced8f491eae065d645.png",
+      "costume2.png": "748ee19db2ea70a4dc93e7840aa3abd5.png"
+    },
+    "sounds": {
+      "pop.wav": "a30b11db86bc17ab7bad060421c747a3.wav"
+    }
+  },
+  "Sprite48": {
+    "costumes": {
+      "costume1.png": "92a2fa387fe132ced8f491eae065d645.png",
+      "costume2.png": "748ee19db2ea70a4dc93e7840aa3abd5.png"
+    },
+    "sounds": {
+      "pop.wav": "a30b11db86bc17ab7bad060421c747a3.wav"
+    }
+  },
+  "Sprite49": {
+    "costumes": {
+      "costume1.png": "26043d40863fa13e8210cb0136256ce9.png",
+      "costume2.png": "511784858372111ea0ae185bb06a0f2b.png",
+      "costume3.png": "b79078ad0e172a64512b7ecdbed45530.png",
+      "costume4.png": "12b23fccc4100d113cf51629f7e6227d.png",
+      "costume5.png": "425dc1d0ae84fd4e88f0144facbd4312.png",
+      "costume6.png": "76d81426c0f7e55ad930f842b121b98d.png",
+      "costume7.png": "696cc58399a6bfec210f507b7c8ade48.png",
+      "costume8.png": "76d81426c0f7e55ad930f842b121b98d.png",
+      "costume9.png": "f8820efd2695b1095b807e2f0d20c2e9.png",
+      "costume10.png": "92a2fa387fe132ced8f491eae065d645.png",
+      "costume11.png": "92a2fa387fe132ced8f491eae065d645.png",
+      "costume12.png": "45c243567d2fc46edf279170f133ce77.png",
+      "costume13.png": "76d81426c0f7e55ad930f842b121b98d.png"
+    },
+    "sounds": {
+      "Impact.wav": "f1ccc9636b40596949f6c2c0a2b45b92.wav",
+      "THE DOOR.wav": "494d60ebdd3314f5505a58658b782f92.wav",
+      "Knock.wav": "56abbe86aff716c58c077fe469662c46.wav",
+      "Change.wav": "a52631b83937b8f3b25c5915d9354882.wav",
+      "sans-eye-sounds.wav": "aa07a246ae03bec713de4f2db5b54c20.wav"
+    }
+  },
+  "Sprite56": {
+    "costumes": {
+      "costume1.png": "858c862dbfd4cbdd0c6030b30b3efdce.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Bullet7": {
+    "costumes": {
+      "costume1.png": "2592cb4117cdbaec3615c63d2fc251fe.png",
+      "costume2.png": "f55b55c08e78621e15f22395b78147f7.png"
+    },
+    "sounds": {
+      "pop.wav": "895e6d3861559edf349280bc3a953c85.wav",
+      "pop2.wav": "6a1aec579afd59bccb6761f6c858ebf4.wav"
+    }
+  },
+  "Sprite53": {
+    "costumes": {
+      "costume1.png": "b1a1eeb57b4f65e278ff17d0d8309404.png",
+      "costume2.png": "46dcc9cfbbcf497586ee4de255d63428.png",
+      "costume3.png": "d555c34649a9ffa0d3ab5eacd714a42b.png",
+      "costume4.png": "4fd8c6cd1449b29fef49419ac41b07ed.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "Wagner Bridal Chorus.wav": "b825b9be2f25cf65e8cf8feda255c9c9.wav",
+      "record-scratch_1.wav": "b24b2e02d55142c2a829bca5f9dfbbe7.wav"
+    }
+  },
+  "Sprite54": {
+    "costumes": {
+      "CutesyShop.png": "e6740030158ba3744fa62281af4023fe.png",
+      "CutesyShop2.png": "89ce38059501963f41a9e4ba81819886.png",
+      "costume1.png": "56e1d492058d1cd4fa1a8e609672b8dd.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite55": {
+    "costumes": {
+      "costume1.png": "7b0eb99221ce6e057d357f45c09edf7d.png",
+      "costume2.png": "af899c4ce1047f74e722250d514c345a.png"
+    },
+    "sounds": {
+      "Cant Select.wav": "07ee196971466da37070dfb673f1acd8.wav",
+      "cash-register-purchase-87313.wav": "a5921898c9b083391e97beca20a099ed.wav"
+    }
+  },
+  "Bullet6": {
+    "costumes": {
+      "costume1.png": "db4a4d27e3eedbfbabb2751a5283c9c0.png",
+      "costume2.png": "3f4116be08398312154714d7bfd58ae7.png",
+      "costume3.png": "d04dd468fc5f0811d805e63901621d84.png"
+    },
+    "sounds": {
+      "pop.wav": "bc789ac97df2d19cb03b6dbe227a2773.wav"
+    }
+  },
+  "Sprite57": {
+    "costumes": {
+      "costume1.png": "31e243394c9cb228f5750d9e5a6c7d7c.png",
+      "costume2.png": "2f07713c865bb410ca675e1e3893e029.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "Buttonpush.wav": "135c8f08dca83c25b0f56c110c8d393f.wav"
+    }
+  },
+  "Sprite58": {
+    "costumes": {
+      "costume1.png": "31e243394c9cb228f5750d9e5a6c7d7c.png",
+      "costume2.png": "2f07713c865bb410ca675e1e3893e029.png"
+    },
+    "sounds": {
+      "Buttonpush.wav": "135c8f08dca83c25b0f56c110c8d393f.wav"
+    }
+  },
+  "Sprite59": {
+    "costumes": {
+      "costume1.png": "54cd348da611698e43e3149d82205988.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite61": {
+    "costumes": {
+      "costume3.png": "0f517c678c36dd4c333665637dc74fb4.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "stone-slide-sounds-effects-made-with-Voicemod.wav": "557c1f8c941773fd1c69c3298ca10aaf.wav"
+    }
+  },
+  "Bullet5": {
+    "costumes": {
+      "costume1.png": "4fb97b79f65a3129ef4fdcc2d5c60721.png",
+      "costume2.png": "3f4116be08398312154714d7bfd58ae7.png",
+      "costume3.png": "d04dd468fc5f0811d805e63901621d84.png"
+    },
+    "sounds": {
+      "pop.wav": "bc789ac97df2d19cb03b6dbe227a2773.wav",
+      "pop2.wav": "ff83529b1f25a46c155802395fd08c7f.wav"
+    }
+  },
+  "Sprite29": {
+    "costumes": {
+      "costume1.png": "3b57cb7a628d879717a4ea48ddc75637.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite35": {
+    "costumes": {
+      "costume1.png": "d9c2a344bd6d8e2412e6eb8110a85ee4.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite36": {
+    "costumes": {
+      "costume1.png": "d9c2a344bd6d8e2412e6eb8110a85ee4.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite37": {
+    "costumes": {
+      "costume3.png": "0f517c678c36dd4c333665637dc74fb4.png"
+    },
+    "sounds": {
+      "stone-slide-sounds-effects-made-with-Voicemod.wav": "557c1f8c941773fd1c69c3298ca10aaf.wav"
+    }
+  },
+  "Sprite44": {
+    "costumes": {
+      "costume3.png": "0f517c678c36dd4c333665637dc74fb4.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "stone-slide-sounds-effects-made-with-Voicemod.wav": "557c1f8c941773fd1c69c3298ca10aaf.wav"
+    }
+  },
+  "B4046B0AEE4244ED8C1626776C7C0CA2": {
+    "costumes": {
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA2.png": "71290c451e79807dbbc8877e27e646f2.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA22.png": "641925999985b28112e582d793e4ba7a.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA23.png": "d50d7038b848d5c9a663fb46ab25d5f5.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA24.png": "79bcdb587ef89929634daf490e3c70e1.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA25.png": "26d0108e9f3b228fbabe4f1065636890.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA26.png": "f37b8accfc7cbd83da5e0d003e28ff9f.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA27.png": "60eaacdb4db46585bbbc003f07628441.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA28.png": "67150bfeedb523d3c06c99e4653da106.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA29.png": "b97fab07a46ba0cb167a7724b8490fa9.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA210.png": "5f24fbabde73a2ac5875288be478832a.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA211.png": "77db1e74db7292058911aa7d6a89463f.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA212.png": "e3221cef661165db8b58dd17429ea4e3.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA213.png": "5be1de49826ef08b28ffae7ad955c76d.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA214.png": "a381f52f38022a847e1ac59e6ceead7e.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA215.png": "7215dee1ff6b809ec0f774b2ad38b1f4.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA216.png": "7f75e28d8e95cfa614a2f63e80e424b3.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA217.png": "b1f1db2baf2d5d675c8bde9c80db219e.png"
+    },
+    "sounds": {
+      "deltarune-explosion 2.mp3": "64bdaa49a961ce24b03cfd20437dc598.mp3"
+    }
+  },
+  "B4046B0A-EE42-44ED-8C16-26776C7C0CA2": {
+    "costumes": {
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA2.png": "71290c451e79807dbbc8877e27e646f2.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA22.png": "641925999985b28112e582d793e4ba7a.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA23.png": "d50d7038b848d5c9a663fb46ab25d5f5.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA24.png": "79bcdb587ef89929634daf490e3c70e1.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA25.png": "26d0108e9f3b228fbabe4f1065636890.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA26.png": "f37b8accfc7cbd83da5e0d003e28ff9f.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA27.png": "60eaacdb4db46585bbbc003f07628441.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA28.png": "67150bfeedb523d3c06c99e4653da106.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA29.png": "b97fab07a46ba0cb167a7724b8490fa9.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA210.png": "5f24fbabde73a2ac5875288be478832a.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA211.png": "77db1e74db7292058911aa7d6a89463f.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA212.png": "e3221cef661165db8b58dd17429ea4e3.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA213.png": "5be1de49826ef08b28ffae7ad955c76d.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA214.png": "a381f52f38022a847e1ac59e6ceead7e.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA215.png": "7215dee1ff6b809ec0f774b2ad38b1f4.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA216.png": "7f75e28d8e95cfa614a2f63e80e424b3.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA217.png": "b1f1db2baf2d5d675c8bde9c80db219e.png"
+    },
+    "sounds": {
+      "deltarune-explosion 2.mp3": "64bdaa49a961ce24b03cfd20437dc598.mp3"
+    }
+  },
+  "Sprite45": {
+    "costumes": {
+      "costume1.png": "341a1766f9e6976e2f48fba5913c6ad5.png",
+      "costume2.png": "7cc089e440496945c72c2b839bc37d3f.png",
+      "IMG_1436.png": "f33188673c5830b1524254251c4cb9dd.png"
+    },
+    "sounds": {
+      "Vs Amber.wav": "499601278b9dc35daac0f5c6c071a83b.wav",
+      "Amber.wav": "787cebe718f26e6ded89feeb82510d85.wav"
+    }
+  },
+  "Sprite50": {
+    "costumes": {
+      "costume1.png": "103e6c0ae1b85d83f17de0186daa56ff.png",
+      "costume2.png": "8610b2ffd7fa17f4fe2335eed3007358.png",
+      "costume3.png": "5315aa22a58f534e1b90ab45daf164dc.png"
+    },
+    "sounds": {
+      "pop.wav": "ebf9d552402fca9aaf2f7c44746fd744.wav"
+    }
+  },
+  "Sprite51": {
+    "costumes": {
+      "costume1.png": "484bb8faefdff617046e0444c85ff321.png",
+      "costume3.png": "76f9e7def9534a88791497e008b2732d.png",
+      "costume2.png": "ccc41565489a15ede83ea221dbad8dfc.png"
+    },
+    "sounds": {
+      "Cant Select.wav": "07ee196971466da37070dfb673f1acd8.wav",
+      "cash-register-purchase-87313.wav": "a5921898c9b083391e97beca20a099ed.wav"
+    }
+  },
+  "B4046B0AEE4244ED8C1626776C7C0CA3": {
+    "costumes": {
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA2.png": "71290c451e79807dbbc8877e27e646f2.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA22.png": "641925999985b28112e582d793e4ba7a.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA23.png": "d50d7038b848d5c9a663fb46ab25d5f5.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA24.png": "79bcdb587ef89929634daf490e3c70e1.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA25.png": "26d0108e9f3b228fbabe4f1065636890.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA26.png": "f37b8accfc7cbd83da5e0d003e28ff9f.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA27.png": "60eaacdb4db46585bbbc003f07628441.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA28.png": "67150bfeedb523d3c06c99e4653da106.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA29.png": "b97fab07a46ba0cb167a7724b8490fa9.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA210.png": "5f24fbabde73a2ac5875288be478832a.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA211.png": "77db1e74db7292058911aa7d6a89463f.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA212.png": "e3221cef661165db8b58dd17429ea4e3.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA213.png": "5be1de49826ef08b28ffae7ad955c76d.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA214.png": "a381f52f38022a847e1ac59e6ceead7e.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA215.png": "7215dee1ff6b809ec0f774b2ad38b1f4.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA216.png": "7f75e28d8e95cfa614a2f63e80e424b3.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA217.png": "b1f1db2baf2d5d675c8bde9c80db219e.png",
+      "costume1.png": "e8382b5c78a78d2cc776a4b66133ec1d.png"
+    },
+    "sounds": {
+      "deltarune-explosion 2.mp3": "64bdaa49a961ce24b03cfd20437dc598.mp3",
+      "Vs Amber.wav": "eb48c865c9c699f41add536d3339a0a2.wav"
+    }
+  },
+  "B4046B0A-EE42-44ED-8C16-26776C7C0CA3": {
+    "costumes": {
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA2.png": "71290c451e79807dbbc8877e27e646f2.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA22.png": "641925999985b28112e582d793e4ba7a.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA23.png": "d50d7038b848d5c9a663fb46ab25d5f5.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA24.png": "79bcdb587ef89929634daf490e3c70e1.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA25.png": "26d0108e9f3b228fbabe4f1065636890.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA26.png": "f37b8accfc7cbd83da5e0d003e28ff9f.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA27.png": "60eaacdb4db46585bbbc003f07628441.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA28.png": "67150bfeedb523d3c06c99e4653da106.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA29.png": "b97fab07a46ba0cb167a7724b8490fa9.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA210.png": "5f24fbabde73a2ac5875288be478832a.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA211.png": "77db1e74db7292058911aa7d6a89463f.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA212.png": "e3221cef661165db8b58dd17429ea4e3.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA213.png": "5be1de49826ef08b28ffae7ad955c76d.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA214.png": "a381f52f38022a847e1ac59e6ceead7e.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA215.png": "7215dee1ff6b809ec0f774b2ad38b1f4.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA216.png": "7f75e28d8e95cfa614a2f63e80e424b3.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA217.png": "b1f1db2baf2d5d675c8bde9c80db219e.png",
+      "costume1.png": "e8382b5c78a78d2cc776a4b66133ec1d.png"
+    },
+    "sounds": {
+      "deltarune-explosion 2.mp3": "64bdaa49a961ce24b03cfd20437dc598.mp3",
+      "Vs Amber.wav": "eb48c865c9c699f41add536d3339a0a2.wav"
+    }
+  },
+  "Sprite52": {
+    "costumes": {
+      "costume1.png": "aecd5d2eda7f35eecc7bf04c3ad197e5.png"
+    },
+    "sounds": {
+      "pop.wav": "e2cf9b731d1693878a75de1c4a5e0c2f.wav"
+    }
+  },
+  "Sprite60": {
+    "costumes": {
+      "costume1.png": "f913573baee2e849ce9a70ab55c73446.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite63": {
+    "costumes": {
+      "costume1.png": "e940a1ab142c5090e5232a11e1cbeb4e.png",
+      "costume2.png": "d93a105d6bd7db06a6b16dc5e98e0a6b.png"
+    },
+    "sounds": {
+      "pop.wav": "68df23cc1bfc1e61c3788471b489e841.wav",
+      "pop2.wav": "03837458cc41a7ba5f81d4df7367715f.wav"
+    }
+  },
+  "Sprite64": {
+    "costumes": {
+      "costume2.png": "1cb546118174942fcc09f55e17350541.png",
+      "costume1.png": "4336b97bb95b65358e10b3108f484dba.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite65": {
+    "costumes": {
+      "costume1.png": "71945a89a09ba1027f61d6bd32eeb650.png",
+      "costume2.png": "7e8c5c19a74c085be81cb5bc49079695.png",
+      "costume3.png": "e66ce71525660246ac0b697685ba5b52.png",
+      "costume4.png": "24ecb7f2ff7409dc724865a37fbe4f53.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite66": {
+    "costumes": {
+      "costume1.png": "a5f65d82b36e65a0b54daace34ca920e.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite62": {
+    "costumes": {
+      "costume1.png": "e940a1ab142c5090e5232a11e1cbeb4e.png",
+      "costume2.png": "d93a105d6bd7db06a6b16dc5e98e0a6b.png"
+    },
+    "sounds": {
+      "pop.wav": "68df23cc1bfc1e61c3788471b489e841.wav",
+      "pop2.wav": "03837458cc41a7ba5f81d4df7367715f.wav"
+    }
+  },
+  "Sprite68": {
+    "costumes": {
+      "costume1.png": "26f45f41571646555ee25ea143ab184f.png",
+      "costume2.png": "702300efc5e85d4e8600e7652d3d7f4c.png",
+      "costume3.png": "41d493d84f189c33fa5409880717410f.png",
+      "costume4.png": "5c8206ca9b4b16cc486a127208982f31.png",
+      "costume5.png": "a5c8ef444ae5b356eeac59e75f10d2a4.png",
+      "costume6.png": "ec461e998cb6111ffb7fa3836c1b45cf.png",
+      "costume7.png": "b04af5dc48dc57267cb2c345fedfade8.png",
+      "costume8.png": "0d00b77d2e103ed4db03e5926698a161.png",
+      "costume12.png": "348cb995b3c41579f1ef8ba380b06f31.png",
+      "costume11.png": "be317063325f2cfd0eb0faec019ea2b7.png",
+      "costume10.png": "c306e5bdc040a2b0aff5bc600a64c5fb.png",
+      "costume13.png": "39120c750903d61f9fbcf39f0bc72bce.png",
+      "costume9.png": "2f821453baaf9d77d9b37c94beea5e8a.png",
+      "costume14.png": "9e0aaeed9b58b7cdc3f976f765b3cac7.png",
+      "costume15.png": "1f1fc5cf4df19d6e7963f62a331098da.png",
+      "costume16.png": "63bf6cbb392968010c54582d97c57f4c.png",
+      "costume17.png": "f45073c730495cffc6bdcdd70b832f8a.png",
+      "costume18.png": "a285d9c218c45cba243223d7618ad354.png",
+      "costume19.svg": "7d644ef9af359c9ed36dab1163341298.svg",
+      "costume20.svg": "b48672436cf5d60bac404963eaad2731.svg",
+      "costume21.svg": "3dc4833908260539e2eddfb58058d897.svg",
+      "costume22.svg": "2bfa2460ccf34ef664d239a91446f6ec.svg",
+      "costume23.svg": "36d039b18734a0d8944b8ebcff18cb1e.svg",
+      "costume24.svg": "00c3c608ac5ebf25a53e1211a27a89db.svg"
+    },
+    "sounds": {
+      "pop.wav": "06042235c1462d95bd365eb892fca68e.wav"
+    }
+  },
+  "Sprite69": {
+    "costumes": {
+      "costume1.png": "0b6dab98226719f69711e4cbf6b957cd.png"
+    },
+    "sounds": {
+      "chicken-jockey.wav": "b2cfa89bb4487cf3b22f6efdd6e1249d.wav"
+    }
+  },
+  "Sprite70": {
+    "costumes": {
+      "costume1.png": "23280900e6439955517750ced79f034e.png"
+    },
+    "sounds": {
+      "chicken-jockey.wav": "7a695e376ff6261bdf042987a630910d.wav"
+    }
+  },
+  "Sprite71": {
+    "costumes": {
+      "costume1.png": "95c2da4c41a0b988814538d0f239ee6c.png",
+      "costume2.png": "93869f081ff2a081b1096f4cddf7fe6a.png"
+    },
+    "sounds": {
+      "cheering.wav": "0e54d0321df68888f9e1a182324961f6.wav"
+    }
+  },
+  "Sprite73": {
+    "costumes": {
+      "costume1.png": "4803616986b01193c03192774e39e83b.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite72": {
+    "costumes": {
+      "costume1.png": "dbac2d8053abbcd8b3ed6ca6f1122851.png"
+    },
+    "sounds": {
+      "pop.wav": "9ce3a8f726ea8643d3eec4a3cf830a10.wav",
+      "Thrasher.wav": "5fe61cf5181a807fcef86a45122240e4.wav",
+      "ScreenRecording_04-25-2025 07-52-36_1.wav": "e1bd4ac7ec4e1caa206ee0288920b53a.wav"
+    }
+  },
+  "Sprite74": {
+    "costumes": {
+      "Fighter.png": "e28af6ee7bfe86cde4bdd138d6d8e129.png",
+      "Box.png": "320f10ca27a5c9c8f364adbeb82388df.png",
+      "Cactus.png": "50d1735fc2f08bb79ff7c83e5869fe0f.png",
+      "Cat.png": "7ebf890c8b889ec8195a2c705d22594d.png"
+    },
+    "sounds": {
+      "pop.wav": "fbc23d7ed5f0144e548351906b8d6fee.wav"
+    }
+  },
+  "Sprite75": {
+    "costumes": {
+      "Fighter.png": "1ad9efebb3940357451952dd21c52c07.png",
+      "Box.png": "c5370304cbb1e216b7ed44b8c7d8754c.png",
+      "Cactus.png": "5c4f60e7460821e5e061b11f1c1a7d91.png",
+      "Cat.png": "6d6e8bd31deddd26924de37e036961ff.png"
+    },
+    "sounds": {
+      "pop.wav": "fbc23d7ed5f0144e548351906b8d6fee.wav"
+    }
+  },
+  "Sprite76": {
+    "costumes": {
+      "Fighter.png": "22d47b719424094847caad13663efd1c.png",
+      "Box.png": "192c5be01adb2626b9fc45170b002975.png",
+      "Cactus.png": "e1934470b82acdefb0c55e2b564e9fa3.png",
+      "Cat.png": "c40a62b0b2cfa5a09de9e95445df21f9.png"
+    },
+    "sounds": {
+      "pop.wav": "fbc23d7ed5f0144e548351906b8d6fee.wav"
+    }
+  },
+  "Sprite77": {
+    "costumes": {
+      "costume1.png": "df5e0913897511cb46a1b239b14ed68c.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite78": {
+    "costumes": {
+      "costume1.png": "f6a30f4b5edbe5e3c6f5f4b1e9a84e0f.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite79": {
+    "costumes": {
+      "costume1.png": "c188b732f61d878a537513864c3815dd.png"
+    },
+    "sounds": {
+      "pop.wav": "fae4b780c8d93f3495964d7f44849396.wav"
+    }
+  },
+  "Sprite84": {
+    "costumes": {
+      "costume1.png": "bae1931c248513860c7053d2ee51c741.png",
+      "costume2.png": "b7bd7ea7347b06d753cce0caf6995c72.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "sneaking.mp3": "d5537432a850f0a6977e2a4dbf0de026.mp3"
+    }
+  },
+  "Sprite85": {
+    "costumes": {
+      "costume1.png": "8f75d116e80784120931738b6a1ef410.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "recording1.wav": "909d6e9f689ec22ba50b0243802a13bf.wav",
+      "recording2.wav": "d382bad578dc630f5ab93b488b47c661.wav"
+    }
+  },
+  "Sprite86": {
+    "costumes": {
+      "costume1.png": "e0c4f45e767fe289ded217faa600589d.png",
+      "costume2.png": "ad1d522e6fcfc9be1d8594918d19225e.png"
+    },
+    "sounds": {
+      "pop.wav": "fae4b780c8d93f3495964d7f44849396.wav"
+    }
+  },
+  "Sprite80": {
+    "costumes": {
+      "Fighter.png": "e28af6ee7bfe86cde4bdd138d6d8e129.png",
+      "Box.png": "320f10ca27a5c9c8f364adbeb82388df.png",
+      "Cactus.png": "50d1735fc2f08bb79ff7c83e5869fe0f.png",
+      "Cat.png": "7ebf890c8b889ec8195a2c705d22594d.png"
+    },
+    "sounds": {
+      "pop.wav": "af80512510127a22904e913d5e61b027.wav",
+      "1.wav": "65738ca0f6340ffe28ec56be33a85d3b.wav",
+      "undertale-sound-effect-inflicting-damage-made-with-Voicemod.wav": "87b8a8709d27eac067269d87556630a7.wav"
+    }
+  },
+  "Sprite81": {
+    "costumes": {
+      "Fighter.png": "1ad9efebb3940357451952dd21c52c07.png",
+      "Box.png": "c5370304cbb1e216b7ed44b8c7d8754c.png",
+      "Cactus.png": "5c4f60e7460821e5e061b11f1c1a7d91.png",
+      "Cat.png": "6d6e8bd31deddd26924de37e036961ff.png"
+    },
+    "sounds": {
+      "pop.wav": "fbc23d7ed5f0144e548351906b8d6fee.wav"
+    }
+  },
+  "Sprite82": {
+    "costumes": {
+      "Fighter.png": "22d47b719424094847caad13663efd1c.png",
+      "Box.png": "192c5be01adb2626b9fc45170b002975.png",
+      "Cactus.png": "e1934470b82acdefb0c55e2b564e9fa3.png",
+      "Cat.png": "c40a62b0b2cfa5a09de9e95445df21f9.png"
+    },
+    "sounds": {
+      "pop.wav": "fbc23d7ed5f0144e548351906b8d6fee.wav"
+    }
+  },
+  "Sprite87": {
+    "costumes": {
+      "costume1.png": "266bfb05739bb2ed5486354474daa465.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite88": {
+    "costumes": {
+      "costume1.png": "a44c9da28fa8d7700377df3ba5f7a3b1.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite89": {
+    "costumes": {
+      "costume1.png": "19e0a015b98173ee4bf8cee247429a60.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite90": {
+    "costumes": {
+      "costume2.png": "ac6b89203b428809024a1ce595e247dc.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite91": {
+    "costumes": {
+      "costume2.png": "417b60c9bae844459cbc96cb4f88ea08.png",
+      "costume3.png": "c0f74ed772341bebc5c62cf9d1ebeb05.png",
+      "costume4.png": "bfcd752e9fc3647c518497f422bc38a5.png",
+      "costume5.png": "385a0f61e9d8273cfe25ce19ee0069dd.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite92": {
+    "costumes": {
+      "costume1.png": "a7b92408b98ae57749d44058bce58499.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "tasque-sound-effect-1-deltarune-chapter-2-made-with-Voicemod.wav": "5e9bfd256d47b591b359675edf7fe0b1.wav"
+    }
+  },
+  "Sprite93": {
+    "costumes": {
+      "costume1.png": "a475203b6d81219dce8548db7710184b.png",
+      "costume2.png": "2e500b97e9e9969e526026de5425abed.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite94": {
+    "costumes": {
+      "costume1.png": "994a30716f277313236a0554f570b2f5.png"
+    },
+    "sounds": {
+      "pop.wav": "af80512510127a22904e913d5e61b027.wav"
+    }
+  },
+  "Sprite95": {
+    "costumes": {
+      "costume1.png": "e940a1ab142c5090e5232a11e1cbeb4e.png",
+      "costume2.png": "05c5e7529a393b850e78a8eddd592db0.png"
+    },
+    "sounds": {
+      "pop.wav": "d7c236f4e0a896eb638d4ce1f755ad86.wav",
+      "pop2.wav": "03837458cc41a7ba5f81d4df7367715f.wav"
+    }
+  },
+  "Sprite96": {
+    "costumes": {
+      "costume1.png": "e940a1ab142c5090e5232a11e1cbeb4e.png",
+      "costume2.png": "52474a5324df012612d62087f138ff4b.png"
+    },
+    "sounds": {
+      "pop.wav": "d7c236f4e0a896eb638d4ce1f755ad86.wav",
+      "pop2.wav": "2dfd885abaad658a6e77b0d8b3ac645e.wav",
+      "pop3.wav": "2d1da874a9634fcef9fb08429c7fcd57.wav"
+    }
+  },
+  "Sprite97": {
+    "costumes": {
+      "costume1.png": "bd3ecc5e8896e889010765accdec5047.png",
+      "costume2.png": "8f7a6e452b5e50eb9ca4ce63a2d8d0a4.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Bullet10": {
+    "costumes": {
+      "costume1.png": "2f1c08db88532a167763c048a35211f3.png",
+      "costume2.png": "93b8596c82511e54014258ee38a50577.png",
+      "costume3.png": "b361868c61c6de7ea13ff6bec078d9e1.png",
+      "costume4.png": "7b8e2c8808c83260f56a5ddb2d0aff81.png"
+    },
+    "sounds": {
+      "pop.wav": "c7c5bdd6d1a719201107868917bacfca.wav"
+    }
+  },
+  "Sprite98": {
+    "costumes": {
+      "costume1.png": "802b02f1d8f3535a19746069beb991b4.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite99": {
+    "costumes": {
+      "costume1.png": "ce267cd33cc863bb9724b6b17eed9be6.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite27": {
+    "costumes": {
+      "costume1.png": "b20c424e340e843ee2ebd64a5f2fd83f.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite101": {
+    "costumes": {
+      "costume1.png": "dcf7c40a2524eabc924aec38b298a31e.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite102": {
+    "costumes": {
+      "costume1.png": "690967f0d2ccf9780922e4ea889fa326.png",
+      "costume3.png": "7eb80c63f0cb948a7236e25c768a97d9.png",
+      "costume2.png": "d013cfeec7bb505d3e074f7ac1975495.png",
+      "costume4.png": "7eb80c63f0cb948a7236e25c768a97d9.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "savepoint.mp3": "222e391a817ab6c9f166369e6f87d91e.mp3"
+    }
+  },
+  "Sprite103": {
+    "costumes": {
+      "costume2.png": "1b0f8f08c7aba882b4441b3b70e3a0bb.png"
+    },
+    "sounds": {
+      "pop.wav": "838bc6a6906e0f9a7f046e710c91a191.wav"
+    }
+  },
+  "Sprite104": {
+    "costumes": {
+      "costume1.png": "9a64a345394b024a833d06e9c7a63ba0.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite105": {
+    "costumes": {
+      "costume1.png": "f3cbebbec046680a7346ac56561540d2.png",
+      "costume2.png": "7b4566dc7a74ec08d609e80f8f01e31f.png"
+    },
+    "sounds": {
+      "pop.wav": "d74020adbc1931a9833732ed6ab04aa0.wav",
+      "pop2.wav": "d5f65f0e1abb1a55e6060b6cf24c743d.wav"
+    }
+  },
+  "Sprite106": {
+    "costumes": {
+      "costume1.png": "de3ccef0507107f369792472ce83ec2b.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite107": {
+    "costumes": {
+      "costume2.png": "ddcc131af50ce44743a72896a47b1bc1.png",
+      "costume3.png": "1719aaa0b519c159fca8764aaed16706.png",
+      "costume4.svg": "1f7e18d53146c4db87be9fe063b7bc07.svg",
+      "costume5.png": "b7bd7ea7347b06d753cce0caf6995c72.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "gaster_blaster_sound_effect_1.wav": "b7c0cba2733d70179f6066310a727f3b.wav",
+      "gaster_blaster_sound_effect_2.wav": "4aef3dfa9a4553150e659b6dc4874101.wav"
+    }
+  },
+  "Sprite108": {
+    "costumes": {
+      "costume1.png": "85cd163cdfa3b34583b8f24c7b896835.png",
+      "costume2.png": "98f71563537962006ebcd7f0b94e68ee.png",
+      "costume3.png": "c572cfdccfa37153629c0a73c57ed29a.png",
+      "costume4.png": "f27634c2cb7c3ac5da823a3430889bde.png",
+      "costume6.png": "678ab598ec42c0eac800a96ce824f04f.png",
+      "costume5.png": "19081641cc1419777fa4eb824ab7d81e.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite100": {
+    "costumes": {
+      "costume1.png": "f01d00080fc045f63ef4c87fe33243db.png",
+      "costume2.png": "f22f7a752776c28ca2ae845e2cf819ab.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite109": {
+    "costumes": {
+      "costume1.png": "a347c5a6821d4d69cbfa15f3a3e42e18.png",
+      "costume2.png": "9f53808ab7705bc827d373fd1acd98bc.png",
+      "costume3.png": "f5f25bdfb3ec207211e5aea1fa58db0f.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite110": {
+    "costumes": {
+      "costume1.png": "a0f7bb159d9b6749d67559aebea7f111.png",
+      "costume2.png": "886df0efea04ff259509f295ad48bd28.png",
+      "costume3.png": "d545630354640cdedeab9c02828bab56.png"
+    },
+    "sounds": {
+      "pop.wav": "9211e932b15305822fbf6e832e1ed36f.wav",
+      "pop2.wav": "4d14a18664719544f906c80ceecb1a60.wav"
+    }
+  },
+  "Sprite111": {
+    "costumes": {
+      "costume1.png": "35a202b6029731d40bc95257a02690a4.png",
+      "costume2.png": "e592672a705871cfca690505116017a6.png"
+    },
+    "sounds": {
+      "pop.wav": "1ebe4179a998dc7f289c4b5326823833.wav"
+    }
+  },
+  "Sprite112": {
+    "costumes": {
+      "costume1.png": "38838163d5754cb7e5ee8c208aac3d97.png",
+      "costume2.png": "fcc593ce3c95310434713316aceddf9c.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite113": {
+    "costumes": {
+      "costume1.png": "ffe86bc69ae929b5022fe3b8c616bc09.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite67": {
+    "costumes": {
+      "IMG_1435.png": "c4048b08ac90aa8f9b3cac81bd41bc82.png",
+      "jimmy.png": "083c3d209fbfee20e6ac824a1a914ea0.png",
+      "jimmy2.png": "285000368f3e31732a064832b3dd6dfa.png",
+      "jimmy3.png": "e947105084d45a5694a46f514e33faa5.png",
+      "jimmy4.png": "88ff34f741845bd744633f0f7b7e8cb3.png",
+      "costume1.png": "1559369c2401b87863bee8fe71dbf449.png",
+      "costume2.png": "934606e1788d738d0948f5b61892b1ea.png",
+      "costume4.png": "ccfe44f0ecb9741351e1b2186cd8689a.png",
+      "costume3.png": "625afbbfdc9d5d17c7f22191ff8d667f.png",
+      "costume5.png": "dc19d1fe69ee5c4d48ecfd979260306d.png",
+      "costume6.png": "826123ac2012d734a02c578abf19e9ac.png",
+      "costume7.png": "4706f38ea4d639e69ad8189523c4b553.png",
+      "costume8.png": "49eefd1671541ee3df5a7effff53988e.png",
+      "costume9.png": "1027cc9154e40857b0bd370c918e88e0.png",
+      "costume10.png": "1778b0c33929608bc5f85fcf85581a4a.png",
+      "costume11.png": "c5ed998fe345c0faf290cbcd1f13daa7.png"
+    },
+    "sounds": {
+      "slide-whistle-up-326154.wav": "8165bc0bfc0cf44c02fee34f87499cff.wav",
+      "slide-whistle-up-2.wav": "8550eb06812cde7d7322c2e228e170ac.wav",
+      "Chaos Jimmy.wav": "72adcad0d9dfa232a7be1bd665cf6125.wav",
+      "slide-whistle-up-3.wav": "3cb5e678645b2317d2d06d779fea0aca.wav",
+      "slide-whistle-up-4.wav": "c46cdf35fb80c8af9e5d6af4a4d18918.wav"
+    }
+  },
+  "Sprite114": {
+    "costumes": {
+      "costume1.png": "a5c4c0529eb18ec94b255c0f6fa848e4.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite115": {
+    "costumes": {
+      "costume1.png": "9a64a345394b024a833d06e9c7a63ba0.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite116": {
+    "costumes": {
+      "costume1.png": "9a64a345394b024a833d06e9c7a63ba0.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite117": {
+    "costumes": {
+      "costume1.png": "8c14397010f485716707a326f95f528e.png",
+      "costume2.png": "ebd5c9d419ace6a2522a3aed67614b40.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "B4046B0AEE4244ED8C1626776C7C0CA4": {
+    "costumes": {
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA2.png": "71290c451e79807dbbc8877e27e646f2.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA22.png": "641925999985b28112e582d793e4ba7a.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA23.png": "d50d7038b848d5c9a663fb46ab25d5f5.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA24.png": "79bcdb587ef89929634daf490e3c70e1.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA25.png": "26d0108e9f3b228fbabe4f1065636890.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA26.png": "f37b8accfc7cbd83da5e0d003e28ff9f.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA27.png": "60eaacdb4db46585bbbc003f07628441.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA28.png": "67150bfeedb523d3c06c99e4653da106.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA29.png": "b97fab07a46ba0cb167a7724b8490fa9.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA210.png": "5f24fbabde73a2ac5875288be478832a.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA211.png": "77db1e74db7292058911aa7d6a89463f.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA212.png": "e3221cef661165db8b58dd17429ea4e3.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA213.png": "5be1de49826ef08b28ffae7ad955c76d.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA214.png": "a381f52f38022a847e1ac59e6ceead7e.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA215.png": "7215dee1ff6b809ec0f774b2ad38b1f4.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA216.png": "7f75e28d8e95cfa614a2f63e80e424b3.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA217.png": "b1f1db2baf2d5d675c8bde9c80db219e.png"
+    },
+    "sounds": {
+      "deltarune-explosion 2.wav": "58efb0933627826746265d9889223cf4.wav"
+    }
+  },
+  "B4046B0A-EE42-44ED-8C16-26776C7C0CA4": {
+    "costumes": {
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA2.png": "71290c451e79807dbbc8877e27e646f2.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA22.png": "641925999985b28112e582d793e4ba7a.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA23.png": "d50d7038b848d5c9a663fb46ab25d5f5.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA24.png": "79bcdb587ef89929634daf490e3c70e1.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA25.png": "26d0108e9f3b228fbabe4f1065636890.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA26.png": "f37b8accfc7cbd83da5e0d003e28ff9f.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA27.png": "60eaacdb4db46585bbbc003f07628441.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA28.png": "67150bfeedb523d3c06c99e4653da106.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA29.png": "b97fab07a46ba0cb167a7724b8490fa9.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA210.png": "5f24fbabde73a2ac5875288be478832a.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA211.png": "77db1e74db7292058911aa7d6a89463f.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA212.png": "e3221cef661165db8b58dd17429ea4e3.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA213.png": "5be1de49826ef08b28ffae7ad955c76d.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA214.png": "a381f52f38022a847e1ac59e6ceead7e.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA215.png": "7215dee1ff6b809ec0f774b2ad38b1f4.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA216.png": "7f75e28d8e95cfa614a2f63e80e424b3.png",
+      "B4046B0A-EE42-44ED-8C16-26776C7C0CA217.png": "b1f1db2baf2d5d675c8bde9c80db219e.png"
+    },
+    "sounds": {
+      "deltarune-explosion 2.wav": "58efb0933627826746265d9889223cf4.wav"
+    }
+  },
+  "Sprite118": {
+    "costumes": {
+      "costume1.png": "bc883ee6214ca8832cff3cbbd5d11df0.png"
+    },
+    "sounds": {
+      "052256_cracking-earthquake-cracking-soil-cracking-stone-86770.wav": "db4228388f38b4ac6de65bef57ee0d25.wav",
+      "quake-and-break-99034.wav": "2b8fe1823552f6b7e832931bff7ae527.wav",
+      "quake-and-break-2.wav": "74b8cfbcd552d596bff62bc7209e374b.wav"
+    }
+  },
+  "Sprite119": {
+    "costumes": {
+      "costume1.png": "569680bd1452241cd736f7c1ae670c4c.png",
+      "costume2.png": "8c67944071ad52adcdc9b3f93d51b265.png",
+      "costume3.png": "c2a6a1afc707b9dc37d790d3da6ff476.png",
+      "costume4.png": "696d0ff90a2ee8f8b7a0e5812db4e24e.png"
+    },
+    "sounds": {
+      "lock-and-key-37699.wav": "201afa8f0b32819be844fda0d24d9d4b.wav",
+      "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 2.wav": "50b25ea9daa1dde657860b737189eee9.wav",
+      "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 3.wav": "217310d29b45a7318a585a5cb380a1db.wav",
+      "Click.wav": "e927be7f2c34890729593b75fac71810.wav"
+    }
+  },
+  "Sprite83": {
+    "costumes": {
+      "costume1.png": "6749bcfe9373d635550c1736cf52d164.png",
+      "costume3.png": "e046473cf13f89fd40f1b56b11e95c6a.png",
+      "costume2.png": "03e6a91d87935859716e719d74a0fd6c.png",
+      "costume4.png": "bfee86ed642ed4a936593a9253e7d3b4.png",
+      "costume6.png": "f1ccdf1f1fda074ac25ca92371ea0b3e.png",
+      "costume5.png": "66fd5ae9a5b76779feaacf76987cc506.png"
+    },
+    "sounds": {
+      "GLACEIR.wav": "e846e0ccda9abcdac128b906d3e22c3a.wav"
+    }
+  },
+  "Sprite120": {
+    "costumes": {
+      "costume1.png": "1d369806469b0b55338712a07c90cf4a.png",
+      "overStory-5-4-2025.png": "e1a58cf52baee7e21c7113c8341dbc87.png",
+      "costume2.png": "da7a40e5a4ad58932cb92186d21f0b15.png",
+      "costume3.png": "8f75d116e80784120931738b6a1ef410.png",
+      "costume4.png": "a079017313b2194f0747942aebcaeb19.png",
+      "costume5.png": "a2458ddb7595678cdc049f84addd3756.png",
+      "costume6.png": "1a7e23ff9779b5a41d12507813a9fa1f.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "Undertale Fade.mp3": "0632420f7b5f9126a1031f4198ebe10f.mp3",
+      "Voicy_Undertale Sound Effect - Intro.wav": "660ce1af79694c68301138bf280cc211.wav"
+    }
+  },
+  "Sprite121": {
+    "costumes": {
+      "costume1.png": "0c390621f9a3907b9153ea0164c4dbab.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite122": {
+    "costumes": {
+      "costume1.png": "6ff53edeb6694c1a91a17fa5dfa53e2c.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite137": {
+    "costumes": {
+      "costume1.png": "0f771803d0785aa13295e7786f73b1fd.png",
+      "costume2.png": "fcab8a9ac83ebba5c39db80ed3895beb.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite123": {
+    "costumes": {
+      "costume1.png": "b25720619576b36b9d50232a90f47184.png",
+      "costume2.png": "741ce7700f17fc971ccf32333dd7dc05.png",
+      "costume3.png": "f72ab42b8881a4eb72cfec5fe0ce59eb.png",
+      "costume4.png": "bff0a722c54c8eca4753ef385836107d.png"
+    },
+    "sounds": {
+      "undertale-ping-made-with-Voicemod.wav": "0420921e770260fcd95080493dd84128.wav"
+    }
+  },
+  "Sprite124": {
+    "costumes": {
+      "costume1.svg": "570efe74ea731d7a5c526925f6a59edd.svg",
+      "costume2.svg": "b9832a238035bfbfcdba2b45bddba001.svg"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite125": {
+    "costumes": {
+      "costume1.png": "e832aa0842a3b353281062bbb88af0fa.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite126": {
+    "costumes": {
+      "costume1.png": "786f682419810e31e28391eecfa9f715.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "Sick Beat.wav": "8ce2200451bf64157bf5a015008e3614.wav",
+      "Sick Beat2.wav": "d00a166f2971dde0774f5f93f243146b.wav",
+      "Sick Beat3.wav": "2157e7a015b32c323bb31d8ad1d5d9c4.wav",
+      "Sick Beat4.wav": "08b5b63eb2484505b58222f76c87f239.wav"
+    }
+  },
+  "Sprite127": {
+    "costumes": {
+      "costume1.png": "a1b5b16f6500053ced0ed2d38d9435d2.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite128": {
+    "costumes": {
+      "costume1.png": "7c6dc55b8b5cc3ee92fa82ade4f58df8.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite129": {
+    "costumes": {
+      "costume1.png": "1a592aad733ba4dfde52522728a07851.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite130": {
+    "costumes": {
+      "costume1.png": "77837757ac8d5ae193b1334f96e66909.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite131": {
+    "costumes": {
+      "costume1.png": "8f75d116e80784120931738b6a1ef410.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite132": {
+    "costumes": {
+      "CutesyShop.png": "fc04c2443683c5226aca70f3425f4dc2.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite133": {
+    "costumes": {
+      "costume1.png": "52c087f5290b49753d92c58ec851210a.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite134": {
+    "costumes": {
+      "costume1.png": "dda623c0a528d42231dfdb838e9a1c50.png"
+    },
+    "sounds": {
+      "Cant Select.wav": "07ee196971466da37070dfb673f1acd8.wav",
+      "cash-register-purchase-87313.wav": "a5921898c9b083391e97beca20a099ed.wav"
+    }
+  },
+  "Sprite135": {
+    "costumes": {
+      "costume1.png": "858c862dbfd4cbdd0c6030b30b3efdce.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite136": {
+    "costumes": {
+      "costume1.png": "530908aef9da3fa5a6ee69b9a31f384a.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite138": {
+    "costumes": {
+      "costume1.png": "31e243394c9cb228f5750d9e5a6c7d7c.png",
+      "costume2.png": "2f07713c865bb410ca675e1e3893e029.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "Buttonpush.wav": "54a606a680915bb3cf91338951c3115e.wav"
+    }
+  },
+  "Sprite139": {
+    "costumes": {
+      "costume1.png": "31e243394c9cb228f5750d9e5a6c7d7c.png",
+      "costume2.png": "2f07713c865bb410ca675e1e3893e029.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "Buttonpush.wav": "54a606a680915bb3cf91338951c3115e.wav"
+    }
+  },
+  "ShadowZork": {
+    "costumes": {
+      "costume1.png": "18411fe318a545a522d4cda5dc192152.png",
+      "costume2.png": "9f2b805fc5e85339a27b385725a5e496.png"
+    },
+    "sounds": {
+      "Shadow Zork.wav": "efa254b67b98270bee50126b96820f54.wav",
+      "Shadow Zork2.wav": "fa1d93726936ca5812a0733c65f925f4.wav"
+    }
+  },
+  "Shadow Zork": {
+    "costumes": {
+      "costume1.png": "18411fe318a545a522d4cda5dc192152.png",
+      "costume2.png": "9f2b805fc5e85339a27b385725a5e496.png"
+    },
+    "sounds": {
+      "Shadow Zork.wav": "efa254b67b98270bee50126b96820f54.wav",
+      "Shadow Zork2.wav": "fa1d93726936ca5812a0733c65f925f4.wav"
+    }
+  },
+  "Sprite140": {
+    "costumes": {
+      "costume1.png": "5e7dfa9a2cdc60b9b0923b574dfacb69.png",
+      "costume2.png": "343bdf67e9cea63221b9ba3af01747fd.png",
+      "costume3.png": "1d1c393e97e440c86bb36233142c1df3.png"
+    },
+    "sounds": {
+      "pop.wav": "db97a8a48ab3cdef5430703ef3b32e27.wav",
+      "pop2.wav": "8add917f0c6b4d261234bce2212e2203.wav"
+    }
+  },
+  "Sprite141": {
+    "costumes": {
+      "costume1.png": "2dab37faef30da288815fee7f712380b.png",
+      "costume2.png": "2dab37faef30da288815fee7f712380b.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite21": {
+    "costumes": {
+      "costume1.png": "025d661e7926f6fe8638da11bd7994d5.png",
+      "costume3.png": "f0785bc5d603c6e67891782d289c5aca.png",
+      "costume2.png": "e8c6e3fdc68bac6f0d9122e0453d6fd8.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite142": {
+    "costumes": {
+      "costume1.png": "700d0a3efef22ce03c61beb4402d43ed.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite143": {
+    "costumes": {
+      "costume1.png": "84bd42e1cec54fa349bedfea0a12c139.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite144": {
+    "costumes": {
+      "costume5.png": "f4a309c4150a18aabe9a3986e1b1aa89.png",
+      "costume7.png": "69b63fd97576759db3b1db009edc06cc.png",
+      "costume2.png": "165366385da3a5c6c46f0ea88f67b6cf.png",
+      "costume3.png": "9857444f0a7c555288bb8de40c584163.png",
+      "costume8.png": "bfe88194484fd56d8685c54bf383793a.png",
+      "costume9.png": "e8fa2600c251a018bf021a13812225b7.png",
+      "costume1.png": "f134c13821b9abebc123ba29c44df2b5.png",
+      "costume6.png": "f3433323c9752ca37c5f46a77d883e3d.png",
+      "costume4.png": "c05430589d5808dab82254773399e50f.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite145": {
+    "costumes": {
+      "costume1.png": "23fd2f61d1af6ff4f1364adb7d0970c5.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "ShadowJone": {
+    "costumes": {
+      "costume1.png": "0dac9b54e19f627b2bff414902a8f3c6.png",
+      "costume2.png": "5ad66099d4127b38532c86d5fdf602cb.png",
+      "costume3.png": "be9b33a018984fbc7373c5aab2650435.png"
+    },
+    "sounds": {
+      "Jone Vs.wav": "efc09f4dc100e441b2d7a4d1ce18c267.wav"
+    }
+  },
+  "Shadow Jone": {
+    "costumes": {
+      "costume1.png": "0dac9b54e19f627b2bff414902a8f3c6.png",
+      "costume2.png": "5ad66099d4127b38532c86d5fdf602cb.png",
+      "costume3.png": "be9b33a018984fbc7373c5aab2650435.png"
+    },
+    "sounds": {
+      "Jone Vs.wav": "efc09f4dc100e441b2d7a4d1ce18c267.wav"
+    }
+  },
+  "Sprite146": {
+    "costumes": {
+      "costume1.png": "23fd2f61d1af6ff4f1364adb7d0970c5.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite147": {
+    "costumes": {
+      "costume5.png": "f4a309c4150a18aabe9a3986e1b1aa89.png",
+      "costume7.png": "69b63fd97576759db3b1db009edc06cc.png",
+      "costume2.png": "165366385da3a5c6c46f0ea88f67b6cf.png",
+      "costume3.png": "9857444f0a7c555288bb8de40c584163.png",
+      "costume8.png": "bfe88194484fd56d8685c54bf383793a.png",
+      "costume9.png": "e8fa2600c251a018bf021a13812225b7.png",
+      "costume1.png": "f134c13821b9abebc123ba29c44df2b5.png",
+      "costume6.png": "f3433323c9752ca37c5f46a77d883e3d.png",
+      "costume4.png": "c05430589d5808dab82254773399e50f.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite148": {
+    "costumes": {
+      "costume1.png": "ae102b2657ee895fac9a98ab6312a844.png",
+      "costume2.png": "f4e0a4ab8c74fb6f7f59a3cf4bd728b8.png"
+    },
+    "sounds": {
+      "pop.wav": "54a606a680915bb3cf91338951c3115e.wav"
+    }
+  },
+  "Sprite149": {
+    "costumes": {
+      "costume1.png": "286ee2af2a4970c79eabbdf67727e248.png",
+      "costume2.png": "08633ea24aadc30420ed8d726e2d998a.png"
+    },
+    "sounds": {
+      "Various Guys!.wav": "7b2175ac4b17f04371b7d608ba8865d8.wav",
+      "Shadow Fight.wav": "acf1a9e7f2646a8d7907a591c4a79737.wav"
+    }
+  },
+  "Sprite150": {
+    "costumes": {
+      "costume2.png": "dfb2abfb5b6a408cfb9cac6e83122562.png",
+      "costume3.png": "c84fa4d253ff493e34bc15a1a19c773b.png",
+      "costume4.png": "35cc9ee473f393da8c2bdc9ffa4413e8.png",
+      "costume5.png": "94f6cc2d47df350f6d734d7230354d73.png",
+      "costume6.png": "5c3e27a03ef0210329865f10ccadfb66.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite151": {
+    "costumes": {
+      "costume1.png": "cb0ad14af04dd480f93a28d724e45992.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite152": {
+    "costumes": {
+      "costume1.png": "d5f7088d0a04b247ec3c52532680ce64.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite153": {
+    "costumes": {
+      "costume1.png": "7efe685242f1bf9c65165c6546728bcb.png",
+      "costume6.png": "407f241a10c3d74eabb1f7bfae1908e5.png",
+      "costume5.png": "e73170c263779d8ef0fe58d405189929.png",
+      "costume4.png": "9ba7b50251f15967b7b56534fe1e747a.png",
+      "costume3.png": "4ef932d8ebbe7d33e5fb23acd4422b59.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "IMG1556": {
+    "costumes": {
+      "costume1.png": "d1a7ee6fa9c77fa55af7219e986d9bb4.png",
+      "costume2.png": "ead11f1d85404115a9bc32a4d7191426.png",
+      "costume3.png": "6e58590fb826ac1b9722c1952b4070db.png"
+    },
+    "sounds": {
+      "ScreenRecording_05-15-2025 18-33-02_1.wav": "eeb8753bb019543e8481366a39bce128.wav",
+      "ScreenRecording_05-15-2025 18-33-02_2.wav": "1dd257d2fc25c466411b70b566299e94.wav"
+    }
+  },
+  "IMG_1556": {
+    "costumes": {
+      "costume1.png": "d1a7ee6fa9c77fa55af7219e986d9bb4.png",
+      "costume2.png": "ead11f1d85404115a9bc32a4d7191426.png",
+      "costume3.png": "6e58590fb826ac1b9722c1952b4070db.png"
+    },
+    "sounds": {
+      "ScreenRecording_05-15-2025 18-33-02_1.wav": "eeb8753bb019543e8481366a39bce128.wav",
+      "ScreenRecording_05-15-2025 18-33-02_2.wav": "1dd257d2fc25c466411b70b566299e94.wav"
+    }
+  },
+  "Sprite155": {
+    "costumes": {
+      "costume1.png": "cdd8a5c9ddc4902d671e92c7af3b3897.png"
+    },
+    "sounds": {
+      "000029a8.wav": "2741814010f2249c4669d653f657c7bc.wav"
+    }
+  },
+  "Sprite156": {
+    "costumes": {
+      "IMG_1565.png": "5d861a28d460cbaeda51368914b9deee.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite157": {
+    "costumes": {
+      "costume1.png": "4eb70e72a5dd405e5a635b7da24239d8.png",
+      "costume2.png": "b6a8e36c47f788aa3713b6582750a46b.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "Buttonpush.wav": "54a606a680915bb3cf91338951c3115e.wav"
+    }
+  },
+  "Sprite158": {
+    "costumes": {
+      "costume1.png": "e9f710be356796ba1b8b246837503ac0.png",
+      "costume2.png": "09c42925baf0047d1d3a3474c2049672.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "Buttonpush.wav": "54a606a680915bb3cf91338951c3115e.wav"
+    }
+  },
+  "Sprite159": {
+    "costumes": {
+      "costume1.png": "31e243394c9cb228f5750d9e5a6c7d7c.png",
+      "costume2.png": "2f07713c865bb410ca675e1e3893e029.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "Buttonpush.wav": "54a606a680915bb3cf91338951c3115e.wav"
+    }
+  },
+  "Sprite160": {
+    "costumes": {
+      "costume1.png": "2fa81d6dc7103956f48715c639951b3c.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite161": {
+    "costumes": {
+      "costume1.png": "81d7a2225d333457d69e18beaa623538.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite162": {
+    "costumes": {
+      "costume1.png": "8612ddb8b7a7144be4549dd6332c8630.png"
+    },
+    "sounds": {
+      "bop-it-twist-it-pull-it-made-with-Voicemod.mp3": "0bc0a6ffaac5756b9857af09a78a82cf.mp3",
+      "pullit-101soundboards.wav": "254fddfc1c55518350a78841525e0b83.wav",
+      "bopit-101soundboards.wav": "d818ddc4046d9ae3f1b556a7da690e05.wav",
+      "twistit-101soundboards.wav": "1db611718ff12fa0c91ed5233d8bde9b.wav"
+    }
+  },
+  "Sprite163": {
+    "costumes": {
+      "costume1.png": "a8550bae5d4430c1cb5639b2ec40b03b.png",
+      "costume2.png": "5591ac7a9428fedb27efdfcf024843b5.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite164": {
+    "costumes": {
+      "costume1.png": "2023a6cfb3470b9c398d67c578ab35eb.png",
+      "costume2.svg": "5b78bf54efb0d80c603429039e88ec59.svg"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite165": {
+    "costumes": {
+      "costume1.png": "e3e15a8ec7b17ff33e02dc11cc87ff9c.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite166": {
+    "costumes": {
+      "costume1.png": "785094d5379107d2f0b693672c6179fd.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite167": {
+    "costumes": {
+      "costume1.png": "65a30892f13f35ac5903e3326e053d1e.png",
+      "costume2.png": "65a30892f13f35ac5903e3326e053d1e.png"
+    },
+    "sounds": {
+      "Buttonpush.wav": "bdbec83e74a4048ed0797d62e46c464b.wav"
+    }
+  },
+  "Sprite168": {
+    "costumes": {
+      "costume1.png": "0b1c67a7b2ec92f4181f192a8c225858.png",
+      "costume2.png": "1b6d997b26c89c5bd2637ac5c18b9360.png"
+    },
+    "sounds": {
+      "Buttonpush.wav": "bdbec83e74a4048ed0797d62e46c464b.wav"
+    }
+  },
+  "Sprite169": {
+    "costumes": {
+      "costume1.png": "bd9af31d9275d928ca484ea491d7f87c.png",
+      "costume2.png": "e004c279b22f4d5a1ea2ad62e05f323a.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite170": {
+    "costumes": {
+      "costume1.png": "0cfc21fc51423ba5b2f68f13888a380c.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite171": {
+    "costumes": {
+      "costume1.png": "b55288ccdb6cb65754a8d2922fe64144.png",
+      "costume2.png": "73f62b1637fbbad03896e9c23236f80a.png",
+      "costume3.png": "3013dc794a9b7ab28703d3a91b4ac398.png",
+      "costume4.png": "c4803ed1a07802847477f7c7368ef8a7.png",
+      "costume5.png": "84ed1a2067ce1bc657435d6822a650bd.png",
+      "costume6.png": "21ae4cf9ee2253529b1253b95c16ab7b.png",
+      "costume7.png": "bbd333d7d1a558e11549de8d24992e8d.png"
+    },
+    "sounds": {
+      "pop.wav": "c4f5236c93b035233107cfb232979e30.wav"
+    }
+  },
+  "Sprite173": {
+    "costumes": {
+      "costume1.png": "01a1426b34019178b5ee2ae3c4de7d25.png",
+      "costume2.png": "ccc41565489a15ede83ea221dbad8dfc.png"
+    },
+    "sounds": {
+      "Cant Select.wav": "07ee196971466da37070dfb673f1acd8.wav",
+      "cash-register-purchase-87313.wav": "a5921898c9b083391e97beca20a099ed.wav"
+    }
+  },
+  "Sprite174": {
+    "costumes": {
+      "costume1.png": "bb9d4f3688b63eee611023fa35b96b7f.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite175": {
+    "costumes": {
+      "costume1.png": "7efe685242f1bf9c65165c6546728bcb.png",
+      "costume6.png": "407f241a10c3d74eabb1f7bfae1908e5.png",
+      "costume5.png": "e73170c263779d8ef0fe58d405189929.png",
+      "costume4.png": "9ba7b50251f15967b7b56534fe1e747a.png",
+      "costume3.png": "4ef932d8ebbe7d33e5fb23acd4422b59.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite176": {
+    "costumes": {
+      "costume1.png": "ddd019b37aa5888b65c11afef2050e61.png",
+      "costume2.png": "a066b87a048f7106d76124a6e470cccd.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite177": {
+    "costumes": {
+      "costume1.png": "06a11e5acc1794e7081f55f1b1b63195.png"
+    },
+    "sounds": {
+      "pop.wav": "9cdc44724eed28539477473a171684e4.wav"
+    }
+  },
+  "Sprite178": {
+    "costumes": {
+      "costume1.png": "76acd5b260db3ca87b31751406b0bff7.png",
+      "costume2.png": "447d1c710ebdb62e4c1fc5b4213cb5a1.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite179": {
+    "costumes": {
+      "costume2.png": "57e7ba58245d30dfeb83ca698410ebd8.png"
+    },
+    "sounds": {
+      "pop.wav": "838bc6a6906e0f9a7f046e710c91a191.wav"
+    }
+  },
+  "Sprite180": {
+    "costumes": {
+      "costume1.png": "7941314615e56fbf051c0671c0918c1e.png",
+      "costume2.png": "c0614c8d5a4fc53c73f33b8aa7150354.png",
+      "costume3.png": "8b1073d1c1e98c01e1b9b7075d6b36e0.png",
+      "costume4.png": "e83c75f9ba148e285a1ebc681ac3637c.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite154": {
+    "costumes": {
+      "costume1.png": "0ec71510ea46ac2b2c61130cb198e59b.png",
+      "costume5.png": "3215fe272eaac270c16f9e49274626a5.png",
+      "costume4.png": "18cd5d5301e50117aa2aeafa44eb89e8.png",
+      "costume3.png": "68cfa580db0284bd2864f8282d3c3d0c.png",
+      "costume2.png": "a604d0dd87e7be8bb1f45bc6bc481d67.png",
+      "costume6.png": "d7d5bc80852b88bc7646eb9013908d89.png",
+      "costume7.png": "a8510d0a94b0c22b16de4878d268b8e5.png",
+      "costume8.png": "0179cdfcec38a8e85b6e545b6cd578ce.png",
+      "costume9.png": "ca0d9454961db160e51cfafc008d7f02.png",
+      "costume10.png": "c496b2c7aa7e4bc5a1c95a41a0d513e8.png",
+      "costume12.png": "f5c4b61c73798e9bc6bcf66139f17027.png",
+      "costume11.png": "f88c4a69880ed6af5514d9ef52d118fa.png",
+      "costume13.png": "0836d4f229e63e563907279ffa9b3b59.png",
+      "costume14.png": "86fde828e8d36ee3ae56c564eeeeeb84.png",
+      "costume15.png": "c6dbeb56fcd12f6242494708cf45fe72.png",
+      "costume16.png": "fc8273200347b2710e06688f5c8b4d11.png",
+      "costume17.png": "e8c139216f264f9a699c791d1dc6ed72.png",
+      "costume18.png": "c23c2049e6caefd5ba6372f6b4358376.png",
+      "costume19.png": "b53dd97c6bc55e9609bd2fd1c37b1226.png",
+      "costume20.png": "c957683d7321d51f1e6daed4844b7372.png",
+      "costume21.png": "3bcaab91bdcbe45b8df5fe68f9ab208f.png",
+      "costume22.png": "440cb3e77279affd4ef131af602131f3.png",
+      "costume23.png": "f3015115a0079292b493ed550edf6674.png"
+    },
+    "sounds": {
+      "pop.wav": "108b00412997567e902258512429a722.wav",
+      "pop2.wav": "e113a770cd78ef9fb09bc729c193eb44.wav",
+      "It\u2019s with a B.wav": "1bdb08ccb749c85d8cfe77244e8e8732.wav"
+    }
+  },
+  "Sprite181": {
+    "costumes": {
+      "costume1.png": "3580e016a47e9137b69311b72ee01518.png",
+      "costume2.png": "88c87d4e66591341f88bffce0a385edf.png",
+      "costume3.png": "a156d983e280f64d06dfdd74944f0201.png",
+      "costume4.png": "f831f2f6baaea557cdc47a3d00484f78.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite182": {
+    "costumes": {
+      "costume1.png": "f26be6a4a2d6305a1ddc4a5b184b140d.png",
+      "costume2.png": "998fbe1394c13d5f2f7ddbd10ed9289c.png",
+      "costume3.png": "e1820f7e24e20baa966730de445449e7.png",
+      "costume4.png": "d89730c4acd572aef16d3d523fb86999.png",
+      "costume5.png": "6d7c923312275b4b9ad941d56c1616ef.png",
+      "costume6.png": "d872954a96b2a33944c411d4c71dd579.png",
+      "costume7.png": "5c40c7f79563afeeb795581bbf3c84fb.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite183": {
+    "costumes": {
+      "costume1.png": "31e243394c9cb228f5750d9e5a6c7d7c.png",
+      "costume2.png": "2f07713c865bb410ca675e1e3893e029.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+      "Buttonpush.wav": "54a606a680915bb3cf91338951c3115e.wav"
+    }
+  },
+  "Sprite172": {
+    "costumes": {
+      "IMG_1553.png": "814cfa7af01058a16767e3fc0ae0ac25.png",
+      "costume1.png": "2cb3ef582b9e83a6dbb8951e39ff7310.png",
+      "costume2.png": "0584e1f904aa05241e7f236dfc5ecdd3.png",
+      "costume3.png": "bf165ab558c9447b9c331e30febeb6a9.png",
+      "costume4.png": "dd37b97f307a773e252e1a56b02b3160.png"
+    },
+    "sounds": {
+      "pop.wav": "c4f5236c93b035233107cfb232979e30.wav",
+      "chiptune-medium-boss-218095.wav": "dd38a4c42ae190f66cf713e99f278001.wav",
+      "undertale-sound-effect-inflicting-damage-made-with-Voicemod 2.wav": "7cf6d5304981b0f7a392a8a30a80c21d.wav"
+    }
+  },
+  "Sprite184": {
+    "costumes": {
+      "costume1.png": "d5f7088d0a04b247ec3c52532680ce64.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite185": {
+    "costumes": {
+      "costume1.png": "37076125800bbdaaae97bbd8d2276e8b.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite186": {
+    "costumes": {
+      "costume1.png": "ff40a3c2652ac6309c9e1f2e8d9e00a9.png",
+      "costume2.png": "a3d1fafc2c74626ea6f85e0f427a78f6.png",
+      "costume3.png": "c0b72311a27dc8207dbbcf9d03c22a55.png",
+      "costume4.png": "13d50264b7c44a180510fdf7c48700f8.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite187": {
+    "costumes": {
+      "costume1.png": "a509013cb2c534b6249af94947dad5df.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite188": {
+    "costumes": {
+      "costume1.png": "596cb4b02ac09470d6366f041429b012.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite189": {
+    "costumes": {
+      "costume4.png": "4d4bcd8b7d2316baa519bb48f3c59bbd.png"
+    },
+    "sounds": {
+      "lock-and-key-37699.wav": "fa73006b4dd260668070b8a7fe9f933d.wav",
+      "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 2.wav": "d8ba5292c1e92022a57dbc73f6ebbed9.wav",
+      "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 3.wav": "153d4a165164b7b38b0d5db466ba07e8.wav",
+      "Click.wav": "291803d018b96e9439a64ef75b51dc6c.wav"
+    }
+  },
+  "Sprite190": {
+    "costumes": {
+      "costume1.png": "e1543d057efb184b8a6194cae9a4c1ab.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite191": {
+    "costumes": {
+      "costume1.png": "b35c01fad3d25782f0f773c6dcd92b0f.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite192": {
+    "costumes": {
+      "costume1.png": "ee42158de3620ff79a9b48f03069c568.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite194": {
+    "costumes": {
+      "costume1.png": "549a028abd161582b45f801ee84726fc.png",
+      "costume2.png": "88d7712ea7685850a33a30656e8b4a5d.png",
+      "costume3.png": "245399bba4197dc80b3c2eef37827cf3.png"
+    },
+    "sounds": {
+      "Plantie :3.wav": "666efe86cee1bf5c25105000c98a4ba5.wav"
+    }
+  },
+  "Sprite195": {
+    "costumes": {
+      "costume1.png": "ac614c2dedd23eb6cf502a1311da39ac.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite196": {
+    "costumes": {
+      "costume1.png": "446572d7ae051c29634694bda6219adb.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite197": {
+    "costumes": {
+      "costume1.png": "eae17ac3472fb9956521e0a8dba100fd.png"
+    },
+    "sounds": {
+      "Cant Select.wav": "07ee196971466da37070dfb673f1acd8.wav",
+      "cash-register-purchase-87313.wav": "a5921898c9b083391e97beca20a099ed.wav"
+    }
+  },
+  "IMG1669": {
+    "costumes": {
+      "costume3.png": "8ebb2774844373cfdc9d4dc5df2a309b.png",
+      "costume4.png": "eb4fcf34b9fc9986009bf38d6a2323e6.png",
+      "costume5.png": "b15cd500027581a1e8b83a1199d7fa93.png",
+      "costume6.png": "9018b213f7b394ee6bab6d533570f04d.png",
+      "costume1.png": "5c8d7d6b695e98f635a3209eb73279ea.png",
+      "costume2.png": "8e318ec4c0eb5e9c4ba947e26611eb6d.png"
+    },
+    "sounds": {
+      "what .wav": "bfa0f72283f38f477b336f87449fbcbc.wav"
+    }
+  },
+  "IMG_1669": {
+    "costumes": {
+      "costume3.png": "8ebb2774844373cfdc9d4dc5df2a309b.png",
+      "costume4.png": "eb4fcf34b9fc9986009bf38d6a2323e6.png",
+      "costume5.png": "b15cd500027581a1e8b83a1199d7fa93.png",
+      "costume6.png": "9018b213f7b394ee6bab6d533570f04d.png",
+      "costume1.png": "5c8d7d6b695e98f635a3209eb73279ea.png",
+      "costume2.png": "8e318ec4c0eb5e9c4ba947e26611eb6d.png"
+    },
+    "sounds": {
+      "what .wav": "bfa0f72283f38f477b336f87449fbcbc.wav"
+    }
+  },
+  "Sprite198": {
+    "costumes": {
+      "costume1.png": "185342612ab8a55235ebd71ecb79370c.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite199": {
+    "costumes": {
+      "costume1.png": "2430c0a5507ca8a8bebd87a9d9dbfc02.png",
+      "costume2.png": "54a75e6a8ae892598052dc81a8f01b37.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite201": {
+    "costumes": {
+      "costume1.png": "95d76edfd920b8cad5b80d09e1886626.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite202": {
+    "costumes": {
+      "costume1.png": "1f100af3917352db997160ae625d270f.png",
+      "costume2.png": "a2d3ce20999776f05b56c0d6d4b1f82a.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite200": {
+    "costumes": {
+      "costume1.png": "4dcfe8418b9eae1ccbfb9753d9fbd369.png"
+    },
+    "sounds": {
+      "000029a8.wav": "9cdc44724eed28539477473a171684e4.wav"
+    }
+  },
+  "Sprite203": {
+    "costumes": {
+      "costume1.svg": "0c6a90e8686c91fb6fd1d7ea24d0684a.svg"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite204": {
+    "costumes": {
+      "costume1.png": "41866578f297e5de765e80286670b8f8.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite205": {
+    "costumes": {
+      "costume1.png": "07dcd00e8749d7f781d4676911a83a93.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite206": {
+    "costumes": {
+      "costume1.png": "f91fb89ffee5c26572f55351618e80bb.png",
+      "costume2.png": "b7759209c2115688530fd46de0610cb1.png",
+      "costume3.png": "96d069c3c9d6bc7a0358b9698716ff0c.png"
+    },
+    "sounds": {
+      "Pixel Man.wav": "cd35c927edb85d7e92a06401086c0448.wav",
+      "Augh.wav": "822529874523774c2a4b95ecb4e4fdf9.wav",
+      "Augh2.wav": "c65bfb6c8ec6d9aeb32c5b54966bb5ae.wav",
+      "Augh3.wav": "5d013dae6f1abaccd0fe32e1209787d6.wav",
+      "AAAUGHH.wav": "ad0fce09efe9f2d92adec45d56b2ef17.wav",
+      "Gunshot pixel.wav": "15540a562138569d28c29777af407434.wav",
+      "AAAAAAAAAA.wav": "8c2fdbdd478b6856f95643d426449ff5.wav"
+    }
+  },
+  "Sprite207": {
+    "costumes": {
+      "costume1.png": "76c565624414d95a46d88e3f18cf1420.png",
+      "costume2.png": "352ecc258d21106dcda44f4998c6c52c.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite208": {
+    "costumes": {
+      "IMG_1680.png": "2f83984674d9ce206bcc0363d949d44e.png",
+      "IMG_2.png": "375328f2f710729d6fa5835e68304004.png"
+    },
+    "sounds": {
+      "Moo.wav": "9c4e3b24592875dd5303e69b2d09cdeb.wav"
+    }
+  },
+  "Sprite209": {
+    "costumes": {
+      "costume1.png": "15a2af6f930de3be13085c6731b920a3.png",
+      "costume2.png": "0d454e1d6e1e714f50045ce6acd2f351.png",
+      "costume3.png": "ececc4d3f340602c63a69adf0f844d2e.png",
+      "costume4.png": "48bf97b735d7b452d77b6c1f2916353f.png",
+      "costume5.png": "cf28335d7d6d8fe25a07a3f6551f8a9e.png",
+      "costume6.png": "1dabc2d28bbbd1ec03dd86b291b66c4e.png"
+    },
+    "sounds": {
+      "Explode.wav": "6fd6f18e1c9cee84e9075736c45199aa.wav"
+    }
+  },
+  "Sprite210": {
+    "costumes": {
+      "costume1.png": "56630f6ad31c12a7d0e7e6c04439cbb3.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite211": {
+    "costumes": {
+      "costume1.png": "31e243394c9cb228f5750d9e5a6c7d7c.png",
+      "costume2.png": "2f07713c865bb410ca675e1e3893e029.png"
+    },
+    "sounds": {
+      "Buttonpush.wav": "fcc706cad5034df193a261e0b453eea2.wav"
+    }
+  },
+  "Sprite212": {
+    "costumes": {
+      "costume1.png": "c5d8a521581e1dd788d80de0985934cb.png",
+      "costume2.png": "4e07196bf0e460fdc8c6b1543c8001c6.png"
+    },
+    "sounds": {
+      "Buttonpush.wav": "fcc706cad5034df193a261e0b453eea2.wav"
+    }
+  },
+  "Sprite213": {
+    "costumes": {
+      "costume1.png": "5e8db005ad75a7559b1a46eb32297164.png",
+      "costume3.png": "8c89b2130541ca5d4f0fa9e42fec248e.png",
+      "costume2.png": "ccc41565489a15ede83ea221dbad8dfc.png"
+    },
+    "sounds": {
+      "Cant Select.wav": "07ee196971466da37070dfb673f1acd8.wav",
+      "cash-register-purchase-87313.wav": "a5921898c9b083391e97beca20a099ed.wav"
+    }
+  },
+  "Sprite214": {
+    "costumes": {
+      "costume1.png": "6c243e61eb33fe88c58d7e2a67d1e277.png"
+    },
+    "sounds": {
+      "pop.wav": "755ede5239330265dcb7da92bf058fa1.wav"
+    }
+  },
+  "Sprite215": {
+    "costumes": {
+      "costume1.png": "8c5466e72d56e7b6a012258a7c1e24b6.png",
+      "costume2.png": "75d13da7235abaa52e36fb4c8d696562.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite216": {
+    "costumes": {
+      "costume1.png": "d74f4ca167f6cffab7fa13a5ccbf1026.png",
+      "costume3.png": "05eaa0e674feacd853d40a9ff2f55432.png",
+      "costume2.png": "ccc41565489a15ede83ea221dbad8dfc.png"
+    },
+    "sounds": {
+      "Cant Select.wav": "07ee196971466da37070dfb673f1acd8.wav",
+      "cash-register-purchase-87313.wav": "a5921898c9b083391e97beca20a099ed.wav",
+      "Cant Select2.wav": "ad56a3ce866f533739e45af99e949b27.wav"
+    }
+  },
+  "Sprite217": {
+    "costumes": {
+      "costume1.png": "b516f819fabc0dd8cb1427741e057ece.png",
+      "costume2.png": "911fb8df9818201d3e4c22e7390ec653.png"
+    },
+    "sounds": {
+      "toby_fox_carpet.wav": "c546ff53a8108c1f950c2cc00b29726a.wav",
+      "toby_fox_carpet2.wav": "d3376f88c82a2d59325049d878f40471.wav"
+    }
+  },
+  "Sprite218": {
+    "costumes": {
+      "costume1.png": "cfb68c2986cfb188b50f58f78dd060a3.png",
+      "costume2.png": "b516f819fabc0dd8cb1427741e057ece.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite219": {
+    "costumes": {
+      "costume1.png": "38e03b9fbcf60d5f6fa327303a1d0314.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite220": {
+    "costumes": {
+      "costume1.png": "b516f819fabc0dd8cb1427741e057ece.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sans": {
+    "costumes": {
+      "costume1.png": "9b8817754270c79ebed002453397520d.png",
+      "costume2.png": "a1071a8221ada0ef8d4cf3ab0a391831.png",
+      "costume3.png": "09849377004683b42b7c5b661ef4130b.png",
+      "costume5.png": "a1071a8221ada0ef8d4cf3ab0a391831.png",
+      "costume4.png": "54d28fc846284202f8084184aa342ed9.png",
+      "costume6.png": "381e559ec8a5ce770dcb16605d75248c.png",
+      "costume7.png": "2efd27409335343055fbb90184eef89c.png"
+    },
+    "sounds": {
+      "Undertale OST - 015 sans.wav": "d359c3ec802074b36e65c78222374b40.wav",
+      "Undertale OST - 072 Song That WILL Play When You Fight Sans.wav": "97069d54519552f30d250b8cbe974e64.wav",
+      "Wowza.wav": "27502023d33755fbb6a36b953179560e.wav"
+    }
+  },
+  "sans.": {
+    "costumes": {
+      "costume1.png": "9b8817754270c79ebed002453397520d.png",
+      "costume2.png": "a1071a8221ada0ef8d4cf3ab0a391831.png",
+      "costume3.png": "09849377004683b42b7c5b661ef4130b.png",
+      "costume5.png": "a1071a8221ada0ef8d4cf3ab0a391831.png",
+      "costume4.png": "54d28fc846284202f8084184aa342ed9.png",
+      "costume6.png": "381e559ec8a5ce770dcb16605d75248c.png",
+      "costume7.png": "2efd27409335343055fbb90184eef89c.png"
+    },
+    "sounds": {
+      "Undertale OST - 015 sans.wav": "d359c3ec802074b36e65c78222374b40.wav",
+      "Undertale OST - 072 Song That WILL Play When You Fight Sans.wav": "97069d54519552f30d250b8cbe974e64.wav",
+      "Wowza.wav": "27502023d33755fbb6a36b953179560e.wav"
+    }
+  },
+  "Sprite221": {
+    "costumes": {
+      "costume1.png": "66d26401c0e7e663247c6406e1ea7dce.png"
+    },
+    "sounds": {
+      "pop.wav": "7f5f2d0fbc542dc7a04a9bcf6f37c7b5.wav"
+    }
+  },
+  "Sprite222": {
+    "costumes": {
+      "costume1.png": "4773e061919ece10001ba14b9fe30543.png"
+    },
+    "sounds": {
+      "pop.wav": "7f5f2d0fbc542dc7a04a9bcf6f37c7b5.wav"
+    }
+  },
+  "Sprite223": {
+    "costumes": {
+      "costume1.png": "fbfe5100c843502520144876cd902b13.png"
+    },
+    "sounds": {
+      "pop.wav": "7f5f2d0fbc542dc7a04a9bcf6f37c7b5.wav"
+    }
+  },
+  "Sprite224": {
+    "costumes": {
+      "costume3.png": "7f8237b2715164ec744f9804b0ae8a97.png",
+      "costume4.png": "504978fd19c8d2eccd5cdc0295697846.png",
+      "costume1.png": "69595e9f5c15e22f6e4cb4d3d29a5c5b.png"
+    },
+    "sounds": {
+      "pop.wav": "0259f838ba87c8d034eadb50b996a526.wav",
+      "gaster_blaster_sound_effect_1.wav": "50c6ea4dd77b039a104a606afaec9f44.wav",
+      "gaster_blaster_sound_effect_2.wav": "e7a3e19862f824c814fc8a85ebdf8a19.wav"
+    }
+  },
+  "Sprite225": {
+    "costumes": {
+      "costume1.svg": "3339a2953a3bf62bb80e54ff575dbced.svg"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite226": {
+    "costumes": {
+      "costume1.png": "1583dd8a960d72aba47e2774e74a811f.png",
+      "costume2.png": "ccc41565489a15ede83ea221dbad8dfc.png"
+    },
+    "sounds": {
+      "Cant Select.wav": "07ee196971466da37070dfb673f1acd8.wav",
+      "cash-register-purchase-87313.wav": "a5921898c9b083391e97beca20a099ed.wav"
+    }
+  },
+  "Sprite227": {
+    "costumes": {
+      "costume1.png": "858c862dbfd4cbdd0c6030b30b3efdce.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite228": {
+    "costumes": {
+      "costume2 3.png": "608e9c745eb06e24af54846d858b7b81.png",
+      "costume4.png": "1278525145ee3cec088a19a16e42546a.png",
+      "costume2.png": "cb9770294b3d8b0d6761722a26527dc3.png",
+      "costume1.png": "906521491f89351ece3fbe2a27ddb2ce.png"
+    },
+    "sounds": {
+      "pop.wav": "d4526e72db9ec0171eb4146346ac4a37.wav",
+      "Fobert Battle.wav": "f75b81e738b8fc71f0b3bb601ed7a444.wav",
+      "Fobert Battle2.wav": "c6bb54a0dc7dd3ace31ac7e85dbc1ef4.wav"
+    }
+  },
+  "Textbox": {
+    "costumes": {
+      "costume1.png": "37ea695f2267af6967a97fb8da26da88.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "text box": {
+    "costumes": {
+      "costume1.png": "37ea695f2267af6967a97fb8da26da88.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Text": {
+    "costumes": {
+      "a.png": "c168218dd7dc198792c93484a3b1627a.png",
+      "A.png": "c168218dd7dc198792c93484a3b1627a.png",
+      "b.png": "d71a72eb35d0f839a47a9d80a1fd4419.png",
+      "B.png": "d71a72eb35d0f839a47a9d80a1fd4419.png",
+      "c.png": "023ff59d1322b65724c6dad861182ac0.png",
+      "C.png": "1a25b280463307cf10b0cacc4d3a420a.png",
+      "d.png": "a4aa14c72fd4fe66a633f939fbd5607b.png",
+      "D.png": "a4aa14c72fd4fe66a633f939fbd5607b.png",
+      "e.png": "977ffcbe75a3c09dbbbd591a7e24fe31.png",
+      "E.png": "977ffcbe75a3c09dbbbd591a7e24fe31.png",
+      "f.png": "df139d6dc7caff0bce5ea2c8502790bb.png",
+      "F.png": "df139d6dc7caff0bce5ea2c8502790bb.png",
+      "g.png": "28f692c5f408d602558996cd22036d38.png",
+      "G.png": "28f692c5f408d602558996cd22036d38.png",
+      "h.png": "cfa7b44c9c4e7d37ae76ef1dc516d358.png",
+      "H.png": "cfa7b44c9c4e7d37ae76ef1dc516d358.png",
+      "i.png": "8e55a188e238f001334d3f91f380d9c7.png",
+      "I.png": "b87681e071815fc4819b43bb2ea7aab4.png",
+      "j.png": "13afbebaad393bb7c0b9af4729c59f88.png",
+      "J.png": "13afbebaad393bb7c0b9af4729c59f88.png",
+      "k.png": "1260fbc279203bb2cfdbca10795b9bb2.png",
+      "K.png": "1260fbc279203bb2cfdbca10795b9bb2.png",
+      "l.png": "2930fa29a41ab5142be48a88ee468c7a.png",
+      "L.png": "2930fa29a41ab5142be48a88ee468c7a.png",
+      "m.png": "a5688aa1e525fb0358e71efae87304c9.png",
+      "M.png": "a5688aa1e525fb0358e71efae87304c9.png",
+      "n.png": "e3412764da98c6b47420474bb41f9656.png",
+      "N.png": "e3412764da98c6b47420474bb41f9656.png",
+      "o.png": "5c45f384815d9149a91a891b2907297b.png",
+      "O.png": "5c45f384815d9149a91a891b2907297b.png",
+      "p.png": "01088d6296804664bbe020bdda54ffd4.png",
+      "P.png": "01088d6296804664bbe020bdda54ffd4.png",
+      "q.png": "f6ad028f5853eba42d8d578b54c9fbb3.png",
+      "Q.png": "f6ad028f5853eba42d8d578b54c9fbb3.png",
+      "r.png": "bef2fa1d344f18e55cd637d7c6a435e0.png",
+      "R.png": "bef2fa1d344f18e55cd637d7c6a435e0.png",
+      "s.png": "2ee4ed52cf0874e9180f4508d9d9edbb.png",
+      "S.png": "2ee4ed52cf0874e9180f4508d9d9edbb.png",
+      "t.png": "3d6a18fb72080795fc6f2e22ef86d2bb.png",
+      "T.png": "3d6a18fb72080795fc6f2e22ef86d2bb.png",
+      "u.png": "dfa12fa761477beb52b26c930eb1d9e8.png",
+      "U.png": "dfa12fa761477beb52b26c930eb1d9e8.png",
+      "v.png": "208083897ad42a910f19c38eb112aaf2.png",
+      "V.png": "208083897ad42a910f19c38eb112aaf2.png",
+      "w.png": "f82b9eeaee447f3f9cbcbb2ca3c733d7.png",
+      "W.png": "f82b9eeaee447f3f9cbcbb2ca3c733d7.png",
+      "x.png": "230db7497e47eadd5c903d14bc13e3ff.png",
+      "X.png": "230db7497e47eadd5c903d14bc13e3ff.png",
+      "y.png": "dc21185e551d9d463da8740d8e4de195.png",
+      "Y.png": "dc21185e551d9d463da8740d8e4de195.png",
+      "z.png": "824e0bed75266735e7b20dba14a58f52.png",
+      "Z.png": "824e0bed75266735e7b20dba14a58f52.png",
+      ",.png": "d75b4a8ec8d997b0234d4c7048d4394d.png",
+      "..png": "b9eb014aa495e654404ae9021aca0bad.png",
+      "\".png": "f19a1ca2c07eb1c8f06f7d6ffa8222d3.png",
+      "\u2018.png": "afcc319dc391bcc87e17c9c19df9bbc8.png",
+      "\u2019.png": "afcc319dc391bcc87e17c9c19df9bbc8.png",
+      "'.png": "afcc319dc391bcc87e17c9c19df9bbc8.png",
+      "?.png": "2c3cbe8f5219172ebc55a25e93a9b099.png",
+      "!.png": "6eed58871014262d9639905d0486ad36.png",
+      "-.png": "c5e276352ecaf8612c4af5606281fb51.png",
+      "_.png": "a2a6557a4047c61dcec07bef1e6a8c5c.png",
+      " .png": "c446646a95cd43c36d25583fdaea3dbc.png",
+      " 1.png": "3b5d4796167b0ee88c804638babde1af.png",
+      " 2.png": "dafc788f3904b57293a9cccedf568bf1.png",
+      " 3.png": "0d8bc4c290465c8d521758fd68823d88.png",
+      " 4.png": "b393f18cdb477b91e98c2a30c219e820.png",
+      " 5.png": "ec5e876c469bfb5dffff781d65dc079c.png",
+      " 6.png": "8fe2ba7f8e9d620411babefb043a88b4.png",
+      " 7.png": "49237da56837e95774d5e821175ecb71.png",
+      " 8.png": "21d3389c5c98bc84d35e63ccd3632a51.png",
+      " 9.png": "747f50061eb78683c9faed6390aae176.png",
+      " 0.png": "3c1696db45d1670bc3a35223b5d49438.png",
+      "(.png": "338bcb89ee1a9bd2bb4b86ecae0a395e.png",
+      ").png": "d817760743bb91f009198872401fa6dc.png",
+      ">.png": "1e6f1078add9a9b6f2878542df6de1e4.png",
+      "<.png": "30426ddaee7d22687b72b2b125aa45bf.png",
+      "\u2026.png": "a31e3d22c49e6a3e4616ed80e6d33226.png",
+      "&.png": "3e367a7d82fd6218569f3ab5019b6d1d.png",
+      "\u00a7.png": "21a4d3b36bc3075c54ebf2576a4c4247.png",
+      "~.png": "21ca3290105f779721fa440e0dfda484.png",
+      "\u2014.png": "f8fac9d862e08babbdee9385cc611125.png",
+      "@.svg": "5d0ec4414e5df7ac546edf02bf536292.svg",
+      "$.png": "ac01867b4adeaf4de757575ef8d192ed.png",
+      "%.svg": "e47c26be686c1af10175ed3bac6b01fd.svg",
+      "|.png": "e12e54d14f690f1b47a1751d10499ad3.png",
+      "^.png": "68194ed757ed7c67587ab14f2cbff855.png",
+      ";.png": "b7bd7ea7347b06d753cce0caf6995c72.png",
+      "=.png": "f13b5c25463cf3563113c9237275cf12.png",
+      "\u00b0.svg": "4e63eab4f0c8b4960eb6c03e55774cd0.svg",
+      "{.png": "3339c9f31a0ebbae5c3cbb04464e7f15.png",
+      "}.png": "aabcc47a00d89534f631f73db7a2b2c4.png",
+      "\u011e.png": "a371cb8d2a55c87a2b3c748bd630d844.png",
+      "\u0116.png": "9ba882962217dcff62d27c6a280cb631.png",
+      "\u021a.png": "48ce698a80c47987c0eaff4ac69a63e4.png",
+      "\u0150.png": "e11f61824c0b4eb09a0aff5def577f54.png",
+      "\u0172.png": "3085b67ce90784fb3eb22c1b3cf1c6ec.png",
+      "\u0164.png": "97f1539ba47477c9f18bd1ac601e99f8.png",
+      "\u2122.png": "b5b1932e64736c51b252fc26d0f3eacc.png",
+      "].svg": "cd21514d0531fdffb22204e0ec5ed84a.svg"
+    },
+    "sounds": {
+      "Boop Bing Bop.wav": "cc82eccdda2324aaf1fc3eb5260084c0.wav",
+      "Interaction.wav": "30f7dd2f38b18d246bfe1f7df75755c8.wav"
+    }
+  },
+  "text": {
+    "costumes": {
+      "a.png": "c168218dd7dc198792c93484a3b1627a.png",
+      "A.png": "c168218dd7dc198792c93484a3b1627a.png",
+      "b.png": "d71a72eb35d0f839a47a9d80a1fd4419.png",
+      "B.png": "d71a72eb35d0f839a47a9d80a1fd4419.png",
+      "c.png": "023ff59d1322b65724c6dad861182ac0.png",
+      "C.png": "1a25b280463307cf10b0cacc4d3a420a.png",
+      "d.png": "a4aa14c72fd4fe66a633f939fbd5607b.png",
+      "D.png": "a4aa14c72fd4fe66a633f939fbd5607b.png",
+      "e.png": "977ffcbe75a3c09dbbbd591a7e24fe31.png",
+      "E.png": "977ffcbe75a3c09dbbbd591a7e24fe31.png",
+      "f.png": "df139d6dc7caff0bce5ea2c8502790bb.png",
+      "F.png": "df139d6dc7caff0bce5ea2c8502790bb.png",
+      "g.png": "28f692c5f408d602558996cd22036d38.png",
+      "G.png": "28f692c5f408d602558996cd22036d38.png",
+      "h.png": "cfa7b44c9c4e7d37ae76ef1dc516d358.png",
+      "H.png": "cfa7b44c9c4e7d37ae76ef1dc516d358.png",
+      "i.png": "8e55a188e238f001334d3f91f380d9c7.png",
+      "I.png": "b87681e071815fc4819b43bb2ea7aab4.png",
+      "j.png": "13afbebaad393bb7c0b9af4729c59f88.png",
+      "J.png": "13afbebaad393bb7c0b9af4729c59f88.png",
+      "k.png": "1260fbc279203bb2cfdbca10795b9bb2.png",
+      "K.png": "1260fbc279203bb2cfdbca10795b9bb2.png",
+      "l.png": "2930fa29a41ab5142be48a88ee468c7a.png",
+      "L.png": "2930fa29a41ab5142be48a88ee468c7a.png",
+      "m.png": "a5688aa1e525fb0358e71efae87304c9.png",
+      "M.png": "a5688aa1e525fb0358e71efae87304c9.png",
+      "n.png": "e3412764da98c6b47420474bb41f9656.png",
+      "N.png": "e3412764da98c6b47420474bb41f9656.png",
+      "o.png": "5c45f384815d9149a91a891b2907297b.png",
+      "O.png": "5c45f384815d9149a91a891b2907297b.png",
+      "p.png": "01088d6296804664bbe020bdda54ffd4.png",
+      "P.png": "01088d6296804664bbe020bdda54ffd4.png",
+      "q.png": "f6ad028f5853eba42d8d578b54c9fbb3.png",
+      "Q.png": "f6ad028f5853eba42d8d578b54c9fbb3.png",
+      "r.png": "bef2fa1d344f18e55cd637d7c6a435e0.png",
+      "R.png": "bef2fa1d344f18e55cd637d7c6a435e0.png",
+      "s.png": "2ee4ed52cf0874e9180f4508d9d9edbb.png",
+      "S.png": "2ee4ed52cf0874e9180f4508d9d9edbb.png",
+      "t.png": "3d6a18fb72080795fc6f2e22ef86d2bb.png",
+      "T.png": "3d6a18fb72080795fc6f2e22ef86d2bb.png",
+      "u.png": "dfa12fa761477beb52b26c930eb1d9e8.png",
+      "U.png": "dfa12fa761477beb52b26c930eb1d9e8.png",
+      "v.png": "208083897ad42a910f19c38eb112aaf2.png",
+      "V.png": "208083897ad42a910f19c38eb112aaf2.png",
+      "w.png": "f82b9eeaee447f3f9cbcbb2ca3c733d7.png",
+      "W.png": "f82b9eeaee447f3f9cbcbb2ca3c733d7.png",
+      "x.png": "230db7497e47eadd5c903d14bc13e3ff.png",
+      "X.png": "230db7497e47eadd5c903d14bc13e3ff.png",
+      "y.png": "dc21185e551d9d463da8740d8e4de195.png",
+      "Y.png": "dc21185e551d9d463da8740d8e4de195.png",
+      "z.png": "824e0bed75266735e7b20dba14a58f52.png",
+      "Z.png": "824e0bed75266735e7b20dba14a58f52.png",
+      ",.png": "d75b4a8ec8d997b0234d4c7048d4394d.png",
+      "..png": "b9eb014aa495e654404ae9021aca0bad.png",
+      "\".png": "f19a1ca2c07eb1c8f06f7d6ffa8222d3.png",
+      "\u2018.png": "afcc319dc391bcc87e17c9c19df9bbc8.png",
+      "\u2019.png": "afcc319dc391bcc87e17c9c19df9bbc8.png",
+      "'.png": "afcc319dc391bcc87e17c9c19df9bbc8.png",
+      "?.png": "2c3cbe8f5219172ebc55a25e93a9b099.png",
+      "!.png": "6eed58871014262d9639905d0486ad36.png",
+      "-.png": "c5e276352ecaf8612c4af5606281fb51.png",
+      "_.png": "a2a6557a4047c61dcec07bef1e6a8c5c.png",
+      " .png": "c446646a95cd43c36d25583fdaea3dbc.png",
+      " 1.png": "3b5d4796167b0ee88c804638babde1af.png",
+      " 2.png": "dafc788f3904b57293a9cccedf568bf1.png",
+      " 3.png": "0d8bc4c290465c8d521758fd68823d88.png",
+      " 4.png": "b393f18cdb477b91e98c2a30c219e820.png",
+      " 5.png": "ec5e876c469bfb5dffff781d65dc079c.png",
+      " 6.png": "8fe2ba7f8e9d620411babefb043a88b4.png",
+      " 7.png": "49237da56837e95774d5e821175ecb71.png",
+      " 8.png": "21d3389c5c98bc84d35e63ccd3632a51.png",
+      " 9.png": "747f50061eb78683c9faed6390aae176.png",
+      " 0.png": "3c1696db45d1670bc3a35223b5d49438.png",
+      "(.png": "338bcb89ee1a9bd2bb4b86ecae0a395e.png",
+      ").png": "d817760743bb91f009198872401fa6dc.png",
+      ">.png": "1e6f1078add9a9b6f2878542df6de1e4.png",
+      "<.png": "30426ddaee7d22687b72b2b125aa45bf.png",
+      "\u2026.png": "a31e3d22c49e6a3e4616ed80e6d33226.png",
+      "&.png": "3e367a7d82fd6218569f3ab5019b6d1d.png",
+      "\u00a7.png": "21a4d3b36bc3075c54ebf2576a4c4247.png",
+      "~.png": "21ca3290105f779721fa440e0dfda484.png",
+      "\u2014.png": "f8fac9d862e08babbdee9385cc611125.png",
+      "@.svg": "5d0ec4414e5df7ac546edf02bf536292.svg",
+      "$.png": "ac01867b4adeaf4de757575ef8d192ed.png",
+      "%.svg": "e47c26be686c1af10175ed3bac6b01fd.svg",
+      "|.png": "e12e54d14f690f1b47a1751d10499ad3.png",
+      "^.png": "68194ed757ed7c67587ab14f2cbff855.png",
+      ";.png": "b7bd7ea7347b06d753cce0caf6995c72.png",
+      "=.png": "f13b5c25463cf3563113c9237275cf12.png",
+      "\u00b0.svg": "4e63eab4f0c8b4960eb6c03e55774cd0.svg",
+      "{.png": "3339c9f31a0ebbae5c3cbb04464e7f15.png",
+      "}.png": "aabcc47a00d89534f631f73db7a2b2c4.png",
+      "\u011e.png": "a371cb8d2a55c87a2b3c748bd630d844.png",
+      "\u0116.png": "9ba882962217dcff62d27c6a280cb631.png",
+      "\u021a.png": "48ce698a80c47987c0eaff4ac69a63e4.png",
+      "\u0150.png": "e11f61824c0b4eb09a0aff5def577f54.png",
+      "\u0172.png": "3085b67ce90784fb3eb22c1b3cf1c6ec.png",
+      "\u0164.png": "97f1539ba47477c9f18bd1ac601e99f8.png",
+      "\u2122.png": "b5b1932e64736c51b252fc26d0f3eacc.png",
+      "].svg": "cd21514d0531fdffb22204e0ec5ed84a.svg"
+    },
+    "sounds": {
+      "Boop Bing Bop.wav": "cc82eccdda2324aaf1fc3eb5260084c0.wav",
+      "Interaction.wav": "30f7dd2f38b18d246bfe1f7df75755c8.wav"
+    }
+  },
+  "Sprite229": {
+    "costumes": {
+      "costume1.svg": "698febeef7ca123bd7fe86c7c13b9dc4.svg"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite230": {
+    "costumes": {
+      "costume1.png": "ff66e0c6933bce18789c29abd432f956.png",
+      "costume2.png": "444501a4bc9c642ce45cb8c7ab77017b.png",
+      "costume4.png": "b5b5b95db1defd657c3b0e5f6fd7a9c6.png",
+      "costume3.png": "38c0443e7a6b804ae9720cc1d5ff09de.png",
+      "costume5.png": "b7bd7ea7347b06d753cce0caf6995c72.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite231": {
+    "costumes": {
+      "costume1.png": "6ec5d8f2742d1a87585841435a6a399e.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite232": {
+    "costumes": {
+      "costume1.png": "52a69c72769ce307fc73765f8ba862f4.png",
+      "costume2.png": "f128b110d28f6d149eee8f711b066932.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite233": {
+    "costumes": {
+      "costume1.png": "146251addcb2fd53fea379844de2628f.png",
+      "costume2.png": "dc0273fb904b51326b5d76bc1465118f.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite234": {
+    "costumes": {
+      "costume1.png": "3f3459052be281ca1ca0a11b9e2b5338.png",
+      "costume2.png": "75dab50da5ce594c4eb8e9860e290442.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite235": {
+    "costumes": {
+      "costume2.png": "5dadce1b9a620b856e56cda4a87e1910.png",
+      "costume3.png": "e8e337faa364135f419f0f8246cc9af0.png",
+      "costume4.png": "ed645af72c94527136f9fc320d9b150a.png",
+      "costume1.png": "a30748a45fbaed61dc5a9b27fb5be138.png",
+      "costume5.png": "b63f4c118f618acb0edcd7714c0a323f.png",
+      "costume6.png": "4ead85f7df75afbd718d12b71bf95db8.png"
+    },
+    "sounds": {
+      "Threatening Look.wav": "0489d68f4098a95a53179870b0d8b060.wav",
+      "Earthbound Like Song.wav": "c8630128194699268286ec548625ccdd.wav"
+    }
+  },
+  "Sprite3": {
+    "costumes": {
+      "costume1.png": "256a7edda12002b3396fc5934d35b7c2.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite236": {
+    "costumes": {
+      "costume1.png": "276f8c5324892b71cdbb8c5f848bbac0.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite237": {
+    "costumes": {
+      "costume1.png": "890eab6e68ba6ded53b24a16de5d9624.png",
+      "costume2.png": "aa4473b3604879594bfee36a6d7513d2.png",
+      "costume3.png": "c2a7937b50a296235b87398e50d8dabf.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite238": {
+    "costumes": {
+      "costume1.png": "509b2ac881e76517b5f2cc853c90ff3c.png",
+      "costume3.png": "26bed83ef30ff0d403841a972f3d95d2.png",
+      "costume2.png": "ec3136ec02cd40cccd278aaf9c115fd6.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite239": {
+    "costumes": {
+      "costume1.svg": "3339a2953a3bf62bb80e54ff575dbced.svg"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "666666666666666666666666666666666666666666666666666666666666666666666666": {
+    "costumes": {
+      "costume1.png": "18fbc86ca7582f59c167e78b9fdc52f6.png"
+    },
+    "sounds": {
+      "eerie.wav": "08589be53f6a2bec1e8b0931c0c399a7.wav",
+      "66666666666666666666666666666666666666666666666666666.wav": "701aafb22cbd7978e8efdfcf67d47fa7.wav"
+    }
+  },
+  "Sprite193": {
+    "costumes": {
+      "costume1.png": "45f2a906db2305d7632e7fe15b709d12.png",
+      "costume2.png": "9903cb6eba85e6c33ebc1807eb070efb.png",
+      "costume6.png": "05211877b9138173e5abd467e277e36b.png",
+      "costume7.png": "0f23fadcf2a2566e6e2e5e798aa5e298.png",
+      "costume8.png": "ea05030c64f7071c025c427c376171db.png",
+      "costume9.png": "e59aa14c40d720f9e236e546336e367b.png",
+      "costume10.png": "0316aaaad8f93e1e2b8e592f16d67495.png",
+      "costume3.png": "b178fe824319f0a4822c60ccd9b4cec5.png",
+      "costume5.png": "255f3ba0e1fa8d94afb4e7f9d2f739d5.png",
+      "costume4.png": "b63d49011ec178d1bcb52b2d2c17fa61.png",
+      "costume11.png": "0b3a49888d7d1e88aabeb25195b33272.png"
+    },
+    "sounds": {
+      "Forch UNUSED.wav": "4e4a2532f38b9482a2ef3f77ebe4aca7.wav",
+      "pop2.wav": "f112192f06e2ad11de8035e5eddb1a06.wav",
+      "Forch.wav": "16e6441a88469267a3633dc437ccad32.wav",
+      "A WONDERFUL CREATION.wav": "3083d0f9ca695cbe5c3fd67d3357a5bb.wav",
+      "Impact.wav": "f1ccc9636b40596949f6c2c0a2b45b92.wav",
+      "WONDERFUL CREATION.wav": "163a1ebc27516fd5bafc7c74cc8aeb3f.wav",
+      "Impact2.wav": "df44977c67dc2103c1be875540e75d52.wav"
+    }
+  },
+  "Sprite240": {
+    "costumes": {
+      "costume1.png": "54dbf37e252998bab9d28e53a76f8a5e.png",
+      "costume2.png": "de5d7f78b0a138f3d93a8658489e9e23.png",
+      "costume3.png": "606d9b0bd0ebdc502de6f8cceac646da.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite241": {
+    "costumes": {
+      "costume4.png": "619aea7233eec12abbe90ec4871f6632.png"
+    },
+    "sounds": {
+      "lock-and-key-37699.wav": "fa73006b4dd260668070b8a7fe9f933d.wav",
+      "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 2.wav": "d8ba5292c1e92022a57dbc73f6ebbed9.wav",
+      "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 3.wav": "153d4a165164b7b38b0d5db466ba07e8.wav",
+      "Click.wav": "291803d018b96e9439a64ef75b51dc6c.wav",
+      "rumbl.wav": "997de0a9f553b62b002f88529d301afa.wav"
+    }
+  },
+  "Sprite242": {
+    "costumes": {
+      "costume1.png": "607cfab099f67e69e4fb2590b0089be2.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite243": {
+    "costumes": {
+      "costume1.png": "ec802091b0ebeff615b6dece48b15e01.png",
+      "costume2.png": "8152bb7ad5d5d848c58c314e1f08aec4.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite244": {
+    "costumes": {
+      "costume1.svg": "7db1e37e32e2a0a4b2c2af648aa44a72.svg",
+      "costume2.svg": "6762f0cc41912d79eda3ed9a67c361c8.svg"
+    },
+    "sounds": {
+      "recording1.wav": "aa6342ca1679048fbb0d62f75969506e.wav"
+    }
+  },
+  "Sprite245": {
+    "costumes": {
+      "costume1.png": "4bdc28fcf07e7b3b4c8f336dff8da239.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite246": {
+    "costumes": {
+      "costume1.png": "62031a64d78ea5d307823cfd80d28327.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  },
+  "Sprite247": {
+    "costumes": {
+      "costume1.png": "c2e7aaefee8774f06f858ffd79e76af7.png",
+      "costume2.png": "421577aec82c7a4130a8f5a6921d0bfd.png"
+    },
+    "sounds": {
+      "pop.wav": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  }
+}

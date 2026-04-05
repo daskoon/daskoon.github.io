@@ -1,4 +1,15 @@
 import { Project, Sprite } from "https://unpkg.com/leopard@^1/dist/index.esm.js";
+import { App } from '@capacitor/app';
+
+// AI Test Hook initialization - defined early to be accessible via devtools
+window.aiTest = {
+  project: null,
+  stage: null,
+  sprites: null,
+  isReady: false,
+  getState: () => ({ error: "Project not yet initialized" })
+};
+console.log("[Engine] window.aiTest initialized (Waiting for project...)");
 import Stage from "./Stage/Stage.js";
 import attackbuttons from "./attackbuttons/attackbuttons.js";
 import Attackslider from "./attackslider/attackslider.js";
@@ -13,6 +24,7 @@ import Bullet7 from "./Bullet7/Bullet7.js";
 import Bullet8 from "./Bullet8/Bullet8.js";
 import Buttonred from "./buttonred/buttonred.js";
 import Cutesyarmorshop from "./cutesyarmorshop/cutesyarmorshop.js";
+import DevController from "./DevController/DevController.js";
 import Doorbadguy from "./doorbadguy/doorbadguy.js";
 import Exit from "./exit/exit.js";
 import Explosion from "./explosion/explosion.js";
@@ -146,6 +158,7 @@ import TextBox from "./TextBox/TextBox.js";
 import textboxinner from "./textboxinner/textboxinner.js";
 import Yetanotherredbutton from "./yetanotherredbutton/yetanotherredbutton.js";
 import _666666666666666666666666666666666666666666666666666666666666666666666666 from "./_666666666666666666666666666666666666666666666666666666666666666666666666/_666666666666666666666666666666666666666666666666666666666666666666666666.js";
+import RestartButton from "./RestartButton/RestartButton.js";
 
 const stage = new Stage({ costumeNumber: 1 });
 
@@ -163,6 +176,7 @@ const sprites = {
   Bullet8: new Bullet8({ costumeNumber: 1 }),
   Buttonred: new Buttonred({ costumeNumber: 1 }),
   Cutesyarmorshop: new Cutesyarmorshop({ costumeNumber: 1 }),
+  DevController: new DevController({ costumeNumber: 1 }),
   Doorbadguy: new Doorbadguy({ costumeNumber: 1 }),
   Exit: new Exit({ costumeNumber: 1 }),
   Explosion: new Explosion({ costumeNumber: 1 }),
@@ -296,17 +310,19 @@ const sprites = {
   textboxinner: new textboxinner({ costumeNumber: 1 }),
   Yetanotherredbutton: new Yetanotherredbutton({ costumeNumber: 1 }),
   _666666666666666666666666666666666666666666666666666666666666666666666666: new _666666666666666666666666666666666666666666666666666666666666666666666666({ costumeNumber: 1 }),
+  RestartButton: new RestartButton({ costumeNumber: 1 }),
 };
 
 const project = new Project(stage, sprites, {
   frameRate: 30, // Set to 60 to make your project run faster
 });
 
-// ------------- DEV & AI TEST HOOKS ------------- //
-window.aiTest = {
+// Update the AI test hook with the live project instances
+Object.assign(window.aiTest, {
   project,
   stage,
   sprites,
+  isReady: true,
   
   // Simulate keyboard presses for AI (async)
   pressKey: (key, durationMs = 150) => {
@@ -339,7 +355,7 @@ window.aiTest = {
   clickScreen: (x, y, durationMs = 100) => {
     return new Promise(resolve => {
       const canvas = document.querySelector('canvas') || document.body;
-      const rect = canvas.getBoundingClientRect ? canvas.getBoundingClientRect() : { left: 0, top: 0, width: 800, height: 600 };
+      const rect = canvas.getBoundingClientRect ? canvas.getBoundingClientRect() : { left: 0, top: 0, width: 480, height: 360 };
       
       const clientX = rect.left + (x !== undefined ? x : rect.width / 2);
       const clientY = rect.top + (y !== undefined ? y : rect.height / 2);
@@ -376,7 +392,40 @@ window.aiTest = {
     stage.vars.chapter = chapter;
     stage.broadcast("start");
   }
-};
+});
+console.log("[Engine] window.aiTest attached.");
 // ----------------------------------------------- //
+
+import { App } from '@capacitor/app';
+
+// Handle Audio Lifecycle for Android - HARDENED
+App.addListener('appStateChange', ({ isActive }) => {
+  console.log(`[Lifecycle] App is now ${isActive ? 'ACTIVE' : 'BACKGROUND'}`);
+  if (isActive) {
+    // When returning to the app, we need a user gesture to resume AudioContext
+    const kickstartAudio = async () => {
+      if (project.audioContext.state === 'suspended') {
+        try {
+          await project.audioContext.resume();
+          console.log("[Audio] AudioContext resumed via user gesture");
+        } catch (e) {
+          console.error("[Audio] Failed to resume AudioContext:", e);
+        }
+      }
+      window.removeEventListener('click', kickstartAudio);
+      window.removeEventListener('touchstart', kickstartAudio);
+    };
+    window.addEventListener('click', kickstartAudio);
+    window.addEventListener('touchstart', kickstartAudio);
+    console.log("[Audio] Waiting for user gesture (click/touch) to resume audio...");
+  } else {
+    // Suspend immediately when backgrounded
+    project.audioContext.suspend().then(() => {
+      console.log("[Audio] AudioContext suspended (Background)");
+    }).catch(e => {
+      console.error("[Audio] Failed to suspend AudioContext:", e);
+    });
+  }
+});
 
 export default project;

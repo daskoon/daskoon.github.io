@@ -1,1 +1,21 @@
-# Removed *.sb3 and temp.zip because they are now tracked via Git LFS
+# Project files
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# Web build
+dist/
+www/
+
+# Capacitor / Android
+android/.gradle/
+android/app/build/
+android/build/
+android/app/src/main/assets/public/
+android/app/src/main/res/drawable/splash.png
+android/app/src/main/res/mipmap-*
+capacitor-cordova-android-plugins/
+
+# Scratch assets handled via Service Worker
+# *.sb3 and temp.zip are now tracked via Git LFS

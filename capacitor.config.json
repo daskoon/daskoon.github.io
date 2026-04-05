@@ -1,0 +1,8 @@
+{
+  "appId": "com.daskoon.overstory",
+  "appName": "OverStoryAllChapters",
+  "webDir": "www",
+  "android": {
+    "screenOrientation": "landscape"
+  }
+}

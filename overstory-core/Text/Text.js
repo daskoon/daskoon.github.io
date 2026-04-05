@@ -96,7 +96,7 @@ export default class Text extends Sprite {
       new Costume("&", "./Text/costumes/&.png", { x: 31, y: 15 }),
       new Costume("Ã‚Â§", "./Text/costumes/Ã‚Â§.png", { x: 17, y: -28 }),
       new Costume("~", "./Text/costumes/~.png", { x: 20, y: 20 }),
-      new Costume("Ã¢â‚¬â€", "./Text/costumes/Ã¢â‚¬â€.png", { x: 27, y: 31 }),
+      new Costume("Ã¢â‚¬â€ ", "./Text/costumes/Ã¢â‚¬â€ .png", { x: 27, y: 31 }),
       new Costume("@", "./Text/costumes/@.svg", {
         x: -2.729729729729911,
         y: 268.6366316366367,
@@ -119,7 +119,7 @@ export default class Text extends Sprite {
       new Costume("Ã„Å¾", "./Text/costumes/Ã„Å¾.png", { x: 23, y: 24 }),
       new Costume("Ã„â€“", "./Text/costumes/Ã„â€“.png", { x: -1, y: 24 }),
       new Costume("ÃˆÅ¡", "./Text/costumes/ÃˆÅ¡.png", { x: -12, y: 29 }),
-      new Costume("Ã…Â", "./Text/costumes/Ã…Â.png", { x: -56, y: 29 }),
+      new Costume("Ã…Â ", "./Text/costumes/Ã…Â .png", { x: -56, y: 29 }),
       new Costume("Ã…Â²", "./Text/costumes/Ã…Â².png", { x: -91, y: 31 }),
       new Costume("Ã…Â¤", "./Text/costumes/Ã…Â¤.png", { x: -113, y: 33 }),
       new Costume("Ã¢â€žÂ¢", "./Text/costumes/Ã¢â€žÂ¢.png", { x: 13, y: 20 }),
@@ -178,47 +178,94 @@ export default class Text extends Sprite {
     this.vars.pin = 0;
     this.stage.vars.mouth = 1.5;
     this.stage.vars.whytextwhy = wordth;
+    
     if (this.toNumber(this.stage.vars.shutUpMode) === 0) {
       this.broadcast("fin");
       this.vars.tick = 0;
       this.goto(-235, -120);
       this.size = 110;
-      for (let i = 0; i < wordth.length; i++) {
-        this.vars.tick++;
-        if (
-          this.letterOf(wordth, this.vars.tick - 1) === "Ã¢Ââ„¢" ||
-          this.letterOf(wordth, this.vars.tick - 1) === "*"
-        ) {
-          if (this.letterOf(wordth, this.vars.tick - 1) === "*") {
-            this.x = -235;
-            this.y -= 17;
-          }
-          if (this.letterOf(wordth, this.vars.tick - 1) === "Ã¢Ââ„¢") {
-            this.vars.pin = 1;
-          }
-        } else {
-          this.costume = this.letterOf(wordth, this.vars.tick - 1);
-          this.audioEffects.pitch = this.random(-145, 33);
-          yield* this.startSound(voice);
-          if (this.toNumber(this.letterOf(wordth, this.vars.tick - 1)) === 0) {
-            this.x += 15;
-          } else {
-            if (this.letterOf(wordth, this.vars.tick - 1) === "~") {
-              this.x += 30;
-            } else {
-              this.x += 13;
-            }
-          }
-          while (!!this.touching(this.sprites["Sprite78"].andClones())) {
-            yield;
-          }
-          if (this.costume.name === "]") {
-            yield* this.wait(0.5);
-          }
-          this.createClone();
+
+      const textStr = String(wordth);
+      const xStart = -235;
+      const xLimit = 200;
+      const lineSpacing = 17;
+      
+      let i = 0;
+      while (i < textStr.length) {
+        const char = textStr[i];
+        
+        // Handle special formatting characters
+        if (char === "*") {
+          this.x = xStart;
+          this.y -= lineSpacing;
+          i++;
+          continue;
         }
-        yield;
+        if (char === "Ã¢â€žÂ¢") {
+          this.vars.pin = 1;
+          i++;
+          continue;
+        }
+
+        // Word wrap lookahead
+        if (char === " ") {
+          // Check if the next word fits
+          let nextSpace = textStr.indexOf(" ", i + 1);
+          if (nextSpace === -1) nextSpace = textStr.length;
+          
+          const nextWord = textStr.substring(i + 1, nextSpace);
+          // Rough estimation of word width. Some characters are wider, but most are ~6-13 in this sprite.
+          // Using a conservative 13 per char for logic.
+          if (this.x + (nextWord.length * 13) > xLimit) {
+            this.x = xStart;
+            this.y -= lineSpacing;
+            i++; // skip the space
+            continue;
+          }
+        }
+
+        // Generic character rendering
+        this.vars.tick++;
+        this.costume = char;
+        this.audioEffects.pitch = this.random(-145, 33);
+        
+        if (this.toNumber(this.stage.vars.textskip) === 0) {
+          yield* this.startSound(voice);
+        }
+
+        let charWidth = 13;
+        if (this.toNumber(char) === 0 && char !== " ") { // Leopard toNumber on " " is often 0
+          charWidth = 15;
+        } else if (char === "~") {
+          charWidth = 30;
+        } else if (char === " ") {
+          charWidth = 8;
+        }
+
+        // Final safety line break
+        if (this.x + charWidth > xLimit) {
+          this.x = xStart;
+          this.y -= lineSpacing;
+        }
+
+        this.x += charWidth;
+        
+        while (!!this.touching(this.sprites["Sprite78"].andClones())) {
+          yield;
+        }
+        
+        if (this.costume.name === "]") {
+          yield* this.wait(0.5);
+        }
+        
+        this.createClone();
+        
+        if (this.toNumber(this.stage.vars.textskip) === 0) {
+          yield* this.wait(0);
+        }
+        i++;
       }
+
       this.vars.pin = 0;
       this.broadcast("Text wait to clear");
       yield* this.wait(0.3);

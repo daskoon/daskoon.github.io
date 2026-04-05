@@ -1920,28 +1920,30 @@ export default class Player extends Sprite {
           this.size = 100;
         }
         // Collision Checks with obstacles and boundaries.
-        if (this.toNumber(this.stage.vars.joystickMoving) === 1) {
-          if (this.toNumber(this.stage.vars.speed) === 4) {
-            if (this.touching(this.sprites["Sprite136"].andClones())) {
-              this.move(-20);
+        if (this.toNumber(this.stage.vars.dev_noClip) === 0) {
+          if (this.toNumber(this.stage.vars.joystickMoving) === 1) {
+            if (this.toNumber(this.stage.vars.speed) === 4) {
+              if (this.touching(this.sprites["Sprite136"].andClones())) {
+                this.move(-20);
+              }
             }
           }
-        }
-        if (this.touching(this.sprites["Sprite39"].andClones())) {
-          this.y += 20;
-          if (this.touching("edge")) {
-            this.x -= 80;
+          if (this.touching(this.sprites["Sprite39"].andClones())) {
+            this.y += 20;
+            if (this.touching("edge")) {
+              this.x -= 80;
+            }
           }
-        }
-        if (this.touching(this.sprites["Sprite40"].andClones())) {
-          this.x -= 20;
-        }
-        if (this.touching(this.sprites["Sprite65"].andClones())) {
-          yield* this.wait(0);
-          this.x -= 20;
-        }
-        if (this.touching(this.sprites["Sprite214"].andClones())) {
-          this.x -= 5;
+          if (this.touching(this.sprites["Sprite40"].andClones())) {
+            this.x -= 20;
+          }
+          if (this.touching(this.sprites["Sprite65"].andClones())) {
+            yield* this.wait(0);
+            this.x -= 20;
+          }
+          if (this.touching(this.sprites["Sprite214"].andClones())) {
+            this.x -= 5;
+          }
         }
       }
       yield;

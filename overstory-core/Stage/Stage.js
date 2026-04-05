@@ -6,6 +6,7 @@ import {
   Color,
   Sound,
 } from "https://unpkg.com/leopard@^1/dist/index.esm.js";
+import SaveManager from "./systems/save_mgr.js";
 
 export default class Stage extends StageBase {
   constructor(...args) {
@@ -593,6 +594,11 @@ export default class Stage extends StageBase {
         { name: "THE REAL FINAL ROOM" },
         this.whenIReceiveTheRealFinalRoom
       ),
+      new Trigger(
+        Trigger.BROADCAST,
+        { name: "Restart" },
+        this.whenIReceiveRestart
+      ),
     ];
 
     this.audioEffects.volume = 50;
@@ -680,7 +686,7 @@ export default class Stage extends StageBase {
     this.vars.passcode = [8, 4, 9, 5, 1, 6, 2, 6];
     this.vars.passcodeOfTheFriggenThingy = [2, 3, 1];
     
-    // Dev Trainer Variables
+    this.vars.dev_skipZork = 1;
     this.vars.dev_infHP = 0;
     this.vars.dev_infGold = 0;
     this.vars.dev_noClip = 0;
@@ -809,6 +815,15 @@ export default class Stage extends StageBase {
       }
       yield;
     }
+  }
+
+  *whenIReceiveRestart() {
+    this.vars.hp = 100;
+    this.vars.inBattle = 0;
+    this.vars.talking = 0;
+    // Reset to chapter 1 start state or current chapter start
+    if (this.toNumber(this.vars.chapter) === 0) this.vars.chapter = 1;
+    this.broadcast("start");
   }
 
   *dev_trainerLoop() {
@@ -1000,6 +1015,20 @@ export default class Stage extends StageBase {
 
   *whenIReceiveShop() {
     this.audioEffects.volume = 50;
+    
+    // Auto-save game state at Shop checkpoints
+    const saveString = [
+      this.vars.shop,
+      this.vars.grilledCheese,
+      this.vars.married,
+      this.vars.crackleWhip,
+      this.vars.spindoor,
+      this.vars.thornDagger,
+      this.vars.amuletAvalible,
+      "A",
+      this.vars.yunuchi
+    ].join("");
+    SaveManager.autoSave(saveString);
   }
 
   *whenIReceiveRoom27() {

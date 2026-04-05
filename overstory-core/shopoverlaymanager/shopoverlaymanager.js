@@ -115,6 +115,11 @@ export default class Shopoverlaymanager extends Sprite {
         { name: "DonÃ¢â‚¬â„¢t Ã°Å¸ËœÂ¬" },
         this.whenIReceiveDonT
       ),
+      new Trigger(
+        Trigger.BROADCAST,
+        { name: "Restart" },
+        this.whenIReceiveRestart
+      ),
     ];
 
     this.audioEffects.volume = 0;
@@ -250,5 +255,10 @@ export default class Shopoverlaymanager extends Sprite {
       }
       yield;
     }
+  }
+
+  *whenIReceiveRestart() {
+    this.visible = false;
+    this.audioEffects.volume = 0;
   }
 }

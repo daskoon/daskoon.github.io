@@ -34,6 +34,11 @@ export default class Sprite246 extends Sprite {
         { name: "00nt 94y" },
         this.whenIReceive00nt94y
       ),
+      new Trigger(
+        Trigger.BROADCAST,
+        { name: "Deeeeeeeaaaad" },
+        this.whenIReceiveDeeeeeeeaaaad
+      ),
     ];
   }
 
@@ -67,5 +72,30 @@ export default class Sprite246 extends Sprite {
 
   *whenIReceive00nt94y() {
     this.visible = false;
+  }
+
+  *whenIReceiveDeeeeeeeaaaad() {
+    this.goto(0, 0);
+    this.moveAhead();
+    this.visible = true;
+  }
+
+  *whenthisspriteclicked() {
+    if (this.visible) {
+      if (this.stage.vars.hp === 0) {
+        this.broadcast("Restart");
+        this.visible = false;
+      } else if (this.compare(999, this.stage.vars.yunuchi) < 0) {
+        this.broadcast("9p4ay");
+        this.stage.vars.yunuchi -= 1000;
+        while (true) {
+          this.stage.vars.yunuchi -= 10;
+          yield* this.wait(1);
+          yield;
+        }
+      } else {
+        this.stage.vars.hp = 0;
+      }
+    }
   }
 }
