@@ -10,7 +10,7 @@ window.aiTest = {
   getState: () => ({ error: "Project not yet initialized" })
 };
 console.log("[Engine] window.aiTest initialized (Waiting for project...)");
-import Stage from "./Stage/Stage.js";
+import Stage from "./Stage/Stage.js?v=v2";
 import attackbuttons from "./attackbuttons/attackbuttons.js";
 import Attackslider from "./attackslider/attackslider.js";
 import B4046b0aEe4244ed8c1626776c7c0ca2 from "./B4046b0aEe4244ed8c1626776c7c0ca2/B4046b0aEe4244ed8c1626776c7c0ca2.js";
@@ -399,12 +399,12 @@ if (window.Capacitor && typeof window.Capacitor.isNativePlatform === 'function' 
   (async () => {
     try {
       // Dynamic import prevents syntax errors in standard browsers
-      const { App } = await import('@capacitor/app');
-      App.addListener('backButton', () => {
+      const { App: CapacitorApp } = await import('@capacitor/app');
+      CapacitorApp.addListener('backButton', () => {
         if (project.stage.vars.inBattle || project.stage.vars.talking) {
           console.log("[Native] Back button blocked during interaction.");
         } else {
-          App.exitApp();
+          CapacitorApp.exitApp();
         }
       });
       console.log("[Native] Capacitor hooks localized.");

@@ -7,7 +7,7 @@ import {
   Sound,
 } from "https://unpkg.com/leopard@^1/dist/index.esm.js";
 
-import SaveManager from "../systems/save_mgr.js";
+import SaveManager from "../systems/save_mgr.js?v=v2";
 
 /**
  * SaveManagerSprite (formerly Sprite27)

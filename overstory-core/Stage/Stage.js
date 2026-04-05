@@ -6,7 +6,7 @@ import {
   Color,
   Sound,
 } from "https://unpkg.com/leopard@^1/dist/index.esm.js";
-import SaveManager from "../systems/save_mgr.js";
+import SaveManager from "../systems/save_mgr.js?v=v2";
 
 export default class Stage extends StageBase {
   constructor(...args) {
