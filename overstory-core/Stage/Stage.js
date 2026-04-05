@@ -6,7 +6,7 @@ import {
   Color,
   Sound,
 } from "https://unpkg.com/leopard@^1/dist/index.esm.js";
-import SaveManager from "./systems/save_mgr.js";
+import SaveManager from "../systems/save_mgr.js";
 
 export default class Stage extends StageBase {
   constructor(...args) {
@@ -918,13 +918,16 @@ export default class Stage extends StageBase {
   }
 
   *whenIReceiveJimmyDies() {
-    /* TODO: Implement stop other scripts in sprite */ null;
     this.costume = "backdrop20";
     this.effects.brightness = 0;
     while (true) {
       if (this.compare(this.vars.hp, 1) < 0) {
         this.vars.hp = 0;
-        /* TODO: Implement stop all */ null;
+        if (!window.GAMEOVER) {
+          window.GAMEOVER = 1;
+          this.broadcast("Death");
+          console.log("[Engine] Player Died. GAMEOVER sequence initiated.");
+        }
       }
       yield;
     }

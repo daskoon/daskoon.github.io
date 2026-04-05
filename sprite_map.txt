@@ -81,7 +81,7 @@
   2. "Tower 2" -> 4ec4409cc64cdc37657cffabc354a839.wav
   3. "Tower 3" -> 10bc5e4d2ac40dc82c57644af7de2070.wav
 
-=== Sprite2 (Target #1) ===
+=== LETTER (Target #1) ===
  Costumes (70):
   1. "A" -> 71f6b813f4132c1c88cb91396b7aec28.png
   2. "B" -> 0f0b7a864b9c75a6c60f751af02ecce6.png
@@ -2267,7 +2267,7 @@
  Sounds (1):
   1. "pop" -> 83a9787d4cb6f3b7632b4ddfebf74367.wav
 
-=== text (Target #249) ===
+=== SHADOW_LETTER (Target #249) ===
  Costumes (100):
   1. "a" -> c168218dd7dc198792c93484a3b1627a.png
   2. "A" -> c168218dd7dc198792c93484a3b1627a.png

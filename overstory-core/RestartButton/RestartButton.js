@@ -23,6 +23,7 @@ export default class RestartButton extends Sprite {
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),
       new Trigger(Trigger.CLICKED, this.whenthisspriteclicked),
+      new Trigger(Trigger.BROADCAST, { name: "Death" }, this.whenIReceiveDeath),
       new Trigger(
         Trigger.BROADCAST,
         { name: "Restart" },
@@ -32,18 +33,22 @@ export default class RestartButton extends Sprite {
   }
 
   *whenGreenFlagClicked() {
-    this.goto(0, -160);
-    this.visible = true;
+    this.visible = false;
+    this.goto(0, -175);
   }
 
   *whenthisspriteclicked() {
+    window.GAMEOVER = 0;
     this.broadcast("Restart");
   }
 
+  *whenIReceiveDeath() {
+    this.goto(0, -175);
+    this.visible = true;
+  }
+
   *whenIReceiveRestart() {
-    // Briefly hide or animate on restart
     this.visible = false;
     yield* this.wait(0.5);
-    this.visible = true;
   }
 }

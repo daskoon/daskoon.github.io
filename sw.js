@@ -1,4 +1,4 @@
-const CACHE_NAME = 'overstory-v1';
+const CACHE_NAME = 'overstory-v3-stable';
 const urlsToCache = [
   './',
   './index.html',

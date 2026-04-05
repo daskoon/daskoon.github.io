@@ -116,6 +116,7 @@ export default class Sprite162 extends Sprite {
     this.stage.vars.timeLeftUntilYouGetBoppedYourself = 5;
     this.stage.watchers.timeLeftUntilYouGetBoppedYourself.visible = true;
     while (true) {
+      if (window.GAMEOVER) return;
       this.stage.vars.timeLeftUntilYouGetBoppedYourself -= 0.2;
       yield* this.wait(0.1);
       if (
@@ -152,6 +153,7 @@ export default class Sprite162 extends Sprite {
     this.stage.vars.speed = 4;
     this.visible = false;
     while (true) {
+      if (window.GAMEOVER) return;
       this.audioEffects.volume = 0;
       yield;
     }

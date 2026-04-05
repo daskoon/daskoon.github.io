@@ -864,6 +864,7 @@ export default class Sprite9 extends Sprite {
     yield* this.glide(0.5, 140, -15);
     yield* this.wait(2);
     while (true) {
+      if (window.GAMEOVER) return;
       for (let i = 0; i < 5; i++) {
         this.x += 2;
         yield;
@@ -896,6 +897,7 @@ export default class Sprite9 extends Sprite {
   *whenIReceiveDoorFight() {
     yield* this.wait(2.5);
     while (true) {
+      if (window.GAMEOVER) return;
       this.costume = "costume8";
       yield* this.wait(0.1);
       this.costume = "costume9";
@@ -915,6 +917,7 @@ export default class Sprite9 extends Sprite {
   *whenIReceiveDoorFight2() {
     this.audioEffects.pitch = 0;
     while (true) {
+      if (window.GAMEOVER) return;
       yield* this.playSoundUntilDone("THE DOOR");
       yield;
     }
@@ -1000,6 +1003,7 @@ export default class Sprite9 extends Sprite {
     }
     this.broadcast("Second phase");
     while (true) {
+      if (window.GAMEOVER) return;
       this.sprites["Sprite49"].createClone();
       yield* this.wait(0.05);
       yield;

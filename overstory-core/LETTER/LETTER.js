@@ -7,127 +7,127 @@ import {
   Sound,
 } from "https://unpkg.com/leopard@^1/dist/index.esm.js";
 
-export default class textboxinner extends Sprite {
+export default class LETTER extends Sprite {
   constructor(...args) {
     super(...args);
 
     this.costumes = [
-      new Costume("A", "./textboxinner/costumes/A.png", { x: 11, y: 18 }),
-      new Costume("B", "./textboxinner/costumes/B.png", { x: 10, y: 21 }),
-      new Costume("C", "./textboxinner/costumes/C.png", { x: 15, y: 19 }),
-      new Costume("D", "./textboxinner/costumes/D.png", { x: 10, y: 22 }),
-      new Costume("E", "./textboxinner/costumes/E.png", { x: 8, y: 22 }),
-      new Costume("F", "./textboxinner/costumes/F.png", { x: 8, y: 22 }),
-      new Costume("G", "./textboxinner/costumes/G.png", { x: 15, y: 19 }),
-      new Costume("H", "./textboxinner/costumes/H.png", { x: 10, y: 18 }),
-      new Costume("I", "./textboxinner/costumes/I.png", { x: 10, y: 21 }),
-      new Costume("J", "./textboxinner/costumes/J.png", { x: 14, y: 22 }),
-      new Costume("K", "./textboxinner/costumes/K.png", { x: 10, y: 20 }),
-      new Costume("L", "./textboxinner/costumes/L.png", { x: 12, y: 19 }),
-      new Costume("M", "./textboxinner/costumes/M.png", { x: 15, y: 23 }),
-      new Costume("N", "./textboxinner/costumes/N.png", { x: 13, y: 21 }),
-      new Costume("O", "./textboxinner/costumes/O.png", { x: 17, y: 21 }),
-      new Costume("P", "./textboxinner/costumes/P.png", { x: 9, y: 21 }),
-      new Costume("Q", "./textboxinner/costumes/Q.png", { x: 17, y: 19 }),
-      new Costume("R", "./textboxinner/costumes/R.png", { x: 9, y: 19 }),
-      new Costume("S", "./textboxinner/costumes/S.png", { x: 11, y: 21 }),
-      new Costume("T", "./textboxinner/costumes/T.png", { x: 13, y: 19 }),
-      new Costume("U", "./textboxinner/costumes/U.png", { x: 11, y: 17 }),
-      new Costume("V", "./textboxinner/costumes/V.png", { x: 13, y: 18 }),
-      new Costume("W", "./textboxinner/costumes/W.png", { x: 16, y: 20 }),
-      new Costume("X", "./textboxinner/costumes/X.png", { x: 12, y: 18 }),
-      new Costume("Y", "./textboxinner/costumes/Y.png", { x: 11, y: 17 }),
-      new Costume("Z", "./textboxinner/costumes/Z.png", { x: 12, y: 18 }),
-      new Costume(".", "./textboxinner/costumes/..png", { x: 1, y: -3 }),
-      new Costume("!", "./textboxinner/costumes/!.png", { x: 1, y: 22 }),
-      new Costume("question_mark", "./textboxinner/costumes/question_mark.png", {
+      new Costume("A", "./LETTER/costumes/A.png", { x: 11, y: 18 }),
+      new Costume("B", "./LETTER/costumes/B.png", { x: 10, y: 21 }),
+      new Costume("C", "./LETTER/costumes/C.png", { x: 15, y: 19 }),
+      new Costume("D", "./LETTER/costumes/D.png", { x: 10, y: 22 }),
+      new Costume("E", "./LETTER/costumes/E.png", { x: 8, y: 22 }),
+      new Costume("F", "./LETTER/costumes/F.png", { x: 8, y: 22 }),
+      new Costume("G", "./LETTER/costumes/G.png", { x: 15, y: 19 }),
+      new Costume("H", "./LETTER/costumes/H.png", { x: 10, y: 18 }),
+      new Costume("I", "./LETTER/costumes/I.png", { x: 10, y: 21 }),
+      new Costume("J", "./LETTER/costumes/J.png", { x: 14, y: 22 }),
+      new Costume("K", "./LETTER/costumes/K.png", { x: 10, y: 20 }),
+      new Costume("L", "./LETTER/costumes/L.png", { x: 12, y: 19 }),
+      new Costume("M", "./LETTER/costumes/M.png", { x: 15, y: 23 }),
+      new Costume("N", "./LETTER/costumes/N.png", { x: 13, y: 21 }),
+      new Costume("O", "./LETTER/costumes/O.png", { x: 17, y: 21 }),
+      new Costume("P", "./LETTER/costumes/P.png", { x: 9, y: 21 }),
+      new Costume("Q", "./LETTER/costumes/Q.png", { x: 17, y: 19 }),
+      new Costume("R", "./LETTER/costumes/R.png", { x: 9, y: 19 }),
+      new Costume("S", "./LETTER/costumes/S.png", { x: 11, y: 21 }),
+      new Costume("T", "./LETTER/costumes/T.png", { x: 13, y: 19 }),
+      new Costume("U", "./LETTER/costumes/U.png", { x: 11, y: 17 }),
+      new Costume("V", "./LETTER/costumes/V.png", { x: 13, y: 18 }),
+      new Costume("W", "./LETTER/costumes/W.png", { x: 16, y: 20 }),
+      new Costume("X", "./LETTER/costumes/X.png", { x: 12, y: 18 }),
+      new Costume("Y", "./LETTER/costumes/Y.png", { x: 11, y: 17 }),
+      new Costume("Z", "./LETTER/costumes/Z.png", { x: 12, y: 18 }),
+      new Costume(".", "./LETTER/costumes/..png", { x: 1, y: -3 }),
+      new Costume("!", "./LETTER/costumes/!.png", { x: 1, y: 22 }),
+      new Costume("question_mark", "./LETTER/costumes/question_mark.png", {
         x: 5,
         y: 29,
       }),
-      new Costume(",", "./textboxinner/costumes/,.png", { x: 5, y: -2 }),
-      new Costume("Ã¢â‚¬â„¢", "./textboxinner/costumes/Ã¢â‚¬â„¢.png", {
+      new Costume(",", "./LETTER/costumes/,.png", { x: 5, y: -2 }),
+      new Costume("Ã¢â‚¬â„¢", "./LETTER/costumes/Ã¢â‚¬â„¢.png", {
         x: 5,
         y: 23,
       }),
-      new Costume("'", "./textboxinner/costumes/'.png", { x: 5, y: 23 }),
-      new Costume(" ", "./textboxinner/costumes/ .png", { x: 0, y: 0 }),
-      new Costume("a", "./textboxinner/costumes/a.png", { x: 10, y: 9 }),
-      new Costume("b", "./textboxinner/costumes/b.png", { x: 6, y: 21 }),
-      new Costume("c", "./textboxinner/costumes/c.png", { x: 8, y: 11 }),
-      new Costume("d", "./textboxinner/costumes/d.png", { x: 10, y: 24 }),
-      new Costume("e", "./textboxinner/costumes/e.png", { x: 6, y: 10 }),
-      new Costume("f", "./textboxinner/costumes/f.png", { x: 11, y: 21 }),
-      new Costume("g", "./textboxinner/costumes/g.png", { x: 12, y: 8 }),
-      new Costume("h", "./textboxinner/costumes/h.png", { x: 7, y: 20 }),
-      new Costume("i", "./textboxinner/costumes/i.png", { x: 3, y: 17 }),
-      new Costume("j", "./textboxinner/costumes/j.png", { x: 14, y: 19 }),
-      new Costume("k", "./textboxinner/costumes/k.png", { x: 6, y: 20 }),
-      new Costume("l", "./textboxinner/costumes/l.png", { x: 3, y: 19 }),
-      new Costume("m", "./textboxinner/costumes/m.png", { x: 8, y: 5 }),
-      new Costume("n", "./textboxinner/costumes/n.png", { x: 7, y: 8 }),
-      new Costume("o", "./textboxinner/costumes/o.png", { x: 9, y: 10 }),
-      new Costume("p", "./textboxinner/costumes/p.png", { x: 9, y: 9 }),
-      new Costume("q", "./textboxinner/costumes/q.png", { x: 10, y: 8 }),
-      new Costume("r", "./textboxinner/costumes/r.png", { x: 5, y: 9 }),
-      new Costume("s", "./textboxinner/costumes/s.png", { x: 6, y: 9 }),
-      new Costume("t", "./textboxinner/costumes/t.png", { x: 10, y: 18 }),
-      new Costume("u", "./textboxinner/costumes/u.png", { x: 8, y: 9 }),
-      new Costume("v", "./textboxinner/costumes/v.png", { x: 9, y: 10 }),
-      new Costume("w", "./textboxinner/costumes/w.png", { x: 11, y: 9 }),
-      new Costume("x", "./textboxinner/costumes/x.png", { x: 7, y: 8 }),
-      new Costume("y", "./textboxinner/costumes/y.png", { x: 8, y: 7 }),
-      new Costume("z", "./textboxinner/costumes/z.png", { x: 10, y: 10 }),
-      new Costume("(", "./textboxinner/costumes/(.png", { x: 7, y: 25 }),
-      new Costume(")", "./textboxinner/costumes/).png", { x: 8, y: 25 }),
-      new Costume("*", "./textboxinner/costumes/*.png", { x: 0, y: 0 }),
-      new Costume("$", "./textboxinner/costumes/$.png", { x: 0, y: 0 }),
-      new Costume("Ã¢â‚¬Å“", "./textboxinner/costumes/Ã¢â‚¬Å“.png", { x: 7, y: 23 }),
-      new Costume("Ã¢â‚¬Â", "./textboxinner/costumes/Ã¢â‚¬Â.png", { x: 7, y: 23 }),
-      new Costume("-", "./textboxinner/costumes/-.png", { x: 11, y: 2 }),
-      new Costume("ÃƒÂ«", "./textboxinner/costumes/ÃƒÂ«.png", { x: 24, y: 33 }),
-      new Costume("ÃƒÂ¡", "./textboxinner/costumes/ÃƒÂ¡.png", { x: 10, y: 21 }),
-      new Costume("_", "./textboxinner/costumes/_.png", { x: 0, y: 0 }),
-      new Costume(";", "./textboxinner/costumes/;.png", { x: 0, y: 0 }),
+      new Costume("'", "./LETTER/costumes/'.png", { x: 5, y: 23 }),
+      new Costume(" ", "./LETTER/costumes/ .png", { x: 0, y: 0 }),
+      new Costume("a", "./LETTER/costumes/a.png", { x: 10, y: 9 }),
+      new Costume("b", "./LETTER/costumes/b.png", { x: 6, y: 21 }),
+      new Costume("c", "./LETTER/costumes/c.png", { x: 8, y: 11 }),
+      new Costume("d", "./LETTER/costumes/d.png", { x: 10, y: 24 }),
+      new Costume("e", "./LETTER/costumes/e.png", { x: 6, y: 10 }),
+      new Costume("f", "./LETTER/costumes/f.png", { x: 11, y: 21 }),
+      new Costume("g", "./LETTER/costumes/g.png", { x: 12, y: 8 }),
+      new Costume("h", "./LETTER/costumes/h.png", { x: 7, y: 20 }),
+      new Costume("i", "./LETTER/costumes/i.png", { x: 3, y: 17 }),
+      new Costume("j", "./LETTER/costumes/j.png", { x: 14, y: 19 }),
+      new Costume("k", "./LETTER/costumes/k.png", { x: 6, y: 20 }),
+      new Costume("l", "./LETTER/costumes/l.png", { x: 3, y: 19 }),
+      new Costume("m", "./LETTER/costumes/m.png", { x: 8, y: 5 }),
+      new Costume("n", "./LETTER/costumes/n.png", { x: 7, y: 8 }),
+      new Costume("o", "./LETTER/costumes/o.png", { x: 9, y: 10 }),
+      new Costume("p", "./LETTER/costumes/p.png", { x: 9, y: 9 }),
+      new Costume("q", "./LETTER/costumes/q.png", { x: 10, y: 8 }),
+      new Costume("r", "./LETTER/costumes/r.png", { x: 5, y: 9 }),
+      new Costume("s", "./LETTER/costumes/s.png", { x: 6, y: 9 }),
+      new Costume("t", "./LETTER/costumes/t.png", { x: 10, y: 18 }),
+      new Costume("u", "./LETTER/costumes/u.png", { x: 8, y: 9 }),
+      new Costume("v", "./LETTER/costumes/v.png", { x: 9, y: 10 }),
+      new Costume("w", "./LETTER/costumes/w.png", { x: 11, y: 9 }),
+      new Costume("x", "./LETTER/costumes/x.png", { x: 7, y: 8 }),
+      new Costume("y", "./LETTER/costumes/y.png", { x: 8, y: 7 }),
+      new Costume("z", "./LETTER/costumes/z.png", { x: 10, y: 10 }),
+      new Costume("(", "./LETTER/costumes/(.png", { x: 7, y: 25 }),
+      new Costume(")", "./LETTER/costumes/).png", { x: 8, y: 25 }),
+      new Costume("*", "./LETTER/costumes/*.png", { x: 0, y: 0 }),
+      new Costume("$", "./LETTER/costumes/$.png", { x: 0, y: 0 }),
+      new Costume("Ã¢â‚¬Å“", "./LETTER/costumes/Ã¢â‚¬Å“.png", { x: 7, y: 23 }),
+      new Costume("Ã¢â‚¬Â ", "./LETTER/costumes/Ã¢â‚¬Â .png", { x: 7, y: 23 }),
+      new Costume("-", "./LETTER/costumes/-.png", { x: 11, y: 2 }),
+      new Costume("ÃƒÂ«", "./LETTER/costumes/ÃƒÂ«.png", { x: 24, y: 33 }),
+      new Costume("ÃƒÂ¡", "./LETTER/costumes/ÃƒÂ¡.png", { x: 10, y: 21 }),
+      new Costume("_", "./LETTER/costumes/_.png", { x: 0, y: 0 }),
+      new Costume(";", "./LETTER/costumes/;.png", { x: 0, y: 0 }),
     ];
 
     this.sounds = [
-      new Sound("You", "./textboxinner/sounds/You.wav"),
-      new Sound("Zork", "./textboxinner/sounds/Zork.wav"),
-      new Sound("Jone", "./textboxinner/sounds/Jone.wav"),
-      new Sound("Interaction", "./textboxinner/sounds/Interaction.wav"),
-      new Sound("Door", "./textboxinner/sounds/Door.wav"),
-      new Sound("Door2", "./textboxinner/sounds/Door2.wav"),
-      new Sound("Shopkeeper", "./textboxinner/sounds/Shopkeeper.wav"),
-      new Sound("tuco-get-out", "./textboxinner/sounds/tuco-get-out.wav"),
-      new Sound("Anenome", "./textboxinner/sounds/Anenome.wav"),
-      new Sound("Jimmy", "./textboxinner/sounds/Jimmy.wav"),
-      new Sound("Machine", "./textboxinner/sounds/Machine.wav"),
-      new Sound("Ssss", "./textboxinner/sounds/Ssss.wav"),
-      new Sound("Ssss3", "./textboxinner/sounds/Ssss3.wav"),
-      new Sound("Ssss2", "./textboxinner/sounds/Ssss2.wav"),
-      new Sound("Shopkeeper2", "./textboxinner/sounds/Shopkeeper2.wav"),
-      new Sound("Zork2", "./textboxinner/sounds/Zork2.wav"),
-      new Sound("Jone2", "./textboxinner/sounds/Jone2.wav"),
-      new Sound("Goopley", "./textboxinner/sounds/Goopley.wav"),
-      new Sound("Goopley2", "./textboxinner/sounds/Goopley2.wav"),
-      new Sound("You2", "./textboxinner/sounds/You2.wav"),
-      new Sound("Door3", "./textboxinner/sounds/Door3.wav"),
-      new Sound("You3", "./textboxinner/sounds/You3.wav"),
+      new Sound("You", "./LETTER/sounds/You.wav"),
+      new Sound("Zork", "./LETTER/sounds/Zork.wav"),
+      new Sound("Jone", "./LETTER/sounds/Jone.wav"),
+      new Sound("Interaction", "./LETTER/sounds/Interaction.wav"),
+      new Sound("Door", "./LETTER/sounds/Door.wav"),
+      new Sound("Door2", "./LETTER/sounds/Door2.wav"),
+      new Sound("Shopkeeper", "./LETTER/sounds/Shopkeeper.wav"),
+      new Sound("tuco-get-out", "./LETTER/sounds/tuco-get-out.wav"),
+      new Sound("Anenome", "./LETTER/sounds/Anenome.wav"),
+      new Sound("Jimmy", "./LETTER/sounds/Jimmy.wav"),
+      new Sound("Machine", "./LETTER/sounds/Machine.wav"),
+      new Sound("Ssss", "./LETTER/sounds/Ssss.wav"),
+      new Sound("Ssss3", "./LETTER/sounds/Ssss3.wav"),
+      new Sound("Ssss2", "./LETTER/sounds/Ssss2.wav"),
+      new Sound("Shopkeeper2", "./LETTER/sounds/Shopkeeper2.wav"),
+      new Sound("Zork2", "./LETTER/sounds/Zork2.wav"),
+      new Sound("Jone2", "./LETTER/sounds/Jone2.wav"),
+      new Sound("Goopley", "./LETTER/sounds/Goopley.wav"),
+      new Sound("Goopley2", "./LETTER/sounds/Goopley2.wav"),
+      new Sound("You2", "./LETTER/sounds/You2.wav"),
+      new Sound("Door3", "./LETTER/sounds/Door3.wav"),
+      new Sound("You3", "./LETTER/sounds/You3.wav"),
       new Sound(
         "Goopley oh wait sorry, Boopley.",
-        "./textboxinner/sounds/Goopley oh wait sorry, Boopley..wav"
+        "./LETTER/sounds/Goopley oh wait sorry, Boopley..wav"
       ),
-      new Sound("139-item-catch", "./textboxinner/sounds/139-item-catch.wav"),
-      new Sound("Gary", "./textboxinner/sounds/Gary.wav"),
-      new Sound("Hand", "./textboxinner/sounds/Hand.wav"),
-      new Sound("John Pixel", "./textboxinner/sounds/John Pixel.wav"),
-      new Sound("Carpet", "./textboxinner/sounds/Carpet.wav"),
-      new Sound("sans", "./textboxinner/sounds/sans.wav"),
-      new Sound("Meow", "./textboxinner/sounds/Meow.wav"),
-      new Sound("Meow2", "./textboxinner/sounds/Meow2.wav"),
+      new Sound("139-item-catch", "./LETTER/sounds/139-item-catch.wav"),
+      new Sound("Gary", "./LETTER/sounds/Gary.wav"),
+      new Sound("Hand", "./LETTER/sounds/Hand.wav"),
+      new Sound("John Pixel", "./LETTER/sounds/John Pixel.wav"),
+      new Sound("Carpet", "./LETTER/sounds/Carpet.wav"),
+      new Sound("sans", "./LETTER/sounds/sans.wav"),
+      new Sound("Meow", "./LETTER/sounds/Meow.wav"),
+      new Sound("Meow2", "./LETTER/sounds/Meow2.wav"),
       new Sound(
         "666666666666666666666666666666666666666666666666666666",
-        "./textboxinner/sounds/666666666666666666666666666666666666666666666666666666.wav"
+        "./LETTER/sounds/666666666666666666666666666666666666666666666666666666.wav"
       ),
     ];
 
@@ -567,6 +567,7 @@ export default class textboxinner extends Sprite {
   }
 
   *say2(thingy, voice) {
+    if (window.GAMEOVER) return;
     this.stage.vars.shakey = 0;
     this.stage.vars.speed = 0;
     this.goto(-216, -94);
@@ -579,6 +580,14 @@ export default class textboxinner extends Sprite {
       if (!(this.toNumber(voice) === 8)) {
         yield* this.startSound(voice);
       }
+      if (this.toNumber(voice) === 14) {
+        yield* this.wait(0.05);
+      }
+      // Smart Auto-Wrapping (V-Standard) - Proactive boundary check
+      if (this.x > 210 && !(this.letterOf(thingy, this.vars.letterOn - 1) === "*")) {
+        this.x = -216;
+        this.y -= 26;
+      }
       this.costume = this.letterOf(thingy, this.vars.letterOn - 1);
       this.createClone();
       this.x += 15;
@@ -587,9 +596,6 @@ export default class textboxinner extends Sprite {
       }
       if (this.toNumber(voice) === 12) {
         yield* this.wait(0.1);
-      }
-      if (this.toNumber(voice) === 14) {
-        yield* this.wait(0.05);
       }
       if (this.letterOf(thingy, this.vars.letterOn - 1) === "*") {
         this.x = -216;

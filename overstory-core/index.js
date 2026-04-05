@@ -1,5 +1,5 @@
 import { Project, Sprite } from "https://unpkg.com/leopard@^1/dist/index.esm.js";
-import { App } from '@capacitor/app';
+
 
 // AI Test Hook initialization - defined early to be accessible via devtools
 window.aiTest = {
@@ -153,9 +153,9 @@ import Sprite92 from "./sprite92/sprite92.js";
 import Sprite93 from "./sprite93/sprite93.js";
 import Sprite94 from "./sprite94/sprite94.js";
 import Sprite97 from "./sprite97/sprite97.js";
-import Text from "./Text/Text.js";
+import SHADOW_LETTER from "./SHADOW_LETTER/SHADOW_LETTER.js";
 import TextBox from "./TextBox/TextBox.js";
-import textboxinner from "./textboxinner/textboxinner.js";
+import LETTER from "./LETTER/LETTER.js";
 import Yetanotherredbutton from "./yetanotherredbutton/yetanotherredbutton.js";
 import _666666666666666666666666666666666666666666666666666666666666666666666666 from "./_666666666666666666666666666666666666666666666666666666666666666666666666/_666666666666666666666666666666666666666666666666666666666666666666666666.js";
 import RestartButton from "./RestartButton/RestartButton.js";
@@ -305,9 +305,9 @@ const sprites = {
   Sprite93: new Sprite93({ costumeNumber: 1 }),
   Sprite94: new Sprite94({ costumeNumber: 1 }),
   Sprite97: new Sprite97({ costumeNumber: 1 }),
-  Text: new Text({ costumeNumber: 1 }),
+  SHADOW_LETTER: new SHADOW_LETTER({ costumeNumber: 1 }),
   TextBox: new TextBox({ costumeNumber: 1 }),
-  textboxinner: new textboxinner({ costumeNumber: 1 }),
+  LETTER: new LETTER({ costumeNumber: 1 }),
   Yetanotherredbutton: new Yetanotherredbutton({ costumeNumber: 1 }),
   _666666666666666666666666666666666666666666666666666666666666666666666666: new _666666666666666666666666666666666666666666666666666666666666666666666666({ costumeNumber: 1 }),
   RestartButton: new RestartButton({ costumeNumber: 1 }),
@@ -394,38 +394,26 @@ Object.assign(window.aiTest, {
   }
 });
 console.log("[Engine] window.aiTest attached.");
-// ----------------------------------------------- //
-
-import { App } from '@capacitor/app';
-
-// Handle Audio Lifecycle for Android - HARDENED
-App.addListener('appStateChange', ({ isActive }) => {
-  console.log(`[Lifecycle] App is now ${isActive ? 'ACTIVE' : 'BACKGROUND'}`);
-  if (isActive) {
-    // When returning to the app, we need a user gesture to resume AudioContext
-    const kickstartAudio = async () => {
-      if (project.audioContext.state === 'suspended') {
-        try {
-          await project.audioContext.resume();
-          console.log("[Audio] AudioContext resumed via user gesture");
-        } catch (e) {
-          console.error("[Audio] Failed to resume AudioContext:", e);
+// --- Environment Gate: Capacitor Integration --- //
+if (window.Capacitor && typeof window.Capacitor.isNativePlatform === 'function' && window.Capacitor.isNativePlatform()) {
+  (async () => {
+    try {
+      // Dynamic import prevents syntax errors in standard browsers
+      const { App } = await import('@capacitor/app');
+      App.addListener('backButton', () => {
+        if (project.stage.vars.inBattle || project.stage.vars.talking) {
+          console.log("[Native] Back button blocked during interaction.");
+        } else {
+          App.exitApp();
         }
-      }
-      window.removeEventListener('click', kickstartAudio);
-      window.removeEventListener('touchstart', kickstartAudio);
-    };
-    window.addEventListener('click', kickstartAudio);
-    window.addEventListener('touchstart', kickstartAudio);
-    console.log("[Audio] Waiting for user gesture (click/touch) to resume audio...");
-  } else {
-    // Suspend immediately when backgrounded
-    project.audioContext.suspend().then(() => {
-      console.log("[Audio] AudioContext suspended (Background)");
-    }).catch(e => {
-      console.error("[Audio] Failed to suspend AudioContext:", e);
-    });
-  }
-});
+      });
+      console.log("[Native] Capacitor hooks localized.");
+    } catch (e) {
+      console.warn("[Native] Capacitor module resolution failed:", e);
+    }
+  })();
+} else {
+  console.log("[Engine] Browser environment detected. Native hooks disabled.");
+}
 
 export default project;

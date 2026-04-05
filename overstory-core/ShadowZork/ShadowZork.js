@@ -139,6 +139,7 @@ export default class ShadowZork extends Sprite {
     this.rotationStyle = Sprite.RotationStyle.DONT_ROTATE; // Keep sprite upright
     this.stage.vars.enemyHp = 1000; // Initialize high health pool
     while (true) {
+      if (window.GAMEOVER) return;
       this.createClone(); // Create constant ghosting/visual effect particles
       yield* this.wait(0.1);
       yield;
@@ -238,6 +239,7 @@ export default class ShadowZork extends Sprite {
    */
   *whenIReceiveShadowZorkFight3() {
     while (true) {
+      if (window.GAMEOVER) return;
       yield* this.playSoundUntilDone("Shadow Zork"); // Play theme in loop
       yield;
     }
@@ -256,6 +258,7 @@ export default class ShadowZork extends Sprite {
    */
   *whenIReceiveVariousBattle() {
     while (true) {
+      if (window.GAMEOVER) return;
       this.createClone();
       yield* this.wait(0.1);
       yield;

@@ -33,24 +33,10 @@ const dirs = [
   "sprite86", "sprite88", "sprite9", "sprite92", "sprite93", "sprite94", "sprite97", "textboxinner", "yetanotherredbutton"
 ];
 
-const foldersRaw = fs.readdirSync(path.join(__dirname, 'overstory-core'));
-console.log("All folders in overstory-core:", foldersRaw.join(", "));
-
-const folders = foldersRaw.filter(f => {
-    const fullPath = path.join(__dirname, 'overstory-core', f);
-    if (!fs.statSync(fullPath).isDirectory()) return false;
-    if (f === 'Stage') return false;
-    
-    // Ensure the main JS file exists in the folder
-    const jsPath = path.join(fullPath, f + '.js');
-    const exists = fs.existsSync(jsPath);
-    if (f === 'DevController') {
-      console.log(`Checking DevController: path=${jsPath}, exists=${exists}`);
-    }
-    return exists;
-  });
-
-console.log("Generating index.js for folders:", folders.join(", "));
+const folders = fs.readdirSync(path.join(__dirname, 'overstory-core'))
+  .filter(f => fs.statSync(path.join(__dirname, 'overstory-core', f)).isDirectory())
+  .filter(f => f !== 'Stage')
+  .filter(f => fs.existsSync(path.join(__dirname, 'overstory-core', f, f + '.js')));
 
 function toVarName(name) {
   if (name.startsWith("_")) return name;
