@@ -12,25 +12,25 @@ export default class Lilgreendude extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./lilgreendude/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 83,
         y: 107,
       }),
-      new Costume("costume3", "./lilgreendude/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 83,
         y: 107,
       }),
-      new Costume("costume2", "./lilgreendude/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 83,
         y: 55,
       }),
     ];
 
     this.sounds = [
-      new Sound("Cant Select", "./lilgreendude/sounds/Cant Select.wav"),
+      new Sound("Cant Select", "./sounds/Cant Select.wav"),
       new Sound(
         "cash-register-purchase-87313",
-        "./lilgreendude/sounds/cash-register-purchase-87313.wav"
+        "./sounds/cash-register-purchase-87313.wav"
       ),
     ];
 

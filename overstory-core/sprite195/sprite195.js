@@ -12,18 +12,18 @@ export default class Sprite195 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./sprite195/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 18,
         y: 23,
       }),
-      new Costume("costume2", "./sprite195/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 18,
         y: 18,
       }),
     ];
 
     this.sounds = [
-      new Sound("Buttonpush", "./sprite195/sounds/Buttonpush.wav"),
+      new Sound("Buttonpush", "./sounds/Buttonpush.wav"),
     ];
 
     this.triggers = [

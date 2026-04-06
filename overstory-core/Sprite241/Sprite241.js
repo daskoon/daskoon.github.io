@@ -12,7 +12,7 @@ export default class Sprite241 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume4", "./Sprite241/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: -72,
         y: 156,
       }),
@@ -21,18 +21,18 @@ export default class Sprite241 extends Sprite {
     this.sounds = [
       new Sound(
         "lock-and-key-37699",
-        "./Sprite241/sounds/lock-and-key-37699.wav"
+        "./sounds/lock-and-key-37699.wav"
       ),
       new Sound(
         "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 2",
-        "./Sprite241/sounds/undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 2.wav"
+        "./sounds/undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 2.wav"
       ),
       new Sound(
         "undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 3",
-        "./Sprite241/sounds/undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 3.wav"
+        "./sounds/undertale-undyne-spear-summon-bone-shoot-made-with-Voicemod 3.wav"
       ),
-      new Sound("Click", "./Sprite241/sounds/Click.wav"),
-      new Sound("rumbl", "./Sprite241/sounds/rumbl.wav"),
+      new Sound("Click", "./sounds/Click.wav"),
+      new Sound("rumbl", "./sounds/rumbl.wav"),
     ];
 
     this.triggers = [

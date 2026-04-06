@@ -12,15 +12,15 @@ export default class Img1556 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./Img1556/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 18,
         y: 5,
       }),
-      new Costume("costume2", "./Img1556/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 14,
         y: 10,
       }),
-      new Costume("costume3", "./Img1556/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 14,
         y: 10,
       }),
@@ -29,11 +29,11 @@ export default class Img1556 extends Sprite {
     this.sounds = [
       new Sound(
         "ScreenRecording_05-15-2025 18-33-02_1",
-        "./Img1556/sounds/ScreenRecording_05-15-2025 18-33-02_1.wav"
+        "./sounds/ScreenRecording_05-15-2025 18-33-02_1.wav"
       ),
       new Sound(
         "ScreenRecording_05-15-2025 18-33-02_2",
-        "./Img1556/sounds/ScreenRecording_05-15-2025 18-33-02_2.wav"
+        "./sounds/ScreenRecording_05-15-2025 18-33-02_2.wav"
       ),
     ];
 

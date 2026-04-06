@@ -12,21 +12,21 @@ export default class Exit extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./exit/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 22,
         y: 42,
       }),
-      new Costume("costume3", "./exit/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 22,
         y: 45,
       }),
-      new Costume("costume2", "./exit/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 43,
         y: 24,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./exit/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

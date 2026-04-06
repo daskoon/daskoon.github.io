@@ -12,33 +12,33 @@ export default class Img1669 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume3", "./Img1669/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 15,
         y: 46,
       }),
-      new Costume("costume4", "./Img1669/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 16,
         y: 33,
       }),
-      new Costume("costume5", "./Img1669/costumes/costume5.png", {
+      new Costume("costume5", "./costumes/costume5.png", {
         x: 15,
         y: 38,
       }),
-      new Costume("costume6", "./Img1669/costumes/costume6.png", {
+      new Costume("costume6", "./costumes/costume6.png", {
         x: 19,
         y: 42,
       }),
-      new Costume("costume1", "./Img1669/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 8,
         y: 17,
       }),
-      new Costume("costume2", "./Img1669/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 5,
         y: 17,
       }),
     ];
 
-    this.sounds = [new Sound("what ", "./Img1669/sounds/what .wav")];
+    this.sounds = [new Sound("what ", "./sounds/what .wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

@@ -12,113 +12,113 @@ export default class Sprite9 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./sprite9/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume2", "./sprite9/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume3", "./sprite9/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume4", "./sprite9/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume5", "./sprite9/costumes/costume5.png", {
+      new Costume("costume5", "./costumes/costume5.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume6", "./sprite9/costumes/costume6.png", {
+      new Costume("costume6", "./costumes/costume6.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume7", "./sprite9/costumes/costume7.png", {
+      new Costume("costume7", "./costumes/costume7.png", {
         x: 15,
         y: 45,
       }),
-      new Costume("costume8", "./sprite9/costumes/costume8.png", {
+      new Costume("costume8", "./costumes/costume8.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume9", "./sprite9/costumes/costume9.png", {
+      new Costume("costume9", "./costumes/costume9.png", {
         x: 30,
         y: 38,
       }),
-      new Costume("costume10", "./sprite9/costumes/costume10.png", {
+      new Costume("costume10", "./costumes/costume10.png", {
         x: 30,
         y: 83,
       }),
-      new Costume("costume11", "./sprite9/costumes/costume11.png", {
+      new Costume("costume11", "./costumes/costume11.png", {
         x: 28,
         y: 58,
       }),
-      new Costume("costume12", "./sprite9/costumes/costume12.png", {
+      new Costume("costume12", "./costumes/costume12.png", {
         x: 28,
         y: 38,
       }),
-      new Costume("costume13", "./sprite9/costumes/costume13.png", {
+      new Costume("costume13", "./costumes/costume13.png", {
         x: 31,
         y: 79,
       }),
-      new Costume("costume14", "./sprite9/costumes/costume14.png", {
+      new Costume("costume14", "./costumes/costume14.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume15", "./sprite9/costumes/costume15.png", {
+      new Costume("costume15", "./costumes/costume15.png", {
         x: 57,
         y: -5,
       }),
-      new Costume("costume16", "./sprite9/costumes/costume16.png", {
+      new Costume("costume16", "./costumes/costume16.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume17", "./sprite9/costumes/costume17.png", {
+      new Costume("costume17", "./costumes/costume17.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume18", "./sprite9/costumes/costume18.png", {
+      new Costume("costume18", "./costumes/costume18.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume22", "./sprite9/costumes/costume22.png", {
+      new Costume("costume22", "./costumes/costume22.png", {
         x: 51,
         y: 66,
       }),
-      new Costume("costume21", "./sprite9/costumes/costume21.png", {
+      new Costume("costume21", "./costumes/costume21.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume20", "./sprite9/costumes/costume20.png", {
+      new Costume("costume20", "./costumes/costume20.png", {
         x: 44,
         y: 58,
       }),
-      new Costume("costume19", "./sprite9/costumes/costume19.png", {
+      new Costume("costume19", "./costumes/costume19.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume23", "./sprite9/costumes/costume23.png", {
+      new Costume("costume23", "./costumes/costume23.png", {
         x: 57,
         y: 16,
       }),
-      new Costume("costume24", "./sprite9/costumes/costume24.png", {
+      new Costume("costume24", "./costumes/costume24.png", {
         x: 30,
         y: 58,
       }),
     ];
 
     this.sounds = [
-      new Sound("Impact", "./sprite9/sounds/Impact.wav"),
-      new Sound("THE DOOR", "./sprite9/sounds/THE DOOR.wav"),
-      new Sound("Knock", "./sprite9/sounds/Knock.wav"),
-      new Sound("Change", "./sprite9/sounds/Change.wav"),
-      new Sound("sans-eye-sounds", "./sprite9/sounds/sans-eye-sounds.wav"),
-      new Sound("Impact3", "./sprite9/sounds/Impact3.wav"),
-      new Sound("Impact2", "./sprite9/sounds/Impact2.wav"),
-      new Sound("THE DOOR2", "./sprite9/sounds/THE DOOR2.wav"),
+      new Sound("Impact", "./sounds/Impact.wav"),
+      new Sound("THE DOOR", "./sounds/THE DOOR.wav"),
+      new Sound("Knock", "./sounds/Knock.wav"),
+      new Sound("Change", "./sounds/Change.wav"),
+      new Sound("sans-eye-sounds", "./sounds/sans-eye-sounds.wav"),
+      new Sound("Impact3", "./sounds/Impact3.wav"),
+      new Sound("Impact2", "./sounds/Impact2.wav"),
+      new Sound("THE DOOR2", "./sounds/THE DOOR2.wav"),
     ];
 
     this.triggers = [

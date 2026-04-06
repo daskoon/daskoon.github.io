@@ -12,66 +12,66 @@ export default class Sprite193 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./Sprite193/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 334,
         y: 360,
       }),
-      new Costume("costume2", "./Sprite193/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 334,
         y: 360,
       }),
-      new Costume("costume6", "./Sprite193/costumes/costume6.png", {
+      new Costume("costume6", "./costumes/costume6.png", {
         x: 334,
         y: 360,
       }),
-      new Costume("costume7", "./Sprite193/costumes/costume7.png", {
+      new Costume("costume7", "./costumes/costume7.png", {
         x: 317,
         y: 360,
       }),
-      new Costume("costume8", "./Sprite193/costumes/costume8.png", {
+      new Costume("costume8", "./costumes/costume8.png", {
         x: 334,
         y: 360,
       }),
-      new Costume("costume9", "./Sprite193/costumes/costume9.png", {
+      new Costume("costume9", "./costumes/costume9.png", {
         x: 334,
         y: 360,
       }),
-      new Costume("costume10", "./Sprite193/costumes/costume10.png", {
+      new Costume("costume10", "./costumes/costume10.png", {
         x: 288,
         y: 360,
       }),
-      new Costume("costume3", "./Sprite193/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 334,
         y: 360,
       }),
-      new Costume("costume5", "./Sprite193/costumes/costume5.png", {
+      new Costume("costume5", "./costumes/costume5.png", {
         x: 334,
         y: 360,
       }),
-      new Costume("costume4", "./Sprite193/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 421,
         y: 360,
       }),
-      new Costume("costume11", "./Sprite193/costumes/costume11.png", {
+      new Costume("costume11", "./costumes/costume11.png", {
         x: 393,
         y: 207,
       }),
     ];
 
     this.sounds = [
-      new Sound("Forch UNUSED", "./Sprite193/sounds/Forch UNUSED.wav"),
-      new Sound("pop2", "./Sprite193/sounds/pop2.wav"),
-      new Sound("Forch", "./Sprite193/sounds/Forch.wav"),
+      new Sound("Forch UNUSED", "./sounds/Forch UNUSED.wav"),
+      new Sound("pop2", "./sounds/pop2.wav"),
+      new Sound("Forch", "./sounds/Forch.wav"),
       new Sound(
         "A WONDERFUL CREATION",
-        "./Sprite193/sounds/A WONDERFUL CREATION.wav"
+        "./sounds/A WONDERFUL CREATION.wav"
       ),
-      new Sound("Impact", "./Sprite193/sounds/Impact.wav"),
+      new Sound("Impact", "./sounds/Impact.wav"),
       new Sound(
         "WONDERFUL CREATION",
-        "./Sprite193/sounds/WONDERFUL CREATION.wav"
+        "./sounds/WONDERFUL CREATION.wav"
       ),
-      new Sound("Impact2", "./Sprite193/sounds/Impact2.wav"),
+      new Sound("Impact2", "./sounds/Impact2.wav"),
     ];
 
     this.triggers = [

@@ -12,17 +12,17 @@ export default class omgredbutton extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./omgredbutton/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 18,
         y: 23,
       }),
-      new Costume("costume2", "./omgredbutton/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 18,
         y: 18,
       }),
     ];
 
-    this.sounds = [new Sound("Buttonpush", "./omgredbutton/sounds/Buttonpush.wav")];
+    this.sounds = [new Sound("Buttonpush", "./sounds/Buttonpush.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

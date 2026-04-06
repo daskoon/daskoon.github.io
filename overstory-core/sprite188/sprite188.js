@@ -12,28 +12,28 @@ export default class Sprite188 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./sprite188/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 15,
         y: 13,
       }),
-      new Costume("costume2", "./sprite188/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 15,
         y: 8,
       }),
-      new Costume("costume3", "./sprite188/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 15,
         y: 9,
       }),
     ];
 
     this.sounds = [
-      new Sound("Pixel Man", "./sprite188/sounds/Pixel Man.wav"),
-      new Sound("Augh", "./sprite188/sounds/Augh.wav"),
-      new Sound("Augh2", "./sprite188/sounds/Augh2.wav"),
-      new Sound("Augh3", "./sprite188/sounds/Augh3.wav"),
-      new Sound("AAAUGHH", "./sprite188/sounds/AAAUGHH.wav"),
-      new Sound("Gunshot pixel", "./sprite188/sounds/Gunshot pixel.wav"),
-      new Sound("AAAAAAAAAA", "./sprite188/sounds/AAAAAAAAAA.wav"),
+      new Sound("Pixel Man", "./sounds/Pixel Man.wav"),
+      new Sound("Augh", "./sounds/Augh.wav"),
+      new Sound("Augh2", "./sounds/Augh2.wav"),
+      new Sound("Augh3", "./sounds/Augh3.wav"),
+      new Sound("AAAUGHH", "./sounds/AAAUGHH.wav"),
+      new Sound("Gunshot pixel", "./sounds/Gunshot pixel.wav"),
+      new Sound("AAAAAAAAAA", "./sounds/AAAAAAAAAA.wav"),
     ];
 
     this.triggers = [

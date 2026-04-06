@@ -12,31 +12,31 @@ export default class Shopoverlaymanager extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./shopoverlaymanager/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 64,
         y: 47,
       }),
-      new Costume("costume2", "./shopoverlaymanager/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 64,
         y: 47,
       }),
-      new Costume("costume3", "./shopoverlaymanager/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 64,
         y: 47,
       }),
-      new Costume("costume4", "./shopoverlaymanager/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 64,
         y: 47,
       }),
     ];
 
     this.sounds = [
-      new Sound("pop", "./shopoverlaymanager/sounds/pop.wav"),
+      new Sound("pop", "./sounds/pop.wav"),
       new Sound(
         "Wagner Bridal Chorus",
-        "./shopoverlaymanager/sounds/Wagner Bridal Chorus.wav"
+        "./sounds/Wagner Bridal Chorus.wav"
       ),
-      new Sound("record-scratch_1", "./shopoverlaymanager/sounds/record-scratch_1.wav"),
+      new Sound("record-scratch_1", "./sounds/record-scratch_1.wav"),
     ];
 
     this.triggers = [

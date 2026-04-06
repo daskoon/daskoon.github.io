@@ -12,105 +12,105 @@ export default class Sprite50 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./sprite50/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 10,
         y: 20,
       }),
-      new Costume("costume2", "./sprite50/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 33,
         y: 0,
       }),
-      new Costume("costume3", "./sprite50/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 19,
         y: 201,
       }),
-      new Costume("costume4", "./sprite50/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 19,
         y: 201,
       }),
-      new Costume("costume5", "./sprite50/costumes/costume5.png", {
+      new Costume("costume5", "./costumes/costume5.png", {
         x: 19,
         y: 201,
       }),
-      new Costume("costume6", "./sprite50/costumes/costume6.png", {
+      new Costume("costume6", "./costumes/costume6.png", {
         x: 19,
         y: 203,
       }),
-      new Costume("costume7", "./sprite50/costumes/costume7.png", {
+      new Costume("costume7", "./costumes/costume7.png", {
         x: 19,
         y: 203,
       }),
-      new Costume("costume8", "./sprite50/costumes/costume8.png", {
+      new Costume("costume8", "./costumes/costume8.png", {
         x: 19,
         y: 203,
       }),
-      new Costume("costume12", "./sprite50/costumes/costume12.png", {
+      new Costume("costume12", "./costumes/costume12.png", {
         x: 19,
         y: 203,
       }),
-      new Costume("costume11", "./sprite50/costumes/costume11.png", {
+      new Costume("costume11", "./costumes/costume11.png", {
         x: 19,
         y: 203,
       }),
-      new Costume("costume10", "./sprite50/costumes/costume10.png", {
+      new Costume("costume10", "./costumes/costume10.png", {
         x: 19,
         y: 203,
       }),
-      new Costume("costume13", "./sprite50/costumes/costume13.png", {
+      new Costume("costume13", "./costumes/costume13.png", {
         x: 19,
         y: 203,
       }),
-      new Costume("costume9", "./sprite50/costumes/costume9.png", {
+      new Costume("costume9", "./costumes/costume9.png", {
         x: 19,
         y: 203,
       }),
-      new Costume("costume14", "./sprite50/costumes/costume14.png", {
+      new Costume("costume14", "./costumes/costume14.png", {
         x: 19,
         y: 203,
       }),
-      new Costume("costume15", "./sprite50/costumes/costume15.png", {
+      new Costume("costume15", "./costumes/costume15.png", {
         x: 19,
         y: 203,
       }),
-      new Costume("costume16", "./sprite50/costumes/costume16.png", {
+      new Costume("costume16", "./costumes/costume16.png", {
         x: 19,
         y: 203,
       }),
-      new Costume("costume17", "./sprite50/costumes/costume17.png", {
+      new Costume("costume17", "./costumes/costume17.png", {
         x: 19,
         y: 203,
       }),
-      new Costume("costume18", "./sprite50/costumes/costume18.png", {
+      new Costume("costume18", "./costumes/costume18.png", {
         x: 10,
         y: 35,
       }),
-      new Costume("costume19", "./sprite50/costumes/costume19.svg", {
+      new Costume("costume19", "./costumes/costume19.svg", {
         x: 5,
         y: 28.462352941176476,
       }),
-      new Costume("costume20", "./sprite50/costumes/costume20.svg", {
+      new Costume("costume20", "./costumes/costume20.svg", {
         x: 5,
         y: 35.86000500000003,
       }),
-      new Costume("costume21", "./sprite50/costumes/costume21.svg", {
+      new Costume("costume21", "./costumes/costume21.svg", {
         x: 5,
         y: 51.117647058823565,
       }),
-      new Costume("costume22", "./sprite50/costumes/costume22.svg", {
+      new Costume("costume22", "./costumes/costume22.svg", {
         x: 5,
         y: 78.85881852941183,
       }),
-      new Costume("costume23", "./sprite50/costumes/costume23.svg", {
+      new Costume("costume23", "./costumes/costume23.svg", {
         x: 5,
         y: 49.26823029411773,
       }),
-      new Costume("costume24", "./sprite50/costumes/costume24.svg", {
+      new Costume("costume24", "./costumes/costume24.svg", {
         x: 5,
         y: 23.376465588235362,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./sprite50/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

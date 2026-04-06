@@ -12,17 +12,17 @@ export default class Sprite61 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume3", "./Sprite61/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 125,
         y: 30,
       }),
     ];
 
     this.sounds = [
-      new Sound("pop", "./Sprite61/sounds/pop.wav"),
+      new Sound("pop", "./sounds/pop.wav"),
       new Sound(
         "stone-slide-sounds-effects-made-with-Voicemod",
-        "./Sprite61/sounds/stone-slide-sounds-effects-made-with-Voicemod.wav"
+        "./sounds/stone-slide-sounds-effects-made-with-Voicemod.wav"
       ),
     ];
 

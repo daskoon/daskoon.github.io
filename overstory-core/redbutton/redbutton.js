@@ -12,13 +12,13 @@ export default class Redbutton extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./redbutton/costumes/costume1.svg", {
+      new Costume("costume1", "./costumes/costume1.svg", {
         x: 2.505898613956475,
         y: 10.934731559658303,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./redbutton/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

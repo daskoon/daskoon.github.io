@@ -12,13 +12,13 @@ export default class TextBox extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./TextBox/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 480,
         y: -166,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./TextBox/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

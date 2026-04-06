@@ -20,9 +20,22 @@ def main():
     
     asset_map = {}
     
+    # Manual overrides for engine-specific sprite names
+    manual_overrides = {
+        "text": "LETTER",
+        "Sprite2": "SHADOW_LETTER",
+        "text box": "TEXTBOX",
+        "player": "Player",
+        "sans.": "Sans"
+    }
+    
     for target in project.get('targets', []):
         raw_name = target.get('name')
         sanitized_name = leopard_sanitize(raw_name)
+        
+        # Determine the name to use in the map
+        # Priority: Manual Override > Sanitized Name
+        map_name = manual_overrides.get(raw_name, sanitized_name)
         
         costumes = {}
         for costume in target.get('costumes', []):
@@ -32,13 +45,21 @@ def main():
         for sound in target.get('sounds', []):
             sounds[sound['name'] + '.' + sound['dataFormat']] = sound['md5ext']
             
-        # Store under both names just in case
-        asset_map[sanitized_name] = {
+        asset_info = {
             "costumes": costumes,
             "sounds": sounds
         }
-        if raw_name != sanitized_name:
-            asset_map[raw_name] = asset_map[sanitized_name]
+        
+        # Store under the map name
+        asset_map[map_name] = asset_info
+        
+        # Also store under raw name IF it's different, to ensure SW find it either way
+        if raw_name != map_name:
+            asset_map[raw_name] = asset_info
+        
+        # And under sanitized name if it's different from both
+        if sanitized_name != map_name and sanitized_name != raw_name:
+            asset_map[sanitized_name] = asset_info
 
     
     with open(output_path, 'w', encoding='utf-8') as f:

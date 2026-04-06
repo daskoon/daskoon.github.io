@@ -12,11 +12,11 @@ export default class Explosion3 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume2", "./explosion3/costumes/costume2.svg", {
+      new Costume("costume2", "./costumes/costume2.svg", {
         x: 1508.5760501101674,
         y: 1064.8772118424731,
       }),
-      new Costume("costume1", "./explosion3/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 0,
         y: 0,
       }),

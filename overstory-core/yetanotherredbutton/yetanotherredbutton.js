@@ -12,25 +12,25 @@ export default class Yetanotherredbutton extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume3", "./yetanotherredbutton/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 26,
         y: 23,
       }),
-      new Costume("costume2", "./yetanotherredbutton/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 26,
         y: 21,
       }),
-      new Costume("costume4", "./yetanotherredbutton/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 26,
         y: 21,
       }),
-      new Costume("costume1", "./yetanotherredbutton/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: -11,
         y: 62,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./yetanotherredbutton/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

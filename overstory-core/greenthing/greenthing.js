@@ -12,12 +12,12 @@ export default class Greenthing extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./greenthing/costumes/costume1.png", { x: 4, y: 7 }),
+      new Costume("costume1", "./costumes/costume1.png", { x: 4, y: 7 }),
     ];
 
     this.sounds = [
-      new Sound("Cant Select", "./greenthing/sounds/Cant Select.wav"),
-      new Sound("Ow", "./greenthing/sounds/Ow.wav"),
+      new Sound("Cant Select", "./sounds/Cant Select.wav"),
+      new Sound("Ow", "./sounds/Ow.wav"),
     ];
 
     this.triggers = [

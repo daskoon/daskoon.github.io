@@ -12,39 +12,39 @@ export default class Money extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./money/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 7,
         y: 14,
       }),
-      new Costume("costume2", "./money/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 7,
         y: 14,
       }),
-      new Costume("costume3", "./money/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 7,
         y: 14,
       }),
     ];
 
     this.sounds = [
-      new Sound("pop", "./money/sounds/pop.wav"),
+      new Sound("pop", "./sounds/pop.wav"),
       new Sound(
         "undertale-attack-slash-green-screen",
-        "./money/sounds/undertale-attack-slash-green-screen.wav"
+        "./sounds/undertale-attack-slash-green-screen.wav"
       ),
-      new Sound("Bonk", "./money/sounds/Bonk.wav"),
-      new Sound("Bonk2", "./money/sounds/Bonk2.wav"),
-      new Sound("pop2", "./money/sounds/pop2.wav"),
+      new Sound("Bonk", "./sounds/Bonk.wav"),
+      new Sound("Bonk2", "./sounds/Bonk2.wav"),
+      new Sound("pop2", "./sounds/pop2.wav"),
       new Sound(
         "undertale-attack-slash-green-screen2",
-        "./money/sounds/undertale-attack-slash-green-screen2.wav"
+        "./sounds/undertale-attack-slash-green-screen2.wav"
       ),
-      new Sound("C2 Bass", "./money/sounds/C2 Bass.wav"),
+      new Sound("C2 Bass", "./sounds/C2 Bass.wav"),
       new Sound(
         "undertale-attack-slash-green-screen3",
-        "./money/sounds/undertale-attack-slash-green-screen3.wav"
+        "./sounds/undertale-attack-slash-green-screen3.wav"
       ),
-      new Sound("pan", "./money/sounds/pan.wav"),
+      new Sound("pan", "./sounds/pan.wav"),
     ];
 
     this.triggers = [

@@ -12,21 +12,21 @@ export default class Sprite208 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./sprite208/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 215,
         y: 107,
       }),
-      new Costume("costume2", "./sprite208/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 83,
         y: 55,
       }),
     ];
 
     this.sounds = [
-      new Sound("Cant Select", "./sprite208/sounds/Cant Select.wav"),
+      new Sound("Cant Select", "./sounds/Cant Select.wav"),
       new Sound(
         "cash-register-purchase-87313",
-        "./sprite208/sounds/cash-register-purchase-87313.wav"
+        "./sounds/cash-register-purchase-87313.wav"
       ),
     ];
 

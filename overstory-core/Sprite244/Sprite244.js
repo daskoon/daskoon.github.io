@@ -12,18 +12,18 @@ export default class Sprite244 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./Sprite244/costumes/costume1.svg", {
+      new Costume("costume1", "./costumes/costume1.svg", {
         x: 123.00000000000006,
         y: 156.5,
       }),
-      new Costume("costume2", "./Sprite244/costumes/costume2.svg", {
+      new Costume("costume2", "./costumes/costume2.svg", {
         x: 123.00000000000006,
         y: 156.5,
       }),
     ];
 
     this.sounds = [
-      new Sound("recording1", "./Sprite244/sounds/recording1.wav"),
+      new Sound("recording1", "./sounds/recording1.wav"),
     ];
 
     this.triggers = [

@@ -12,13 +12,13 @@ export default class Sprite157 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./sprite157/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 27,
         y: 301,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./sprite157/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

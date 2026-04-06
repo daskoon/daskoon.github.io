@@ -75,26 +75,47 @@ self.addEventListener('fetch', event => {
 
       event.respondWith((async () => {
         const map = await getAssetMap();
-        if (map && map[spriteName] && map[spriteName][type]) {
-          // Case-insensitive filename lookup
-          const typeMap = map[spriteName][type];
+        if (map) {
+          const searchSprite = spriteName;
+          const searchFile = fileName;
+          
+          let typeMap = null;
           let foundKey = null;
-          for (const key in typeMap) {
-            if (key.toLowerCase() === fileName) {
-              foundKey = key;
-              break;
+          let finalSprite = searchSprite;
+
+          // 1. Try Sprite-specific lookup
+          if (map[searchSprite] && map[searchSprite][type]) {
+            typeMap = map[searchSprite][type];
+            for (const key in typeMap) {
+              if (key.toLowerCase() === searchFile) {
+                foundKey = key;
+                break;
+              }
+            }
+          }
+
+          // 2. Fallback to Stage if not found
+          if (!foundKey && searchSprite !== 'stage' && map['stage'] && map['stage'][type]) {
+            const stageMap = map['stage'][type];
+            for (const key in stageMap) {
+              if (key.toLowerCase() === searchFile) {
+                foundKey = key;
+                typeMap = stageMap;
+                finalSprite = 'stage';
+                console.log(`[SW] 🔄 STAGE FALLBACK: ${spriteName}/${type}/${fileName} found in Stage`);
+                break;
+              }
             }
           }
           
           if (foundKey) {
             const hashName = typeMap[foundKey];
             const newUrl = new URL('./sb3-temp/' + hashName, self.location.origin);
-            console.log(`[SW] ✅ PROXY: ${spriteName}/${type}/${fileName} -> ${hashName}`);
+            console.log(`[SW] ✅ PROXY: ${spriteName}/${type}/${fileName} (found in ${finalSprite}) -> ${hashName}`);
             
             try {
               const proxyResponse = await fetch(newUrl);
               const contentType = proxyResponse.headers.get('Content-Type');
-              // If we get an SPA redirect (HTML) for a binary asset, fail the promise so we don't cache junk
               if (!proxyResponse.ok || (contentType && contentType.includes('text/html'))) {
                 console.error(`[SW] ❌ INVALID RESPONSE for ${hashName}: status=${proxyResponse.status}, type=${contentType}`);
                 return new Response('Asset load failed', { status: 404 });
@@ -167,7 +188,6 @@ self.addEventListener('fetch', event => {
   );
 });
 
-
 // Activate event - clean up old caches
 self.addEventListener('activate', event => {
   event.waitUntil(
@@ -183,4 +203,3 @@ self.addEventListener('activate', event => {
     })
   );
 });
-

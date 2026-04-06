@@ -12,13 +12,13 @@ export default class Doorbadguy extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./doorbadguy/costumes/costume1.svg", {
+      new Costume("costume1", "./costumes/costume1.svg", {
         x: 2.5,
         y: 10.9375,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./doorbadguy/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

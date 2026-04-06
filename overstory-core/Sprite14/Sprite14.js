@@ -12,41 +12,41 @@ export default class Sprite14 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./Sprite14/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 22,
         y: 45,
       }),
-      new Costume("costume4", "./Sprite14/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 22,
         y: 45,
       }),
-      new Costume("costume2", "./Sprite14/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 20,
         y: 45,
       }),
-      new Costume("costume5", "./Sprite14/costumes/costume5.png", {
+      new Costume("costume5", "./costumes/costume5.png", {
         x: 86,
         y: 95,
       }),
-      new Costume("costume3", "./Sprite14/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 22,
         y: 45,
       }),
-      new Costume("costume6", "./Sprite14/costumes/costume6.png", {
+      new Costume("costume6", "./costumes/costume6.png", {
         x: 32,
         y: 45,
       }),
-      new Costume("costume7", "./Sprite14/costumes/costume7.png", {
+      new Costume("costume7", "./costumes/costume7.png", {
         x: 22,
         y: 45,
       }),
-      new Costume("costume8", "./Sprite14/costumes/costume8.png", {
+      new Costume("costume8", "./costumes/costume8.png", {
         x: 22,
         y: 45,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./Sprite14/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

@@ -12,13 +12,13 @@ export default class Explosiontnt extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./explosiontnt/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 57,
         y: 56,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./explosiontnt/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

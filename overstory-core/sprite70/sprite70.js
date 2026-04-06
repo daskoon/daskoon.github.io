@@ -12,21 +12,21 @@ export default class Sprite70 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("Fighter", "./sprite70/costumes/Fighter.png", {
+      new Costume("Fighter", "./costumes/Fighter.png", {
         x: 29,
         y: 36,
       }),
-      new Costume("Box", "./sprite70/costumes/Box.png", { x: 33, y: 42 }),
-      new Costume("Cactus", "./sprite70/costumes/Cactus.png", { x: 43, y: 40 }),
-      new Costume("Cat", "./sprite70/costumes/Cat.png", { x: 44, y: 52 }),
+      new Costume("Box", "./costumes/Box.png", { x: 33, y: 42 }),
+      new Costume("Cactus", "./costumes/Cactus.png", { x: 43, y: 40 }),
+      new Costume("Cat", "./costumes/Cat.png", { x: 44, y: 52 }),
     ];
 
     this.sounds = [
-      new Sound("pop", "./sprite70/sounds/pop.wav"),
-      new Sound("1", "./sprite70/sounds/1.wav"),
+      new Sound("pop", "./sounds/pop.wav"),
+      new Sound("1", "./sounds/1.wav"),
       new Sound(
         "undertale-sound-effect-inflicting-damage-made-with-Voicemod",
-        "./sprite70/sounds/undertale-sound-effect-inflicting-damage-made-with-Voicemod.wav"
+        "./sounds/undertale-sound-effect-inflicting-damage-made-with-Voicemod.wav"
       ),
     ];
 

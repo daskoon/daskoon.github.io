@@ -12,17 +12,17 @@ export default class Sprite22 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./Sprite22/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("costume2", "./Sprite22/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 480,
         y: 360,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./Sprite22/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

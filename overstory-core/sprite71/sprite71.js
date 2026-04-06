@@ -12,19 +12,19 @@ export default class Sprite71 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("Fighter", "./sprite71/costumes/Fighter.png", {
+      new Costume("Fighter", "./costumes/Fighter.png", {
         x: 21,
         y: -18,
       }),
-      new Costume("Box", "./sprite71/costumes/Box.png", { x: 20, y: -18 }),
-      new Costume("Cactus", "./sprite71/costumes/Cactus.png", {
+      new Costume("Box", "./costumes/Box.png", { x: 20, y: -18 }),
+      new Costume("Cactus", "./costumes/Cactus.png", {
         x: 30,
         y: -19,
       }),
-      new Costume("Cat", "./sprite71/costumes/Cat.png", { x: 17, y: -20 }),
+      new Costume("Cat", "./costumes/Cat.png", { x: 17, y: -20 }),
     ];
 
-    this.sounds = [new Sound("pop", "./sprite71/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

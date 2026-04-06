@@ -12,21 +12,21 @@ export default class Sprite24 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./Sprite24/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 71,
         y: 40,
       }),
-      new Costume("costume2", "./Sprite24/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 72,
         y: 40,
       }),
     ];
 
     this.sounds = [
-      new Sound("pop", "./Sprite24/sounds/pop.wav"),
+      new Sound("pop", "./sounds/pop.wav"),
       new Sound(
         "stone-slide-sounds-effects-made-with-Voicemod",
-        "./Sprite24/sounds/stone-slide-sounds-effects-made-with-Voicemod.mp3"
+        "./sounds/stone-slide-sounds-effects-made-with-Voicemod.mp3"
       ),
     ];
 

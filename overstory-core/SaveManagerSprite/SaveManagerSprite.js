@@ -20,14 +20,14 @@ export default class SaveManagerSprite extends Sprite {
 
     // Initializing costumes with updated paths to the new directory structure
     this.costumes = [
-      new Costume("costume1", "./SaveManagerSprite/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 42,
         y: 43,
       }),
     ];
 
     // Initializing sounds
-    this.sounds = [new Sound("pop", "./SaveManagerSprite/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     // Define triggers for game events and user clicks
     this.triggers = [

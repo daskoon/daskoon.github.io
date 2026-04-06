@@ -12,7 +12,7 @@ export default class Sprite162 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./ShadowJone/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 110,
         y: 108,
       }),
@@ -21,19 +21,19 @@ export default class Sprite162 extends Sprite {
     this.sounds = [
       new Sound(
         "bop-it-twist-it-pull-it-made-with-Voicemod",
-        "./ShadowJone/sounds/bop-it-twist-it-pull-it-made-with-Voicemod.mp3"
+        "./sounds/bop-it-twist-it-pull-it-made-with-Voicemod.mp3"
       ),
       new Sound(
         "pullit-101soundboards",
-        "./ShadowJone/sounds/pullit-101soundboards.wav"
+        "./sounds/pullit-101soundboards.wav"
       ),
       new Sound(
         "bopit-101soundboards",
-        "./ShadowJone/sounds/bopit-101soundboards.wav"
+        "./sounds/bopit-101soundboards.wav"
       ),
       new Sound(
         "twistit-101soundboards",
-        "./ShadowJone/sounds/twistit-101soundboards.wav"
+        "./sounds/twistit-101soundboards.wav"
       ),
     ];
 

@@ -12,21 +12,21 @@ export default class Sprite54 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("CutesyShop", "./Sprite54/costumes/CutesyShop.png", {
+      new Costume("CutesyShop", "./costumes/CutesyShop.png", {
         x: 105,
         y: 134,
       }),
-      new Costume("CutesyShop2", "./Sprite54/costumes/CutesyShop2.png", {
+      new Costume("CutesyShop2", "./costumes/CutesyShop2.png", {
         x: 105,
         y: 134,
       }),
-      new Costume("costume1", "./Sprite54/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 105,
         y: 134,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./Sprite54/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.BROADCAST, { name: "Shop" }, this.whenIReceiveShop),

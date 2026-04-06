@@ -12,17 +12,17 @@ export default class Sprite86 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./sprite86/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 0,
         y: 15,
       }),
     ];
 
     this.sounds = [
-      new Sound("pop", "./sprite86/sounds/pop.wav"),
+      new Sound("pop", "./sounds/pop.wav"),
       new Sound(
         "tasque-sound-effect-1-deltarune-chapter-2-made-with-Voicemod",
-        "./sprite86/sounds/tasque-sound-effect-1-deltarune-chapter-2-made-with-Voicemod.wav"
+        "./sounds/tasque-sound-effect-1-deltarune-chapter-2-made-with-Voicemod.wav"
       ),
     ];
 

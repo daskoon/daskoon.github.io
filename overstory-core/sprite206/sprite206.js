@@ -12,29 +12,29 @@ export default class Sprite206 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume3", "./sprite206/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 58,
         y: 44,
       }),
-      new Costume("costume4", "./sprite206/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 59,
         y: 47,
       }),
-      new Costume("costume1", "./sprite206/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 58,
         y: 44,
       }),
     ];
 
     this.sounds = [
-      new Sound("pop", "./sprite206/sounds/pop.wav"),
+      new Sound("pop", "./sounds/pop.wav"),
       new Sound(
         "gaster_blaster_sound_effect_1",
-        "./sprite206/sounds/gaster_blaster_sound_effect_1.wav"
+        "./sounds/gaster_blaster_sound_effect_1.wav"
       ),
       new Sound(
         "gaster_blaster_sound_effect_2",
-        "./sprite206/sounds/gaster_blaster_sound_effect_2.wav"
+        "./sounds/gaster_blaster_sound_effect_2.wav"
       ),
     ];
 

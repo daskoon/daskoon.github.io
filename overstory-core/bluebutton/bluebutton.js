@@ -12,13 +12,13 @@ export default class Bluebutton extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./bluebutton/costumes/costume1.svg", {
+      new Costume("costume1", "./costumes/costume1.svg", {
         x: 10.875000000000028,
         y: 2.5,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./bluebutton/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

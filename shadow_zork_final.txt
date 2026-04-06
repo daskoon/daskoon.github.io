@@ -1,0 +1,1 @@
+SHADOW_ZORK_COSTUMES:{"Shadow Zork": ["costume1", "costume2"]}

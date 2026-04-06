@@ -1,0 +1,974 @@
+{
+  "Stage": [
+    "backdrop1",
+    "backdrop2"
+  ],
+  "Sprite2": [
+    "A",
+    "B"
+  ],
+  "Sprite1": [
+    "costume1",
+    "costume2"
+  ],
+  "player": [
+    "costume1",
+    "costume2"
+  ],
+  "Joystick": [
+    "Joystick",
+    "Joystick outline"
+  ],
+  "Sprite10": [
+    "costume1"
+  ],
+  "Sprite11": [
+    "costume1"
+  ],
+  "Sprite12": [
+    "costume1"
+  ],
+  "Sprite9": [
+    "costume1"
+  ],
+  "Sprite4": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite5": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite6": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite7": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite8": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite13": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite14": [
+    "costume1",
+    "costume4"
+  ],
+  "Sprite15": [
+    "costume1",
+    "costume3"
+  ],
+  "Sprite16": [
+    "costume1",
+    "costume4"
+  ],
+  "Sprite17": [
+    "costume1"
+  ],
+  "Sprite18": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite19": [
+    "costume1"
+  ],
+  "Sprite20": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite22": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite23": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite24": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite25": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite26": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite28": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite30": [
+    "costume1",
+    "costume3"
+  ],
+  "Sprite31": [
+    "costume1"
+  ],
+  "Sprite32": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite33": [
+    "costume1"
+  ],
+  "Bullet": [
+    "costume1"
+  ],
+  "Sprite34": [
+    "costume1"
+  ],
+  "Bullet2": [
+    "costume1",
+    "costume2"
+  ],
+  "Bullet3": [
+    "costume1",
+    "costume2"
+  ],
+  "Bullet4": [
+    "costume2",
+    "costume3"
+  ],
+  "Sprite38": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite40": [
+    "costume3",
+    "costume2"
+  ],
+  "Sprite39": [
+    "costume3",
+    "costume2"
+  ],
+  "Sprite41": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite42": [
+    "costume1",
+    "costume2"
+  ],
+  "Background": [
+    "costume2",
+    "costume1"
+  ],
+  "Sprite43": [
+    "costume1"
+  ],
+  "Bullet9": [
+    "costume1",
+    "costume2"
+  ],
+  "Bullet8": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite46": [
+    "costume1",
+    "costume3"
+  ],
+  "Sprite47": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite48": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite49": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite56": [
+    "costume1"
+  ],
+  "Bullet7": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite53": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite54": [
+    "CutesyShop",
+    "CutesyShop2"
+  ],
+  "Sprite55": [
+    "costume1",
+    "costume2"
+  ],
+  "Bullet6": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite57": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite58": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite59": [
+    "costume1"
+  ],
+  "Sprite61": [
+    "costume3"
+  ],
+  "Bullet5": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite29": [
+    "costume1"
+  ],
+  "Sprite35": [
+    "costume1"
+  ],
+  "Sprite36": [
+    "costume1"
+  ],
+  "Sprite37": [
+    "costume3"
+  ],
+  "Sprite44": [
+    "costume3"
+  ],
+  "B4046B0A-EE42-44ED-8C16-26776C7C0CA2": [
+    "B4046B0A-EE42-44ED-8C16-26776C7C0CA2",
+    "B4046B0A-EE42-44ED-8C16-26776C7C0CA22"
+  ],
+  "Sprite45": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite50": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite51": [
+    "costume1",
+    "costume3"
+  ],
+  "B4046B0A-EE42-44ED-8C16-26776C7C0CA3": [
+    "B4046B0A-EE42-44ED-8C16-26776C7C0CA2",
+    "B4046B0A-EE42-44ED-8C16-26776C7C0CA22"
+  ],
+  "Sprite52": [
+    "costume1"
+  ],
+  "Sprite60": [
+    "costume1"
+  ],
+  "Sprite63": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite64": [
+    "costume2",
+    "costume1"
+  ],
+  "Sprite65": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite66": [
+    "costume1"
+  ],
+  "Sprite62": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite68": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite69": [
+    "costume1"
+  ],
+  "Sprite70": [
+    "costume1"
+  ],
+  "Sprite71": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite73": [
+    "costume1"
+  ],
+  "Sprite72": [
+    "costume1"
+  ],
+  "Sprite74": [
+    "Fighter",
+    "Box"
+  ],
+  "Sprite75": [
+    "Fighter",
+    "Box"
+  ],
+  "Sprite76": [
+    "Fighter",
+    "Box"
+  ],
+  "Sprite77": [
+    "costume1"
+  ],
+  "Sprite78": [
+    "costume1"
+  ],
+  "Sprite79": [
+    "costume1"
+  ],
+  "Sprite84": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite85": [
+    "costume1"
+  ],
+  "Sprite86": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite80": [
+    "Fighter",
+    "Box"
+  ],
+  "Sprite81": [
+    "Fighter",
+    "Box"
+  ],
+  "Sprite82": [
+    "Fighter",
+    "Box"
+  ],
+  "Sprite87": [
+    "costume1"
+  ],
+  "Sprite88": [
+    "costume1"
+  ],
+  "Sprite89": [
+    "costume1"
+  ],
+  "Sprite90": [
+    "costume2"
+  ],
+  "Sprite91": [
+    "costume2",
+    "costume3"
+  ],
+  "Sprite92": [
+    "costume1"
+  ],
+  "Sprite93": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite94": [
+    "costume1"
+  ],
+  "Sprite95": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite96": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite97": [
+    "costume1",
+    "costume2"
+  ],
+  "Bullet10": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite98": [
+    "costume1"
+  ],
+  "Sprite99": [
+    "costume1"
+  ],
+  "Sprite27": [
+    "costume1"
+  ],
+  "Sprite101": [
+    "costume1"
+  ],
+  "Sprite102": [
+    "costume1",
+    "costume3"
+  ],
+  "Sprite103": [
+    "costume2"
+  ],
+  "Sprite104": [
+    "costume1"
+  ],
+  "Sprite105": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite106": [
+    "costume1"
+  ],
+  "Sprite107": [
+    "costume2",
+    "costume3"
+  ],
+  "Sprite108": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite100": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite109": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite110": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite111": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite112": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite113": [
+    "costume1"
+  ],
+  "Sprite67": [
+    "IMG_1435",
+    "jimmy"
+  ],
+  "Sprite114": [
+    "costume1"
+  ],
+  "Sprite115": [
+    "costume1"
+  ],
+  "Sprite116": [
+    "costume1"
+  ],
+  "Sprite117": [
+    "costume1",
+    "costume2"
+  ],
+  "B4046B0A-EE42-44ED-8C16-26776C7C0CA4": [
+    "B4046B0A-EE42-44ED-8C16-26776C7C0CA2",
+    "B4046B0A-EE42-44ED-8C16-26776C7C0CA22"
+  ],
+  "Sprite118": [
+    "costume1"
+  ],
+  "Sprite119": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite83": [
+    "costume1",
+    "costume3"
+  ],
+  "Sprite120": [
+    "costume1",
+    "overStory-5-4-2025"
+  ],
+  "Sprite121": [
+    "costume1"
+  ],
+  "Sprite122": [
+    "costume1"
+  ],
+  "Sprite137": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite123": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite124": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite125": [
+    "costume1"
+  ],
+  "Sprite126": [
+    "costume1"
+  ],
+  "Sprite127": [
+    "costume1"
+  ],
+  "Sprite128": [
+    "costume1"
+  ],
+  "Sprite129": [
+    "costume1"
+  ],
+  "Sprite130": [
+    "costume1"
+  ],
+  "Sprite131": [
+    "costume1"
+  ],
+  "Sprite132": [
+    "CutesyShop"
+  ],
+  "Sprite133": [
+    "costume1"
+  ],
+  "Sprite134": [
+    "costume1"
+  ],
+  "Sprite135": [
+    "costume1"
+  ],
+  "Sprite136": [
+    "costume1"
+  ],
+  "Sprite138": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite139": [
+    "costume1",
+    "costume2"
+  ],
+  "Shadow Zork": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite140": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite141": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite21": [
+    "costume1",
+    "costume3"
+  ],
+  "Sprite142": [
+    "costume1"
+  ],
+  "Sprite143": [
+    "costume1"
+  ],
+  "Sprite144": [
+    "costume5",
+    "costume7"
+  ],
+  "Sprite145": [
+    "costume1"
+  ],
+  "Shadow Jone": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite146": [
+    "costume1"
+  ],
+  "Sprite147": [
+    "costume5",
+    "costume7"
+  ],
+  "Sprite148": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite149": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite150": [
+    "costume2",
+    "costume3"
+  ],
+  "Sprite151": [
+    "costume1"
+  ],
+  "Sprite152": [
+    "costume1"
+  ],
+  "Sprite153": [
+    "costume1",
+    "costume6"
+  ],
+  "IMG_1556": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite155": [
+    "costume1"
+  ],
+  "Sprite156": [
+    "IMG_1565"
+  ],
+  "Sprite157": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite158": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite159": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite160": [
+    "costume1"
+  ],
+  "Sprite161": [
+    "costume1"
+  ],
+  "Sprite162": [
+    "costume1"
+  ],
+  "Sprite163": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite164": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite165": [
+    "costume1"
+  ],
+  "Sprite166": [
+    "costume1"
+  ],
+  "Sprite167": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite168": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite169": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite170": [
+    "costume1"
+  ],
+  "Sprite171": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite173": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite174": [
+    "costume1"
+  ],
+  "Sprite175": [
+    "costume1",
+    "costume6"
+  ],
+  "Sprite176": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite177": [
+    "costume1"
+  ],
+  "Sprite178": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite179": [
+    "costume2"
+  ],
+  "Sprite180": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite154": [
+    "costume1",
+    "costume5"
+  ],
+  "Sprite181": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite182": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite183": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite172": [
+    "IMG_1553",
+    "costume1"
+  ],
+  "Sprite184": [
+    "costume1"
+  ],
+  "Sprite185": [
+    "costume1"
+  ],
+  "Sprite186": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite187": [
+    "costume1"
+  ],
+  "Sprite188": [
+    "costume1"
+  ],
+  "Sprite189": [
+    "costume4"
+  ],
+  "Sprite190": [
+    "costume1"
+  ],
+  "Sprite191": [
+    "costume1"
+  ],
+  "Sprite192": [
+    "costume1"
+  ],
+  "Sprite194": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite195": [
+    "costume1"
+  ],
+  "Sprite196": [
+    "costume1"
+  ],
+  "Sprite197": [
+    "costume1"
+  ],
+  "IMG_1669": [
+    "costume3",
+    "costume4"
+  ],
+  "Sprite198": [
+    "costume1"
+  ],
+  "Sprite199": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite201": [
+    "costume1"
+  ],
+  "Sprite202": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite200": [
+    "costume1"
+  ],
+  "Sprite203": [
+    "costume1"
+  ],
+  "Sprite204": [
+    "costume1"
+  ],
+  "Sprite205": [
+    "costume1"
+  ],
+  "Sprite206": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite207": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite208": [
+    "IMG_1680",
+    "IMG_2"
+  ],
+  "Sprite209": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite210": [
+    "costume1"
+  ],
+  "Sprite211": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite212": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite213": [
+    "costume1",
+    "costume3"
+  ],
+  "Sprite214": [
+    "costume1"
+  ],
+  "Sprite215": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite216": [
+    "costume1",
+    "costume3"
+  ],
+  "Sprite217": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite218": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite219": [
+    "costume1"
+  ],
+  "Sprite220": [
+    "costume1"
+  ],
+  "sans.": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite221": [
+    "costume1"
+  ],
+  "Sprite222": [
+    "costume1"
+  ],
+  "Sprite223": [
+    "costume1"
+  ],
+  "Sprite224": [
+    "costume3",
+    "costume4"
+  ],
+  "Sprite225": [
+    "costume1"
+  ],
+  "Sprite226": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite227": [
+    "costume1"
+  ],
+  "Sprite228": [
+    "costume2 3",
+    "costume4"
+  ],
+  "text box": [
+    "costume1"
+  ],
+  "text": [
+    "a",
+    "A"
+  ],
+  "Sprite229": [
+    "costume1"
+  ],
+  "Sprite230": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite231": [
+    "costume1"
+  ],
+  "Sprite232": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite233": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite234": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite235": [
+    "costume2",
+    "costume3"
+  ],
+  "Sprite3": [
+    "costume1"
+  ],
+  "Sprite236": [
+    "costume1"
+  ],
+  "Sprite237": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite238": [
+    "costume1",
+    "costume3"
+  ],
+  "Sprite239": [
+    "costume1"
+  ],
+  "666666666666666666666666666666666666666666666666666666666666666666666666": [
+    "costume1"
+  ],
+  "Sprite193": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite240": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite241": [
+    "costume4"
+  ],
+  "Sprite242": [
+    "costume1"
+  ],
+  "Sprite243": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite244": [
+    "costume1",
+    "costume2"
+  ],
+  "Sprite245": [
+    "costume1"
+  ],
+  "Sprite246": [
+    "costume1"
+  ],
+  "Sprite247": [
+    "costume1",
+    "costume2"
+  ]
+}

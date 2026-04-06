@@ -12,17 +12,17 @@ export default class Sprite154 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./sprite154/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 83,
         y: 55,
       }),
     ];
 
     this.sounds = [
-      new Sound("Cant Select", "./sprite154/sounds/Cant Select.wav"),
+      new Sound("Cant Select", "./sounds/Cant Select.wav"),
       new Sound(
         "cash-register-purchase-87313",
-        "./sprite154/sounds/cash-register-purchase-87313.wav"
+        "./sounds/cash-register-purchase-87313.wav"
       ),
     ];
 

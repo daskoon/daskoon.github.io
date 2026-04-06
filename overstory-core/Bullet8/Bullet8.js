@@ -12,25 +12,25 @@ export default class Bullet8 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./Bullet8/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume2", "./Bullet8/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume3", "./Bullet8/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 9,
         y: 7,
       }),
-      new Costume("costume4", "./Bullet8/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 9,
         y: 7,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./Bullet8/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

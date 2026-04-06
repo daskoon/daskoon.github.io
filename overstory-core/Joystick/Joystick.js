@@ -12,22 +12,22 @@ export default class Joystick extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("Joystick", "./Joystick/costumes/Joystick.svg", {
+      new Costume("Joystick", "./costumes/Joystick.svg", {
         x: 23.574995,
         y: 21.40732,
       }),
       new Costume(
         "Joystick outline",
-        "./Joystick/costumes/Joystick outline.svg",
+        "./costumes/Joystick outline.svg",
         { x: 40.190619999999996, y: 35.14715000000001 }
       ),
-      new Costume("Joystick move", "./Joystick/costumes/Joystick move.svg", {
+      new Costume("Joystick move", "./costumes/Joystick move.svg", {
         x: 1.159771829744443,
         y: 12.343349999999987,
       }),
     ];
 
-    this.sounds = [new Sound("Meow", "./Joystick/sounds/Meow.wav")];
+    this.sounds = [new Sound("Meow", "./sounds/Meow.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

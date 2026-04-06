@@ -12,14 +12,14 @@ export default class Explosion extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./explosion/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 102,
         y: 61,
       }),
     ];
 
     this.sounds = [
-      new Sound("chicken-jockey", "./explosion/sounds/chicken-jockey.wav"),
+      new Sound("chicken-jockey", "./sounds/chicken-jockey.wav"),
     ];
 
     this.triggers = [

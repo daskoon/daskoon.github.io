@@ -12,19 +12,19 @@ export default class Bullet7 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./Bullet7/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 193,
         y: 120,
       }),
-      new Costume("costume2", "./Bullet7/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 193,
         y: 120,
       }),
     ];
 
     this.sounds = [
-      new Sound("pop", "./Bullet7/sounds/pop.wav"),
-      new Sound("pop2", "./Bullet7/sounds/pop2.wav"),
+      new Sound("pop", "./sounds/pop.wav"),
+      new Sound("pop2", "./sounds/pop2.wav"),
     ];
 
     this.triggers = [

@@ -1,0 +1,1 @@
+{"Shadow Jone": ["costume1", "costume2", "costume3"]}

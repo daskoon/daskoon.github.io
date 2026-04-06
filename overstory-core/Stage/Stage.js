@@ -13,296 +13,296 @@ export default class Stage extends StageBase {
     super(...args);
 
     this.costumes = [
-      new Costume("backdrop1", "./Stage/costumes/backdrop1.png", {
+      new Costume("backdrop1", "./costumes/backdrop1.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop2", "./Stage/costumes/backdrop2.png", {
+      new Costume("backdrop2", "./costumes/backdrop2.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop3", "./Stage/costumes/backdrop3.png", {
+      new Costume("backdrop3", "./costumes/backdrop3.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop4", "./Stage/costumes/backdrop4.png", {
+      new Costume("backdrop4", "./costumes/backdrop4.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop5", "./Stage/costumes/backdrop5.png", {
+      new Costume("backdrop5", "./costumes/backdrop5.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop10", "./Stage/costumes/backdrop10.png", {
+      new Costume("backdrop10", "./costumes/backdrop10.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop6", "./Stage/costumes/backdrop6.png", {
+      new Costume("backdrop6", "./costumes/backdrop6.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop7", "./Stage/costumes/backdrop7.png", {
+      new Costume("backdrop7", "./costumes/backdrop7.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop8", "./Stage/costumes/backdrop8.png", {
+      new Costume("backdrop8", "./costumes/backdrop8.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop9", "./Stage/costumes/backdrop9.png", {
+      new Costume("backdrop9", "./costumes/backdrop9.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop11", "./Stage/costumes/backdrop11.png", {
+      new Costume("backdrop11", "./costumes/backdrop11.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop12", "./Stage/costumes/backdrop12.png", {
+      new Costume("backdrop12", "./costumes/backdrop12.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop13", "./Stage/costumes/backdrop13.png", {
+      new Costume("backdrop13", "./costumes/backdrop13.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop14", "./Stage/costumes/backdrop14.png", {
+      new Costume("backdrop14", "./costumes/backdrop14.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop15", "./Stage/costumes/backdrop15.png", {
+      new Costume("backdrop15", "./costumes/backdrop15.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop16", "./Stage/costumes/backdrop16.png", {
+      new Costume("backdrop16", "./costumes/backdrop16.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop17", "./Stage/costumes/backdrop17.png", {
+      new Costume("backdrop17", "./costumes/backdrop17.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop18", "./Stage/costumes/backdrop18.png", {
+      new Costume("backdrop18", "./costumes/backdrop18.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop19", "./Stage/costumes/backdrop19.png", {
+      new Costume("backdrop19", "./costumes/backdrop19.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop20", "./Stage/costumes/backdrop20.png", {
+      new Costume("backdrop20", "./costumes/backdrop20.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop21", "./Stage/costumes/backdrop21.png", {
+      new Costume("backdrop21", "./costumes/backdrop21.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop22", "./Stage/costumes/backdrop22.png", {
+      new Costume("backdrop22", "./costumes/backdrop22.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop23", "./Stage/costumes/backdrop23.png", {
+      new Costume("backdrop23", "./costumes/backdrop23.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop24", "./Stage/costumes/backdrop24.png", {
+      new Costume("backdrop24", "./costumes/backdrop24.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop25", "./Stage/costumes/backdrop25.png", {
+      new Costume("backdrop25", "./costumes/backdrop25.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop26", "./Stage/costumes/backdrop26.png", {
+      new Costume("backdrop26", "./costumes/backdrop26.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop27", "./Stage/costumes/backdrop27.png", {
+      new Costume("backdrop27", "./costumes/backdrop27.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop28", "./Stage/costumes/backdrop28.png", {
+      new Costume("backdrop28", "./costumes/backdrop28.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop29", "./Stage/costumes/backdrop29.png", {
+      new Costume("backdrop29", "./costumes/backdrop29.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop30", "./Stage/costumes/backdrop30.png", {
+      new Costume("backdrop30", "./costumes/backdrop30.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop31", "./Stage/costumes/backdrop31.png", {
+      new Costume("backdrop31", "./costumes/backdrop31.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop32", "./Stage/costumes/backdrop32.png", {
+      new Costume("backdrop32", "./costumes/backdrop32.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop33", "./Stage/costumes/backdrop33.png", {
+      new Costume("backdrop33", "./costumes/backdrop33.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop34", "./Stage/costumes/backdrop34.png", {
+      new Costume("backdrop34", "./costumes/backdrop34.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop35", "./Stage/costumes/backdrop35.png", {
+      new Costume("backdrop35", "./costumes/backdrop35.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop36", "./Stage/costumes/backdrop36.png", {
+      new Costume("backdrop36", "./costumes/backdrop36.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop37", "./Stage/costumes/backdrop37.png", {
+      new Costume("backdrop37", "./costumes/backdrop37.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop38", "./Stage/costumes/backdrop38.png", {
+      new Costume("backdrop38", "./costumes/backdrop38.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop39", "./Stage/costumes/backdrop39.png", {
+      new Costume("backdrop39", "./costumes/backdrop39.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop40", "./Stage/costumes/backdrop40.png", {
+      new Costume("backdrop40", "./costumes/backdrop40.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop41", "./Stage/costumes/backdrop41.png", {
+      new Costume("backdrop41", "./costumes/backdrop41.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop42", "./Stage/costumes/backdrop42.png", {
+      new Costume("backdrop42", "./costumes/backdrop42.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop43", "./Stage/costumes/backdrop43.png", {
+      new Costume("backdrop43", "./costumes/backdrop43.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop44", "./Stage/costumes/backdrop44.png", {
+      new Costume("backdrop44", "./costumes/backdrop44.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop45", "./Stage/costumes/backdrop45.png", {
+      new Costume("backdrop45", "./costumes/backdrop45.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop46", "./Stage/costumes/backdrop46.png", {
+      new Costume("backdrop46", "./costumes/backdrop46.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop47", "./Stage/costumes/backdrop47.png", {
+      new Costume("backdrop47", "./costumes/backdrop47.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop48", "./Stage/costumes/backdrop48.png", {
+      new Costume("backdrop48", "./costumes/backdrop48.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop49", "./Stage/costumes/backdrop49.png", {
+      new Costume("backdrop49", "./costumes/backdrop49.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop50", "./Stage/costumes/backdrop50.png", {
+      new Costume("backdrop50", "./costumes/backdrop50.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop51", "./Stage/costumes/backdrop51.png", {
+      new Costume("backdrop51", "./costumes/backdrop51.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop52", "./Stage/costumes/backdrop52.png", {
+      new Costume("backdrop52", "./costumes/backdrop52.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop53", "./Stage/costumes/backdrop53.png", {
+      new Costume("backdrop53", "./costumes/backdrop53.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop54", "./Stage/costumes/backdrop54.png", {
+      new Costume("backdrop54", "./costumes/backdrop54.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop55", "./Stage/costumes/backdrop55.png", {
+      new Costume("backdrop55", "./costumes/backdrop55.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop56", "./Stage/costumes/backdrop56.png", {
+      new Costume("backdrop56", "./costumes/backdrop56.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop57", "./Stage/costumes/backdrop57.png", {
+      new Costume("backdrop57", "./costumes/backdrop57.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop58", "./Stage/costumes/backdrop58.png", {
+      new Costume("backdrop58", "./costumes/backdrop58.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop59", "./Stage/costumes/backdrop59.png", {
+      new Costume("backdrop59", "./costumes/backdrop59.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop60", "./Stage/costumes/backdrop60.png", {
+      new Costume("backdrop60", "./costumes/backdrop60.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop61", "./Stage/costumes/backdrop61.png", {
+      new Costume("backdrop61", "./costumes/backdrop61.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop62", "./Stage/costumes/backdrop62.png", {
+      new Costume("backdrop62", "./costumes/backdrop62.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop63", "./Stage/costumes/backdrop63.png", {
+      new Costume("backdrop63", "./costumes/backdrop63.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop64", "./Stage/costumes/backdrop64.png", {
+      new Costume("backdrop64", "./costumes/backdrop64.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop65", "./Stage/costumes/backdrop65.png", {
+      new Costume("backdrop65", "./costumes/backdrop65.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop66", "./Stage/costumes/backdrop66.png", {
+      new Costume("backdrop66", "./costumes/backdrop66.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop67", "./Stage/costumes/backdrop67.png", {
+      new Costume("backdrop67", "./costumes/backdrop67.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop68", "./Stage/costumes/backdrop68.png", {
+      new Costume("backdrop68", "./costumes/backdrop68.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop69", "./Stage/costumes/backdrop69.png", {
+      new Costume("backdrop69", "./costumes/backdrop69.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop70", "./Stage/costumes/backdrop70.png", {
+      new Costume("backdrop70", "./costumes/backdrop70.png", {
         x: 480,
         y: 360,
       }),
-      new Costume("backdrop71", "./Stage/costumes/backdrop71.png", {
+      new Costume("backdrop71", "./costumes/backdrop71.png", {
         x: 480,
         y: 360,
       }),
     ];
 
     this.sounds = [
-      new Sound("Tower", "./Stage/sounds/Tower.wav"),
-      new Sound("Tower 2", "./Stage/sounds/Tower 2.wav"),
-      new Sound("Tower 3", "./Stage/sounds/Tower 3.wav"),
+      new Sound("Tower", "./sounds/Tower.wav"),
+      new Sound("Tower 2", "./sounds/Tower 2.wav"),
+      new Sound("Tower 3", "./sounds/Tower 3.wav"),
     ];
 
     this.triggers = [

@@ -12,21 +12,21 @@ export default class Sprite25 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./Sprite25/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 480,
         y: 278,
       }),
-      new Costume("costume2", "./Sprite25/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 480,
         y: 278,
       }),
-      new Costume("costume3", "./Sprite25/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 480,
         y: 276,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./Sprite25/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

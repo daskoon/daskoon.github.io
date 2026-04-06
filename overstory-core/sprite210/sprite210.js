@@ -12,28 +12,28 @@ export default class Sprite210 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume2 3", "./sprite210/costumes/costume2 3.png", {
+      new Costume("costume2 3", "./costumes/costume2 3.png", {
         x: 47,
         y: 89,
       }),
-      new Costume("costume4", "./sprite210/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 38,
         y: 93,
       }),
-      new Costume("costume2", "./sprite210/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 55,
         y: 131,
       }),
-      new Costume("costume1", "./sprite210/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 79,
         y: 48,
       }),
     ];
 
     this.sounds = [
-      new Sound("pop", "./sprite210/sounds/pop.wav"),
-      new Sound("Fobert Battle", "./sprite210/sounds/Fobert Battle.wav"),
-      new Sound("Fobert Battle2", "./sprite210/sounds/Fobert Battle2.wav"),
+      new Sound("pop", "./sounds/pop.wav"),
+      new Sound("Fobert Battle", "./sounds/Fobert Battle.wav"),
+      new Sound("Fobert Battle2", "./sounds/Fobert Battle2.wav"),
     ];
 
     this.triggers = [

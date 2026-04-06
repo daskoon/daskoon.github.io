@@ -12,27 +12,27 @@ export default class Sprite93 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./sprite93/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 15,
         y: 11,
       }),
-      new Costume("costume3", "./sprite93/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 28,
         y: 26,
       }),
-      new Costume("costume2", "./sprite93/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 29,
         y: 23,
       }),
-      new Costume("costume4", "./sprite93/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 28,
         y: 26,
       }),
     ];
 
     this.sounds = [
-      new Sound("pop", "./sprite93/sounds/pop.wav"),
-      new Sound("savepoint", "./sprite93/sounds/savepoint.mp3"),
+      new Sound("pop", "./sounds/pop.wav"),
+      new Sound("savepoint", "./sounds/savepoint.mp3"),
     ];
 
     this.triggers = [

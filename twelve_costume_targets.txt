@@ -1,0 +1,1 @@
+{"player": ["costume1", "costume2", "costume3", "costume4", "costume5", "costume6", "costume7", "costume8", "costume9", "costume10", "costume11", "costume12"]}

@@ -12,66 +12,66 @@ export default class Sprite49 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./Sprite49/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume2", "./Sprite49/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume3", "./Sprite49/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume4", "./Sprite49/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume5", "./Sprite49/costumes/costume5.png", {
+      new Costume("costume5", "./costumes/costume5.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume6", "./Sprite49/costumes/costume6.png", {
+      new Costume("costume6", "./costumes/costume6.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume7", "./Sprite49/costumes/costume7.png", {
+      new Costume("costume7", "./costumes/costume7.png", {
         x: 15,
         y: 45,
       }),
-      new Costume("costume8", "./Sprite49/costumes/costume8.png", {
+      new Costume("costume8", "./costumes/costume8.png", {
         x: 30,
         y: 58,
       }),
-      new Costume("costume9", "./Sprite49/costumes/costume9.png", {
+      new Costume("costume9", "./costumes/costume9.png", {
         x: 30,
         y: 38,
       }),
-      new Costume("costume10", "./Sprite49/costumes/costume10.png", {
+      new Costume("costume10", "./costumes/costume10.png", {
         x: 30,
         y: 83,
       }),
-      new Costume("costume11", "./Sprite49/costumes/costume11.png", {
+      new Costume("costume11", "./costumes/costume11.png", {
         x: 28,
         y: 58,
       }),
-      new Costume("costume12", "./Sprite49/costumes/costume12.png", {
+      new Costume("costume12", "./costumes/costume12.png", {
         x: 28,
         y: 38,
       }),
-      new Costume("costume13", "./Sprite49/costumes/costume13.png", {
+      new Costume("costume13", "./costumes/costume13.png", {
         x: 31,
         y: 79,
       }),
     ];
 
     this.sounds = [
-      new Sound("Impact", "./Sprite49/sounds/Impact.wav"),
-      new Sound("THE DOOR", "./Sprite49/sounds/THE DOOR.wav"),
-      new Sound("Knock", "./Sprite49/sounds/Knock.wav"),
-      new Sound("Change", "./Sprite49/sounds/Change.wav"),
-      new Sound("sans-eye-sounds", "./Sprite49/sounds/sans-eye-sounds.wav"),
+      new Sound("Impact", "./sounds/Impact.wav"),
+      new Sound("THE DOOR", "./sounds/THE DOOR.wav"),
+      new Sound("Knock", "./sounds/Knock.wav"),
+      new Sound("Change", "./sounds/Change.wav"),
+      new Sound("sans-eye-sounds", "./sounds/sans-eye-sounds.wav"),
     ];
 
     this.triggers = [

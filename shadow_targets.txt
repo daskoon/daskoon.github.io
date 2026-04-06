@@ -1,0 +1,1 @@
+SHADOW_TARGETS:{"Shadow Zork": ["costume1", "costume2"], "Shadow Jone": ["costume1", "costume2", "costume3"]}

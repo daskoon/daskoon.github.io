@@ -12,21 +12,21 @@ export default class Bullet6 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./Bullet6/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 480,
         y: 35,
       }),
-      new Costume("costume2", "./Bullet6/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 10,
         y: 19,
       }),
-      new Costume("costume3", "./Bullet6/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 27,
         y: 20,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./Bullet6/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

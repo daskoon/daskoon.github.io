@@ -12,18 +12,18 @@ export default class attackbuttons extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./attackbuttons/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 24,
         y: 24,
       }),
     ];
 
     this.sounds = [
-      new Sound("pop", "./attackbuttons/sounds/pop.wav"),
-      new Sound("Cant Select", "./attackbuttons/sounds/Cant Select.wav"),
+      new Sound("pop", "./sounds/pop.wav"),
+      new Sound("Cant Select", "./sounds/Cant Select.wav"),
       new Sound(
         "undertale-heal-made-with-Voicemod",
-        "./attackbuttons/sounds/undertale-heal-made-with-Voicemod.mp3"
+        "./sounds/undertale-heal-made-with-Voicemod.mp3"
       ),
     ];
 

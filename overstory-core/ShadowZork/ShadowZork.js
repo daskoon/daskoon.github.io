@@ -17,11 +17,11 @@ export default class ShadowZork extends Sprite {
 
     // Initialize costumes with updated paths
     this.costumes = [
-      new Costume("costume1", "./ShadowZork/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 20,
         y: 45,
       }),
-      new Costume("costume2", "./ShadowZork/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 22,
         y: 45,
       }),
@@ -29,8 +29,8 @@ export default class ShadowZork extends Sprite {
 
     // Initialize sound effects
     this.sounds = [
-      new Sound("Shadow Zork", "./ShadowZork/sounds/Shadow Zork.wav"),
-      new Sound("Shadow Zork2", "./ShadowZork/sounds/Shadow Zork2.wav"),
+      new Sound("Shadow Zork", "./sounds/Shadow Zork.wav"),
+      new Sound("Shadow Zork2", "./sounds/Shadow Zork2.wav"),
     ];
 
     // Define triggers for game events, including room transitions and battle phases

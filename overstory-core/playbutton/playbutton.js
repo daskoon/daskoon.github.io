@@ -12,21 +12,21 @@ export default class Playbutton extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./playbutton/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 42,
         y: 43,
       }),
-      new Costume("costume2", "./playbutton/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 42,
         y: 43,
       }),
-      new Costume("costume3", "./playbutton/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 42,
         y: 43,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./playbutton/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

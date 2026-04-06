@@ -12,19 +12,19 @@ export default class Pay1000dollars extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./pay1000dollars/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 18,
         y: 23,
       }),
-      new Costume("costume2", "./pay1000dollars/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 18,
         y: 18,
       }),
     ];
 
     this.sounds = [
-      new Sound("pop", "./pay1000dollars/sounds/pop.wav"),
-      new Sound("Buttonpush", "./pay1000dollars/sounds/Buttonpush.wav"),
+      new Sound("pop", "./sounds/pop.wav"),
+      new Sound("Buttonpush", "./sounds/Buttonpush.wav"),
     ];
 
     this.triggers = [

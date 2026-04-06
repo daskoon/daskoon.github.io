@@ -12,17 +12,17 @@ export default class Purple extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./purple/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 29,
         y: 41,
       }),
-      new Costume("costume3", "./purple/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 29,
         y: 41,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./purple/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

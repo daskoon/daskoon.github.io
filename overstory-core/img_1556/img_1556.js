@@ -12,37 +12,37 @@ export default class Img_1556 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./img_1556/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 14,
         y: 7,
       }),
-      new Costume("costume2", "./img_1556/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 14,
         y: 26,
       }),
-      new Costume("costume3", "./img_1556/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 14,
         y: 40,
       }),
-      new Costume("costume4", "./img_1556/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 14,
         y: 53,
       }),
-      new Costume("costume5", "./img_1556/costumes/costume5.png", {
+      new Costume("costume5", "./costumes/costume5.png", {
         x: 14,
         y: 55,
       }),
-      new Costume("costume6", "./img_1556/costumes/costume6.png", {
+      new Costume("costume6", "./costumes/costume6.png", {
         x: 14,
         y: 55,
       }),
-      new Costume("costume7", "./img_1556/costumes/costume7.png", {
+      new Costume("costume7", "./costumes/costume7.png", {
         x: 14,
         y: 55,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./img_1556/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

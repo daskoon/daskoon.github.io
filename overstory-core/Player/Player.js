@@ -19,58 +19,58 @@ export default class Player extends Sprite {
 
     // Initializing all player costumes (facing directions and battle poses)
     this.costumes = [
-      new Costume("costume1", "./Player/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 21,
         y: 38,
       }),
-      new Costume("costume2", "./Player/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 21,
         y: 38,
       }),
-      new Costume("costume3", "./Player/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 21,
         y: 38,
       }),
-      new Costume("costume4", "./Player/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 21,
         y: 38,
       }),
-      new Costume("costume5", "./Player/costumes/costume5.png", {
+      new Costume("costume5", "./costumes/costume5.png", {
         x: 34,
         y: 38,
       }),
-      new Costume("costume6", "./Player/costumes/costume6.png", {
+      new Costume("costume6", "./costumes/costume6.png", {
         x: 16,
         y: 38,
       }),
-      new Costume("costume7", "./Player/costumes/costume7.png", {
+      new Costume("costume7", "./costumes/costume7.png", {
         x: 25,
         y: 38,
       }),
-      new Costume("costume8", "./Player/costumes/costume8.png", {
+      new Costume("costume8", "./costumes/costume8.png", {
         x: 21,
         y: 38,
       }),
-      new Costume("costume9", "./Player/costumes/costume9.png", {
+      new Costume("costume9", "./costumes/costume9.png", {
         x: 21,
         y: 38,
       }),
-      new Costume("costume10", "./Player/costumes/costume10.png", {
+      new Costume("costume10", "./costumes/costume10.png", {
         x: 21,
         y: 38,
       }),
-      new Costume("costume11", "./Player/costumes/costume11.png", {
+      new Costume("costume11", "./costumes/costume11.png", {
         x: 25,
         y: 38,
       }),
-      new Costume("costume12", "./Player/costumes/costume12.png", {
+      new Costume("costume12", "./costumes/costume12.png", {
         x: 21,
         y: 38,
       }),
     ];
 
     // Basic player sound effects
-    this.sounds = [new Sound("pop", "./Player/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     // Comprehensive list of triggers for directional inputs and game room transitions
     this.triggers = [

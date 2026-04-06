@@ -12,21 +12,21 @@ export default class Cutesyarmorshop extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./cutesyarmorshop/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 187,
         y: 158,
       }),
-      new Costume("costume2", "./cutesyarmorshop/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 20,
         y: 17,
       }),
-      new Costume("costume3", "./cutesyarmorshop/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 50,
         y: 49,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./cutesyarmorshop/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

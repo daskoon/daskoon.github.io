@@ -12,37 +12,37 @@ export default class Sprite235 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume2", "./Sprite235/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 57,
         y: 37,
       }),
-      new Costume("costume3", "./Sprite235/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 11,
         y: 33,
       }),
-      new Costume("costume4", "./Sprite235/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 58,
         y: 37,
       }),
-      new Costume("costume1", "./Sprite235/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 11,
         y: 33,
       }),
-      new Costume("costume5", "./Sprite235/costumes/costume5.png", {
+      new Costume("costume5", "./costumes/costume5.png", {
         x: 57,
         y: 37,
       }),
-      new Costume("costume6", "./Sprite235/costumes/costume6.png", {
+      new Costume("costume6", "./costumes/costume6.png", {
         x: 20,
         y: -2,
       }),
     ];
 
     this.sounds = [
-      new Sound("Threatening Look", "./Sprite235/sounds/Threatening Look.wav"),
+      new Sound("Threatening Look", "./sounds/Threatening Look.wav"),
       new Sound(
         "Earthbound Like Song",
-        "./Sprite235/sounds/Earthbound Like Song.wav"
+        "./sounds/Earthbound Like Song.wav"
       ),
     ];
 

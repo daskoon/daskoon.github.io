@@ -12,17 +12,17 @@ export default class Bullet4 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume2", "./Bullet4/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 19,
         y: 40,
       }),
-      new Costume("costume3", "./Bullet4/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 18,
         y: 29,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./Bullet4/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),

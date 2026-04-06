@@ -12,19 +12,19 @@ export default class Sprite20 extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./Sprite20/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 12,
         y: 10,
       }),
-      new Costume("costume2", "./Sprite20/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 12,
         y: 10,
       }),
-      new Costume("costume3", "./Sprite20/costumes/costume3.png", {
+      new Costume("costume3", "./costumes/costume3.png", {
         x: 12,
         y: 10,
       }),
-      new Costume("costume4", "./Sprite20/costumes/costume4.png", {
+      new Costume("costume4", "./costumes/costume4.png", {
         x: 12,
         y: 10,
       }),
@@ -33,7 +33,7 @@ export default class Sprite20 extends Sprite {
     this.sounds = [
       new Sound(
         "undertale-damage-taken",
-        "./Sprite20/sounds/undertale-damage-taken.mp3"
+        "./sounds/undertale-damage-taken.mp3"
       ),
     ];
 

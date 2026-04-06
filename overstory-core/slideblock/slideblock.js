@@ -12,19 +12,19 @@ export default class Slideblock extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./slideblock/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 18,
         y: 23,
       }),
-      new Costume("costume2", "./slideblock/costumes/costume2.png", {
+      new Costume("costume2", "./costumes/costume2.png", {
         x: 18,
         y: 18,
       }),
     ];
 
     this.sounds = [
-      new Sound("pop", "./slideblock/sounds/pop.wav"),
-      new Sound("Buttonpush", "./slideblock/sounds/Buttonpush.wav"),
+      new Sound("pop", "./sounds/pop.wav"),
+      new Sound("Buttonpush", "./sounds/Buttonpush.wav"),
     ];
 
     this.triggers = [

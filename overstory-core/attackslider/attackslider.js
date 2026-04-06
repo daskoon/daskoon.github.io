@@ -12,13 +12,13 @@ export default class Attackslider extends Sprite {
     super(...args);
 
     this.costumes = [
-      new Costume("costume1", "./attackslider/costumes/costume1.png", {
+      new Costume("costume1", "./costumes/costume1.png", {
         x: 37,
         y: 28,
       }),
     ];
 
-    this.sounds = [new Sound("pop", "./attackslider/sounds/pop.wav")];
+    this.sounds = [new Sound("pop", "./sounds/pop.wav")];
 
     this.triggers = [
       new Trigger(Trigger.GREEN_FLAG, this.whenGreenFlagClicked),
